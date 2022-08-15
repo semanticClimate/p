@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: ""
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "First season of Climate Knowledge Hunt on 24th September 2022",
+    title: "Climate Knowledge Hunt, Season 01 on 24th September 2022",
     description: "to join us!",
     reglink: "reglink"
   }
