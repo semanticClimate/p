@@ -24,6 +24,9 @@ eleventyNavigation:
       {% endif %}
     </h1>
     <p class="hero__description">
+      {% if site.hero.reglink %}
+        <a href = {{site.hero.reglink}}> Register</a>
+      {%endif%}
       {% if site.hero.description %}
         {{ site.hero.description }}
       {% else %}
@@ -33,7 +36,7 @@ eleventyNavigation:
   </div>
 
   <h2 class="section-title">
-    Latest Posts
+    Guide and Tutorials
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
   </h2>
   {% include "components/postslist.njk" %}
