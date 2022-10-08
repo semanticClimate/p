@@ -1,7 +1,7 @@
 module.exports = {
   meta: {
-    title: "Climate Knowledge Hunt",
-    description: "Hackathon to make sense of climate literature",
+    title: "SemanticClimate",
+    description: "Liberating knowledge from climate-related reports",
     lang: "en",
     siteUrl: "https://climate-knowledge-hunt.netlify.app/",
   },
@@ -14,8 +14,7 @@ module.exports = {
     authorEmail: ""
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Climate Knowledge Hunt, Season 01 on 24th September 2022",
-    description: "to join us!",
-    reglink: "reglink"
+    title: "Semantic Climate",
+    description: "",
   }
 }
