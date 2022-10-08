@@ -1,7 +1,7 @@
 ---
 title: Async Hackathon at Open Access Week
 date: 2022-10-08
-description: Read this before delving into guides and tutorials
+description: 
 tags:
   - semanticclimate
   - outreach
