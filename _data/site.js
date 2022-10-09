@@ -5,6 +5,12 @@ module.exports = {
     lang: "en",
     siteUrl: "https://semanticclimate.netlify.app/",
   },
+  homepage: {
+    sectionHeading1: "What's #semanticClimate?",
+    description1: "We are a team of young Indian scientists (link the about and team page)",
+    sectionHeading2: "Events",
+    description2: "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is. (link to events page)"
+  },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
     filename: "atom.xml",
