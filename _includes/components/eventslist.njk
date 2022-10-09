@@ -1,0 +1,35 @@
+<section>
+
+    {% for post in postslist %}
+        <article >
+            <h3>
+                <a href="{{ post.url | url }}">
+                    {% if post.data.title %}
+                        {{ post.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h3>
+            <p>
+                <time>
+                    {{ post.date | readableDate }}
+
+                </time>
+            </p>
+            {% if post.data.description %}
+                <p class="text-lg text-gray-500 mb-3">
+                    {{ post.data.description }}
+                </p>
+            {% endif %}
+
+            <p>
+                <a href="{{ post.url | url }}" >
+                    Register →
+                </a>
+            </p>
+
+        </article>
+        <br>
+    {% endfor %}
+</section>

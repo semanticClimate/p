@@ -3,11 +3,7 @@ title: Events
 description: We are always hosting or participants in events!
 layout: layouts/post.njk
 hideTagsList: true
-eleventyNavigation:
-  key: Events
-  weight: 4
 ---
-
 ## Upcoming Events
 Listed are the events that we are either hosting or being a part of. Most are open to anybody to register, some may be internal. 
 ### Half Day CobLet2022 Asia Pacific Workshop (closed)
