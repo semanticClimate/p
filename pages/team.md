@@ -5,7 +5,12 @@ layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
   key: Team
-  weight: 4
+  weight: 3
 ---
-### Developers
-### Volunteers
+## Developers
+
+- put some names here
+
+## Volunteers
+
+- put some names here
