@@ -5,7 +5,7 @@ layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
   key: Events
-  weight: 5
+  weight: 4
 ---
 
 ## Upcoming Events
