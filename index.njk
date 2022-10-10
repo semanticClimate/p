@@ -22,6 +22,7 @@ eleventyNavigation:
       {% else %}
         {{ site.meta.title }}
       {% endif %}
+      
     </h1>
     <p class="hero__description">
       {% if site.hero.reglink %}
@@ -33,6 +34,7 @@ eleventyNavigation:
         {{ site.meta.description }}
       {% endif %}
     </p>
+      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/pages/about/' | url }}" class="action learn">Learn more →</a></p>
   </div>
   </div>
   
