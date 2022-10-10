@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Homepage | #semanticClimate</title>
+  <meta name="description" content="Liberating knowledge from climate-related reports">
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/static/css/main.css" media="all">
+  <link rel="stylesheet" href="/static/css/overrides.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/">#semanticClimate</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link navbar__link--active" href="/">
+          Home
+        </a>
+        <a class="navbar__link " href="/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/pages/faq/">
+          FAQ
+        </a>
+        <a class="navbar__link " href="/pages/programme/">
+          Events
+        </a>
+        <a class="navbar__link " href="/pages/team/">
+          Team
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link navbar__mobile-link--active" href="/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/pages/faq/">
+        FAQ
+      </a>
+      <a class="navbar__mobile-link " href="/pages/programme/">
+        Events
+      </a>
+      <a class="navbar__mobile-link " href="/pages/team/">
+        Team
+      </a>
+  </div>
+
+</nav>
+
+  
+  <div class="hero">
+  <div class="container">
+    <h1>
+      
+        
+        #semanticClimate
+      
+    </h1>
+    <p class="hero__description">
+      
+      
+        Liberating knowledge from climate-related reports
+      
+    </p>
+  </div>
+  </div>
+  
+<div class="container">
+
+  <h2 class="section-title">
+    Current Event: Open Access Week 2022
+  </h2>
+  <div class="card-grid">
+  
+    <div class="card">
+      <h3 class="card__title">
+        <a href="/posts/oa_week_2022/">Async Hackathon at Open Access Week</a>
+      </h3>
+      <p class="card__date">08 Oct, 2022</p>
+      <p class="card__description"></p>
+      <p class="card__subtitle">Tags:</p>
+      <div class="card__tags">
+        
+          
+        
+          
+            <a href="/tags/semanticclimate">semanticclimate</a>, 
+          
+        
+          
+            <a href="/tags/outreach">outreach</a>
+          
+        
+      </div>
+    </div>
+  
+    <div class="card">
+      <h3 class="card__title">
+        <a href="/posts/program-overview/">Overview of Programme</a>
+      </h3>
+      <p class="card__date">15 Aug, 2022</p>
+      <p class="card__description">Read this before delving into guides and tutorials</p>
+      <p class="card__subtitle">Tags:</p>
+      <div class="card__tags">
+        
+          
+        
+          
+            <a href="/tags/semanticclimate">semanticclimate</a>
+          
+        
+      </div>
+    </div>
+  
+    <div class="card">
+      <h3 class="card__title">
+        <a href="/posts/getting-started/">(1/6) Getting Started -- Creating Accounts and Zoom links</a>
+      </h3>
+      <p class="card__date">15 Aug, 2022</p>
+      <p class="card__description">GitHub and Google</p>
+      <p class="card__subtitle">Tags:</p>
+      <div class="card__tags">
+        
+          
+        
+          
+            <a href="/tags/github">GitHub</a>
+          
+        
+      </div>
+    </div>
+  
+</div>
+
+  <div class="pagination">
+      
+      
+  </div>
+  <br>
+  <h2 class="section-title">
+     What&#39;s #semanticClimate?
+  </h2>
+  <p> We are a team of... (link the about and team page)</p>
+  <br>
+  <h2 class="section-title">
+     Events
+  </h2>
+  <p> #semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is. (link to events page)</p>
+</div>
+
+
+  <footer class="footer">
+  <p>Follow us on <a href = "https://github.com/petermr/semanticClimate"> GitHub </a></p>
+</footer>
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

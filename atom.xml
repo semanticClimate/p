@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>#semanticClimate</title>
+	<subtitle>Liberating knowledge from climate-related reports</subtitle>
+	
+	<link href="/atom.xml" rel="self"/>
+	<link href=""/>
+	<updated>2022-10-10T04:44:23Z</updated>
+	<id>https://semanticclimate.netlify.app/</id>
+	<author>
+		<name>Semantic Climate</name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>Async Hackathon at Open Access Week</title>
+		<link href="/posts/oa_week_2022/"/>
+		<updated>2022-10-08T00:00:00Z</updated>
+		<id>/posts/oa_week_2022/</id>
+		<content type="html">&lt;h2&gt;OA Week hackathon 2022&lt;/h2&gt;
+&lt;p&gt;Axel Duerkop suggested that the &lt;code&gt;semanticClimate&lt;/code&gt; community creates an activity for OpenAccess week,
+a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,
+asynchronous hack-project, based on the IPCC AR6 ClimateChange reports, with a tested modular structure
+that is easy to take part in, contributes to global knowledge on climate and is inclusive.
+It&#39;s a great learning opportunity both for climate and OpenReading/OpenReuse technology.&lt;/p&gt;
+&lt;h2&gt;structure of IPCC and our motivation&lt;/h2&gt;
+&lt;p&gt;The IPCC report is broken into 3 working groups (details), each of which has 15-20 Chapters. In total
+it&#39;s about 10,000 pages of PDF, difficult to read, even for experts and in a limited number of languages
+(often only EN). There&#39;s a lot of Jargon, 15,000 references  which complicate reading and navigation is hard.
+We can make this semantic (i.e. machines can understand it), so a wide variety of re-use is possible.&lt;/p&gt;
+&lt;h2&gt;what #semanticClimate adds&lt;/h2&gt;
+&lt;p&gt;Taking a Chapter, our (Open) tools convert it to HTML in smaller sections (e.g. Introduction, Sections, Executive summaries,
+Figure Captions, References). These can be studied individually or omitted (not everyone needs the References,
+some like to look at Figures). Then you can add meaning (ontology) through Wikidata (the Open collection of 100 million metadata
+and data items). For example you can automatically find the named cities and do geocoordinate-based search and
+analysis, plot maps, etc.&lt;/p&gt;
+&lt;p&gt;The IPCC report contains huge amounts of useful data and metadata. It&#39;s often useful to &amp;quot;chunk&amp;quot; this, so we
+can create a dictionary for each chapter (e.g. Emissions, Agriculture, Urban). Using these dictionaries
+you can &lt;em&gt;annotate&lt;/em&gt; the original text and bring it to interactive life - for example hyperlinks to wikidata, or
+co-occurrence of terms in text. You can also use our tools to create indexes for chapters.&lt;/p&gt;
+&lt;h2&gt;the basic hackathon structure and goals&lt;/h2&gt;
+&lt;p&gt;Because people are distributed over time and space we recoomand a basic activity/template which doesn&#39;t
+require interactive coordination. We are used to Github tools for sharing discussion, and we&#39;ve set out a self-paced
+plan based on converting a single Chapter (there are 50 to choose from!).&lt;/p&gt;
+&lt;h3&gt;what you need&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;enthusiasm. That&#39;s really the only requirement. Continued occasional activity over a week is very useful&lt;/li&gt;
+&lt;li&gt;organization. It helps if material is well organized and can be discovered through links.&lt;/li&gt;
+&lt;li&gt;experimental. We&#39;ll all be doing new things and often they won&#39;t work first time.&lt;/li&gt;
+&lt;li&gt;collaboration. Very valuable.&lt;/li&gt;
+&lt;li&gt;documentation. Clear outputs that help others. We are very keen to see languages other that EN, and links to Wikidata. Useful to know how to use a text editor rather than Word.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;valuable if you have them&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Wikidata&lt;/li&gt;
+&lt;li&gt;Climate (science, politics, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;coordination&lt;/h3&gt;
+&lt;p&gt;You may already have a real-life team and this should work well. Choose an interesting Chapter and post which and
+who you are. (All activity is fully OpenNotebook Science). Record your progress on our Github (we&#39;ll give permissions)&lt;/p&gt;
+&lt;h3&gt;template&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;clone https://github.com/petermr/semanticClimate&lt;/li&gt;
+&lt;li&gt;copy your chapter to .../semanticClimate/ipcc/ar6/wg3&lt;/li&gt;
+&lt;li&gt;run script or notebook to:
+&lt;ul&gt;
+&lt;li&gt;add Chapter to CProject (corpus)&lt;/li&gt;
+&lt;li&gt;convert PDF to HTML&lt;/li&gt;
+&lt;li&gt;extract words&lt;/li&gt;
+&lt;li&gt;create chapter-dictionary&lt;/li&gt;
+&lt;li&gt;add Wikidata links if missing&lt;/li&gt;
+&lt;li&gt;annotate chapter
+This will be the basic activity. Some may find it useful to work in teams. We&#39;ll coordinate people who are looking for
+partners/Chapters&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If during the week we have N groups and they have each created a semantic Chapter, dictionaries and annotation
+that will be a great uccess.&lt;/p&gt;
+&lt;h3&gt;extensions&lt;/h3&gt;
+&lt;p&gt;There are a huge number of things that can be done with semantic material. We welcome hackers who want to explore this.&lt;/p&gt;
+&lt;h2&gt;Hackathon material&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;wg3/&quot;&gt;Details of IPCC/AR6/WG3 organized by chapters&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Overview of Programme</title>
+		<link href="/posts/program-overview/"/>
+		<updated>2022-08-15T00:00:00Z</updated>
+		<id>/posts/program-overview/</id>
+		<content type="html">&lt;h3&gt;Overview of Programme&lt;/h3&gt;
+&lt;h4&gt;Why are we doing this?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;the climate crisis (very brief)&lt;/li&gt;
+&lt;li&gt;IPCC reports (what they are, what they look like)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;What we are going to do&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;the programme&lt;/li&gt;
+&lt;li&gt;breakout strategy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;The technology&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Zoom&lt;/li&gt;
+&lt;li&gt;breakouts and discussions
+-Etherpad for communal ideas and recording&lt;/li&gt;
+&lt;li&gt;Jupyter Notebook / Google Colabs&lt;/li&gt;
+&lt;li&gt;commandline&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;running programs&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>(1/6) Getting Started -- Creating Accounts and Zoom links</title>
+		<link href="/posts/getting-started/"/>
+		<updated>2022-08-15T00:00:00Z</updated>
+		<id>/posts/getting-started/</id>
+		<content type="html">&lt;p&gt;A GitHub and Google Account is essential to work during the hackathon.&lt;/p&gt;
+&lt;h3&gt;GitHub Account&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;a href=&quot;https://github.com/&quot;&gt;github.com&lt;/a&gt; and sign up&lt;/li&gt;
+&lt;li&gt;Say &amp;quot;Hi!&amp;quot; in this discussion thread and we will add your introduction to the website.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+</feed>

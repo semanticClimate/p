@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Async Hackathon at Open Access Week | #semanticClimate</title>
+  <meta name="description" content="Liberating knowledge from climate-related reports">
+
+  <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/static/css/main.css" media="all">
+  <link rel="stylesheet" href="/static/css/overrides.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/">#semanticClimate</a>
+
+    <div class="navbar__mobile-options">
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="navbar__link " href="/">
+          Home
+        </a>
+        <a class="navbar__link " href="/pages/about/">
+          About
+        </a>
+        <a class="navbar__link " href="/pages/faq/">
+          FAQ
+        </a>
+        <a class="navbar__link " href="/pages/programme/">
+          Events
+        </a>
+        <a class="navbar__link " href="/pages/team/">
+          Team
+        </a>
+
+      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
+        <img src="/static/img/moon.svg" alt="">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/pages/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/pages/faq/">
+        FAQ
+      </a>
+      <a class="navbar__mobile-link " href="/pages/programme/">
+        Events
+      </a>
+      <a class="navbar__mobile-link " href="/pages/team/">
+        Team
+      </a>
+  </div>
+
+</nav>
+
+  
+<div class="container">
+  <h1>Async Hackathon at Open Access Week</h1>
+  <h2>OA Week hackathon 2022</h2>
+<p>Axel Duerkop suggested that the <code>semanticClimate</code> community creates an activity for OpenAccess week,
+a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,
+asynchronous hack-project, based on the IPCC AR6 ClimateChange reports, with a tested modular structure
+that is easy to take part in, contributes to global knowledge on climate and is inclusive.
+It's a great learning opportunity both for climate and OpenReading/OpenReuse technology.</p>
+<h2>structure of IPCC and our motivation</h2>
+<p>The IPCC report is broken into 3 working groups (details), each of which has 15-20 Chapters. In total
+it's about 10,000 pages of PDF, difficult to read, even for experts and in a limited number of languages
+(often only EN). There's a lot of Jargon, 15,000 references  which complicate reading and navigation is hard.
+We can make this semantic (i.e. machines can understand it), so a wide variety of re-use is possible.</p>
+<h2>what #semanticClimate adds</h2>
+<p>Taking a Chapter, our (Open) tools convert it to HTML in smaller sections (e.g. Introduction, Sections, Executive summaries,
+Figure Captions, References). These can be studied individually or omitted (not everyone needs the References,
+some like to look at Figures). Then you can add meaning (ontology) through Wikidata (the Open collection of 100 million metadata
+and data items). For example you can automatically find the named cities and do geocoordinate-based search and
+analysis, plot maps, etc.</p>
+<p>The IPCC report contains huge amounts of useful data and metadata. It's often useful to &quot;chunk&quot; this, so we
+can create a dictionary for each chapter (e.g. Emissions, Agriculture, Urban). Using these dictionaries
+you can <em>annotate</em> the original text and bring it to interactive life - for example hyperlinks to wikidata, or
+co-occurrence of terms in text. You can also use our tools to create indexes for chapters.</p>
+<h2>the basic hackathon structure and goals</h2>
+<p>Because people are distributed over time and space we recoomand a basic activity/template which doesn't
+require interactive coordination. We are used to Github tools for sharing discussion, and we've set out a self-paced
+plan based on converting a single Chapter (there are 50 to choose from!).</p>
+<h3>what you need</h3>
+<ul>
+<li>enthusiasm. That's really the only requirement. Continued occasional activity over a week is very useful</li>
+<li>organization. It helps if material is well organized and can be discovered through links.</li>
+<li>experimental. We'll all be doing new things and often they won't work first time.</li>
+<li>collaboration. Very valuable.</li>
+<li>documentation. Clear outputs that help others. We are very keen to see languages other that EN, and links to Wikidata. Useful to know how to use a text editor rather than Word.</li>
+</ul>
+<h3>valuable if you have them</h3>
+<ul>
+<li>HTML</li>
+<li>Python</li>
+<li>Wikidata</li>
+<li>Climate (science, politics, etc.)</li>
+</ul>
+<h3>coordination</h3>
+<p>You may already have a real-life team and this should work well. Choose an interesting Chapter and post which and
+who you are. (All activity is fully OpenNotebook Science). Record your progress on our Github (we'll give permissions)</p>
+<h3>template</h3>
+<ul>
+<li>clone https://github.com/petermr/semanticClimate</li>
+<li>copy your chapter to .../semanticClimate/ipcc/ar6/wg3</li>
+<li>run script or notebook to:
+<ul>
+<li>add Chapter to CProject (corpus)</li>
+<li>convert PDF to HTML</li>
+<li>extract words</li>
+<li>create chapter-dictionary</li>
+<li>add Wikidata links if missing</li>
+<li>annotate chapter
+This will be the basic activity. Some may find it useful to work in teams. We'll coordinate people who are looking for
+partners/Chapters</li>
+<li></li>
+</ul>
+</li>
+</ul>
+<p>If during the week we have N groups and they have each created a semantic Chapter, dictionaries and annotation
+that will be a great uccess.</p>
+<h3>extensions</h3>
+<p>There are a huge number of things that can be done with semantic material. We welcome hackers who want to explore this.</p>
+<h2>Hackathon material</h2>
+<p><a href="wg3/">Details of IPCC/AR6/WG3 organized by chapters</a></p>
+
+
+  <br><hr>
+  
+    <b>Tags: </b>
+    
+      
+    
+      
+        <a href="/tags/semanticclimate">semanticclimate</a>, 
+      
+    
+      
+        <a href="/tags/outreach">outreach</a>
+      
+    
+  
+  <br><br>
+  <a href="/">&larr; Back home</a>
+</div>
+
+  <footer class="footer">
+  <p>Follow us on <a href = "https://github.com/petermr/semanticClimate"> GitHub </a></p>
+</footer>
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

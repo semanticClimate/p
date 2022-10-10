@@ -1,0 +1,38 @@
+.hero {
+  margin: 0;
+  background: #a3c4f5;
+  background: url("/static/img/valery-sysoev-p9OkL4yW3C8-unsplash_cut.jpg")
+    no-repeat;
+  padding: 0;
+}
+
+body.dark a,
+.hero h1,
+.hero p {
+  color: #7ecf37;
+}
+
+a {
+  color: #61873f;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #e97b21;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #61873f;
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: #61873f;
+}
+
+h2.section-title {
+  font-size: 1.6rem;
+  color: #e97b21;
+  font-weight: normal;
+}
