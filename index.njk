@@ -51,12 +51,15 @@ eleventyNavigation:
         <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
       {% endif %}
   </div>
-  <br>
+
+  <div id="whatis">
   <h2 class="section-title">
      {{ site.homepage.sectionHeading1}}
   </h2>
-  <p> {{site.homepage.description1}}</p>
-  <br>
+  <p class="desc"> {{site.homepage.description1}}</p>
+  <p class="button-wrap"><a href="{{ '/pages/about/' | url }}" class="action">Read more →</a></p>
+  </div>
+
   <h2 class="section-title">
      {{ site.homepage.sectionHeading2}}
   </h2>
