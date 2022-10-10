@@ -7,7 +7,7 @@ tags:
   - outreach
   - notebook
 ---
-We've rendered the Colab Notebook used as a part of the Hackathon. Scroll down to see the results. 
+Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results. 
 
 <script src="https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js"></script>
 
@@ -28,7 +28,7 @@ First step in making IPCC Reports semantic is to convert dumb PDF needs to be fi
   <entry name="CSP" term="Concentrating  solar  power" wikidataID="[]"/>
   <entry name="LIBs" term="lithium-ion batteries" wikidataID="['//www.wikidata.org/wiki/Q106988181']"/>
 ```
-As an example, [www.wikidata.org/wiki/Q7915732](www.wikidata.org/wiki/Q7915732) takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: [https://en.wikipedia.org/wiki/Variable_renewable_energy](https://en.wikipedia.org/wiki/Variable_renewable_energy)
+As an example, [www.wikidata.org/wiki/Q7915732](www.wikidata.org/wiki/Q7915732) takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: [https://en.wikipedia.org/wiki/Variable_renewable_energy](https://en.wikipedia.org/wiki/Variable_renewable_energy).
 
 ### Supervised search using dictionaries from other sources
 Worcloud generated based on number of hits for terms in the dictionaries. 
