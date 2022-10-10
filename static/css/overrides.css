@@ -10,7 +10,7 @@ body.dark a,
   color: #7ecf37;
 }
 
-p {
+p, ul {
   font-size: 1.3rem;
 }
 
