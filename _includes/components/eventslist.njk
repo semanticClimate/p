@@ -24,11 +24,7 @@
                 </p>
             {% endif %}
 
-            <p>
-                <a class="action register" href="{{ post.url | url }}" >
-                    Register →
-                </a>
-            </p>
+            {% register post.url | url, "_self" %}
 
         </article>
         <br>

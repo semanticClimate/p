@@ -2,8 +2,8 @@
 title:  Cambridge MPhil Lecture Series (semi-closed)
 date: 2022-10-19
 description: Peter Murray-Rust is giving an in-person talk at Cambridge. 
+registration-link: http://www.talks.cam.ac.uk/talk/index/182303
 ---
-To register, [click here](http://www.talks.cam.ac.uk/talk/index/182303)
 ## Abstract
 Bioscience is fortunate in that the community has created a very large frictionless semantic knowledge commons for the data it creates and uses.
 - knowledge: the information is organized systematically
@@ -20,3 +20,7 @@ The system can be used for any set of documents, such as a corpus for a literatu
 Ref: [https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-tickets-414825362827 ](https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-tickets-414825362827) (run on 2022-09-24). Dr Gitanjali was a Cambridge-India Lecturer for 5 years
 
 This talk is part of the Computational and Systems Biology Seminar Series 2022 - 23 series.
+
+{% register registration-link, "_blank" %}
+
+
