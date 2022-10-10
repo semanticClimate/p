@@ -1,7 +1,9 @@
 <section>
-
-    {% for post in postslist %}
-        <article >
+    {% if page.url == "/" | url %}
+    {% set lmt = 2 %}
+    {% endif %}
+    {% for post in postslist.slice(0, lmt) %}
+        <article class="event">
             <h3>
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
@@ -14,7 +16,6 @@
             <p>
                 <time>
                     {{ post.date | readableDate }}
-
                 </time>
             </p>
             {% if post.data.description %}
@@ -24,7 +25,7 @@
             {% endif %}
 
             <p>
-                <a href="{{ post.url | url }}" >
+                <a class="action register" href="{{ post.url | url }}" >
                     Register →
                 </a>
             </p>
