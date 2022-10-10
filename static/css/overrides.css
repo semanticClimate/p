@@ -1,7 +1,7 @@
 .hero {
   margin: 0;
   background: #a3c4f5;
-  padding: 0;
+  padding: 10px 0;
 }
 
 body.dark a,
@@ -10,7 +10,8 @@ body.dark a,
   color: #7ecf37;
 }
 
-p {
+p,
+ul {
   font-size: 1.3rem;
 }
 
@@ -21,6 +22,7 @@ p {
   background: #a3c4f530;
   padding: 10px 10px;
   border-radius: 5px;
+  border: 1px solid #4d8ef0;
 }
 
 #whatis h2 {
@@ -29,8 +31,16 @@ p {
 
 /* Events  */
 
+.section-title.events a {
+  font-size: 1rem;
+}
+
 .event {
-  margin: 30px 0 15px;
+  margin: 20px 0 15px;
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 6px;
+  background: #dddddd4f;
+  padding: 10px;
 }
 
 p time {
@@ -52,7 +62,7 @@ h2 {
 }
 
 h3 {
-  font-size: 2.0rem;
+  font-size: 2rem;
   color: #61873f;
 }
 
@@ -77,6 +87,10 @@ h2.section-title {
 
 .action.register {
   background: #61873f;
+}
+
+.action.learn {
+  background: #e97b21;
 }
 
 .card__tags {

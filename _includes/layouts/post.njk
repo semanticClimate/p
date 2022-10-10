@@ -8,10 +8,11 @@ layout: layouts/base.njk
 
   <br><hr>
   {% if not hideTagsList %}
-    <b>Tags: </b>
     {% for tag in tags %}
       {% if tag != 'post' %}
+  <div class="card__tags">
         <a href="{{ '/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
+        </div>
         {%- if not loop.last %}, {% endif %}
       {% endif %}
     {% endfor %}
