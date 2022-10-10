@@ -3,9 +3,9 @@
 	<title>#semanticClimate</title>
 	<subtitle>Liberating knowledge from climate-related reports</subtitle>
 	
-	<link href="/atom.xml" rel="self"/>
+	<link href="/climate-knowledge-hunt/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-10T04:44:23Z</updated>
+	<updated>2022-10-10T05:09:23Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Async Hackathon at Open Access Week</title>
-		<link href="/posts/oa_week_2022/"/>
+		<link href="/climate-knowledge-hunt/posts/oa_week_2022/"/>
 		<updated>2022-10-08T00:00:00Z</updated>
-		<id>/posts/oa_week_2022/</id>
+		<id>/climate-knowledge-hunt/posts/oa_week_2022/</id>
 		<content type="html">&lt;h2&gt;OA Week hackathon 2022&lt;/h2&gt;
 &lt;p&gt;Axel Duerkop suggested that the &lt;code&gt;semanticClimate&lt;/code&gt; community creates an activity for OpenAccess week,
 a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,
@@ -89,9 +89,9 @@ that will be a great uccess.&lt;/p&gt;
 	
 	<entry>
 		<title>Overview of Programme</title>
-		<link href="/posts/program-overview/"/>
+		<link href="/climate-knowledge-hunt/posts/program-overview/"/>
 		<updated>2022-08-15T00:00:00Z</updated>
-		<id>/posts/program-overview/</id>
+		<id>/climate-knowledge-hunt/posts/program-overview/</id>
 		<content type="html">&lt;h3&gt;Overview of Programme&lt;/h3&gt;
 &lt;h4&gt;Why are we doing this?&lt;/h4&gt;
 &lt;ul&gt;
@@ -118,9 +118,9 @@ that will be a great uccess.&lt;/p&gt;
 	
 	<entry>
 		<title>(1/6) Getting Started -- Creating Accounts and Zoom links</title>
-		<link href="/posts/getting-started/"/>
+		<link href="/climate-knowledge-hunt/posts/getting-started/"/>
 		<updated>2022-08-15T00:00:00Z</updated>
-		<id>/posts/getting-started/</id>
+		<id>/climate-knowledge-hunt/posts/getting-started/</id>
 		<content type="html">&lt;p&gt;A GitHub and Google Account is essential to work during the hackathon.&lt;/p&gt;
 &lt;h3&gt;GitHub Account&lt;/h3&gt;
 &lt;ul&gt;
