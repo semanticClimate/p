@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/events/</loc>
+    <lastmod>2022-10-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>
@@ -42,6 +47,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/tags/event/</loc>
+    <lastmod>2022-10-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/tags/github/</loc>
     <lastmod>2022-10-10</lastmod>
   </url>
@@ -59,5 +69,25 @@
   <url>
     <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/tags/</loc>
     <lastmod>2022-10-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/events/coblet-2022/</loc>
+    <lastmod>2022-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/events/cambridge-mphil-lecture-2022/</loc>
+    <lastmod>2022-10-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/events/tdwg-2022/</loc>
+    <lastmod>2022-10-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/climate-knowledge-hunt/events/oa-week-2022/</loc>
+    <lastmod>2022-10-24</lastmod>
   </url>
 </urlset>
