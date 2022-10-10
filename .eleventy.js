@@ -24,7 +24,7 @@ module.exports = (config) => {
   // Nunjucks Shortcode
   config.addShortcode("register", function (link, target) {
     html =
-      '<p><a target=' + target + ' class="action register" href="' + link + '" >Register →</a></p>';
+      '<p class="button-wrap"><a target=' + target + ' class="action register" href="' + link + '" >Register →</a></p>';
     return html;
   });
 
