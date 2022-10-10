@@ -11,7 +11,7 @@ module.exports = {
       "We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.",
     sectionHeading2: "Events",
     description2:
-      "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is. (link to events page)",
+      "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is.",
   },
   feed: {
     // used in feed.xml.njk
