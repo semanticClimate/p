@@ -20,5 +20,9 @@ eleventyNavigation:
   <p> {{site.homepage.description2}}</p>
     {% set postslist = collections.event %}
     {% include "components/eventslist.njk" %}
+<h1>Past Events</h1>
+    {% set postslist = collections.past %}
+    {% include "components/eventslist.njk" %}
+
 </div>
 

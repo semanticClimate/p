@@ -9,7 +9,7 @@ tags:
 
 ## OA Week hackathon 2022
 
-Axel Duerkop suggested that the `semanticClimate` community creates an activity for OpenAccess week,
+Axel Durkop suggested that the `semanticClimate` community creates an activity for OpenAccess week,
 a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,
 asynchronous hack-project, based on the IPCC AR6 ClimateChange reports, with a tested modular structure
 that is easy to take part in, contributes to global knowledge on climate and is inclusive. 
