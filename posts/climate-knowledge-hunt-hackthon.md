@@ -32,7 +32,7 @@ As an example, [www.wikidata.org/wiki/Q7915732](www.wikidata.org/wiki/Q7915732) 
 
 ### Supervised search using dictionaries from other sources
 Worcloud generated based on number of hits for terms in the dictionaries. 
-<img src = '/static/img/climate_terms.png'>
+<img src = '/climate-knowledge-hunt/static/img/climate_terms.png'>
 
 ### Annotate and index HTML version of IPCC reports using [py4ami](https://github.com/petermr/pyami)
 `pyami`, using abbreviation and other climate-related dictionary can annotate the HTML version of IPCC Reports. [Click here](https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html) or check out the preview below. 
