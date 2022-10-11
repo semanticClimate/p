@@ -102,4 +102,34 @@ h2.section-title {
   color: #fff;
   padding: 3px 5px;
   border-radius: 3px;
+  line-height: 2rem;
+}
+/* Responsiveness */
+@media screen and (max-width: 520px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  h1  {
+    font-size: 2rem;
+    line-height: 2.6rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h2.section-title {
+    font-size: 2rem;
+    line-height: 2.rem;
+  }
+
+  #whatis h2 {
+    font-size: 1.4rem;
+  }
+
+  .event h3 {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
 }
