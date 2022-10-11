@@ -14,7 +14,7 @@ Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down 
 # Highlights from Notebook
 You'll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits. 
 ### Convert PDF to HTML using [`py4ami`](https://github.com/petermr/docanalysis)
-First step in making IPCC Reports semantic is to convert dumb PDF needs to be first converted to HTML. `py4ami` does the job for us. Here's the preview of converted HTML. 
+First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. `py4ami` does the job for us. Here's the preview of converted HTML. 
 <iframe src="https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html" style width=100% height=300px></iframe>
 
 ### Extract abbreviations using [`docanalysis`](https://github.com/petermr/docanalysis) and write to an ami-dictionary
@@ -35,6 +35,6 @@ Worcloud generated based on number of hits for terms in the dictionaries.
 <img src = '/climate-knowledge-hunt/static/img/climate_terms.png'>
 
 ### Annotate and index HTML version of IPCC reports using [py4ami](https://github.com/petermr/pyami)
-`pyami`, using abbreviation and other climate-related dictionary can annotate the HTML version of IPCC Reports. [Click here](https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html) or check out the preview below. 
+`pyami`, using abbreviation and other climate-related dictionary, can annotate the HTML version of IPCC Reports. [Click here](https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html) or check out the preview below. 
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html" style width=100% height=300px></ifranme>
