@@ -5,7 +5,7 @@
 	
 	<link href="/climate-knowledge-hunt/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-11T08:06:26Z</updated>
+	<updated>2022-10-11T08:19:18Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -92,7 +92,7 @@ that will be a great uccess.&lt;/p&gt;
 		<link href="/climate-knowledge-hunt/posts/climate-knowledge-hunt-hackthon/"/>
 		<updated>2022-09-24T00:00:00Z</updated>
 		<id>/climate-knowledge-hunt/posts/climate-knowledge-hunt-hackthon/</id>
-		<content type="html">&lt;p&gt;We&#39;ve rendered the Colab Notebook used as a part of the Hackathon. Scroll down to see the results.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results.&lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js&quot;&gt;&lt;/script&gt;
 &lt;h1&gt;Highlights from Notebook&lt;/h1&gt;
 &lt;p&gt;You&#39;ll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.&lt;/p&gt;
@@ -108,7 +108,7 @@ that will be a great uccess.&lt;/p&gt;
   &amp;lt;entry name=&amp;quot;CSP&amp;quot; term=&amp;quot;Concentrating  solar  power&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
   &amp;lt;entry name=&amp;quot;LIBs&amp;quot; term=&amp;quot;lithium-ion batteries&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q106988181&#39;]&amp;quot;/&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Supervised search using dictionaries from other sources&lt;/h3&gt;
 &lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
 &lt;img src=&quot;/climate-knowledge-hunt/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
