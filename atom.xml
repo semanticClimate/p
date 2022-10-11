@@ -5,7 +5,7 @@
 	
 	<link href="/climate-knowledge-hunt/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-11T07:13:14Z</updated>
+	<updated>2022-10-11T07:19:42Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -111,7 +111,7 @@ that will be a great uccess.&lt;/p&gt;
 &lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Supervised search using dictionaries from other sources&lt;/h3&gt;
 &lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
-&lt;img src=&quot;/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/climate-knowledge-hunt/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Annotate and index HTML version of IPCC reports using &lt;a href=&quot;https://github.com/petermr/pyami&quot;&gt;py4ami&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
 &lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;
