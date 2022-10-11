@@ -5,7 +5,7 @@
 	
 	<link href="/climate-knowledge-hunt/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-10T13:00:10Z</updated>
+	<updated>2022-10-11T07:13:14Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -88,45 +88,33 @@ that will be a great uccess.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Overview of Programme</title>
-		<link href="/climate-knowledge-hunt/posts/program-overview/"/>
-		<updated>2022-08-15T00:00:00Z</updated>
-		<id>/climate-knowledge-hunt/posts/program-overview/</id>
-		<content type="html">&lt;h3&gt;Overview of Programme&lt;/h3&gt;
-&lt;h4&gt;Why are we doing this?&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;the climate crisis (very brief)&lt;/li&gt;
-&lt;li&gt;IPCC reports (what they are, what they look like)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;What we are going to do&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;the programme&lt;/li&gt;
-&lt;li&gt;breakout strategy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;The technology&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Zoom&lt;/li&gt;
-&lt;li&gt;breakouts and discussions
--Etherpad for communal ideas and recording&lt;/li&gt;
-&lt;li&gt;Jupyter Notebook / Google Colabs&lt;/li&gt;
-&lt;li&gt;commandline&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;running programs&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>(1/6) Getting Started -- Creating Accounts and Zoom links</title>
-		<link href="/climate-knowledge-hunt/posts/getting-started/"/>
-		<updated>2022-08-15T00:00:00Z</updated>
-		<id>/climate-knowledge-hunt/posts/getting-started/</id>
-		<content type="html">&lt;p&gt;A GitHub and Google Account is essential to work during the hackathon.&lt;/p&gt;
-&lt;h3&gt;GitHub Account&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Go to &lt;a href=&quot;https://github.com/&quot;&gt;github.com&lt;/a&gt; and sign up&lt;/li&gt;
-&lt;li&gt;Say &amp;quot;Hi!&amp;quot; in this discussion thread and we will add your introduction to the website.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+		<title>Climate Knowledge Hunt Hackathon Material</title>
+		<link href="/climate-knowledge-hunt/posts/climate-knowledge-hunt-hackthon/"/>
+		<updated>2022-09-24T00:00:00Z</updated>
+		<id>/climate-knowledge-hunt/posts/climate-knowledge-hunt-hackthon/</id>
+		<content type="html">&lt;p&gt;We&#39;ve rendered the Colab Notebook used as a part of the Hackathon. Scroll down to see the results.&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js&quot;&gt;&lt;/script&gt;
+&lt;h1&gt;Highlights from Notebook&lt;/h1&gt;
+&lt;p&gt;You&#39;ll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.&lt;/p&gt;
+&lt;h3&gt;Convert PDF to HTML using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;py4ami&lt;/code&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;First step in making IPCC Reports semantic is to convert dumb PDF needs to be first converted to HTML. &lt;code&gt;py4ami&lt;/code&gt; does the job for us. Here&#39;s the preview of converted HTML.&lt;/p&gt;
+&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;&lt;/iframe&gt;
+&lt;h3&gt;Extract abbreviations using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/a&gt; and write to an ami-dictionary&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt; automatically extracts abbreviations, their full forms, and potential Wikidata IDs.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;entry name=&amp;quot;VRE&amp;quot; term=&amp;quot;Variable Renewable Energy&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7915732&#39;]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;SDGs&amp;quot; term=&amp;quot;sustainable development goals&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7649586&#39;]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;TPES&amp;quot; term=&amp;quot;total primary energy  supply&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;TFC&amp;quot; term=&amp;quot;total final energy consumption&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;CSP&amp;quot; term=&amp;quot;Concentrating  solar  power&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;LIBs&amp;quot; term=&amp;quot;lithium-ion batteries&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q106988181&#39;]&amp;quot;/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Supervised search using dictionaries from other sources&lt;/h3&gt;
+&lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
+&lt;img src=&quot;/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Annotate and index HTML version of IPCC reports using &lt;a href=&quot;https://github.com/petermr/pyami&quot;&gt;py4ami&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
+&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;
+&lt;/iframe&gt;</content>
 	</entry>
 </feed>
