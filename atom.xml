@@ -5,7 +5,7 @@
 	
 	<link href="/climate-knowledge-hunt/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-12T03:57:18Z</updated>
+	<updated>2022-10-12T04:02:34Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -97,7 +97,7 @@ that will be a great uccess.&lt;/p&gt;
 &lt;h1&gt;Highlights from Notebook&lt;/h1&gt;
 &lt;p&gt;You&#39;ll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.&lt;/p&gt;
 &lt;h3&gt;Convert PDF to HTML using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;py4ami&lt;/code&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;First step in making IPCC Reports semantic is to convert dumb PDF needs to be first converted to HTML. &lt;code&gt;py4ami&lt;/code&gt; does the job for us. Here&#39;s the preview of converted HTML.&lt;/p&gt;
+&lt;p&gt;First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. &lt;code&gt;py4ami&lt;/code&gt; does the job for us. Here&#39;s the preview of converted HTML.&lt;/p&gt;
 &lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;&lt;/iframe&gt;
 &lt;h3&gt;Extract abbreviations using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/a&gt; and write to an ami-dictionary&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt; automatically extracts abbreviations, their full forms, and potential Wikidata IDs.&lt;/p&gt;
@@ -113,7 +113,7 @@ that will be a great uccess.&lt;/p&gt;
 &lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
 &lt;img src=&quot;/climate-knowledge-hunt/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Annotate and index HTML version of IPCC reports using &lt;a href=&quot;https://github.com/petermr/pyami&quot;&gt;py4ami&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary, can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
 &lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;
 &lt;/iframe&gt;</content>
 	</entry>
