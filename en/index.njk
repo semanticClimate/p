@@ -2,7 +2,7 @@
 eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber + 1 }}{% else %}Homepage{% endif %}"
 layout: layouts/base.njk
-permalink: /{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}
+permalink: /{{ lang }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}
 pagination:
   data: collections.post
   size: 6
@@ -34,7 +34,7 @@ eleventyNavigation:
         {{ site.meta.description }}
       {% endif %}
     </p>
-      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/pages/about/' | url }}" class="action learn">Learn more →</a></p>
+      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/pages/about/' | url }}" class="action learn">Learn more →</a></p>
   </div>
   </div>
   
@@ -59,12 +59,12 @@ eleventyNavigation:
      {{ site.homepage.sectionHeading1}}
   </h2>
   <p class="desc"> {{site.homepage.description1}}</p>
-  <p class="button-wrap"><a href="{{ '/pages/about/' | url }}" class="action">Learn more →</a></p>
+  <p class="button-wrap"><a href="{{ '/en/pages/about/' | url }}" class="action">Learn more →</a></p>
   </div>
 {# Event section #}
   <h2 class="section-title events">
      {{ site.homepage.sectionHeading2}}
-     <a href="{{ '/events/' | url }}">See all</a>
+     <a href="{{ '/en/events/' | url }}">See all</a>
   </h2>
   <p> {{site.homepage.description2}}</p>
      {% set postslist = collections.event %}
