@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>List of all tags | #semanticClimate</title>
+  <title>Climate Knowledge Hunt Hackathon Material | #semanticClimate</title>
   <meta name="description" content="Liberating knowledge from climate-related reports">
 
   <link rel="shortcut icon" href="/climate-knowledge-hunt/static/img/favicon.ico" type="image/x-icon">
@@ -83,37 +83,58 @@
 
   
 <div class="container">
+  <h1>Climate Knowledge Hunt Hackathon Material</h1>
+  <p>Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results.</p>
+<script src="https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js"></script>
+<h1>Highlights from Notebook</h1>
+<p>You'll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.</p>
+<h3>Convert PDF to HTML using <a href="https://github.com/petermr/docanalysis"><code>py4ami</code></a></h3>
+<p>First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. <code>py4ami</code> does the job for us. Here's the preview of converted HTML.</p>
+<iframe src="https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html" style width=100% height=300px></iframe>
+<h3>Extract abbreviations using <a href="https://github.com/petermr/docanalysis"><code>docanalysis</code></a> and write to an ami-dictionary</h3>
+<p><code>docanalysis</code> automatically extracts abbreviations, their full forms, and potential Wikidata IDs.</p>
+<pre><code>&lt;entry name=&quot;VRE&quot; term=&quot;Variable Renewable Energy&quot; wikidataID=&quot;['//www.wikidata.org/wiki/Q7915732']&quot;/&gt;
+  &lt;entry name=&quot;SDGs&quot; term=&quot;sustainable development goals&quot; wikidataID=&quot;['//www.wikidata.org/wiki/Q7649586']&quot;/&gt;
+  &lt;entry name=&quot;TPES&quot; term=&quot;total primary energy  supply&quot; wikidataID=&quot;[]&quot;/&gt;
+  &lt;entry name=&quot;TFC&quot; term=&quot;total final energy consumption&quot; wikidataID=&quot;[]&quot;/&gt;
+  &lt;entry name=&quot;CSP&quot; term=&quot;Concentrating  solar  power&quot; wikidataID=&quot;[]&quot;/&gt;
+  &lt;entry name=&quot;LIBs&quot; term=&quot;lithium-ion batteries&quot; wikidataID=&quot;['//www.wikidata.org/wiki/Q106988181']&quot;/&gt;
+</code></pre>
+<p>As an example, <a href="www.wikidata.org/wiki/Q7915732">www.wikidata.org/wiki/Q7915732</a> takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: <a href="https://en.wikipedia.org/wiki/Variable_renewable_energy">https://en.wikipedia.org/wiki/Variable_renewable_energy</a>.</p>
+<h3>Supervised search using dictionaries from other sources</h3>
+<p>Worcloud generated based on number of hits for terms in the dictionaries.
+<img src = '/climate-knowledge-hunt/static/img/climate_terms.png'></p>
+<h3>Annotate and index HTML version of IPCC reports using <a href="https://github.com/petermr/pyami">py4ami</a></h3>
+<p><code>pyami</code>, using abbreviation and other climate-related dictionary, can annotate the HTML version of IPCC Reports. <a href="https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html">Click here</a> or check out the preview below.</p>
+<iframe src="https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html" style width=100% height=300px></ifranme>
 
-  <h1>All Tags</h1>
 
-  <div class="card-grid">
+  <br><hr>
+  
     
-    <div class="card">
-      <h2 class="card__title"><a href="/climate-knowledge-hunt/tags/event">event</a></h2>
-      <div class="card__subtitle">4 Posts</div>
-    </div>
+      
     
-    <div class="card">
-      <h2 class="card__title"><a href="/climate-knowledge-hunt/tags/past">past</a></h2>
-      <div class="card__subtitle">2 Posts</div>
-    </div>
+      
+  <div class="card__tags">
+        <a href="/climate-knowledge-hunt/tags/semanticclimate">semanticclimate</a>
+        </div>, 
+      
     
-    <div class="card">
-      <h2 class="card__title"><a href="/climate-knowledge-hunt/tags/semanticclimate">semanticclimate</a></h2>
-      <div class="card__subtitle">2 Posts</div>
-    </div>
+      
+  <div class="card__tags">
+        <a href="/climate-knowledge-hunt/tags/outreach">outreach</a>
+        </div>, 
+      
     
-    <div class="card">
-      <h2 class="card__title"><a href="/climate-knowledge-hunt/tags/outreach">outreach</a></h2>
-      <div class="card__subtitle">2 Posts</div>
-    </div>
+      
+  <div class="card__tags">
+        <a href="/climate-knowledge-hunt/tags/notebook">notebook</a>
+        </div>
+      
     
-    <div class="card">
-      <h2 class="card__title"><a href="/climate-knowledge-hunt/tags/notebook">notebook</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-  </div>
+  
+  <br><br>
+  <a href="/climate-knowledge-hunt/">&larr; Back home</a>
 </div>
 
   <footer class="footer">
