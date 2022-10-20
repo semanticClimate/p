@@ -42,6 +42,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.netlify.app/p/CHANGELOG/</loc>
+    <lastmod>2022-10-20</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.netlify.app/p/de/</loc>
     <lastmod>2022-10-20</lastmod>
   </url>
@@ -82,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/en/programme/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/posts/</loc>
     <lastmod>2022-10-20</lastmod>
   </url>
   
@@ -117,7 +122,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/en/tags/atag/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/pdf/</loc>
+    <lastmod>2022-10-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/xml/</loc>
     <lastmod>2022-10-20</lastmod>
   </url>
   
