@@ -3,7 +3,7 @@
     {% for post in docslist %}
         <article class="event">
             {% if post.data.image %}
-                <img class="video-still list" src="/static/img/videostill-hackathon.png"/>
+                <img class="video-still list" src="{{ post.data.image }}"/>
             {% endif %}
             <h3>
                 <a href="{{ post.url | url }}">

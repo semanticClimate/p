@@ -1,5 +1,5 @@
 ---
-title: # SemanticClimate
+title: About
 description: What we do, why we do what we do, how we do
 layout: layouts/post.njk
 hideTagsList: true
