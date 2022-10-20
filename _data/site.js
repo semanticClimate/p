@@ -12,6 +12,9 @@ module.exports = {
     sectionHeading2: "Events",
     description2:
       "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is.",
+    sectionHeading3: "Documentation",
+    description3:
+      "Here you can read the fine manual.",
   },
   feed: {
     // used in feed.xml.njk

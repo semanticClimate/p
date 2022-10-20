@@ -44,7 +44,8 @@ eleventyNavigation:
     Current Event: Open Access Week 2022
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
   </h2>
-  {% include "components/postslist.njk" %}
+     {% set eventslist = (collections.event | featured) %}
+  {% include "components/featuredeventslist.njk" %}
   <div class="pagination">
       {% if pagination.previous %}
         <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
@@ -67,7 +68,7 @@ eleventyNavigation:
      <a href="{{ '/en/events/' | url }}">See all</a>
   </h2>
   <p> {{site.homepage.description2}}</p>
-     {% set postslist = collections.event %}
+     {% set eventslist = collections.event | sort(true, true, 'date')%}
      {% include "components/eventslist.njk" %}
 </div>
 

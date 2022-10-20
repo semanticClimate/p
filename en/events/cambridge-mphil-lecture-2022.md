@@ -1,11 +1,13 @@
 ---
-title:  Cambridge MPhil Lecture Series (semi-closed)
+title: Cambridge MPhil Lecture Series (semi-closed)
 date: 2022-10-19
-description: Peter Murray-Rust is giving an in-person talk at Cambridge. 
-registration-link: http://www.talks.cam.ac.uk/talk/index/182303
+description: Peter Murray-Rust is giving an in-person talk at Cambridge.
 ---
+
 ## Abstract
+
 Bioscience is fortunate in that the community has created a very large frictionless semantic knowledge commons for the data it creates and uses.
+
 - knowledge: the information is organized systematically
 - semantic: machines can “understand” the knowledge, either because it contains instructions and/or the toolchain is universal.
 - frictionless data: the data can be immediately unpacked without logins or explicit permissions
@@ -21,6 +23,4 @@ Ref: [https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-ticket
 
 This talk is part of the Computational and Systems Biology Seminar Series 2022 - 23 series.
 
-{% register registration-link, "_blank" %}
-
-
+{% register registration_link, "_blank" %}

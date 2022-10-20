@@ -1,7 +1,7 @@
 <section>
     {% if page.url == "/" | url %}
     {% endif %}
-    {% for post in eventslist %}
+    {% for post in docslist %}
         <article class="event">
             <h3>
                 <a href="{{ post.url | url }}">
@@ -12,19 +12,11 @@
                     {% endif %}
                 </a>
             </h3>
-            <p>
-                <time>
-                    {{ post.date | readableDate }}
-                </time>
-            </p>
             {% if post.data.description %}
                 <p class="text-lg text-gray-500 mb-3">
                     {{ post.data.description }}
                 </p>
             {% endif %}
-
-            {% register post.url | url, "_self" %}
-
         </article>
         <br>
     {% endfor %}

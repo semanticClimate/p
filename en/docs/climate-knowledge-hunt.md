@@ -1,11 +1,12 @@
 ---
 title: Climate Knowledge Hunt Hackathon Material
 date: 2022-09-24
-description: 
+description: This is everything you need to know
 tags:
   - semanticclimate
   - outreach
   - notebook
+  - docs
 ---
 Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results. 
 

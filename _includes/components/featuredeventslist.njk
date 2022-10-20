@@ -1,5 +1,5 @@
 <div class="card-grid">
-  {% for post in posts | sort(true, true, 'date') %}
+  {% for post in eventslist %}
     <div class="card">
       <h3 class="card__title">
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
