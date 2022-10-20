@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: "https://semanticclimate.netlify.app/",
   },
   homepage: {
+    featuredEventsHeading: "Current Events",
     sectionHeading1: "What's #semanticClimate?",
     description1:
       "We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.",

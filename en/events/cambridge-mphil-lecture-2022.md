@@ -1,6 +1,7 @@
 ---
 title: Cambridge MPhil Lecture Series (semi-closed)
 date: 2022-10-19
+featured: true
 description: Peter Murray-Rust is giving an in-person talk at Cambridge.
 ---
 

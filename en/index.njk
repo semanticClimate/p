@@ -40,11 +40,14 @@ eleventyNavigation:
   
 <div class="container">
 
-  <h2 class="section-title">
-    Current Event: Open Access Week 2022
+  <h2 class="section-title events">
+    {{ site.homepage.featuredEventsHeading }}
+     <a href="{{ '/en/events/' | url }}">See all</a>
+     </h2>
+  <p> {{site.homepage.description2}}</p>
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
   </h2>
-     {% set eventslist = (collections.event | featured) %}
+     {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
   {% include "components/featuredeventslist.njk" %}
   <div class="pagination">
       {% if pagination.previous %}
@@ -62,13 +65,5 @@ eleventyNavigation:
   <p class="desc"> {{site.homepage.description1}}</p>
   <p class="button-wrap"><a href="{{ '/en/about/' | url }}" class="action">Learn more →</a></p>
   </div>
-{# Event section #}
-  <h2 class="section-title events">
-     {{ site.homepage.sectionHeading2}}
-     <a href="{{ '/en/events/' | url }}">See all</a>
-  </h2>
-  <p> {{site.homepage.description2}}</p>
-     {% set eventslist = collections.event | sort(true, true, 'date')%}
-     {% include "components/eventslist.njk" %}
 </div>
 
