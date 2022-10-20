@@ -1,11 +1,22 @@
-<div class="card-grid">
-  {% for post in posts | sort(true, true, 'date') %}
-    <div class="card">
-      <h3 class="card__title">
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+<section>
+  {% if page.url == "/" | url %}{% endif %}
+  {% for post in postslist %}
+    <article class="event">
+      <h3>
+        <a href="{{ post.url | url }}">
+          {% if post.data.title %}
+            {{ post.data.title }}
+          {% else %}
+                        Untitled
+                    {% endif %}
+        </a>
       </h3>
-      <p class="card__date">{{ post.date | readableDate }}</p>
-      <p class="card__description">{{ post.data.description }}</p>
+      {% if post.data.description %}
+        <p class="text-lg text-gray-500 mb-3">
+          {{ post.data.description }}
+        </p>
+      {% endif %}
+
       <div class="card__tags">
         {% for tag in post.data.tags %}
           {% if tag != 'post' %}
@@ -13,6 +24,7 @@
           {% endif %}
         {% endfor %}
       </div>
-    </div>
+    </article>
+    <br>
   {% endfor %}
-</div>
+</section>

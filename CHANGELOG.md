@@ -9,3 +9,4 @@
 - Bring all lists of events/docs in reverse order
 - Fix backlink on detail pages, now it goes back to previous page, not home
 - Remove registration links from all past events
+- Add a blog section

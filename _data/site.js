@@ -16,6 +16,8 @@ module.exports = {
     sectionHeading3: "Documentation",
     description3:
       "Here you can read the fine manual.",
+    sectionHeading4: "Blog",
+    description4: "",
   },
   feed: {
     // used in feed.xml.njk
