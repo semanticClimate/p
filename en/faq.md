@@ -5,7 +5,7 @@ layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
   key: FAQ
-  weight: 2
+  order: 2
 ---
 
 ## What is the problem with PDF documents?

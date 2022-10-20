@@ -10,7 +10,7 @@ pagination:
   reverse: true
 eleventyNavigation:
   key: Home
-  weight: 0
+  order: 0
 ---
 
   <div class="hero">
@@ -34,7 +34,7 @@ eleventyNavigation:
         {{ site.meta.description }}
       {% endif %}
     </p>
-      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/pages/about/' | url }}" class="action learn">Learn more →</a></p>
+      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/about/' | url }}" class="action learn">Learn more →</a></p>
   </div>
   </div>
   
@@ -59,7 +59,7 @@ eleventyNavigation:
      {{ site.homepage.sectionHeading1}}
   </h2>
   <p class="desc"> {{site.homepage.description1}}</p>
-  <p class="button-wrap"><a href="{{ '/en/pages/about/' | url }}" class="action">Learn more →</a></p>
+  <p class="button-wrap"><a href="{{ '/en/about/' | url }}" class="action">Learn more →</a></p>
   </div>
 {# Event section #}
   <h2 class="section-title events">
