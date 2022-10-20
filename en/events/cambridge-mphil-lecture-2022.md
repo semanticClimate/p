@@ -24,4 +24,3 @@ Ref: [https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-ticket
 
 This talk is part of the Computational and Systems Biology Seminar Series 2022 - 23 series.
 
-{% register registration_link, "_blank" %}
