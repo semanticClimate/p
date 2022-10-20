@@ -1,8 +1,10 @@
 <section>
-    {% if page.url == "/" | url %}
-    {% endif %}
+    {% if page.url == "/" | url %}{% endif %}
     {% for post in docslist %}
         <article class="event">
+            {% if post.data.image %}
+                <img class="video-still list" src="/static/img/videostill-hackathon.png"/>
+            {% endif %}
             <h3>
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
@@ -17,6 +19,7 @@
                     {{ post.data.description }}
                 </p>
             {% endif %}
+            <div style="clear: both; overflow: hidden"></div>
         </article>
         <br>
     {% endfor %}

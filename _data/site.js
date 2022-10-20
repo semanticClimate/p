@@ -15,7 +15,7 @@ module.exports = {
       "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is.",
     sectionHeading3: "Documentation",
     description3:
-      "Here you can read the fine manual.",
+      "Feel free to read our manuals and tutorials to get started.",
     sectionHeading4: "Blog",
     description4: "",
   },

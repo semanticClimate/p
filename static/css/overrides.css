@@ -32,7 +32,7 @@ ul {
 /* Events  */
 
 .card-grid {
-    grid-template-columns: repeat(auto-fill, minmax(520px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
 }
 
 .section-title.events a {
@@ -117,13 +117,38 @@ h2.section-title {
   border-radius: 3px;
   line-height: 2rem;
 }
+/* Footer */
+
+footer p {
+  text-align: center;
+}
+
+/* Video */
+
+.video-still {
+  width: 50%;
+  border: 1px solid #ddd;
+}
+
+.video-still.list {
+  width: 25%;
+  float: right;
+}
+
+.video-link {
+  padding: 5px 20px;
+  background: #61873f;
+  color: #fff;
+  border-radius: 4px;
+}
+
 /* Responsiveness */
 @media screen and (max-width: 520px) {
   .hero h1 {
     font-size: 2.2rem;
   }
 
-  h1  {
+  h1 {
     font-size: 2rem;
     line-height: 2.6rem;
   }
@@ -134,7 +159,7 @@ h2.section-title {
 
   h2.section-title {
     font-size: 2rem;
-    line-height: 2.rem;
+    line-height: 2rem;
   }
 
   #whatis h2 {
@@ -144,5 +169,13 @@ h2.section-title {
   .event h3 {
     font-size: 1.4rem;
     line-height: 2rem;
+  }
+  .video-still {
+    width: 100%;
+  }
+
+  .video-still.list {
+    display: none;
+    clear: both;
   }
 }
