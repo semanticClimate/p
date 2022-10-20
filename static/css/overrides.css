@@ -12,7 +12,7 @@ body.dark a,
 
 p,
 ul {
-  font-size: 1.0rem;
+  font-size: 1.2rem;
 }
 
 /* Homepage */
@@ -30,6 +30,10 @@ ul {
 }
 
 /* Events  */
+
+.card-grid {
+    grid-template-columns: repeat(auto-fill, minmax(520px, 1fr));
+}
 
 .section-title.events a {
   font-size: 1rem;
@@ -54,6 +58,7 @@ a {
 h1 {
   font-size: 3rem;
   color: #e97b21;
+  line-height: 3.8rem;
 }
 
 h2 {
@@ -62,14 +67,22 @@ h2 {
 }
 
 h3 {
-  font-size: 2rem;
-  color: #61873f;
+  font-size: 1.6rem;
+  color: #333;
+  font-weight: 600;
 }
 
 h2.section-title {
   font-size: 2.3rem;
   color: #e97b21;
   font-weight: normal;
+}
+
+/* Infobox */
+.infobox {
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #eee;
 }
 
 /* Buttons */
