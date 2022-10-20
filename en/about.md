@@ -13,14 +13,14 @@ Most other subjects have highly heterogeneous data without semantics and this ho
 ## Goals
 * to convert the IPCC documents from PDF into (a) HTML (b) XML
 * extract terms and explore their use and meaning
-* link terms to [Wikidata](Wikidata.org) and create AMI-dictionaries
+* link terms to [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) and create [AMI-dictionaries](https://github.com/petermr/tigr2ess/blob/master/dictionaries/TUTORIAL.md)
 * create new structiures for navigation, search, display
 
 ## What #SemanticClimate does
 We develop tools to liberate knowledge from locked PDFs and host events everybody gets a chance to explore the content in these reports through our tools. 
 Our [Technical Strategy Page](https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/wg3#readme) gives an overview of the tools. 
 ## Upcoming Events
-Check out our [Events page](/events.md) for details about upcoming hackathons we host and other events we are part of. 
+Check out our [Events page](https://semanticclimate.github.io/p/en/events/) for details about upcoming hackathons we host and other events we are part of. 
 
 ## How to get involved
 We are looking for volunteers/funders to: 
