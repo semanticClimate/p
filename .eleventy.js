@@ -15,6 +15,21 @@ module.exports = (config) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
+  config.addFilter("featured", (listObj) => {
+    // console.log(listObj[0].data)
+    featured = []
+
+    listObj.forEach((element) => {
+      // console.log(element)
+      if (element.data.featured) {
+        // console.log(element.data.title)
+        featured.push(element)
+      }
+    })
+    
+    return featured;
+  });
+
   config.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL, yyyy"
@@ -23,8 +38,11 @@ module.exports = (config) => {
 
   // Nunjucks Shortcode
   config.addShortcode("register", function (link, target) {
+    html = ""
+    if (link != false ) {
     html =
       '<p class="button-wrap"><a target=' + target + ' class="action register" href="' + link + '" >Register →</a></p>';
+    }
     return html;
   });
 

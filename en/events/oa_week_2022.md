@@ -1,13 +1,17 @@
 ---
 title: Async Hackathon at Open Access Week
-date: 2022-10-08
-description: 
+date: 2022-10-24
+featured: true
+description: Join us in a distributed asynchronous hackathon to liberate and semantify the IPCC report.
+registration_link: https://www.eventbrite.de/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087
 tags:
   - semanticclimate
   - outreach
 ---
 
 ## OA Week hackathon 2022
+
+{% register registration_link, "_blank" %}
 
 Axel Durkop suggested that the `semanticClimate` community creates an activity for OpenAccess week,
 a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,

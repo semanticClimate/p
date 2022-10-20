@@ -1,0 +1,24 @@
+---
+eleventyComputed:
+  title: docs
+layout: layouts/base.njk
+pagination:
+  data: collections.docs
+  size: 6
+  alias: docs
+  reverse: true
+eleventyNavigation:
+  key: Docs
+  order: 4
+---
+
+  <div class="container">
+  <h1>
+     {{ site.homepage.sectionHeading3}}
+  </h1>
+  <p> {{site.homepage.description3}}</p>
+    {% set docslist = collections.docs | sort(true, true, 'date') %}
+    {% include "components/docslist.njk" %}
+
+</div>
+

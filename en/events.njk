@@ -5,11 +5,11 @@ layout: layouts/base.njk
 pagination:
   data: collections.post
   size: 6
-  alias: posts
+  alias: events
   reverse: true
 eleventyNavigation:
   key: Events
-  weight: 7
+  order: 4
 ---
 
   <div class="container">
@@ -17,10 +17,10 @@ eleventyNavigation:
      {{ site.homepage.sectionHeading2}}
   </h1>
   <p> {{site.homepage.description2}}</p>
-    {% set postslist = collections.event %}
+    {% set eventslist = collections.event | sort(true, true, 'date') %}
     {% include "components/eventslist.njk" %}
 <h1>Past Events</h1>
-    {% set postslist = collections.past %}
+    {% set eventslist = collections.past %}
     {% include "components/eventslist.njk" %}
 
 </div>

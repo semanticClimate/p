@@ -10,7 +10,7 @@ pagination:
   reverse: true
 eleventyNavigation:
   key: Home
-  weight: 0
+  order: 0
 ---
 
   <div class="hero">
@@ -34,17 +34,21 @@ eleventyNavigation:
         {{ site.meta.description }}
       {% endif %}
     </p>
-      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/pages/about/' | url }}" class="action learn">Learn more →</a></p>
+      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/about/' | url }}" class="action learn">Learn more →</a></p>
   </div>
   </div>
   
 <div class="container">
 
-  <h2 class="section-title">
-    Current Event: Open Access Week 2022
+  <h2 class="section-title events">
+    {{ site.homepage.featuredEventsHeading }}
+     <a href="{{ '/en/events/' | url }}">See all</a>
+     </h2>
+  <p> {{site.homepage.description2}}</p>
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
   </h2>
-  {% include "components/postslist.njk" %}
+     {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
+  {% include "components/featuredeventslist.njk" %}
   <div class="pagination">
       {% if pagination.previous %}
         <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
@@ -59,15 +63,7 @@ eleventyNavigation:
      {{ site.homepage.sectionHeading1}}
   </h2>
   <p class="desc"> {{site.homepage.description1}}</p>
-  <p class="button-wrap"><a href="{{ '/en/pages/about/' | url }}" class="action">Learn more →</a></p>
+  <p class="button-wrap"><a href="{{ '/en/about/' | url }}" class="action">Learn more →</a></p>
   </div>
-{# Event section #}
-  <h2 class="section-title events">
-     {{ site.homepage.sectionHeading2}}
-     <a href="{{ '/en/events/' | url }}">See all</a>
-  </h2>
-  <p> {{site.homepage.description2}}</p>
-     {% set postslist = collections.event %}
-     {% include "components/eventslist.njk" %}
 </div>
 
