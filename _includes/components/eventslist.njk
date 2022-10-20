@@ -1,7 +1,7 @@
 <section>
     {% if page.url == "/" | url %}
     {% endif %}
-    {% for post in eventslist %}
+    {% for post in eventslist | sort(true, true, "date")%}
         <article class="event">
             <h3>
                 <a href="{{ post.url | url }}">
@@ -23,7 +23,6 @@
                 </p>
             {% endif %}
 
-            {% register post.url | url, "_self" %}
 
         </article>
         <br>

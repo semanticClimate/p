@@ -6,7 +6,6 @@ tags:
   - semanticclimate
   - outreach
   - notebook
-  - docs
 ---
 Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results. 
 
