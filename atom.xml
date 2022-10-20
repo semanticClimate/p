@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-19T03:33:09Z</updated>
+	<updated>2022-10-20T13:12:15Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -13,108 +13,10 @@
 	</author>
 	
 	<entry>
-		<title>Async Hackathon at Open Access Week</title>
-		<link href="/p/en/posts/oa_week_2022/"/>
-		<updated>2022-10-08T00:00:00Z</updated>
-		<id>/p/en/posts/oa_week_2022/</id>
-		<content type="html">&lt;h2&gt;OA Week hackathon 2022&lt;/h2&gt;
-&lt;p&gt;Axel Durkop suggested that the &lt;code&gt;semanticClimate&lt;/code&gt; community creates an activity for OpenAccess week,
-a global collection of activities related to OpenAccess (link to SPARC page). We propose a distributed,
-asynchronous hack-project, based on the IPCC AR6 ClimateChange reports, with a tested modular structure
-that is easy to take part in, contributes to global knowledge on climate and is inclusive.
-It&#39;s a great learning opportunity both for climate and OpenReading/OpenReuse technology.&lt;/p&gt;
-&lt;h2&gt;structure of IPCC and our motivation&lt;/h2&gt;
-&lt;p&gt;The IPCC report is broken into 3 working groups (details), each of which has 15-20 Chapters. In total
-it&#39;s about 10,000 pages of PDF, difficult to read, even for experts and in a limited number of languages
-(often only EN). There&#39;s a lot of Jargon, 15,000 references  which complicate reading and navigation is hard.
-We can make this semantic (i.e. machines can understand it), so a wide variety of re-use is possible.&lt;/p&gt;
-&lt;h2&gt;what #semanticClimate adds&lt;/h2&gt;
-&lt;p&gt;Taking a Chapter, our (Open) tools convert it to HTML in smaller sections (e.g. Introduction, Sections, Executive summaries,
-Figure Captions, References). These can be studied individually or omitted (not everyone needs the References,
-some like to look at Figures). Then you can add meaning (ontology) through Wikidata (the Open collection of 100 million metadata
-and data items). For example you can automatically find the named cities and do geocoordinate-based search and
-analysis, plot maps, etc.&lt;/p&gt;
-&lt;p&gt;The IPCC report contains huge amounts of useful data and metadata. It&#39;s often useful to &amp;quot;chunk&amp;quot; this, so we
-can create a dictionary for each chapter (e.g. Emissions, Agriculture, Urban). Using these dictionaries
-you can &lt;em&gt;annotate&lt;/em&gt; the original text and bring it to interactive life - for example hyperlinks to wikidata, or
-co-occurrence of terms in text. You can also use our tools to create indexes for chapters.&lt;/p&gt;
-&lt;h2&gt;the basic hackathon structure and goals&lt;/h2&gt;
-&lt;p&gt;Because people are distributed over time and space we recoomand a basic activity/template which doesn&#39;t
-require interactive coordination. We are used to Github tools for sharing discussion, and we&#39;ve set out a self-paced
-plan based on converting a single Chapter (there are 50 to choose from!).&lt;/p&gt;
-&lt;h3&gt;what you need&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;enthusiasm. That&#39;s really the only requirement. Continued occasional activity over a week is very useful&lt;/li&gt;
-&lt;li&gt;organization. It helps if material is well organized and can be discovered through links.&lt;/li&gt;
-&lt;li&gt;experimental. We&#39;ll all be doing new things and often they won&#39;t work first time.&lt;/li&gt;
-&lt;li&gt;collaboration. Very valuable.&lt;/li&gt;
-&lt;li&gt;documentation. Clear outputs that help others. We are very keen to see languages other that EN, and links to Wikidata. Useful to know how to use a text editor rather than Word.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;valuable if you have them&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Wikidata&lt;/li&gt;
-&lt;li&gt;Climate (science, politics, etc.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;coordination&lt;/h3&gt;
-&lt;p&gt;You may already have a real-life team and this should work well. Choose an interesting Chapter and post which and
-who you are. (All activity is fully OpenNotebook Science). Record your progress on our Github (we&#39;ll give permissions)&lt;/p&gt;
-&lt;h3&gt;template&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;clone https://github.com/petermr/semanticClimate&lt;/li&gt;
-&lt;li&gt;copy your chapter to .../semanticClimate/ipcc/ar6/wg3&lt;/li&gt;
-&lt;li&gt;run script or notebook to:
-&lt;ul&gt;
-&lt;li&gt;add Chapter to CProject (corpus)&lt;/li&gt;
-&lt;li&gt;convert PDF to HTML&lt;/li&gt;
-&lt;li&gt;extract words&lt;/li&gt;
-&lt;li&gt;create chapter-dictionary&lt;/li&gt;
-&lt;li&gt;add Wikidata links if missing&lt;/li&gt;
-&lt;li&gt;annotate chapter
-This will be the basic activity. Some may find it useful to work in teams. We&#39;ll coordinate people who are looking for
-partners/Chapters&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If during the week we have N groups and they have each created a semantic Chapter, dictionaries and annotation
-that will be a great uccess.&lt;/p&gt;
-&lt;h3&gt;extensions&lt;/h3&gt;
-&lt;p&gt;There are a huge number of things that can be done with semantic material. We welcome hackers who want to explore this.&lt;/p&gt;
-&lt;h2&gt;Hackathon material&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;wg3/&quot;&gt;Details of IPCC/AR6/WG3 organized by chapters&lt;/a&gt;&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Climate Knowledge Hunt Hackathon Material</title>
-		<link href="/p/en/posts/climate-knowledge-hunt-hackthon/"/>
+		<title>Just a post</title>
+		<link href="/p/en/posts/thishastostayhere/"/>
 		<updated>2022-09-24T00:00:00Z</updated>
-		<id>/p/en/posts/climate-knowledge-hunt-hackthon/</id>
-		<content type="html">&lt;p&gt;Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results.&lt;/p&gt;
-&lt;script src=&quot;https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js&quot;&gt;&lt;/script&gt;
-&lt;h1&gt;Highlights from Notebook&lt;/h1&gt;
-&lt;p&gt;You&#39;ll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.&lt;/p&gt;
-&lt;h3&gt;Convert PDF to HTML using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;py4ami&lt;/code&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. &lt;code&gt;py4ami&lt;/code&gt; does the job for us. Here&#39;s the preview of converted HTML.&lt;/p&gt;
-&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;&lt;/iframe&gt;
-&lt;h3&gt;Extract abbreviations using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/a&gt; and write to an ami-dictionary&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt; automatically extracts abbreviations, their full forms, and potential Wikidata IDs.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;entry name=&amp;quot;VRE&amp;quot; term=&amp;quot;Variable Renewable Energy&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7915732&#39;]&amp;quot;/&amp;gt;
-  &amp;lt;entry name=&amp;quot;SDGs&amp;quot; term=&amp;quot;sustainable development goals&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7649586&#39;]&amp;quot;/&amp;gt;
-  &amp;lt;entry name=&amp;quot;TPES&amp;quot; term=&amp;quot;total primary energy  supply&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
-  &amp;lt;entry name=&amp;quot;TFC&amp;quot; term=&amp;quot;total final energy consumption&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
-  &amp;lt;entry name=&amp;quot;CSP&amp;quot; term=&amp;quot;Concentrating  solar  power&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
-  &amp;lt;entry name=&amp;quot;LIBs&amp;quot; term=&amp;quot;lithium-ion batteries&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q106988181&#39;]&amp;quot;/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Supervised search using dictionaries from other sources&lt;/h3&gt;
-&lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
-&lt;img src=&quot;/climate-knowledge-hunt/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
-&lt;h3&gt;Annotate and index HTML version of IPCC reports using &lt;a href=&quot;https://github.com/petermr/pyami&quot;&gt;py4ami&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary, can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
-&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;
-&lt;/iframe&gt;</content>
+		<id>/p/en/posts/thishastostayhere/</id>
+		<content type="html"></content>
 	</entry>
 </feed>
