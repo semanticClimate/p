@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T13:46:19Z</updated>
+	<updated>2022-10-22T13:47:27Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -15,13 +15,13 @@
 	<entry>
 		<title></title>
 		<link href="/p/en/posts/oaweek_intro/"/>
-		<updated>2022-10-22T13:45:56Z</updated>
+		<updated>2022-10-22T13:47:07Z</updated>
 		<id>/p/en/posts/oaweek_intro/</id>
 		<content type="html">&lt;h1&gt;OA Week 2022: Introduction to #semanticClimate&lt;/h1&gt;
 &lt;p&gt;We are really excited to offer #semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
 it&#39;s best understood by actually &amp;quot;learning by doing&amp;quot;. Don&#39;t be frightened by &amp;quot;semantic&amp;quot;; it means using machines to help
-with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;TimBl&#39;s semantic web&lt;/a&gt;, freeing human brains to do what they are best at.&lt;/p&gt;
-&lt;p&gt;&amp;quot;climate&amp;quot; is complex! No human understands everything, so it&#39;s critical to link different resources: data, text, simulations, etc. &amp;quot;semantic&amp;quot; means they can all talk to each other. Machine&amp;lt;-&amp;gt;machine, human&amp;lt;-&amp;gt;machine and human&amp;lt;-&amp;gt;human. And anyone can be part of this; if you have resource that could be useful  join us this week! There&#39;s so many levels of knowledge and so many subdisciplines&lt;/p&gt;
+with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;TimBl&#39;s semantic web&lt;/a&gt;), freeing human brains to do what they are best at.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Climate&amp;quot; is complex! No human understands everything, so it&#39;s critical to link different resources: data, text, simulations, etc. &amp;quot;semantic&amp;quot; means they can all talk to each other. Machine&amp;lt;-&amp;gt;machine, human&amp;lt;-&amp;gt;machine and human&amp;lt;-&amp;gt;human. And anyone can be part of this; if you have resource that could be useful  join us this week! There&#39;s so many levels of knowledge and so many subdisciplines&lt;/p&gt;
 &lt;p&gt;Our approach can be adjusted for any climate approach, but our examples here are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &amp;quot;Mitigation&amp;quot; &lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg3/&quot;&gt;section (WG3) of the IPCC AR6 report&lt;/a&gt;&lt;/li&gt;
