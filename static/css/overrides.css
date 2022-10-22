@@ -193,6 +193,16 @@ article.post .post-author {
   line-height: 2rem;
 }
 
+/* Gists */
+
+.gist {
+  width: 100%;
+}
+
+.gist iframe {
+  width: 50%;
+}
+
 /* Responsiveness */
 @media screen and (max-width: 520px) {
   .hero h1 {
