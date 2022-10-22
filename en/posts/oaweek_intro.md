@@ -1,11 +1,14 @@
 ---
-title: "OA Week 2022: Introduction to #semanticClimate"
-author: "Peter Murray-Rust"
-date: 2022-10-24
-summary: "We are really excited to offer #semanticClimate for Open Access Week. It's a relatively new way of communicating complex topics and it's best understood by actually \"learning by doing\"."
+title: Introduction to #semanticClimate
+date: 2022-10-22
+summary: Overview of the range of tools, content and activities 
+author: Peter Murray-Rust
 tags:
-  - introduction
+  - pdf
+  - xml
 ---
+
+# OA Week 2022: Introduction to #semanticClimate
 
 We are really excited to offer #semanticClimate for Open Access Week. It's a relatively new way of communicating complex topics and
 it's best understood by actually "learning by doing". Don't be frightened by "semantic"; it means using machines to help
