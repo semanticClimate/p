@@ -1,5 +1,5 @@
 ---
-title: Introduction to #semanticClimate
+title: Introduction to semanticClimate
 date: 2022-10-22
 summary: Overview of the range of tools, content and activities 
 author: Peter Murray-Rust
