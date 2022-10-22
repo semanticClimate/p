@@ -2,12 +2,12 @@
 
 We are really excited to offer #semanticClimate for OA week. It's a relatively new way of communicating complex topics and 
 it's best understood by actually "learning by doing". Don't be frightened by "semantic"; it means using machines to help
-with the bits machines are good at ([https://en.wikipedia.org/wiki/Semantic_Web]), freeing human brains to do what they are best at. 
+with the bits machines are good at ([TimBl's semantic web](https://en.wikipedia.org/wiki/Semantic_Web), freeing human brains to do what they are best at. 
 
 "climate" is complex! No human understands everything, so it's critical to link different resources: data, text, simulations, etc. "semantic" means they can all talk to each other. Machine<->machine, human<->machine and human<->human. And anyone can be part of this; if you have resource that could be useful  join us this week! There's so many levels of knowledge and so many subdisciplines
 
 Our approach can be adjusted for any climate approach, but our examples here are:
-* The "Mitigation" section (WG3) of the IPCC AR6 report (https://www.ipcc.ch/report/ar6/wg3/)
+* The "Mitigation" [section (WG3) of the IPCC AR6 report](https://www.ipcc.ch/report/ar6/wg3/)
 * Novel searching of the OpanAccess literature (with `pygetpapers`)
 
 ## Example: "what does 'GHG' mean and why does it matter?"
