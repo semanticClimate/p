@@ -22,6 +22,12 @@ ul {
   font-size: 1.2rem;
 }
 
+blockquote p {
+  font-style: italic;
+  border-left: 5px solid #ddd;
+  padding-left: 15px;
+}
+
 /* Homepage */
 
 .fullwidth {
@@ -185,6 +191,16 @@ article.post .post-author {
   padding: 3px 5px;
   border-radius: 3px;
   line-height: 2rem;
+}
+
+/* Gists */
+
+.gist {
+  width: 100%;
+}
+
+.gist iframe {
+  width: 50%;
 }
 
 /* Responsiveness */

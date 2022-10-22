@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: "https://semanticclimate.github.io/",
   },
   homepage: {
-    featuredEventsHeading: "Current Events",
+    featuredEventsHeading: "Upcoming and running events",
     sectionHeading1: "What's #semantic<i>Climate</i>?",
     description1:
       "We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.",
