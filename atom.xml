@@ -5,12 +5,24 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-21T05:47:36Z</updated>
+	<updated>2022-10-22T09:20:20Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="/p/en/posts/oaweek_intro/"/>
+		<updated>2022-10-22T09:19:48Z</updated>
+		<id>/p/en/posts/oaweek_intro/</id>
+		<content type="html">&lt;h1&gt;OA Week 2022: Introduction&lt;/h1&gt;
+&lt;p&gt;We are really excited to offer #semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
+it&#39;s best understood by actually &amp;quot;learning by doing&amp;quot;. Don&#39;t be frightened by &amp;quot;semantic&amp;quot;; it means using machines to help
+with the bits machines are good at ([https://en.wikipedia.org/wiki/Semantic_Web]), freeing human brains to do what they are best at. It&#39;s a human-machine&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Just a post</title>
