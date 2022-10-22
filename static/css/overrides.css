@@ -174,10 +174,9 @@ article.post {
 }
 
 .post-meta .post-author,
-.post-meta time,
-article.post .post-author,
-article.post time {
+article.post .post-author {
   display: inline-block;
+  margin-inline-end: 10px;
 }
 
 .post-meta a {

@@ -16,7 +16,7 @@ eleventyNavigation:
   <h1>
      {{ site.homepage.sectionHeading2}}
   </h1>
-  <p> {{site.homepage.description2}}</p>
+  <p> {{site.homepage.description2 | safe }}</p>
     {% set eventslist = collections.event | sort(true, true, 'date') %}
     {% include "components/eventslist.njk" %}
 <h1>Past Events</h1>

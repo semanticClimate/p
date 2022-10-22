@@ -3,19 +3,18 @@ module.exports = {
     title: "#semanticClimate",
     description: "Liberating knowledge from climate-related reports",
     lang: "en",
-    siteUrl: "https://semanticclimate.netlify.app/",
+    siteUrl: "https://semanticclimate.github.io/",
   },
   homepage: {
     featuredEventsHeading: "Current Events",
-    sectionHeading1: "What's #semanticClimate?",
+    sectionHeading1: "What's #semantic<i>Climate</i>?",
     description1:
       "We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.",
     sectionHeading2: "Events",
     description2:
-      "#semanticClimate is hosting a series of hackathons. Check out our Events page to find out when the next one is.",
+      "#semanticClimate is hosting a series of hackathons. Check out <a href='/en/events'>our Events page</a> to find out when the next one is.",
     sectionHeading3: "Documentation",
-    description3:
-      "Feel free to read our manuals and tutorials to get started.",
+    description3: "Feel free to read our manuals and tutorials to get started.",
     sectionHeading4: "Blog",
     description4: "",
   },
@@ -24,8 +23,8 @@ module.exports = {
     subtitle: "Liberating knowledge from climate-related reports",
     filename: "atom.xml",
     path: "/atom.xml",
-    id: "https://semanticclimate.netlify.app/",
-    authorName: "Semantic Climate",
+    id: "https://semanticclimate.github.io/",
+    authorName: "#semanticClimate",
     authorEmail: "",
   },
   hero: {
