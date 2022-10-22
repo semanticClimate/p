@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T17:11:28Z</updated>
+	<updated>2022-10-22T17:25:44Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -30,7 +30,7 @@ We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&
 	</entry>
 	
 	<entry>
-		<title>Introduction to</title>
+		<title>Introduction to semanticClimate</title>
 		<link href="/p/en/posts/oaweek_intro/"/>
 		<updated>2022-10-22T00:00:00Z</updated>
 		<id>/p/en/posts/oaweek_intro/</id>
