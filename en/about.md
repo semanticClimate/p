@@ -1,5 +1,5 @@
 ---
-title: About
+title: "About #semanticClimate"
 description: What we do, why we do what we do, how we do
 layout: layouts/post.njk
 hideTagsList: true
@@ -7,7 +7,6 @@ eleventyNavigation:
   key: About
   order: 200
 ---
-# #semanticClimate
 Most other subjects have highly heterogeneous data without semantics and this holds back the creation of knowledge. There is a pressing need to make knowledge about climate available to mitigate the effects of gaseous emissions. The most important resource is the UN’s IPCC reports, published about every five years. In 2021-2022 AR6, with 10,000 pages, was released. #semanticClimate is a group of young Indian science students who are developing tools and community protocols to make IPCC AR6 semantic.
 
 ## Goals

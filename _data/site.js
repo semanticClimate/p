@@ -30,7 +30,7 @@ module.exports = {
   },
   hero: {
     // used in hero section of main page ie. index.html.njk
-    title: "#semanticClimate",
+    title: "#semantic<i>Climate</i>",
     description: "",
   },
 };
