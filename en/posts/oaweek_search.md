@@ -1,0 +1,14 @@
+# OA Week 2022: searching for climate knowledge
+
+There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on
+
+## keyword (supervised) search
+
+The commonest way of searching (Google, Bing, etc.). It relies on the content being text, or indexed into text. For specific terms (e.g. names, 
+scientific objects)it can be precise but for general terms (e.g. "justice") it can be very broad. Often the precise term doesn't occur in the 
+article and we need synonyms (e.g. "nitrous oxide" is a synonym for "N2O"). 
+We tackle this by creating a large expandable set of **dictionaries** with precise terms, synonyms and translations.
+
+## unsupervised search
+
+We 
