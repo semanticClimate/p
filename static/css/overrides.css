@@ -79,6 +79,7 @@ h2.section-title {
 }
 
 /* Infobox */
+
 .infobox {
   border: 1px solid #ddd;
   padding: 10px;
@@ -117,6 +118,7 @@ h2.section-title {
   border-radius: 3px;
   line-height: 2rem;
 }
+
 /* Footer */
 
 footer p {
@@ -140,6 +142,33 @@ footer p {
   background: #61873f;
   color: #fff;
   border-radius: 4px;
+}
+
+/* Blog */
+
+article.post:first-child {
+  margin-top: 10px;
+}
+
+article.post {
+  padding: 30px 0;
+  margin-bottom: 30px 0;
+  border-bottom: 2px solid #ddd;
+}
+
+.post-meta .post-author,
+.post-meta time,
+article.post .post-author,
+article.post time {
+  display: inline-block;
+}
+
+.post-meta a {
+  background: #e97b21;
+  color: #fff;
+  padding: 3px 5px;
+  border-radius: 3px;
+  line-height: 2rem;
 }
 
 /* Responsiveness */
