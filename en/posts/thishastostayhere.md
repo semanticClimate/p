@@ -1,7 +1,8 @@
 ---
 title: Just a post
 date: 2022-09-24
-description: This is the description
+summary: Enim labore aliqua consectetur duis. Ea elit labore cupidatat ipsum do sint consectetur anim anim occaecat in.
+author: John Doe
 tags:
   - pdf
   - xml

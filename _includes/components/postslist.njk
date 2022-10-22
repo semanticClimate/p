@@ -1,7 +1,7 @@
 <section>
   {% if page.url == "/" | url %}{% endif %}
   {% for post in postslist %}
-    <article class="event">
+    <article class="post">
       <h3>
         <a href="{{ post.url | url }}">
           {% if post.data.title %}
@@ -11,13 +11,16 @@
                     {% endif %}
         </a>
       </h3>
-      {% if post.data.description %}
+      {% if post.data.summary %}
         <p class="text-lg text-gray-500 mb-3">
-          {{ post.data.description }}
+          {{ post.data.summary }}
         </p>
       {% endif %}
 
       <div class="card__tags">
+        <time>{{ post.data.date | readableDate }}</time> 
+        <span class="post-author">by {{ post.data.author }}</span>
+
         {% for tag in post.data.tags %}
           {% if tag != 'post' %}
             <a href="{{ '/en/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
@@ -25,6 +28,5 @@
         {% endfor %}
       </div>
     </article>
-    <br>
   {% endfor %}
 </section>
