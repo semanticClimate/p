@@ -32,3 +32,14 @@ or:
 * watch video on markup using dictionaries
 * try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries
 * try on Chapter02 with `country.xml` (experiment!)
+
+or:
+* search for `climate justice` in EuropePMC using `pygetpapers`
+* automatically download (say) 50 papers. 
+* skim-read  to determine the ones you might be interested in
+* refine query (dates, Boolean queries, etc.)
+* repeat
+* analyse results with `docanalysis`
+
+
+
