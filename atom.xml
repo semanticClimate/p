@@ -5,10 +5,10 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T17:42:23Z</updated>
-	<id>https://semanticclimate.netlify.app/</id>
+	<updated>2022-10-22T17:43:45Z</updated>
+	<id>https://semanticclimate.github.io/</id>
 	<author>
-		<name>Semantic Climate</name>
+		<name>#semanticClimate</name>
 		<email></email>
 	</author>
 	
@@ -40,7 +40,7 @@ We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&
 &lt;p&gt;We are really excited to offer semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
 it&#39;s best understood by actually &amp;quot;learning by doing&amp;quot;. Don&#39;t be frightened by &amp;quot;semantic&amp;quot;; it means using machines to help
 with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;TimBl&#39;s semantic web&lt;/a&gt;), freeing human brains to do what they are best at.&lt;/p&gt;
-&lt;p&gt;&amp;quot;Climate&amp;quot; is complex! No human understands everything, so it&#39;s critical to link different resources: data, text, simulations, etc. &amp;quot;semantic&amp;quot; means they can all talk to each other. Machine&amp;lt;-&amp;gt;machine, human&amp;lt;-&amp;gt;machine and human&amp;lt;-&amp;gt;human. And anyone can be part of this; if you have resource that could be useful  join us this week! There&#39;s so many levels of knowledge and so many subdisciplines&lt;/p&gt;
+&lt;p&gt;&amp;quot;Climate&amp;quot; is complex! No human understands everything, so it&#39;s critical to link different resources: data, text, simulations, etc. &amp;quot;semantic&amp;quot; means they can all talk to each other. Machine&amp;lt;-&amp;gt;machine, human&amp;lt;-&amp;gt;machine and human&amp;lt;-&amp;gt;human. And anyone can be part of this; if you have resource that could be useful join us this week! There&#39;s so many levels of knowledge and so many subdisciplines&lt;/p&gt;
 &lt;p&gt;Our approach can be adjusted for any climate approach, but our examples here are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &amp;quot;Mitigation&amp;quot; &lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg3/&quot;&gt;section (WG3) of the IPCC AR6 report&lt;/a&gt;&lt;/li&gt;
@@ -48,7 +48,7 @@ with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wi
 &lt;/ul&gt;
 &lt;h2&gt;Example: &amp;quot;what does &#39;GHG&#39; mean and why does it matter?&amp;quot;&lt;/h2&gt;
 &lt;p&gt;Many of you will know this means &amp;quot;Greenhouse Gas&amp;quot; in a climate context, but do you know what these gases actually are?
-To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the &amp;quot;data items in Wikipedia articles&amp;quot; (though it&#39;s much more than that), and this week (2022-10-20) it passed 100_000_000 items! Here&#39;s the &lt;a href=&quot;https://www.wikidata.org/wiki/Q167336&quot;&gt;wikidata item for &amp;quot;greenhouse gas&amp;quot;&lt;/a&gt;. It&#39;s multilingual (&lt;a href=&quot;https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8_%E0%A4%97%E0%A5%88%E0%A4%B8&quot;&gt;ग्रीनहाउस गैस&lt;/a&gt; and we&#39;ve already had contributions to our notebooks in 7 languages)&lt;/p&gt;
+To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the &amp;quot;data items in Wikipedia articles&amp;quot; (though it&#39;s much more than that), and this week (2022-10-20) it passed 100*000_000 items! Here&#39;s the &lt;a href=&quot;https://www.wikidata.org/wiki/Q167336&quot;&gt;wikidata item for &amp;quot;greenhouse gas&amp;quot;&lt;/a&gt;. It&#39;s multilingual (&lt;a href=&quot;https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8*%E0%A4%97%E0%A5%88%E0%A4%B8&quot;&gt;ग्रीनहाउस गैस&lt;/a&gt; and we&#39;ve already had contributions to our notebooks in 7 languages)&lt;/p&gt;
 &lt;h1&gt;How this week will work&lt;/h1&gt;
 &lt;p&gt;This is an experiment! Think &amp;quot;us&amp;quot;, not &amp;quot;I&amp;quot; and &amp;quot;you&amp;quot;. We have working examples of search and analysis tools and also content (IPCC) with videos and text. The week is largely asynchronous; you can try these in your own timezone at your own pace. There are discussion tools so you can leave questions or offer content. We&#39;ll aim to have a time which most people can access (probably 1230 UTC, where we normally meet with India and Americas) for an hour or so on Zoom. We stress &amp;quot;learning by doing&amp;quot; and also constantly evolving software, documentation, content, examples. These work &amp;quot;most of the time&amp;quot; but may depend on experience and location (&lt;a href=&quot;https://en.wikipedia.org/wiki/Perpetual_beta&quot;&gt;Perpetual beta&lt;/a&gt;); if you have problems, then identify them, and if you can, help to fix them.&lt;/p&gt;
 &lt;p&gt;We expect that the content and approach will change a lot during the week.&lt;/p&gt;
@@ -71,22 +71,12 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 &lt;ul&gt;
 &lt;li&gt;search for &lt;code&gt;climate justice&lt;/code&gt; in EuropePMC using &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;automatically download (say) 50 papers.&lt;/li&gt;
-&lt;li&gt;skim-read  to determine the ones you might be interested in&lt;/li&gt;
+&lt;li&gt;skim-read to determine the ones you might be interested in&lt;/li&gt;
 &lt;li&gt;refine query (dates, Boolean queries, etc.)&lt;/li&gt;
 &lt;li&gt;repeat&lt;/li&gt;
 &lt;li&gt;analyse results with &lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We&#39;ll try to create a video and blog/tutorial for each of these&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Just a post</title>
-		<link href="/p/en/posts/thishastostayhere/"/>
-		<updated>2022-09-24T00:00:00Z</updated>
-		<id>/p/en/posts/thishastostayhere/</id>
-		<content type="html">&lt;h2&gt;Headline&lt;/h2&gt;
-&lt;p&gt;In duis sit enim eu incididunt consequat qui culpa amet qui officia veniam voluptate consectetur. Magna velit ex do duis ut aute. Dolor qui labore Lorem ullamco voluptate eiusmod voluptate pariatur occaecat velit sunt id consequat duis. Irure minim quis irure dolor mollit nulla deserunt nisi sunt aute tempor occaecat. Non incididunt sit officia dolor nulla nulla laborum deserunt dolore sint voluptate elit esse quis. Dolore proident cillum nostrud magna duis in mollit ad labore incididunt enim aute tempor. Cillum consectetur esse esse duis labore consequat aliquip enim ea pariatur veniam occaecat sunt.&lt;/p&gt;
+&lt;p&gt;We&#39;ll try to create a video and blog/tutorial for each of these.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
