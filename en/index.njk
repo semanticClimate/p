@@ -13,57 +13,67 @@ eleventyNavigation:
   order: 0
 ---
 
-  <div class="hero">
+<div class="hero">
   <div class="container">
     <h1>
       {% if site.hero.title %}
         {% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber + 1 }} | {% endif %}
-        {{ site.hero.title }}
+        {{ site.hero.title | safe }}
       {% else %}
-        {{ site.meta.title }}
+        {{ site.meta.title | safe }}
       {% endif %}
-      
+
     </h1>
     <p class="hero__description">
       {% if site.hero.reglink %}
         <a href = {{site.hero.reglink}}> Register</a>
-      {%endif%}
-      {% if site.hero.description %}
-        {{ site.hero.description }}
-      {% else %}
-        {{ site.meta.description }}
-      {% endif %}
-    </p>
-      <p class="button-wrap" style="margin-top: 35px"><a href="{{ '/en/about/' | url }}" class="action learn">Learn more →</a></p>
-  </div>
-  </div>
-  
-<div class="container">
+        {%endif%}
+        {% if site.hero.description %}
+          {{ site.hero.description }}
+        {% else %}
+          {{ site.meta.description }}
+        {% endif %}
+      </p>
+      <p class="button-wrap" style="margin-top: 35px">
+        <a href="{{ '/en/about/' | url }}" class="action learn">Learn more →</a>
+      </p>
+    </div> <!-- end container -->
+  </div> <!-- end hero -->
 
-  <h2 class="section-title events">
-    {{ site.homepage.featuredEventsHeading }}
-     <a href="{{ '/en/events/' | url }}">See all</a>
-     </h2>
-  <p> {{site.homepage.description2}}</p>
-    {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}{% endif %}
+  <div class="container">
+
+    <h2 class="section-title events">
+      {{ site.homepage.featuredEventsHeading }}
+      <a href="{{ '/en/events/' | url }}">See all</a>
+    </h2>
+    <p>
+      {{site.homepage.description2}}</p>
+    {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}
+    {% endif %}
   </h2>
-     {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
+  {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
   {% include "components/featuredeventslist.njk" %}
   <div class="pagination">
-      {% if pagination.previous %}
-        <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
-      {% endif %}
-      {% if pagination.next %}
-        <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
-      {% endif %}
-  </div>
+    {% if pagination.previous %}
+      <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
+    {% endif %}
+    {% if pagination.next %}
+      <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
+    {% endif %}
+  </div> <!-- end pagination -->
+  </div> <!-- end container -->
 
+<div class="fullwidth">
+  <div class="container">
   <div id="whatis">
-  <h2 class="section-title">
-     {{ site.homepage.sectionHeading1}}
-  </h2>
-  <p class="desc"> {{site.homepage.description1}}</p>
-  <p class="button-wrap"><a href="{{ '/en/about/' | url }}" class="action">Learn more →</a></p>
-  </div>
-</div>
-
+    <h2 class="section-title">
+      {{ site.homepage.sectionHeading1}}
+    </h2>
+    <p class="desc">
+      {{site.homepage.description1}}</p>
+    <p class="button-wrap">
+      <a href="{{ '/en/about/' | url }}" class="action">Learn more →</a>
+    </p>
+  </div> <!-- end whatis -->
+</div> <!-- end container -->
+</div> <!-- end hero -->
