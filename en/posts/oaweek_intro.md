@@ -13,7 +13,7 @@ Our approach can be adjusted for any climate approach, but our examples here are
 ## Example: "what does 'GHG' mean and why does it matter?"
  
 Many of you will know this means "Greenhouse Gas" in a climate context, but do you know what these gases actually are? 
-To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the "data items in Wikipedia articles" (though it's much more than that), and this week (2022-10-20) it passed 100_000_000 items! It's multilingual ([ग्रीनहाउस गैस](https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8_%E0%A4%97%E0%A5%88%E0%A4%B8) and we've already had contributions to our notebooks in 7 languages)
+To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the "data items in Wikipedia articles" (though it's much more than that), and this week (2022-10-20) it passed 100_000_000 items! Here's the [wikidata item for "greenhouse gas"](https://www.wikidata.org/wiki/Q167336). It's multilingual ([ग्रीनहाउस गैस](https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8_%E0%A4%97%E0%A5%88%E0%A4%B8) and we've already had contributions to our notebooks in 7 languages)
 
 # How this week will work
 
