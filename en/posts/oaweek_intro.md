@@ -21,19 +21,25 @@ This is an experiment! Think "us", not "I" and "you". We have working examples o
 
 We expect that the content and approach will change a lot during the week. 
 
+
 Typical journeys might be:
+
+## term extraction
+
 * watch video on term extraction
 * try the Colab/Jupyter notebook on Chapter02 (tutorial)
 * have a question, so post on discussion list/Etherpad
 * then try Notebook on Chapter11 (experiment!)
 
-or:
+## creating dictionaries
+
 * watch video on creating dictionaries
 * watch video on markup using dictionaries
 * try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries
 * try on Chapter02 with `country.xml` (experiment!)
 
-or:
+## search OA literature
+
 * search for `climate justice` in EuropePMC using `pygetpapers`
 * automatically download (say) 50 papers. 
 * skim-read  to determine the ones you might be interested in
@@ -41,5 +47,5 @@ or:
 * repeat
 * analyse results with `docanalysis`
 
-
+We'll try to create a video and blog/tutorial for each of these
 
