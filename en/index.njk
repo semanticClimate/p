@@ -47,7 +47,7 @@ eleventyNavigation:
       <a href="{{ '/en/events/' | url }}">See all</a>
     </h2>
     <p>
-      {{site.homepage.description2}}</p>
+      {{site.homepage.description2 | safe }}</p>
     {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}
     {% endif %}
   </h2>
@@ -67,7 +67,7 @@ eleventyNavigation:
   <div class="container">
   <div id="whatis">
     <h2 class="section-title">
-      {{ site.homepage.sectionHeading1}}
+      {{ site.homepage.sectionHeading1 | safe }}
     </h2>
     <p class="desc">
       {{site.homepage.description1}}</p>
