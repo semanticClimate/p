@@ -1,3 +1,13 @@
+---
+title: Introduction to #semanticClimate
+date: 2022-10-22
+summary: Overview of the range of tools, content and activities 
+author: Peter Murray-Rust
+tags:
+  - pdf
+  - xml
+---
+
 # OA Week 2022: Introduction to #semanticClimate
 
 We are really excited to offer #semanticClimate for OA week. It's a relatively new way of communicating complex topics and 
