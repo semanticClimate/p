@@ -17,5 +17,18 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 
 # How this week will work
 
-This is an experiment! We have working examples of search and analysis tools and also content (IPCC) with videos and text. The week is largely asynchronous; you can try these in your own timezone at your own pace. There are discussion tools so you can leave questions or offer content. We'll aim to have a time which most people can access (probably 1230 UTC, where we normally meet with India and Americas) for an hour or so on Zoom. We stress "learning by doing" and also constantly evolving software, documentation, content, examples. These work "most of the time" but may depend on experience and location ([Perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta)); if you have problems, then identify them, and if you can, help to fix them.
+This is an experiment! Think "us", not "I" and "you". We have working examples of search and analysis tools and also content (IPCC) with videos and text. The week is largely asynchronous; you can try these in your own timezone at your own pace. There are discussion tools so you can leave questions or offer content. We'll aim to have a time which most people can access (probably 1230 UTC, where we normally meet with India and Americas) for an hour or so on Zoom. We stress "learning by doing" and also constantly evolving software, documentation, content, examples. These work "most of the time" but may depend on experience and location ([Perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta)); if you have problems, then identify them, and if you can, help to fix them.
 
+We expect that the content and approach will change a lot during the week. 
+
+Typical journeys might be:
+* watch video on term extraction
+* try the Colab/Jupyter notebook on Chapter02 (tutorial)
+* have a question, so post on discussion list/Etherpad
+* then try Notebook on Chapter11 (experiment!)
+
+or:
+* watch video on creating dictionaries
+* watch video on markup using dictionaries
+* try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries
+* try on Chapter02 with `country.xml` (experiment!)
