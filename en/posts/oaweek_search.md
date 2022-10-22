@@ -1,3 +1,13 @@
+---
+title: Searching for climate knowledge
+date: 2022-10-22
+summary: Approaches to search 
+author: Peter Murray-Rust
+tags:
+  - pdf
+  - xml
+---
+
 # OA Week 2022: searching for climate knowledge
 
 There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on

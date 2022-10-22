@@ -1,5 +1,5 @@
 ---
-title: Introduction to #semanticClimate
+title: Introduction to semanticClimate
 date: 2022-10-22
 summary: Overview of the range of tools, content and activities 
 author: Peter Murray-Rust
@@ -10,7 +10,7 @@ tags:
 
 # OA Week 2022: Introduction to #semanticClimate
 
-We are really excited to offer #semanticClimate for Open Access Week. It's a relatively new way of communicating complex topics and
+We are really excited to offer semanticClimate for OA week. It's a relatively new way of communicating complex topics and 
 it's best understood by actually "learning by doing". Don't be frightened by "semantic"; it means using machines to help
 with the bits machines are good at ([TimBl's semantic web](https://en.wikipedia.org/wiki/Semantic_Web)), freeing human brains to do what they are best at.
 
