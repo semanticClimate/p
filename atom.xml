@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T10:24:16Z</updated>
+	<updated>2022-10-22T10:29:03Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title></title>
 		<link href="/p/en/posts/oaweek_intro/"/>
-		<updated>2022-10-22T10:23:47Z</updated>
+		<updated>2022-10-22T10:28:28Z</updated>
 		<id>/p/en/posts/oaweek_intro/</id>
 		<content type="html">&lt;h1&gt;OA Week 2022: Introduction to #semanticClimate&lt;/h1&gt;
 &lt;p&gt;We are really excited to offer #semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
@@ -46,6 +46,15 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 &lt;li&gt;watch video on markup using dictionaries&lt;/li&gt;
 &lt;li&gt;try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries&lt;/li&gt;
 &lt;li&gt;try on Chapter02 with &lt;code&gt;country.xml&lt;/code&gt; (experiment!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;or:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;search for &lt;code&gt;climate justice&lt;/code&gt; in EuropePMC using &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;automatically download (say) 50 papers.&lt;/li&gt;
+&lt;li&gt;skim-read  to determine the ones you might be interested in&lt;/li&gt;
+&lt;li&gt;refine query (dates, Boolean queries, etc.)&lt;/li&gt;
+&lt;li&gt;repeat&lt;/li&gt;
+&lt;li&gt;analyse results with &lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
