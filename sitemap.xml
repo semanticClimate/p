@@ -127,11 +127,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
-    <lastmod>2022-10-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/past/</loc>
     <lastmod>2022-10-22</lastmod>
   </url>
@@ -143,6 +138,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
+    <lastmod>2022-10-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2022-10-22</lastmod>
   </url>
   
