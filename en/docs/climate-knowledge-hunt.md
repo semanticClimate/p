@@ -22,6 +22,15 @@ First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML.
 ### Extract abbreviations using [`docanalysis`](https://github.com/petermr/docanalysis) and write to an ami-dictionary
 `docanalysis` automatically extracts abbreviations, their full forms, and potential Wikidata IDs.
 
+```
+<entry name="VRE" term="Variable Renewable Energy" wikidataID="['//www.wikidata.org/wiki/Q7915732']"/>
+  <entry name="SDGs" term="sustainable development goals" wikidataID="['//www.wikidata.org/wiki/Q7649586']"/>
+  <entry name="TPES" term="total primary energy  supply" wikidataID="[]"/>
+  <entry name="TFC" term="total final energy consumption" wikidataID="[]"/>
+  <entry name="CSP" term="Concentrating  solar  power" wikidataID="[]"/>
+  <entry name="LIBs" term="lithium-ion batteries" wikidataID="['//www.wikidata.org/wiki/Q106988181']"/>
+```
+
 
 As an example, [www.wikidata.org/wiki/Q7915732](www.wikidata.org/wiki/Q7915732) takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: [https://en.wikipedia.org/wiki/Variable_renewable_energy](https://en.wikipedia.org/wiki/Variable_renewable_energy).
 
