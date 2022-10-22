@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T17:28:24Z</updated>
+	<updated>2022-10-22T17:42:23Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -18,14 +18,16 @@
 		<updated>2022-10-22T00:00:00Z</updated>
 		<id>/p/en/posts/oaweek_search/</id>
 		<content type="html">&lt;h1&gt;OA Week 2022: searching for climate knowledge&lt;/h1&gt;
-&lt;p&gt;There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on&lt;/p&gt;
+&lt;p&gt;There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on:&lt;/p&gt;
+&lt;h2&gt;natural language processing (NLP)&lt;/h2&gt;
+&lt;p&gt;This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words, diacritics, inflexions sentence structure and much more.&lt;/p&gt;
 &lt;h2&gt;keyword (supervised) search&lt;/h2&gt;
-&lt;p&gt;The commonest way of searching (Google, Bing, etc.). It relies on the content being text, or indexed into text. For specific terms (e.g. names,
-scientific objects)it can be precise but for general terms (e.g. &amp;quot;justice&amp;quot;) it can be very broad. Often the precise term doesn&#39;t occur in the
+&lt;p&gt;The commonest way of searching (Google, Bing, etc.). It usually relies on the content being text, or indexed into text. For specific terms (e.g. names,
+scientific objects) it can be precise but for general terms (e.g. &amp;quot;justice&amp;quot;) it can be very broad. Often the precise term doesn&#39;t occur in the
 article and we need synonyms (e.g. &amp;quot;nitrous oxide&amp;quot; is a synonym for &amp;quot;N2O&amp;quot;).
-We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&lt;/strong&gt; with precise terms, synonyms and translations.&lt;/p&gt;
+We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&lt;/strong&gt; with precise terms, synonyms and translations which are used for &lt;strong&gt;supervised&lt;/strong&gt; search. We use NLP tools and Wikidata to help precision (e.g. &lt;em&gt;stemming&lt;/em&gt; and &lt;em&gt;lexemes&lt;/em&gt;)&lt;/p&gt;
 &lt;h2&gt;unsupervised search&lt;/h2&gt;
-&lt;p&gt;We&lt;/p&gt;
+&lt;p&gt;When we don&#39;t know what the content is like or what we should search for, we use &lt;strong&gt;unsupervised&lt;/strong&gt; search. &amp;quot;Tell me the most important terms in this document&amp;quot;, &amp;quot;which documents are most similar to each other&amp;quot;. We use Natura&lt;/p&gt;
 </content>
 	</entry>
 	
