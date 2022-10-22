@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-22T16:01:58Z</updated>
+	<updated>2022-10-22T16:32:58Z</updated>
 	<id>https://semanticclimate.netlify.app/</id>
 	<author>
 		<name>Semantic Climate</name>
@@ -14,8 +14,26 @@
 	
 	<entry>
 		<title></title>
+		<link href="/p/en/posts/oaweek_search/"/>
+		<updated>2022-10-22T16:32:32Z</updated>
+		<id>/p/en/posts/oaweek_search/</id>
+		<content type="html">&lt;h1&gt;Openaccess week: searching for climate knowledge&lt;/h1&gt;
+&lt;p&gt;There several ways of searching for knowledge.&lt;/p&gt;
+&lt;h2&gt;prepared navigation (e.g. book, movie)&lt;/h2&gt;
+&lt;h2&gt;keyword (supervised) search&lt;/h2&gt;
+&lt;p&gt;The commonest way of searching (Google, Bing, etc.). It relies on the content being text, or indexed into text. For specific terms (e.g. names,
+scientific objects)it can be precise but for general terms (e.g. &amp;quot;justice&amp;quot;) it can be very broad. Often the precise term doesn&#39;t occur in the
+article and we need synonyms (e.g. &amp;quot;nitrous oxide&amp;quot; is a synonym for &amp;quot;N2O&amp;quot;).
+We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&lt;/strong&gt;
+dictionaries.&lt;/p&gt;
+&lt;h2&gt;unsupervised search&lt;/h2&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
 		<link href="/p/en/posts/oaweek_intro/"/>
-		<updated>2022-10-22T16:01:36Z</updated>
+		<updated>2022-10-22T16:32:32Z</updated>
 		<id>/p/en/posts/oaweek_intro/</id>
 		<content type="html">&lt;h1&gt;OA Week 2022: Introduction to #semanticClimate&lt;/h1&gt;
 &lt;p&gt;We are really excited to offer #semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
