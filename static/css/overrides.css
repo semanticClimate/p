@@ -11,6 +11,18 @@
   padding: 10px 0;
 }
 
+/* definition lists */
+
+dt {
+  font-weight: bold;
+  color: var(--special);
+}
+
+dd {
+  margin-inline-start: 0;
+  margin-bottom: 10px;
+}
+
 body.dark a,
 .hero h1,
 .hero p {

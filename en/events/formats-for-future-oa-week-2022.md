@@ -7,33 +7,55 @@ registration_link: https://www.eventbrite.de/e/formats-for-future-liberating-and
 tags:
   - semanticclimate
   - outreach
+  - hackathon
 ---
 
 ## Liberating and Semantify IPCC Reports
 
-Invitation to participate in the hackathon to liberate and semantify the IPCC climate change reports
+Invitation to participate in the **Formats For Future** hackathon during **Open Access Week 2022 from October 24 to 30** in order to liberate and semantify the IPCC climate change reports.
 
-<div class="infobox">
+<p><a href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Sign up on EventBrite to take part and meet the team for support and discussion</a></p>
+<p><a href="https://github.com/petermr/petermr/discussions/" target="_blank">&rarr; Join the discussion</a></p>
 
-<h3>+++ Open Access Week 2022 - October 24-30 +++</h3>
+<p><a href="https://twitter.com/semanticClimate" target="_blank">&rarr; Follow #semanticClimate on Twitter</a></p>
 
-&raquo; [Sign up to take part on EventBrite](https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087)
+&rarr; Tags: **#semanticClimate** **#FormatsForFuture**
 
-&raquo; [Join the discussion](https://github.com/petermr/petermr/discussions/)
-
-&raquo; Tags to use: **#semanticClimate** **#FormatsForFuture**
-
-</div>
 
 ## What is the Formats For Future Hackathon?
 
-*Formats For Future* is a distributed and asynchronous hackathon taking place over the International Open Access Week 2022 to support #semanticClimate in liberating the IPCC reports and other climate change scientific knowledge.
+_Formats For Future_ is a distributed and asynchronous hackathon taking place over the International Open Access Week 2022 to support #semanticClimate in liberating the IPCC reports and other climate change scientific knowledge.
 
 Scientific knowledge is one of the key tools humanity has available to save itself from the worst effects of climate change. The IPCC reports – which outline the effects of climate change, the evidence, likely outcomes, and mitigating actions – are published as a set of PDF files which makes them extremely hard to read by humans or machines, preventing their widespread use.
 
 The #semanticClimate group looks to liberate the IPCC reports by making their content accessible, usable, and semantified – with the goal of making its knowledge accessible and giving citizens next generation publishing tools to work further with the reports.
 
-#semanticClimate is a group of young Indian scientists volunteers developing tools and processes to make the more than 10,000 pages IPCC reports semantic. They recently ran a very successful hackathon '[The Climate Knowledge Hunt Hackathon](https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-tickets-414825362827)' attended by Indian policymakers and climate organisations in September 2022.
+#semanticClimate is a group of young Indian scientists volunteers developing tools and processes to make the more than 10,000 pages IPCC reports semantic. They recently ran a very successful hackathon [The Climate Knowledge Hunt Hackathon](https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-tickets-414825362827) attended by Indian policymakers and climate organisations in September 2022.
+
+## Why register?
+
+Of course you can head over [to the documentation pages](../../docs) and start right away on your own or with your team. But if you want to get some explanation and support from the #semanticClimate team, you should register. 
+
+Afterwards we will provide you a Zoom link were you can **meet the team every day at 12:30 UTC**. Check a time zone converter of your choice for how late that is at your place.
+
+{% register registration_link, "_blank" %}
+
+### Team meetings during Open Access Week at 12:30 UTC
+
+The #semanticClimate team offers daily sessions for explanation, exchange, feedback and support.
+
+<dl>
+<dt>Monday, 12:30 UTC</dt>
+<dd>Getting started: Words, Abbreviations and Wordcloud</dd>
+<dt>Tuesday, 12:30 UTC</dt>
+<dd>Dictionaries and Wikidata</dd>
+<dt>Wednesday, 12:30 UTC</dt>
+<dd>Markup with dictionaries</dd>
+<dt>Thursday, 12:30 UTC</dt>
+<dd>pygetpapers for Climate Justice</dd>
+<dt>Friday, 12:30 UTC</dt>
+<dd>Summing up, feedback, ideas and next steps</dd>
+</dl>
 
 ## How the hackathon works
 
@@ -58,7 +80,6 @@ It is anticipated that only 3 hours minimum volunteer time per person is needed 
 
 **Hands-on volunteers:** Contributions are needed to: use the workflow and give feedback; help create dictionaries; create documentation and visualisations, and; map workflows.
 
-{% register registration_link, "_blank" %}
 
 ### Sub-tasks
 
