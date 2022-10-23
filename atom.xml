@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-23T15:48:08Z</updated>
+	<updated>2022-10-23T15:49:15Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -183,6 +183,72 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 &lt;li&gt;analyse results with &lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We&#39;ll try to create a video and blog/tutorial for each of these.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Communication within semanticClimate</title>
+		<link href="/p/en/posts/oaweek_communication/"/>
+		<updated>2022-10-22T00:00:00Z</updated>
+		<id>/p/en/posts/oaweek_communication/</id>
+		<content type="html">&lt;h1&gt;Basis of collaboration&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;#semanticClimate&lt;/code&gt; is essentially a bottom-up, volunteer, meritocratic project. We share the need to create
+working systems where different people contribute a variety of tools and functionality. This is common in OpenSource
+projects but requires communal discipline:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;we need to know what each of us is doing&lt;/li&gt;
+&lt;li&gt;we can help each other find and overcome problems&lt;/li&gt;
+&lt;li&gt;we need to know that the pieces fit together and work properly.&lt;/li&gt;
+&lt;li&gt;we need to interact with the outside world, especially those who want to use the tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We communicate both &lt;em&gt;synchronously&lt;/em&gt; (2 or more people talking in a group) and &lt;em&gt;asynchronously&lt;/em&gt; where we leaves messages
+that can be answered, re-answered, etc.&lt;/p&gt;
+&lt;p&gt;This is not trivial. The world has created a variety of tools and here are the ones we have found most useful.
+Access rights are always a problem (we have been Zoom-bombed; not fun).&lt;/p&gt;
+&lt;h1&gt;Asynchronous&lt;/h1&gt;
+&lt;h2&gt;Open Notebook Science&lt;/h2&gt;
+&lt;p&gt;As far as possible everything we do is available to the outside world as soon as it is done and is permanent.
+See &lt;a href=&quot;https://en.wikipedia.org/wiki/Open-notebook_science&quot;&gt;Open Notebook Science&lt;/a&gt;. The methods we use include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github repositories (mainly code and documents)&lt;/li&gt;
+&lt;li&gt;Github Issues (mainly for problems, e.g. bugs)&lt;/li&gt;
+&lt;li&gt;Jupyter/Colab Notebooks (mainly for learning and simple prototyping)&lt;/li&gt;
+&lt;li&gt;Github Discussions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;openVirus Slack&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;(openVirus is a historic name where semanticCliamte is discussed)&lt;/em&gt;
+Slack is neither permanent nor public. We use it internally for rapid ephemeral messages but the unpaid Slack dies
+after ca. 2 months. If you want to join the project more permanently we can add your email.&lt;/p&gt;
+&lt;h2&gt;Etherpad&lt;/h2&gt;
+&lt;p&gt;This is a very ephemeral shared (text) pad without structure that &lt;em&gt;anyone&lt;/em&gt; can write on. It preserves history (character-by-character).
+It uses security-by-obscurity (i.e. the URL is not discoverable by chance) and is effortless to use. It&#39;s very useful for things like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;interchanging URLs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;making ad hoc lists&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;introductions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;text-cut-and-paste&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Regard all content as public.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;We&#39;ll open an Etherpad for the duration of the OpenAccess Week, and delete a few days after&lt;/strong&gt;&lt;/em&gt;.
+If you want something, copy it somewhere safe.&lt;/p&gt;
+&lt;h1&gt;Synchronous&lt;/h1&gt;
+&lt;p&gt;We use Skype, Teams (when we have to) but for OAWeek we only use:&lt;/p&gt;
+&lt;h2&gt;Zoom&lt;/h2&gt;
+&lt;p&gt;We&#39;ve used many tools over the years, e.g. Discord, Gathertown (fun tool) but generally use Zoom in paid-for mode (University of Cambridge).
+Sometimes we use &lt;em&gt;breakout rooms&lt;/em&gt; where separate conmversations can take place but for OAWeek we&#39;d plan to have just the
+main room. Zoom Chat is ephemeral - dispappears after the session - (and tricky to copy). You&#39;ll need an invite from us.
+PM-R is guaranteeing to be present at 1230 UTC each day. If there is a critucal mass of people at other times we can
+open an impromptu session.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
