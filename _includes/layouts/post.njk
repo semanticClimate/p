@@ -19,7 +19,7 @@ layout: layouts/base.njk
     <div class="card__tags">
       {% for tag in tags %}
         {% if tag != 'post' %}
-          <a href="{{ '/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
+          <a href="{{ '/en/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
           {%- if not loop.last %}{% endif %}
         {% endif %}
       {% endfor %}
