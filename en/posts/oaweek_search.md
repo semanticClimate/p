@@ -14,7 +14,9 @@ There several ways of searching for knowledge. Prepared navigation (e.g. book, m
 
 ## natural language processing (NLP)
 
-This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words, diacritics, inflexions sentence structure and much more. 
+This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse 
+documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words, 
+diacritics, inflexions sentence structure and much more. 
 
 ## keyword (supervised) search
 
@@ -25,4 +27,22 @@ We tackle this by creating a large expandable set of **dictionaries** with preci
 
 ## unsupervised search
 
-When we don't know what the content is like or what we should search for, we use **unsupervised** search. "Tell me the most important terms in this document", "which documents are most similar to each other". We use Natura
+When we don't know what the content is like or what we should search for, we use **unsupervised** 
+search. "Tell me the most important terms in this document", "which documents are most similar to 
+each other". We use NLP tools to identify tokens (words, phrases and sentences) and parse them (e.g. finding parts
+of speech (PoS tagging)). A common ML approach is to measure the lexical or linguistic distance (similarity) between
+tokens and create clusters of tokens. (To understand clustering create an [OpenKnowledgeMap](https://openknowledgemaps.org) which 
+analyses Open Access documents).
+
+## Toolkits and material
+
+Over the last 10-20 yeards there has been a huge increase in cutting-edge Open NLP tools: wordlists, parsers, ML tools. 
+These exist in most common languages (Java, C++, R); here we use Python which is very comprehensive (and often 
+wraps the C++ or Java tools). Most of the functionality is in `nltk` or `spaCy` and these can be automatically 
+called from our tool `docanalysis` (created by Shweata N Hegde). (Think of `nltk` , `spaCy` as components (gearbox, wheels) and 
+`docanalysis` as a finished vehicle). There are more than 50 components in our tools all of which are automatically 
+loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations
+
+## abbreviations
+
+(more later)
