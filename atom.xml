@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-23T15:34:29Z</updated>
+	<updated>2022-10-23T15:48:08Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -110,14 +110,30 @@ are research tools that can address this but they are problem-specific.&lt;/p&gt
 		<content type="html">&lt;h1&gt;OA Week 2022: searching for climate knowledge&lt;/h1&gt;
 &lt;p&gt;There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on:&lt;/p&gt;
 &lt;h2&gt;natural language processing (NLP)&lt;/h2&gt;
-&lt;p&gt;This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words, diacritics, inflexions sentence structure and much more.&lt;/p&gt;
+&lt;p&gt;This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse
+documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words,
+diacritics, inflexions sentence structure and much more.&lt;/p&gt;
 &lt;h2&gt;keyword (supervised) search&lt;/h2&gt;
 &lt;p&gt;The commonest way of searching (Google, Bing, etc.). It usually relies on the content being text, or indexed into text. For specific terms (e.g. names,
 scientific objects) it can be precise but for general terms (e.g. &amp;quot;justice&amp;quot;) it can be very broad. Often the precise term doesn&#39;t occur in the
 article and we need synonyms (e.g. &amp;quot;nitrous oxide&amp;quot; is a synonym for &amp;quot;N2O&amp;quot;).
 We tackle this by creating a large expandable set of &lt;strong&gt;dictionaries&lt;/strong&gt; with precise terms, synonyms and translations which are used for &lt;strong&gt;supervised&lt;/strong&gt; search. We use NLP tools and Wikidata to help precision (e.g. &lt;em&gt;stemming&lt;/em&gt; and &lt;em&gt;lexemes&lt;/em&gt;)&lt;/p&gt;
 &lt;h2&gt;unsupervised search&lt;/h2&gt;
-&lt;p&gt;When we don&#39;t know what the content is like or what we should search for, we use &lt;strong&gt;unsupervised&lt;/strong&gt; search. &amp;quot;Tell me the most important terms in this document&amp;quot;, &amp;quot;which documents are most similar to each other&amp;quot;. We use Natura&lt;/p&gt;
+&lt;p&gt;When we don&#39;t know what the content is like or what we should search for, we use &lt;strong&gt;unsupervised&lt;/strong&gt;
+search. &amp;quot;Tell me the most important terms in this document&amp;quot;, &amp;quot;which documents are most similar to
+each other&amp;quot;. We use NLP tools to identify tokens (words, phrases and sentences) and parse them (e.g. finding parts
+of speech (PoS tagging)). A common ML approach is to measure the lexical or linguistic distance (similarity) between
+tokens and create clusters of tokens. (To understand clustering create an &lt;a href=&quot;https://openknowledgemaps.org&quot;&gt;OpenKnowledgeMap&lt;/a&gt; which
+analyses Open Access documents).&lt;/p&gt;
+&lt;h2&gt;Toolkits and material&lt;/h2&gt;
+&lt;p&gt;Over the last 10-20 yeards there has been a huge increase in cutting-edge Open NLP tools: wordlists, parsers, ML tools.
+These exist in most common languages (Java, C++, R); here we use Python which is very comprehensive (and often
+wraps the C++ or Java tools). Most of the functionality is in &lt;code&gt;nltk&lt;/code&gt; or &lt;code&gt;spaCy&lt;/code&gt; and these can be automatically
+called from our tool &lt;code&gt;docanalysis&lt;/code&gt; (created by Shweata N Hegde). (Think of &lt;code&gt;nltk&lt;/code&gt; , &lt;code&gt;spaCy&lt;/code&gt; as components (gearbox, wheels) and
+&lt;code&gt;docanalysis&lt;/code&gt; as a finished vehicle). There are more than 50 components in our tools all of which are automatically
+loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations&lt;/p&gt;
+&lt;h2&gt;abbreviations&lt;/h2&gt;
+&lt;p&gt;(more later)&lt;/p&gt;
 </content>
 	</entry>
 	

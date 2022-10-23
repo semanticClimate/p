@@ -97,14 +97,30 @@
   <h1>OA Week 2022: searching for climate knowledge</h1>
 <p>There several ways of searching for knowledge. Prepared navigation (e.g. book, movie) is one but is reader-dependent; we concentrate on:</p>
 <h2>natural language processing (NLP)</h2>
-<p>This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words, diacritics, inflexions sentence structure and much more.</p>
+<p>This uses mixtures of sets of words (dictionaries), linguistic rules and machine learning to analyse
+documents. NLP is increasingly multilanguage and has rules for parts of speech, compound words,
+diacritics, inflexions sentence structure and much more.</p>
 <h2>keyword (supervised) search</h2>
 <p>The commonest way of searching (Google, Bing, etc.). It usually relies on the content being text, or indexed into text. For specific terms (e.g. names,
 scientific objects) it can be precise but for general terms (e.g. &quot;justice&quot;) it can be very broad. Often the precise term doesn't occur in the
 article and we need synonyms (e.g. &quot;nitrous oxide&quot; is a synonym for &quot;N2O&quot;).
 We tackle this by creating a large expandable set of <strong>dictionaries</strong> with precise terms, synonyms and translations which are used for <strong>supervised</strong> search. We use NLP tools and Wikidata to help precision (e.g. <em>stemming</em> and <em>lexemes</em>)</p>
 <h2>unsupervised search</h2>
-<p>When we don't know what the content is like or what we should search for, we use <strong>unsupervised</strong> search. &quot;Tell me the most important terms in this document&quot;, &quot;which documents are most similar to each other&quot;. We use Natura</p>
+<p>When we don't know what the content is like or what we should search for, we use <strong>unsupervised</strong>
+search. &quot;Tell me the most important terms in this document&quot;, &quot;which documents are most similar to
+each other&quot;. We use NLP tools to identify tokens (words, phrases and sentences) and parse them (e.g. finding parts
+of speech (PoS tagging)). A common ML approach is to measure the lexical or linguistic distance (similarity) between
+tokens and create clusters of tokens. (To understand clustering create an <a href="https://openknowledgemaps.org">OpenKnowledgeMap</a> which
+analyses Open Access documents).</p>
+<h2>Toolkits and material</h2>
+<p>Over the last 10-20 yeards there has been a huge increase in cutting-edge Open NLP tools: wordlists, parsers, ML tools.
+These exist in most common languages (Java, C++, R); here we use Python which is very comprehensive (and often
+wraps the C++ or Java tools). Most of the functionality is in <code>nltk</code> or <code>spaCy</code> and these can be automatically
+called from our tool <code>docanalysis</code> (created by Shweata N Hegde). (Think of <code>nltk</code> , <code>spaCy</code> as components (gearbox, wheels) and
+<code>docanalysis</code> as a finished vehicle). There are more than 50 components in our tools all of which are automatically
+loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations</p>
+<h2>abbreviations</h2>
+<p>(more later)</p>
 
 
   
