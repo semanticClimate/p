@@ -14,12 +14,9 @@ tags:
 
 Invitation to participate in the **Formats For Future** hackathon during **Open Access Week 2022 from October 24 to 30** in order to liberate and semantify the IPCC climate change reports.
 
-<p><a href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Sign up on EventBrite to take part and meet the team for support and discussion</a></p>
-<p><a href="https://github.com/petermr/petermr/discussions/" target="_blank">&rarr; Join the discussion</a></p>
+### How to get started right away
 
-<p><a href="https://twitter.com/semanticClimate" target="_blank">&rarr; Follow #semanticClimate on Twitter</a></p>
-
-&rarr; Tags: **#semanticClimate** **#FormatsForFuture**
+If you want to start right away with the tools and material #semanticClimate provides, [read our posts in the blog section](../../posts/).
 
 
 ## What is the Formats For Future Hackathon?
@@ -34,11 +31,18 @@ The #semanticClimate group looks to liberate the IPCC reports by making their co
 
 ## Why register?
 
-Of course you can head over [to the documentation pages](../../docs) and start right away on your own or with your team. But if you want to get some explanation and support from the #semanticClimate team, you should register. 
+Of course you can head over [to the blog section](../../posts) and start right away on your own or with your team. But if you want to get some explanation and support from the #semanticClimate team, you should register. 
 
 Afterwards we will provide you a Zoom link were you can **meet the team every day at 12:30 UTC**. Check a time zone converter of your choice for how late that is at your place.
 
-{% register registration_link, "_blank" %}
+<p><a href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Register on EventBrite to take part and meet the team for support and discussion</a></p>
+
+<p><a href="https://github.com/petermr/petermr/discussions/" target="_blank">&rarr; Join the discussion</a></p>
+
+<p><a href="https://twitter.com/semanticClimate" target="_blank">&rarr; Follow #semanticClimate on Twitter</a></p>
+
+&rarr; Tags: **#semanticClimate** **#FormatsForFuture**
+
 
 ### Team meetings during Open Access Week at 12:30 UTC
 

@@ -175,7 +175,7 @@ footer p {
 
 .video-link {
   padding: 5px 20px;
-  background: #61873f;
+  background: var(--secondary-darker);
   color: #fff;
   border-radius: 4px;
 }
