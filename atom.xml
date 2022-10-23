@@ -5,12 +5,102 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-23T14:54:39Z</updated>
+	<updated>2022-10-23T15:34:29Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Explaining semantic</title>
+		<link href="/p/en/posts/oaweek_semantic/"/>
+		<updated>2022-10-23T00:00:00Z</updated>
+		<id>/p/en/posts/oaweek_semantic/</id>
+		<content type="html">&lt;h1&gt;What&#39;s semantic?&lt;/h1&gt;
+&lt;p&gt;&amp;quot;semantic&amp;quot; means that at some level machines can &amp;quot;understand&amp;quot; data (in this case text).&lt;/p&gt;
+&lt;h2&gt;example:&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Two countries (China, India) contributed more than 50% to the net
+6.5 GtCO2eqyr-1 increase in GHG emissions during 2010-2019 (at
+39% and 14%, respectively), while ten countries (China, India,
+Indonesia, Vietnam, Iran, Turkey, Saudi Arabia, Pakistan, Russian
+Federation, Brazil) jointly contributed about 75% (Figure 2.9) (see
+also Minx et al., 2021; Crippa et al., 2021).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As a human you understand some of this and not other parts; by default a machine &amp;quot;understands&amp;quot; nothing. It sees
+&lt;code&gt;&amp;quot;T&amp;quot;, &amp;quot;w&amp;quot;, &amp;quot;o&amp;quot;, &amp;quot;c&amp;quot;, &amp;quot;o&amp;quot; ...&lt;/code&gt;
+(no words, no sopaces, no newlines and no understanding of the)
+We need to give it rules (or models) that give it the power to parse this into objects it can process.&lt;/p&gt;
+&lt;h2&gt;syntax&lt;/h2&gt;
+&lt;p&gt;Unfortunately the reports are only available (2022-10) in PDF. Unlike HTML this is very unpleasant to process
+and introduces errors. PDF2HTML is the weakest part of our toolchain. If the authors could make their text-processor
+output available it would be a huge help.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;NLTK&lt;/code&gt; and &lt;code&gt;spaCy&lt;/code&gt; and other tools have methods for parsing sentences and extracting the syntax. Here&#39;s
+an online part of speeh tagger and chunker &lt;a href=&quot;https://www.link.cs.cmu.edu/cgi-bin/link/construct-page-4.cgi#submit&quot;&gt;parser from CMU site&lt;/a&gt; you can try it!
+It gives:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(S (NP (NP Two countries)
+       (SBAR (S (NP China , India)
+                (VP contributed more
+                    (PP than
+                        (NP 50))
+                    (PP to
+                        (NP (QP the net 6.5)
+                            GtCO2eqyr-1))))))
+   (VP increase
+       (PP in
+           (NP GHG emissions))
+       (PP during
+           (NP 2010))))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;It picks out nouns/noun_phrases (NP)
+&lt;code&gt;/Two countries/ /China , India/ /the net 6.5) GtCO2eqyr-1)/ /GHG emissions/ /2010/&lt;/code&gt;
+(gets one wrong &lt;code&gt;increase&lt;/code&gt; is a noun not a verb). And verbs VP (&lt;code&gt;contributed&lt;/code&gt;), and prepositions (PP)
+but has no idea what they mean.&lt;/p&gt;
+&lt;h2&gt;general semantics&lt;/h2&gt;
+&lt;p&gt;We concentrate on nouns and now add meaning to them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;code&gt;Two countries&lt;/code&gt;&lt;/em&gt; : &lt;code&gt;NLTK&lt;/code&gt; knows about numbers and also that &lt;code&gt;countries&lt;/code&gt; is the plural of &lt;code&gt;country&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;code&gt;China , India&lt;/code&gt;&lt;/em&gt; : &lt;code&gt;spaCy&lt;/code&gt; knows these are countries&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;code&gt;6.5&lt;/code&gt;&lt;/em&gt; : &lt;code&gt;NLTK&lt;/code&gt; and &lt;code&gt;spaCy&lt;/code&gt; know is a floating point number&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;code&gt;2010&lt;/code&gt;&lt;/em&gt; : the tools know this could be a date&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Wikidata semantics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;code&gt;GHG&lt;/code&gt;&lt;/em&gt; : we can automatically look this up in Wikidata.org and get:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&quot;language-greenhouse&quot;&gt;as in an atmosgphere of a planet (usually Earth) that absorbs 
+and emits radiation within the thermal infrared range and 
+causes the greenhouse effect
+48 statements, 81 sitelinks - 07:22, 15 October 2022
+
+Marshfield Municipal Airport (Q650060) : GHG
+airport
+22 statements, 5 sitelinks - 05:58, 3 October 2022
+
+etc.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Wikidata has several entries for &lt;code&gt;GHG&lt;/code&gt;. The top one is what we want, with an &lt;code&gt;identifier&lt;/code&gt; of
+&lt;code&gt;Q167336&lt;/code&gt; . This illustrates &lt;em&gt;ambiguity&lt;/em&gt; - common words and acronyms/abbreviations often have multiple meanings.
+In this case  we could see if the nouns in the &lt;code&gt;description&lt;/code&gt; (&amp;quot;gas&amp;quot;, &amp;quot;atmosphere&amp;quot;, &amp;quot;planet&amp;quot;, &amp;quot;radiation&amp;quot;...)
+are common in the text of the report. That&#39;s one role of our &lt;code&gt;dictionaries&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;report semantics&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;GtCO2eqyr-1&lt;/code&gt; occurs frequently and we can collect these sorts of terms. However they need human interpretation (this is badly
+formatted and should read
+GtCO&lt;sub&gt;2&lt;/sub&gt;eq yr&lt;sup&gt;-1&lt;/sup&gt;. It reads &amp;quot;gigatonnes of carbon dioxide equivalents per year&amp;quot;. We also tackle this
+by creating it as an entry (or synonym) in a climateChange dictionary)&lt;/p&gt;
+&lt;h2&gt;hyperlinks&lt;/h2&gt;
+&lt;p&gt;Hyperlinks are assumed, not explicit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;(Figure 2.9)&lt;/code&gt; is a link to Figure 2.9 (which is not explicitly semantically labelled)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;(see also Minx et al., 2021; Crippa et al., 2021).&lt;/code&gt; are 2 links to the bibliography (again needs messy
+heuristics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;argumentation&lt;/h2&gt;
+&lt;p&gt;We&#39;d like to extract more meaning than just the nouns (&amp;quot;which countries contributed most to the emissions&amp;quot;). There
+are research tools that can address this but they are problem-specific.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Searching for climate knowledge</title>
