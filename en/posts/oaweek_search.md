@@ -43,6 +43,27 @@ called from our tool `docanalysis` (created by Shweata N Hegde). (Think of `nltk
 `docanalysis` as a finished vehicle). There are more than 50 components in our tools all of which are automatically 
 loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations
 
-## abbreviations
+## abbreviations and acronyms
 
-(more later)
+One of the most important places to add semantics is acronyms, abbreviations or initialism (we'll crudely use "abbreviation"
+from here). What's "AFOLU"? There are several ways of automating this partly of fully.
+* many documents have an explicit list of acronyms at the start or end
+* syntax such as
+```GHG (greenhouse gas)```
+```greenhouse gas (GHG)```
+implies the linkage.
+
+Tools such as `spaCy` have rules and models to extract `abbreviation / meaning` pairs
+
+### Wikipedia lookup
+Wikipedia contains a lot of disambiguation pages for abbreviations. Since WP covers all disciplines, we need to 
+*disambiguate* the hits. This is heuristic and can use the description in the page (to see if the words relate to 
+the discipline.). 
+
+### Wikidata lookup
+Wikidata can lookup the initialism and return a list of hits. These usually have descriptions which agains can be 
+matched for relevance.
+
+
+
+
