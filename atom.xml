@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-23T16:49:27Z</updated>
+	<updated>2022-10-23T21:49:25Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -132,8 +132,24 @@ wraps the C++ or Java tools). Most of the functionality is in &lt;code&gt;nltk&l
 called from our tool &lt;code&gt;docanalysis&lt;/code&gt; (created by Shweata N Hegde). (Think of &lt;code&gt;nltk&lt;/code&gt; , &lt;code&gt;spaCy&lt;/code&gt; as components (gearbox, wheels) and
 &lt;code&gt;docanalysis&lt;/code&gt; as a finished vehicle). There are more than 50 components in our tools all of which are automatically
 loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations&lt;/p&gt;
-&lt;h2&gt;abbreviations&lt;/h2&gt;
-&lt;p&gt;(more later)&lt;/p&gt;
+&lt;h2&gt;abbreviations and acronyms&lt;/h2&gt;
+&lt;p&gt;One of the most important places to add semantics is acronyms, abbreviations or initialism (we&#39;ll crudely use &amp;quot;abbreviation&amp;quot;
+from here). What&#39;s &amp;quot;AFOLU&amp;quot;? There are several ways of automating this partly of fully.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;many documents have an explicit list of acronyms at the start or end&lt;/li&gt;
+&lt;li&gt;syntax such as
+&lt;code&gt;GHG (greenhouse gas)&lt;/code&gt;
+&lt;code&gt;greenhouse gas (GHG)&lt;/code&gt;
+implies the linkage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tools such as &lt;code&gt;spaCy&lt;/code&gt; have rules and models to extract &lt;code&gt;abbreviation / meaning&lt;/code&gt; pairs&lt;/p&gt;
+&lt;h3&gt;Wikipedia lookup&lt;/h3&gt;
+&lt;p&gt;Wikipedia contains a lot of disambiguation pages for abbreviations. Since WP covers all disciplines, we need to
+&lt;em&gt;disambiguate&lt;/em&gt; the hits. This is heuristic and can use the description in the page (to see if the words relate to
+the discipline.).&lt;/p&gt;
+&lt;h3&gt;Wikidata lookup&lt;/h3&gt;
+&lt;p&gt;Wikidata can lookup the initialism and return a list of hits. These usually have descriptions which agains can be
+matched for relevance.&lt;/p&gt;
 </content>
 	</entry>
 	

@@ -119,8 +119,24 @@ wraps the C++ or Java tools). Most of the functionality is in <code>nltk</code> 
 called from our tool <code>docanalysis</code> (created by Shweata N Hegde). (Think of <code>nltk</code> , <code>spaCy</code> as components (gearbox, wheels) and
 <code>docanalysis</code> as a finished vehicle). There are more than 50 components in our tools all of which are automatically
 loaded/installed into your machine or Colab. These components provide different ways of searching; an example is abbreviations</p>
-<h2>abbreviations</h2>
-<p>(more later)</p>
+<h2>abbreviations and acronyms</h2>
+<p>One of the most important places to add semantics is acronyms, abbreviations or initialism (we'll crudely use &quot;abbreviation&quot;
+from here). What's &quot;AFOLU&quot;? There are several ways of automating this partly of fully.</p>
+<ul>
+<li>many documents have an explicit list of acronyms at the start or end</li>
+<li>syntax such as
+<code>GHG (greenhouse gas)</code>
+<code>greenhouse gas (GHG)</code>
+implies the linkage.</li>
+</ul>
+<p>Tools such as <code>spaCy</code> have rules and models to extract <code>abbreviation / meaning</code> pairs</p>
+<h3>Wikipedia lookup</h3>
+<p>Wikipedia contains a lot of disambiguation pages for abbreviations. Since WP covers all disciplines, we need to
+<em>disambiguate</em> the hits. This is heuristic and can use the description in the page (to see if the words relate to
+the discipline.).</p>
+<h3>Wikidata lookup</h3>
+<p>Wikidata can lookup the initialism and return a list of hits. These usually have descriptions which agains can be
+matched for relevance.</p>
 
 
   
