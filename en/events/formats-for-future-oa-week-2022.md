@@ -46,13 +46,13 @@ The #semanticClimate team offers daily sessions for explanation, exchange, feedb
 
 <dl>
 <dt>Monday, 12:30 UTC</dt>
-<dd>Getting started: Words, Abbreviations and Wordcloud</dd>
+<dd>Getting started: Words, abbreviations and wordcloud</dd>
 <dt>Tuesday, 12:30 UTC</dt>
 <dd>Dictionaries and Wikidata</dd>
 <dt>Wednesday, 12:30 UTC</dt>
 <dd>Markup with dictionaries</dd>
 <dt>Thursday, 12:30 UTC</dt>
-<dd>pygetpapers for Climate Justice</dd>
+<dd><a href="https://pypi.org/project/pygetpapers/" target="_blank">pygetpapers</a> for Climate Justice</dd>
 <dt>Friday, 12:30 UTC</dt>
 <dd>Summing up, feedback, ideas and next steps</dd>
 </dl>

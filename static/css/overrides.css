@@ -15,6 +15,7 @@
 
 dt {
   font-weight: bold;
+  font-size: 1.2rem;
   color: var(--special);
 }
 
@@ -254,7 +255,7 @@ pre {
   }
 
   #whatis h2 {
-    font-size: 1.4rem;
+    font-size: 1.7rem;
   }
 
   h3 {
