@@ -1,7 +1,7 @@
 ---
-title: Searching for climate knowledge
-date: 2022-10-22
-summary: Approaches to search 
+title: Explaining semantic
+date: 2022-10-23
+summary: What semantic means and what it offers
 author: Peter Murray-Rust
 tags:
   - pdf

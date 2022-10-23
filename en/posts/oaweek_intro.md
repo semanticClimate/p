@@ -57,4 +57,23 @@ Typical journeys might be:
 - repeat
 - analyse results with `docanalysis`
 
-We'll try to create a video and blog/tutorial for each of these.
+# Suggested reading of blog posts
+
+## [Communication](oaweek_communication.md)
+
+This outines how we work during OAWeek
+
+## oaweek_intro.md
+
+This file
+
+## [Semantic](./oaweek_semantic.md)
+
+Explains "semantic" and why we are doing this. Read early.
+
+## [Search](./oaweek_search.md)
+
+Explains what the most important tools do. Also watch the videos
+
+
+
