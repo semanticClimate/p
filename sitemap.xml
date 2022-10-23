@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/docs/climate-knowledge-hunt/</loc>
-    <lastmod>2022-09-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/docs/video-what-semanticclimate-does/</loc>
     <lastmod>2022-09-24</lastmod>
   </url>
@@ -39,6 +34,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/docs/overivew-for-open-access-week/</loc>
     <lastmod>2022-10-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/</loc>
+    <lastmod>2022-10-22</lastmod>
   </url>
   
   <url>
@@ -122,16 +122,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/outreach/</loc>
-    <lastmod>2022-10-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/notebook/</loc>
-    <lastmod>2022-10-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2022-10-23</lastmod>
   </url>
@@ -142,12 +132,22 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/outreach/</loc>
+    <lastmod>2022-10-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
     <lastmod>2022-10-23</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/past/</loc>
+    <lastmod>2022-10-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/notebook/</loc>
     <lastmod>2022-10-23</lastmod>
   </url>
   

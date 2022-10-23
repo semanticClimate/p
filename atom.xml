@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-23T21:49:25Z</updated>
+	<updated>2022-10-23T22:46:31Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -265,6 +265,37 @@ Sometimes we use &lt;em&gt;breakout rooms&lt;/em&gt; where separate conmversatio
 main room. Zoom Chat is ephemeral - dispappears after the session - (and tricky to copy). You&#39;ll need an invite from us.
 PM-R is guaranteeing to be present at 1230 UTC each day. If there is a critucal mass of people at other times we can
 open an impromptu session.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Climate Knowledge Hunt Hackathon Material</title>
+		<link href="/p/en/posts/climate-knowledge-hunt/"/>
+		<updated>2022-10-22T00:00:00Z</updated>
+		<id>/p/en/posts/climate-knowledge-hunt/</id>
+		<content type="html">&lt;p&gt;Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down to see the results.&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js&quot;&gt;&lt;/script&gt;
+&lt;h2&gt;Highlights from Notebook&lt;/h2&gt;
+&lt;p&gt;You&#39;ll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits.&lt;/p&gt;
+&lt;h3&gt;Convert PDF to HTML using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;py4ami&lt;/code&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. &lt;code&gt;py4ami&lt;/code&gt; does the job for us. Here&#39;s the preview of converted HTML.&lt;/p&gt;
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/fulltext.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h3&gt;Extract abbreviations using &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/a&gt; and write to an ami-dictionary&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt; automatically extracts abbreviations, their full forms, and potential Wikidata IDs.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;entry name=&amp;quot;VRE&amp;quot; term=&amp;quot;Variable Renewable Energy&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7915732&#39;]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;SDGs&amp;quot; term=&amp;quot;sustainable development goals&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q7649586&#39;]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;TPES&amp;quot; term=&amp;quot;total primary energy  supply&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;TFC&amp;quot; term=&amp;quot;total final energy consumption&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;CSP&amp;quot; term=&amp;quot;Concentrating  solar  power&amp;quot; wikidataID=&amp;quot;[]&amp;quot;/&amp;gt;
+  &amp;lt;entry name=&amp;quot;LIBs&amp;quot; term=&amp;quot;lithium-ion batteries&amp;quot; wikidataID=&amp;quot;[&#39;//www.wikidata.org/wiki/Q106988181&#39;]&amp;quot;/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As an example, &lt;a href=&quot;www.wikidata.org/wiki/Q7915732&quot;&gt;www.wikidata.org/wiki/Q7915732&lt;/a&gt; takes you to the Wikidata pages that tells you all about Variable Renewable Energy. The Wikidata page also points you to the Wikipedia page: &lt;a href=&quot;https://en.wikipedia.org/wiki/Variable_renewable_energy&quot;&gt;https://en.wikipedia.org/wiki/Variable_renewable_energy&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Supervised search using dictionaries from other sources&lt;/h3&gt;
+&lt;p&gt;Worcloud generated based on number of hits for terms in the dictionaries.
+&lt;img src=&quot;/p/static/img/climate_terms.png&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Annotate and index HTML version of IPCC reports using &lt;a href=&quot;https://github.com/petermr/pyami&quot;&gt;py4ami&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;pyami&lt;/code&gt;, using abbreviation and other climate-related dictionary, can annotate the HTML version of IPCC Reports. &lt;a href=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot;&gt;Click here&lt;/a&gt; or check out the preview below.&lt;/p&gt;
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://htmlpreview.github.io/?https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter02/annotated/fulltext_emissions.html&quot; style=&quot;&quot; width=&quot;100%&quot; height=&quot;300px&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 </content>
 	</entry>
 </feed>
