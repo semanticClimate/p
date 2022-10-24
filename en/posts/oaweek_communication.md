@@ -4,11 +4,11 @@ date: 2022-10-22
 summary: How we communicate
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - communication
+  - collaboration
 ---
   
-# Basis of collaboration
+## Basis of collaboration
 
 `#semanticClimate` is essentially a bottom-up, volunteer, meritocratic project. We share the need to create 
 working systems where different people contribute a variety of tools and functionality. This is common in OpenSource 
@@ -24,9 +24,9 @@ that can be answered, re-answered, etc.
 This is not trivial. The world has created a variety of tools and here are the ones we have found most useful. 
 Access rights are always a problem (we have been Zoom-bombed; not fun).
 
-# Asynchronous
+## Asynchronous
 
-## Open Notebook Science 
+### Open Notebook Science 
 As far as possible everything we do is available to the outside world as soon as it is done and is permanent. 
 See [Open Notebook Science](https://en.wikipedia.org/wiki/Open-notebook_science). The methods we use include:
 * Github repositories (mainly code and documents)
@@ -34,13 +34,13 @@ See [Open Notebook Science](https://en.wikipedia.org/wiki/Open-notebook_science)
 * Jupyter/Colab Notebooks (mainly for learning and simple prototyping)
 * Github Discussions
 
-## openVirus Slack
+### openVirus Slack
 
 *(openVirus is a historic name where semanticCliamte is discussed)*
 Slack is neither permanent nor public. We use it internally for rapid ephemeral messages but the unpaid Slack dies 
 after ca. 2 months. If you want to join the project more permanently we can add your email.
 
-## Etherpad
+### Etherpad
 
 This is a very ephemeral shared (text) pad without structure that *anyone* can write on. It preserves history (character-by-character).
 It uses security-by-obscurity (i.e. the URL is not discoverable by chance) and is effortless to use. It's very useful for things like:
@@ -48,17 +48,16 @@ It uses security-by-obscurity (i.e. the URL is not discoverable by chance) and i
 * making ad hoc lists
 * introductions
 * text-cut-and-paste
-
 * Regard all content as public.
 
 ***We'll open an Etherpad for the duration of the OpenAccess Week, and delete a few days after***. 
 If you want something, copy it somewhere safe.
 
-# Synchronous
+## Synchronous
 
 We use Skype, Teams (when we have to) but for OAWeek we only use:
 
-## Zoom
+### Zoom
 We've used many tools over the years, e.g. Discord, Gathertown (fun tool) but generally use Zoom in paid-for mode (University of Cambridge). 
 Sometimes we use *breakout rooms* where separate conmversations can take place but for OAWeek we'd plan to have just the 
 main room. Zoom Chat is ephemeral - dispappears after the session - (and tricky to copy). You'll need an invite from us. 
