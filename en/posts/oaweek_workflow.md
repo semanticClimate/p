@@ -1,9 +1,10 @@
+---
+title: Workflow for semanticClimate
 date: 2022-10-23
 summary: Steps in processing a climate chapter
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - oaweek
 ---
 
 # Steps in processing a Chapter
@@ -19,4 +20,6 @@ number of chapters and will be automating it as soon as we can. Here's a typical
 There are no words, lines, paragraphs in PDF. The tools usually guess right but here there's a problem of the 
 top and left margins. We have to set clipping boxes. Sometimes these haven't worked. But generally we can get HTML
 (although things like font styles, subscripts, etc. are often trashed.
+
+
 
