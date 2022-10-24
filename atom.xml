@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-24T14:14:08Z</updated>
+	<updated>2022-10-24T14:16:10Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -14,8 +14,34 @@
 	
 	<entry>
 		<title></title>
+		<link href="/p/en/posts/oaweek_workflow/"/>
+		<updated>2022-10-24T14:15:41Z</updated>
+		<id>/p/en/posts/oaweek_workflow/</id>
+		<content type="html">&lt;p&gt;date: 2022-10-23
+summary: Steps in processing a climate chapter
+author: Peter Murray-Rust
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pdf&lt;/li&gt;
+&lt;li&gt;xml&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h1&gt;Steps in processing a Chapter&lt;/h1&gt;
+&lt;p&gt;We assume&lt;/p&gt;
+&lt;h2&gt;PDF2HTML&lt;/h2&gt;
+&lt;p&gt;The raw chapter is in PDF which requires messy heuristic processing into HTML. We have done this for a small
+number of chapters and will be automating it as soon as we can. Here&#39;s a typical chunk.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./assets/chap02.png&quot; /&gt; &lt;!-- check this --&gt;&lt;/p&gt;
+&lt;p&gt;There are no words, lines, paragraphs in PDF. The tools usually guess right but here there&#39;s a problem of the
+top and left margins. We have to set clipping boxes. Sometimes these haven&#39;t worked. But generally we can get HTML
+(although things like font styles, subscripts, etc. are often trashed.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
 		<link href="/p/en/posts/oaweek_getting_started/"/>
-		<updated>2022-10-24T14:13:40Z</updated>
+		<updated>2022-10-24T14:15:41Z</updated>
 		<id>/p/en/posts/oaweek_getting_started/</id>
 		<content type="html">&lt;p&gt;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&lt;/p&gt;
 &lt;p&gt;list of URLs coming soon&lt;/p&gt;

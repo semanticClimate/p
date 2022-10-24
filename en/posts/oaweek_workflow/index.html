@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Homepage | #semanticClimate</title>
+  <title>#semanticClimate</title>
   <meta name="description" content="Liberating knowledge from climate-related reports">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
@@ -37,7 +37,7 @@
 
     <div class="navbar__links">
       
-        <a class="navbar__link navbar__link--active" href="/p/en/">
+        <a class="navbar__link " href="/p/en/">
           Home
         </a>
         <a class="navbar__link " href="/p/en/events/">
@@ -56,7 +56,7 @@
 
   <div class="navbar__mobile-links">
     
-      <a class="navbar__mobile-link navbar__mobile-link--active" href="/p/en/">
+      <a class="navbar__mobile-link " href="/p/en/">
         Home
       </a>
       <a class="navbar__mobile-link " href="/p/en/events/">
@@ -73,90 +73,47 @@
 </nav>
 
   
-<div class="hero">
-  <div class="container">
-    <h1>
-      
-        
-        #semantic<i>Climate</i>
-      
-
-    </h1>
-    <p class="hero__description">
-      
-        
-          Liberating knowledge from climate-related reports
-        
-      </p>
-      <p class="button-wrap" style="margin-top: 35px">
-        <a href="/p/en/about/" class="action learn">Learn more →</a>
-      </p>
-    </div> <!-- end container -->
-  </div> <!-- end hero -->
-
-  <div class="container">
-
-    <h2 class="section-title events">
-      Upcoming and running events
-      <a href="/p/en/events/">See all</a>
-    </h2>
-    <p>
-      #semanticClimate is hosting a series of hackathons. Check out <a href='events'>our Events page</a> to find out when the next one is.</p>
-  </h2>
+<div class="container">
+  <h1></h1>
   
-  <div class="card-grid">
-  
-    <div class="card">
-      <h3 class="card__title">
-        <a href="/p/en/events/formats-for-future-oa-week-2022/">Formats For Future: Async Hackathon at Open Access Week 2022</a>
-      </h3>
-      <p class="card__date">24 Oct, 2022</p>
-      <p class="card__description">Join us in a distributed asynchronous hackathon to liberate and semantify the IPCC report during Open Access Week</p>
-      <div class="card__tags">
-        
-          
-            <a href="/p/en/tags/event">event</a>
-          
-        
-          
-            <a href="/p/en/tags/semanticclimate">semanticclimate</a>
-          
-        
-          
-            <a href="/p/en/tags/outreach">outreach</a>
-          
-        
-          
-            <a href="/p/en/tags/hackathon">hackathon</a>
-          
-        
+    
+      <div class="post-meta">
+        <time>Invalid DateTime</time>
+        <span class="post-author">by </span>
       </div>
+    
+  
+
+  <p>date: 2022-10-23
+summary: Steps in processing a climate chapter
+author: Peter Murray-Rust
+tags:</p>
+<ul>
+<li>pdf</li>
+<li>xml</li>
+</ul>
+<hr>
+<h1>Steps in processing a Chapter</h1>
+<p>We assume</p>
+<h2>PDF2HTML</h2>
+<p>The raw chapter is in PDF which requires messy heuristic processing into HTML. We have done this for a small
+number of chapters and will be automating it as soon as we can. Here's a typical chunk.</p>
+<p><img src="./assets/chap02.png"/> <!-- check this --></p>
+<p>There are no words, lines, paragraphs in PDF. The tools usually guess right but here there's a problem of the
+top and left margins. We have to set clipping boxes. Sometimes these haven't worked. But generally we can get HTML
+(although things like font styles, subscripts, etc. are often trashed.</p>
+
+
+  
+    <div class="card__tags">
+      
+        
+      
     </div>
   
+  <br>
+  <a href="javascript:history.back()">&larr; Back</a>
 </div>
-
-  <div class="pagination">
-    
-    
-      <a href="/p/en/page-2/" class="pagination__next">Next Page &rarr;</a>
-    
-  </div> <!-- end pagination -->
-  </div> <!-- end container -->
-
-<div class="fullwidth">
-  <div class="container">
-  <div id="whatis">
-    <h2 class="section-title">
-      What's #semantic<i>Climate</i>?
-    </h2>
-    <p class="desc">
-      We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.</p>
-    <p class="button-wrap">
-      <a href="/p/en/about/" class="action">Learn more →</a>
-    </p>
-  </div> <!-- end whatis -->
-</div> <!-- end container -->
-</div> <!-- end hero -->
   <footer class="footer">
   <p>
     <a href="gdpr">Privacy Policy & GDPR</a> | 
