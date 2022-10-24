@@ -88,9 +88,9 @@
     
   
 
-  <h1>What's semantic?</h1>
+  <h2>What's semantic?</h2>
 <p>&quot;semantic&quot; means that at some level machines can &quot;understand&quot; data (in this case text).</p>
-<h2>example:</h2>
+<h3>example:</h3>
 <blockquote>
 <p>Two countries (China, India) contributed more than 50% to the net
 6.5 GtCO2eqyr-1 increase in GHG emissions during 2010-2019 (at
@@ -103,7 +103,7 @@ also Minx et al., 2021; Crippa et al., 2021).</p>
 <code>&quot;T&quot;, &quot;w&quot;, &quot;o&quot;, &quot;c&quot;, &quot;o&quot; ...</code>
 (no words, no sopaces, no newlines and no understanding of the)
 We need to give it rules (or models) that give it the power to parse this into objects it can process.</p>
-<h2>syntax</h2>
+<h3>syntax</h3>
 <p>Unfortunately the reports are only available (2022-10) in PDF. Unlike HTML this is very unpleasant to process
 and introduces errors. PDF2HTML is the weakest part of our toolchain. If the authors could make their text-processor
 output available it would be a huge help.</p>
@@ -128,7 +128,7 @@ It gives:</p>
 <code>/Two countries/ /China , India/ /the net 6.5) GtCO2eqyr-1)/ /GHG emissions/ /2010/</code>
 (gets one wrong <code>increase</code> is a noun not a verb). And verbs VP (<code>contributed</code>), and prepositions (PP)
 but has no idea what they mean.</p>
-<h2>general semantics</h2>
+<h3>general semantics</h3>
 <p>We concentrate on nouns and now add meaning to them.</p>
 <ul>
 <li><em><code>Two countries</code></em> : <code>NLTK</code> knows about numbers and also that <code>countries</code> is the plural of <code>country</code></li>
@@ -136,7 +136,7 @@ but has no idea what they mean.</p>
 <li><em><code>6.5</code></em> : <code>NLTK</code> and <code>spaCy</code> know is a floating point number</li>
 <li><em><code>2010</code></em> : the tools know this could be a date</li>
 </ul>
-<h2>Wikidata semantics</h2>
+<h3>Wikidata semantics</h3>
 <ul>
 <li><em><code>GHG</code></em> : we can automatically look this up in Wikidata.org and get:</li>
 </ul>
@@ -155,19 +155,19 @@ etc.
 <code>Q167336</code> . This illustrates <em>ambiguity</em> - common words and acronyms/abbreviations often have multiple meanings.
 In this case  we could see if the nouns in the <code>description</code> (&quot;gas&quot;, &quot;atmosphere&quot;, &quot;planet&quot;, &quot;radiation&quot;...)
 are common in the text of the report. That's one role of our <code>dictionaries</code></p>
-<h2>report semantics</h2>
+<h3>report semantics</h3>
 <p><code>GtCO2eqyr-1</code> occurs frequently and we can collect these sorts of terms. However they need human interpretation (this is badly
 formatted and should read
 GtCO<sub>2</sub>eq yr<sup>-1</sup>. It reads &quot;gigatonnes of carbon dioxide equivalents per year&quot;. We also tackle this
 by creating it as an entry (or synonym) in a climateChange dictionary)</p>
-<h2>hyperlinks</h2>
+<h3>hyperlinks</h3>
 <p>Hyperlinks are assumed, not explicit.</p>
 <ul>
 <li><code>(Figure 2.9)</code> is a link to Figure 2.9 (which is not explicitly semantically labelled)</li>
 <li><code>(see also Minx et al., 2021; Crippa et al., 2021).</code> are 2 links to the bibliography (again needs messy
 heuristics)</li>
 </ul>
-<h2>argumentation</h2>
+<h3>argumentation</h3>
 <p>We'd like to extract more meaning than just the nouns (&quot;which countries contributed most to the emissions&quot;). There
 are research tools that can address this but they are problem-specific.</p>
 
@@ -178,11 +178,11 @@ are research tools that can address this but they are problem-specific.</p>
         
       
         
-          <a href="/p/en/tags/pdf">pdf</a>
+          <a href="/p/en/tags/introduction">introduction</a>
         
       
         
-          <a href="/p/en/tags/xml">xml</a>
+          <a href="/p/en/tags/examples">examples</a>
         
       
     </div>
