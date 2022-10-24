@@ -35,7 +35,7 @@ Of course you can head over [to the blog section](../../posts) and start right a
 
 Afterwards we will provide you a Zoom link were you can **meet the team every day at 12:30 UTC**. Check a time zone converter of your choice for how late that is at your place.
 
-<p><a href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Register on EventBrite to take part and meet the team for support and discussion</a></p>
+<p><a class="registration" href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Register on EventBrite to take part and meet the team for support and discussion</a></p>
 
 <p><a href="https://github.com/petermr/petermr/discussions/" target="_blank">&rarr; Join the discussion</a></p>
 
