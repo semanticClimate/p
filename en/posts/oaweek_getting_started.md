@@ -1,3 +1,22 @@
+---
+title: Getting started with semanticClimate
+date: 2022-10-24
+summary: Getting started, and key links
+author: Peter Murray-Rust
+tags:
+  - oaweek
+---
+
+# Getting started
+
+If you've just landed on #semanticClimate and are keen to get started here are
+some approaches
+## Asynchronous 
+
+### entry link
+https://semanticclimate.github.io/p/en/events/formats-for-future-oa-week-2022/
+
+### link to Notebooks
 https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/
 
 list of URLs coming soon
@@ -14,3 +33,4 @@ questions or suggestions and people will answer as soon as they visit the pad.
 If you've registered: Every day 2022-10-24:28 meet 1230 UTC at 
 https://zoom.us/j/96741193544?pwd=T1Ivb1Y5YmdvM3cwc2x1VjVUQ2ZVdz09 
 wait to be let in.
+
