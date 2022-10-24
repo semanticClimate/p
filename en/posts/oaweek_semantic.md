@@ -4,15 +4,15 @@ date: 2022-10-23
 summary: What semantic means and what it offers
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - introduction
+  - examples
 ---
 
-# What's semantic?
+## What's semantic?
 
 "semantic" means that at some level machines can "understand" data (in this case text). 
 
-## example:
+### example:
 >Two countries (China, India) contributed more than 50% to the net
 6.5 GtCO2eqyr-1 increase in GHG emissions during 2010-2019 (at
 39% and 14%, respectively), while ten countries (China, India,
@@ -25,7 +25,7 @@ As a human you understand some of this and not other parts; by default a machine
 (no words, no sopaces, no newlines and no understanding of the)
 We need to give it rules (or models) that give it the power to parse this into objects it can process. 
 
-## syntax
+### syntax
 
 Unfortunately the reports are only available (2022-10) in PDF. Unlike HTML this is very unpleasant to process 
 and introduces errors. PDF2HTML is the weakest part of our toolchain. If the authors could make their text-processor
@@ -54,7 +54,7 @@ It picks out nouns/noun_phrases (NP)
 (gets one wrong `increase` is a noun not a verb). And verbs VP (`contributed`), and prepositions (PP)
 but has no idea what they mean.
 
-## general semantics
+### general semantics
 
 We concentrate on nouns and now add meaning to them.  
 * *`Two countries`* : `NLTK` knows about numbers and also that `countries` is the plural of `country`
@@ -62,7 +62,7 @@ We concentrate on nouns and now add meaning to them.
 * *`6.5`* : `NLTK` and `spaCy` know is a floating point number 
 * *`2010`* : the tools know this could be a date
 
-## Wikidata semantics
+### Wikidata semantics
 * *`GHG`* : we can automatically look this up in Wikidata.org and get:
 ```greenhouse gas (Q167336) : GHG
 as in an atmosgphere of a planet (usually Earth) that absorbs 
@@ -81,20 +81,20 @@ Wikidata has several entries for `GHG`. The top one is what we want, with an `id
 In this case  we could see if the nouns in the `description` ("gas", "atmosphere", "planet", "radiation"...)
 are common in the text of the report. That's one role of our `dictionaries`
 
-## report semantics
+### report semantics
 `GtCO2eqyr-1` occurs frequently and we can collect these sorts of terms. However they need human interpretation (this is badly 
 formatted and should read
 GtCO<sub>2</sub>eq yr<sup>-1</sup>. It reads "gigatonnes of carbon dioxide equivalents per year". We also tackle this 
 by creating it as an entry (or synonym) in a climateChange dictionary)
 
-## hyperlinks
+### hyperlinks
 
 Hyperlinks are assumed, not explicit.
 * `(Figure 2.9)` is a link to Figure 2.9 (which is not explicitly semantically labelled)
 * `(see also Minx et al., 2021; Crippa et al., 2021).` are 2 links to the bibliography (again needs messy 
 heuristics)
 
-## argumentation
+### argumentation
 
 We'd like to extract more meaning than just the nouns ("which countries contributed most to the emissions"). There 
 are research tools that can address this but they are problem-specific. 
