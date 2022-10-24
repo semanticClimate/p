@@ -18,7 +18,7 @@ We invite you to participate in the **Formats For Future** hackathon during **Op
 
 Our planet is a terrible thing to waste. 
 
-That's why **[#semanticClimate](https://semanticclimate.github.io) develops FREE open-access tools that unlock crucial scientific knowledge trapped in PDFs by enriching them with annotations linked to wikidata** — it makes the data accessable and understandable to everyone, be they citizens, scientists, or datatech enthusiasts.
+That's why **[#semanticClimate](https://semanticclimate.github.io) develops FREE open-access tools that unlock crucial scientific knowledge trapped in PDFs by enriching them with annotations linked to wikidata** — it makes the data accessible and understandable to everyone, be they citizens, scientists, or datatech enthusiasts.
 
 Simply put, now everyone (including YOU!) can discover and create new ways to make a difference! Try our FREE software and join us at our FREE events to explore what you can make possible!
 
@@ -61,9 +61,9 @@ Registered participants can join the #semanticClimate team's private Zoom Channe
 
 ## How the hackathon works
 
-### The tools for semantify the IPCC reports
+### The tools that semantify the IPCC reports
 
-#semanticClimate is hands-on, practical demonstration where you'll learn how to turn  (horrably hobbled) PDF files into clean, fre-flowing HTML -- *enriched* with annotated links to wikidata entries (and more!). The result can be used to build a semantic index and annotation of the report – effectively bring the dead PDF to interactive life.
+#semanticClimate is hands-on, practical demonstration where you'll learn how to turn  (horribly hobbled) PDF files into clean, free-flowing HTML -- *enriched* with annotated links to wikidata entries (and more!). The result can be used to build a semantic index and annotation of the report – effectively bring the dead PDF to interactive life.
 
 We'll be using Google Colab and Jupyter Notebooks, so no software needs to be installed on your local machine!
 
@@ -71,7 +71,7 @@ We'll be using Google Colab and Jupyter Notebooks, so no software needs to be in
 ### The objectives of this hackathon
 
 - **Create dictionaries:** The first objective is to use the current toolset to create a dictionary of "Named Entities", terms, and jargon found in each chapter of the IPCC report. This will require chapter champions and volunteers to work together in teams on the different chapters. The dictionaries are the first building block to create semantic meaning of the chapters.
-- **Improve the workflow:** The second objective is for participants to give feedback and help write the documentation of the workflow and hackathon process to be able to improve the tooling and scale the process.
+- **Improve the workflow:** The second objective is for participants to give feedback and help write the tool workflow and hackathon process documentation so we can improve the tools and scale the process.
 
 #### Sub-tasks
 
