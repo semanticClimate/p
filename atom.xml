@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-10-24T14:10:17Z</updated>
+	<updated>2022-10-24T14:11:42Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title></title>
 		<link href="/p/en/posts/oaweek_getting_started/"/>
-		<updated>2022-10-24T14:09:49Z</updated>
+		<updated>2022-10-24T14:11:07Z</updated>
 		<id>/p/en/posts/oaweek_getting_started/</id>
 		<content type="html">&lt;p&gt;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&lt;/p&gt;
 &lt;p&gt;list of URLs coming soon&lt;/p&gt;
@@ -177,7 +177,7 @@ matched for relevance.&lt;/p&gt;
 		<link href="/p/en/posts/oaweek_intro/"/>
 		<updated>2022-10-22T00:00:00Z</updated>
 		<id>/p/en/posts/oaweek_intro/</id>
-		<content type="html">&lt;h2&gt;OA Week 2022: Introduction to #semanticClimate&lt;/h2&gt;
+		<content type="html">&lt;h1&gt;OA Week 2022: Introduction to #semanticClimate&lt;/h1&gt;
 &lt;p&gt;We are really excited to offer semanticClimate for OA week. It&#39;s a relatively new way of communicating complex topics and
 it&#39;s best understood by actually &amp;quot;learning by doing&amp;quot;. Don&#39;t be frightened by &amp;quot;semantic&amp;quot;; it means using machines to help
 with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wiki/Semantic_Web&quot;&gt;TimBl&#39;s semantic web&lt;/a&gt;), freeing human brains to do what they are best at.&lt;/p&gt;
@@ -187,28 +187,28 @@ with the bits machines are good at (&lt;a href=&quot;https://en.wikipedia.org/wi
 &lt;li&gt;The &amp;quot;Mitigation&amp;quot; &lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg3/&quot;&gt;section (WG3) of the IPCC AR6 report&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Novel searching of the OpanAccess literature (with &lt;code&gt;pygetpapers&lt;/code&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Example: &amp;quot;what does &#39;GHG&#39; mean and why does it matter?&amp;quot;&lt;/h3&gt;
+&lt;h2&gt;Example: &amp;quot;what does &#39;GHG&#39; mean and why does it matter?&amp;quot;&lt;/h2&gt;
 &lt;p&gt;Many of you will know this means &amp;quot;Greenhouse Gas&amp;quot; in a climate context, but do you know what these gases actually are?
 To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the &amp;quot;data items in Wikipedia articles&amp;quot; (though it&#39;s much more than that), and this week (2022-10-20) it passed 100*000_000 items! Here&#39;s the &lt;a href=&quot;https://www.wikidata.org/wiki/Q167336&quot;&gt;wikidata item for &amp;quot;greenhouse gas&amp;quot;&lt;/a&gt;. It&#39;s multilingual (&lt;a href=&quot;https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8*%E0%A4%97%E0%A5%88%E0%A4%B8&quot;&gt;ग्रीनहाउस गैस&lt;/a&gt; and we&#39;ve already had contributions to our notebooks in 7 languages)&lt;/p&gt;
-&lt;h2&gt;How this week will work&lt;/h2&gt;
+&lt;h1&gt;How this week will work&lt;/h1&gt;
 &lt;p&gt;This is an experiment! Think &amp;quot;us&amp;quot;, not &amp;quot;I&amp;quot; and &amp;quot;you&amp;quot;. We have working examples of search and analysis tools and also content (IPCC) with videos and text. The week is largely asynchronous; you can try these in your own timezone at your own pace. There are discussion tools so you can leave questions or offer content. We&#39;ll aim to have a time which most people can access (probably 1230 UTC, where we normally meet with India and Americas) for an hour or so on Zoom. We stress &amp;quot;learning by doing&amp;quot; and also constantly evolving software, documentation, content, examples. These work &amp;quot;most of the time&amp;quot; but may depend on experience and location (&lt;a href=&quot;https://en.wikipedia.org/wiki/Perpetual_beta&quot;&gt;Perpetual beta&lt;/a&gt;); if you have problems, then identify them, and if you can, help to fix them.&lt;/p&gt;
 &lt;p&gt;We expect that the content and approach will change a lot during the week.&lt;/p&gt;
 &lt;p&gt;Typical journeys might be:&lt;/p&gt;
-&lt;h3&gt;term extraction&lt;/h3&gt;
+&lt;h2&gt;term extraction&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;watch video on term extraction&lt;/li&gt;
 &lt;li&gt;try the Colab/Jupyter notebook on Chapter02 (tutorial)&lt;/li&gt;
 &lt;li&gt;have a question, so post on discussion list/Etherpad&lt;/li&gt;
 &lt;li&gt;then try Notebook on Chapter11 (experiment!)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;creating dictionaries&lt;/h3&gt;
+&lt;h2&gt;creating dictionaries&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;watch video on creating dictionaries&lt;/li&gt;
 &lt;li&gt;watch video on markup using dictionaries&lt;/li&gt;
 &lt;li&gt;try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries&lt;/li&gt;
 &lt;li&gt;try on Chapter02 with &lt;code&gt;country.xml&lt;/code&gt; (experiment!)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;search OA literature&lt;/h3&gt;
+&lt;h2&gt;search OA literature&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;search for &lt;code&gt;climate justice&lt;/code&gt; in EuropePMC using &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;automatically download (say) 50 papers.&lt;/li&gt;
@@ -217,7 +217,15 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 &lt;li&gt;repeat&lt;/li&gt;
 &lt;li&gt;analyse results with &lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We&#39;ll try to create a video and blog/tutorial for each of these.&lt;/p&gt;
+&lt;h1&gt;Suggested reading of blog posts&lt;/h1&gt;
+&lt;h2&gt;&lt;a href=&quot;oaweek_communication.md&quot;&gt;Communication&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This outines how we work during OAWeek&lt;/p&gt;
+&lt;h2&gt;oaweek_intro.md&lt;/h2&gt;
+&lt;p&gt;This file&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;./oaweek_semantic.md&quot;&gt;Semantic&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Explains &amp;quot;semantic&amp;quot; and why we are doing this. Read early.&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;./oaweek_search.md&quot;&gt;Search&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Explains what the most important tools do. Also watch the videos&lt;/p&gt;
 </content>
 	</entry>
 	
