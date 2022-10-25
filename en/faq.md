@@ -3,9 +3,6 @@ title: Frequently Asked Questions
 description: What is this all about?
 layout: layouts/post.njk
 hideTagsList: true
-eleventyNavigation:
-  key: FAQ
-  order: 20
 ---
 
 ## What is the problem with PDF documents?

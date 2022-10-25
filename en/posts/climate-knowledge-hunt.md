@@ -1,7 +1,8 @@
 ---
 title: Climate Knowledge Hunt Hackathon Material
-date: 2022-09-24
+date: 2022-10-22
 description: This is everything you need to know
+author: the team
 tags:
   - semanticclimate
   - outreach
@@ -11,7 +12,7 @@ Rendered below is the Colab Notebook we prepared for the Hackathon. Scroll down 
 
 <script src="https://gist.github.com/ShweataNHegde/069453dae0db56c01cb4c78e5847842f.js"></script>
 
-# Highlights from Notebook
+## Highlights from Notebook
 You'll find the code snippets and commands in the embedded Notebook. Here are some interesting tidbits. 
 ### Convert PDF to HTML using [`py4ami`](https://github.com/petermr/docanalysis)
 First step in making IPCC Reports semantic is to convert dumb PDF needs to HTML. `py4ami` does the job for us. Here's the preview of converted HTML. 

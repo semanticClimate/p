@@ -4,8 +4,7 @@ date: 2022-10-22
 summary: How we communicate
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - oaweek
 ---
   
 # Basis of collaboration

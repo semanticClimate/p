@@ -4,8 +4,7 @@ date: 2022-10-23
 summary: Steps in processing a climate chapter
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - oaweek
 ---
 
 # Steps in processing a Chapter

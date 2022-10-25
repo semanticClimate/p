@@ -13,7 +13,7 @@ pagination:
   addAllPagesToCollections: true
 eleventyComputed:
   title: Tagged “{{ tag }}”
-permalink: /{{ lang }}/tags/{{ tag | slug }}/
+permalink: /en/tags/{{ tag | slug }}/
 ---
 
 {% block content %}
@@ -21,7 +21,7 @@ permalink: /{{ lang }}/tags/{{ tag | slug }}/
 <div class="container">
   <h1>Tagged “{{ tag }}”</h1>
 
-  {% set posts = collections[tag] %}
+  {% set postslist = collections[tag] %}
   {% include 'components/postslist.njk' %}
 
   <p>See <a href="{{ '/en/tags/' | url }}">all tags</a>.</p>

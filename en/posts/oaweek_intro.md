@@ -75,5 +75,3 @@ Explains "semantic" and why we are doing this. Read early.
 
 Explains what the most important tools do. Also watch the videos
 
-
-
