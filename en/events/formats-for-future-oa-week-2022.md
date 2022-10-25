@@ -9,7 +9,7 @@ tags:
   - outreach
   - hackathon
 ---
-
+$base-font-size:   14px !default;
 ## Liberating and Semantifying IPCC Reports
 
 We invite you to participate in the **Formats For Future** hackathon during **Open Access Week 2022 from October 24 to 30** where you will use our tools to unlock the information trapped in the IPCC climate change reports, annotate and enrich them with semantic links to wikidata.
