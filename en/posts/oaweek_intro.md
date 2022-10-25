@@ -4,8 +4,7 @@ date: 2022-10-22
 summary: Overview of the range of tools, content and activities 
 author: Peter Murray-Rust
 tags:
-  - pdf
-  - xml
+  - oaweek
 ---
 
 # OA Week 2022: Introduction to #semanticClimate

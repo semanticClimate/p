@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a939561-e42c-4816-bb49-687e013fd9ed" name="Changes" comment="added image">
-      <change afterPath="$PROJECT_DIR$/en/posts/oaweek_colab.md" afterDir="false" />
+    <list default="true" id="2a939561-e42c-4816-bb49-687e013fd9ed" name="Changes" comment="added colab and getting started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/posts/oaweek_getting_started.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/posts/oaweek_getting_started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/posts/oaweek_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/posts/oaweek_intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/posts/oaweek_semantic.md" beforeDir="false" afterPath="$PROJECT_DIR$/en/posts/oaweek_semantic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,6 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -66,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666563367877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added colab and getting started">
+      <created>1666620071520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666620071521</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +88,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="blogs" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -91,11 +99,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created &quot;communcation&quot; blog post" />
     <MESSAGE value="created &quot;semantics&quot; blog post" />
     <MESSAGE value="added image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added image" />
+    <MESSAGE value="added colab and getting started" />
+    <option name="LAST_COMMIT_MESSAGE" value="added colab and getting started" />
   </component>
 </project>

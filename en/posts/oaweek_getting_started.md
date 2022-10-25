@@ -7,6 +7,15 @@ tags:
   - oaweek
 ---
 
+---
+title: Getting started with semanticClimate 
+date: 2022-10-24
+summary: Getting started, and key links
+author: Peter Murray-Rust
+tags:
+  - oaweek
+---
+
 # Getting started
 
 If you've just landed on #semanticClimate and are keen to get started here are
