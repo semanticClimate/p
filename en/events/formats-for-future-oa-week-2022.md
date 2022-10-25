@@ -14,7 +14,7 @@ tags:
 
 We invite you to participate in the **Formats For Future** hackathon during **Open Access Week 2022 from October 24 to 30** where you will use our tools to unlock the information trapped in the IPCC climate change reports, annotate and enrich them with semantic links to wikidata.
 
-### OUR MISSION: *Transform information into action!*
+## OUR MISSION: *Transform information into action!*
 
 Our planet is a terrible thing to waste. 
 
@@ -23,7 +23,7 @@ That's why **[#semanticClimate](https://semanticclimate.github.io) develops FREE
 Simply put, now everyone (including YOU!) can discover and create new ways to make a difference! Try our FREE software and join us at our FREE events to explore what you can make possible!
 
 ### Get started now! 
-1. <p><a class="registration" href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">Register on EventBrite to take part and meet the team for support and discussion</a></p>
+1. [Register on EventBrite to take part and meet the team for support and discussion](https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087)
 1. [Read our posts here](../../posts/) to access the FREE tools and material #semanticClimate provides.
 2. [Subscribe to event calendar](https://cvws.icloud-content.com/B/AUi3V_tQVQtqj-jOcjqXBtKfkLJ8AcCW3g7QVvdtOPPqlFjnCwW-2OCQ/SemanticClimate.ics?o=AjhzkpeZFiZAxSsuHuat7jN7ZkLVdV-tXvPCmZ3cbRjr&v=1&x=3&a=CAogsIRsh5w12Ov8R_JzotMpEJqGjntjgxAF1IrHWPi15oMSaRDomKbZwDAY6PWB28AwIgEAUgSfkLJ8WgS-2OCQaiS8aZiM28vsBUTcQ8AGw_mZVc6lS8VMMMjK9OUjpZ8s07oNMhpyJLu64hlpxtWTB-8sjihn-Hlr2kc0GBfTkHh-jZ1Yb8Dtmd1wXg&e=1666638183&fl=&r=d186a01d-fe59-4c5b-85d8-89bc9ad0754f-1&k=mQr7Hi_mPUvPxAtZtQTXbA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=28&s=M4_-EaDJWfbJurbg2-Q5EUsvON0&%20=89305ec7-1cec-4d41-b4be-127dc12ad0a9) for this event
 3. Watch our [demonstration video](https://drive.google.com/file/d/1GOapVcJOAFPHljc1iJAZJ3LkXckwR-SY/view).
@@ -45,18 +45,13 @@ The #semanticClimate group looks to liberate the IPCC reports by making their co
 
 ### Register for exclusive access!
 
-Registered participants can join the #semanticClimate team's private Zoom Channel for demonstrations, feedback and support!
-
-(Of course you can start right away without registering, [with the links and materials in our blog section](../../posts), but for real time, face-to-face explanation and support from the #semanticClimate team, you should register.)
+[Registered participants](https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087) can join the #semanticClimate team's private Zoom Channel for demonstrations, feedback and support! (Even without registering you can start right away [with the links and materials in our blog section](../../posts), but for real time, face-to-face explanation and support from the #semanticClimate team, you should register.)
 
 * ***Monday*** -- Getting started: Words, abbreviations and wordcloud
 * ***Tuesday*** -- Dictionaries and Wikidata
 * ***Wednesday*** -- Markup with dictionaries
 * ***Thursday*** -- <a href="https://pypi.org/project/pygetpapers/" target="_blank">pygetpapers</a> for Climate Justice
 * ***Friday*** -- Summing up, feedback, ideas and next steps
-
-
-<p><a class="registration" href="https://www.eventbrite.co.uk/e/formats-for-future-liberating-and-semantify-ipcc-reports-tickets-439057261087" target="_blank">&rarr; Register on EventBrite to take part and meet the team for support and discussion</a></p>
 
 
 ## How the hackathon works
@@ -91,9 +86,10 @@ We'll be using Google Colab and Jupyter Notebooks, so no software needs to be in
 **Hands-on volunteers:** Contributions are needed to: use the workflow and give feedback; help create dictionaries; create documentation and visualisations, and; map workflows.
 
 
-## Further information
+## More information
 
 - Example IPCC AR6 - [Chapter 8](https://github.com/petermr/semanticClimate/tree/main/ipcc/ar6/wg3/Chapter08)
 - Jupyter Notebooks [Colab instructions - Chapter 8](https://github.com/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/climate_hackathon_chapter08.ipynb)
 - [Video explaining how the hackathon works: Post-Hackthon Pitch to SDG Accelerator (12 min.)](https://youtu.be/0MGXic-uEQY)
 - [All events page](../)
+
