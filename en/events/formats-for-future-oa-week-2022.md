@@ -27,7 +27,7 @@ Simply put, now everyone (including YOU!) can discover and create new ways to ma
 1. [Read our posts here](../../posts/) to access the FREE tools and material #semanticClimate provides.
 2. [Subscribe to event calendar](https://cvws.icloud-content.com/B/AUi3V_tQVQtqj-jOcjqXBtKfkLJ8AcCW3g7QVvdtOPPqlFjnCwW-2OCQ/SemanticClimate.ics?o=AjhzkpeZFiZAxSsuHuat7jN7ZkLVdV-tXvPCmZ3cbRjr&v=1&x=3&a=CAogsIRsh5w12Ov8R_JzotMpEJqGjntjgxAF1IrHWPi15oMSaRDomKbZwDAY6PWB28AwIgEAUgSfkLJ8WgS-2OCQaiS8aZiM28vsBUTcQ8AGw_mZVc6lS8VMMMjK9OUjpZ8s07oNMhpyJLu64hlpxtWTB-8sjihn-Hlr2kc0GBfTkHh-jZ1Yb8Dtmd1wXg&e=1666638183&fl=&r=d186a01d-fe59-4c5b-85d8-89bc9ad0754f-1&k=mQr7Hi_mPUvPxAtZtQTXbA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=28&s=M4_-EaDJWfbJurbg2-Q5EUsvON0&%20=89305ec7-1cec-4d41-b4be-127dc12ad0a9) for this event
 3. Watch our [demonstration video](https://drive.google.com/file/d/1GOapVcJOAFPHljc1iJAZJ3LkXckwR-SY/view).
-4. [Join our discussion groups](https://github.com/petermr/petermr/discussions/)
+4. [Join our discussion](https://pad.riseup.net/p/usHmwDZvf9H5rSJyC98R)
 5. [Follow #semantiClimate on Twitter](https://twitter.com/semanticClimate)
 6. Tags: **#semanticClimate** **#FormatsForFuture**
 
