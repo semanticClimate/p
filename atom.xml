@@ -5,12 +5,63 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2022-11-08T04:31:41Z</updated>
+	<updated>2022-11-08T04:32:56Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Volunteers Wanted</title>
+		<link href="/p/en/posts/volunteers-wanted/"/>
+		<updated>2022-11-07T00:00:00Z</updated>
+		<id>/p/en/posts/volunteers-wanted/</id>
+		<content type="html">&lt;h2&gt;Planet-saving information is a terrible thing to waste&lt;/h2&gt;
+&lt;p&gt;If we are to hold any hope of mitigating the effects of &lt;a href=&quot;https://www.wikidata.org/wiki/Q112192791&quot;&gt;greenhouse gas emissions&lt;/a&gt; on our planet and its inhabitants, we must ensure that the latest scientific, technical and socio-economic knowledge on climate change is not just widely available, but immediately comprehensible to politicians, industrialists, educators, citizens, and scientists alike.&lt;/p&gt;
+&lt;p&gt;Our most important and up-to-date resource, the &lt;a href=&quot;https://www.ipcc.ch/assessment-report/ar6/&quot;&gt;UN IPCC AR6 Climate Assessment Report&lt;/a&gt;, is a &lt;strong&gt;50-chapter, 10,000 page behemoth&lt;/strong&gt; filled to the brim with climate-science information and data...and all of it trapped in the &lt;a href=&quot;https://wiki.c2.com/?PdfSucks&quot;&gt;inflexible PDF format&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;The medium is the monkey wrench&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;As if the sheer volume and complexity of the information weren&#39;t enough, the &lt;a href=&quot;https://wiki.c2.com/?PdfSucks&quot;&gt;PDF format&lt;/a&gt; itself throws a spanner in the works:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Meaning is lost in the haze of acronyms, abbreviations and scientific jargon&lt;/strong&gt; densely populating these important documents. These documents set a very high bar for comprehension (and therefore, attention) from policy makers that should be championing the cause — let alone the coalition of willing laypeople needed to implement meaningful changes on a global scale. Throughout this document and others like it, such terms must be understandable, &lt;a href=&quot;https://www.wikidata.org/wiki/Q216681&quot;&gt;in situ&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An untapped wealth of knowledge remains buried in the document&#39;s rich text, charts, graphs and images&lt;/strong&gt;. It must therefore be made machine-readable so that it can be mined, extracted, and exported to new and potentially planet-saving uses.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We need to not only remove these obstacles, we need to create entirely new possibilities!
+And that&#39;s where &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;em&gt;&lt;strong&gt;YOU&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; come into the picture!&lt;/p&gt;
+&lt;h1&gt;The &lt;em&gt;#semanticClimate&lt;/em&gt; task force needs YOU!!&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/&quot;&gt;#semanticClimate&lt;/a&gt; is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access &lt;a href=&quot;http://www.semantictoolkit.org&quot;&gt;toolkit&lt;/a&gt; that releases climate-related knowledge from PDF prison.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;OUR&lt;/strong&gt; MISSION&lt;/h2&gt;
+&lt;p&gt;We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone — be they citizens, scientists, or data-tech enthusiasts.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;YOUR&lt;/strong&gt; &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;MISSION&lt;/a&gt; &lt;em&gt;(should you choose to accept it...)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Join us! Apply your skills!&lt;/strong&gt; Be a part of building and enhancing powerful new tools that take information and transforms it into new, structured, filtered, and actionable knowledge!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In alpha-tests, our toolkit is successfully:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;converting PDFs&lt;/strong&gt; into editable and accessible HTML, XML, and CSV;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;extracting important keywords and concepts&lt;/strong&gt; from the text (including named entities, scientific terms, acronyms, and abbreviations);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;creating specialized dictionaries and glossaries&lt;/strong&gt; linking those terms to wikidata entries containing their definition; and,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;semantically enriching the converted HTML with annotations linked to the wikidata&lt;/strong&gt; so that anyone can simply click on, or mouse-over an unknown term to learn their meaning, thus making comprehension of these critically important documents available to everyone — even machines!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;And this is just the beginning!&lt;/strong&gt;&lt;/em&gt; Imagine what will be possible with &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;em&gt;&lt;strong&gt;YOU&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; on our team!
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1&gt;Looking for a meaningful challenge?&lt;/h1&gt;
+&lt;h2&gt;Join our coding crew!&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;re looking for smart-thinking, enthusiastic volunteers&lt;/strong&gt; keen on helping us transform climate science and policy information into action. Are &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;you or someone you know&lt;/a&gt; one of them?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;re looking for:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;CODERS&lt;/strong&gt;&lt;/a&gt; skilled in python, HTML&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;CLIMATE SCIENTISTS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;TERMINOLGISTS&lt;/strong&gt; and &lt;strong&gt;ONTOLOGISTS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;TRANSLATORS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt; &lt;strong&gt;WIKIMEDIANS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt; &lt;strong&gt;WEBSITE DEVELOPERS&lt;/strong&gt;&lt;/a&gt; who can build and maintain (mainly static) sites&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;COMMUNICATIONS PLATFORM ARCHITECTS/MANAGERS&lt;/strong&gt;&lt;/a&gt; to help develop and attract people to interrelated networks of communities and facilitate participation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contact us!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;Introduce yourself&lt;/a&gt; to us, and we&#39;ll introduce you to the world of difference you can make — given the right opportunity!&lt;/p&gt;
+&lt;h1&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClient task force!&quot;&gt;&lt;strong&gt;Just click here to begin.&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Getting started with semanticClimate</title>

@@ -2,6 +2,7 @@
   --primary: #364496;
   --secondary: #00adef;
   --special: #b03382;
+  --volunteer: var(--secondary);
   --secondary-darker: #0088be;
 }
 
@@ -43,9 +44,24 @@ blockquote p {
 
 /* Homepage */
 
+.fullwidth-first {
+  background-color: var(--volunteer);
+  margin: 0;
+}
+
 .fullwidth {
   background-color: var(--special);
   margin: 0;
+}
+
+#volunteer {
+  margin: 40px 0;
+  padding: 10px 10px;
+}
+
+#volunteer h2,
+#volunteer p {
+  color: #fff;
 }
 
 #whatis {
@@ -133,6 +149,13 @@ h2.section-title {
   border-radius: 4px;
   padding: 5px 8px;
   background: var(--secondary);
+  color: #fff;
+}
+
+.action-volunteer {
+  border-radius: 4px;
+  padding: 5px 8px;
+  background: var(--primary);
   color: #fff;
 }
 
