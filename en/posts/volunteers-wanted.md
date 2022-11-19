@@ -27,7 +27,7 @@ And that's where <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I w
 [#semanticClimate](https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](http://www.semantictoolkit.org) that releases climate-related knowledge from PDF prison.
 
 ## **OUR** MISSION
-We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone— be they citizens, scientists, or data-tech enthusiasts.
+We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone— be they citizens, scientists, or data- cientists.
 [and also transform its data into accessible, fluidly, flexibly useable forms]
 [better term for data-tech?]
 [contribution to comprehension]
