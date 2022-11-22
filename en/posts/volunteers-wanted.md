@@ -12,7 +12,7 @@ If we are to hold any hope of mitigating the effects of [greenhouse gas emission
 
 Our most important and up-to-date resource, the [UN IPCC AR6 Climate Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), is a **50-chapter, 10,000 page behemoth** filled to the brim with climate-science information and data...and all of it trapped in the [inflexible PDF format](https://wiki.c2.com/?PdfSucks).
 
-## **The medium is the monkey wrench** 
+## **The medium is the monkey wrench**  
 
 As if the sheer volume and complexity of the information weren't enough, the [PDF format](https://wiki.c2.com/?PdfSucks) itself throws a spanner in the works:
 
