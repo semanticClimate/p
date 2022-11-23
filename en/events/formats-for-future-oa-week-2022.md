@@ -1,5 +1,5 @@
 ---
-title: 'Join our Climate Report Hackathon! "Formats For Future" an Open Access Week 2022 Async Hackathon'
+title: 'Climate Report Hackathon! "Formats For Future" an Open Access Week 2022 Async Hackathon'
 date: 2022-10-24
 featured: true
 description: Join us in a distributed asynchronous hackathon to unlock the information trapped in the IPCC climate change reports, annotate and enrich them with semantic links to wikidata during Open Access Week.
