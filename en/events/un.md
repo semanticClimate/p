@@ -13,8 +13,7 @@ semanticClimate has been invited to join a panel "Open Access and Climate Justic
 
 2022-11-30
 
-details:
-https://research.un.org/conferences/webinar3
+details: <https://research.un.org/conferences/webinar3>
 
 
 
