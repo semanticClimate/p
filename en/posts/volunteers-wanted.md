@@ -10,7 +10,7 @@ tags:
 
 If we are to hold any hope of mitigating the effects of [greenhouse gas emissions](https://www.wikidata.org/wiki/Q112192791) on our planet and its inhabitants, we must ensure that the latest scientific, technical and socio-economic knowledge on climate change is not just widely available, but immediately comprehensible to politicians, industrialists, educators, citizens, and scientists alike.
 
-Our most important and up-to-date resource, the [UN IPCC AR6 Climate Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), is a **50-chapter, 10,000 page behemoth** filled to the brim with climate-science information and data...and all of it trapped in the [inflexible PDF format](https://wiki.c2.com/?PdfSucks).
+Our most important and up-to-date resource, the [UN IPCC AR6 Climate Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), is a **50-chapter, 10,000 page monster** filled to the brim with climate-science information and data...and all of it trapped in the [inflexible PDF format](https://wiki.c2.com/?PdfSucks).
 
 ## **The medium is the monkey wrench**  
 
@@ -27,10 +27,7 @@ And that's where <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I w
 [#semanticClimate](https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](http://www.semantictoolkit.org) that releases climate-related knowledge from PDF prison.
 
 ## **OUR** MISSION
-We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone— be they citizens, scientists, or data- cientists.
-[and also transform its data into accessible, fluidly, flexibly useable forms]
-[better term for data-tech?]
-[contribution to comprehension]
+We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone— be they citizens, scientists, or policy-makers.
 
 
 ## **YOUR** <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClient task force!">MISSION</a> *(should you choose to accept it...)*
