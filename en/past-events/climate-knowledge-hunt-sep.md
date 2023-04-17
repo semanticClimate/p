@@ -7,7 +7,7 @@ description: SemanticClimate hosted a virtual hackathon in September. We had >75
 SemanticClimate hosted a virtual hackathon in September. We had >75 registrants and presentations from PSA Office and UN Development Program (UNDP). Learn more about the event on [Eventbrite](https://www.eventbrite.co.uk/e/the-climate-knowledge-hunt-hackathon-tickets-414825362827). 
 
 The inaugural included:
-<img src = "/static/img/climate_knowledge_hunt_program.png">
+<img src = "/p/static/img/climate_knowledge_hunt_program.png">
 
 ## Summary
 
