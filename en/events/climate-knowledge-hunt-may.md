@@ -11,7 +11,7 @@ tags:
 ## About the Event
 Are you a climate expert/enthusiast who wants to see how tools can make climate knowledge in scientific reports more accessible? Or are you a tech person who wants to know more about climate and contribute to developing tools to help make sense of the literature? #semanticClimate team is excited to host a hybrid hands-on hackathon on 2023-05-19, where everybody learns about climate and tech by participating in the event!
 
-<img src = "/static/img/climate_knowledge_hunt_may_23.png">
+<img src = "/p/static/img/climate_knowledge_hunt_may_23.png">
 
 The Intergovernmental Panel On Climate Change (IPCC) published the Synthesis report from its Sixth Assessment Cycle in March 2023. The UN Secretary-General called it a “survival guide to humanity”. But this guide is complex, jargon-rich and comes as a dumb PDF. It links to 10,000 pages from other reports. Our diverse team from India has been collaborating virtually for over two years to semantify IPCC reports, to extract knowledge from them. In the hackathon, you will try the tools and make knowledge graphs to navigate the complexed interlinked structure. You don't need to have a technical background to get started. So, bring your laptops, and let's hack away!
 
