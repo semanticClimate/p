@@ -15,6 +15,8 @@ Are you a climate expert/enthusiast who wants to see how tools can make climate 
 
 The Intergovernmental Panel On Climate Change (IPCC) published the Synthesis report from its Sixth Assessment Cycle in March 2023. The UN Secretary-General called it a “survival guide to humanity”. But this guide is complex, jargon-rich and comes as a dumb PDF. It links to 10,000 pages from other reports. Our diverse team from India has been collaborating virtually for over two years to semantify IPCC reports, to extract knowledge from them. In the hackathon, you will try the tools and make knowledge graphs to navigate the complexed interlinked structure. You don't need to have a technical background to get started. So, bring your laptops, and let's hack away!
 
+Read [our blog](https://semanticclimate.org/p/en/posts/why-climate-knowledge-hunt/) to know more about the motivation behind runing the hackathon. 
+
 ## Registration
 [Click here](https://forms.gle/eCJ84oJLDs1tBzCq5) to register your interest. 
 
