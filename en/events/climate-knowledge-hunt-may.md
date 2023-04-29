@@ -1,6 +1,6 @@
 ---
 title: Climate Knowledge Hunt Hackathon Summer Edition 2023
-date: 2023-05-18 
+date: 2023-05-19 
 featured: true
 description: semanticClimate's hybrid hackathon in Delhi
 tags:
@@ -13,7 +13,11 @@ Are you a climate expert/enthusiast who wants to see how tools can make climate 
 
 <img src = "/p/static/img/climate_knowledge_hunt_may_23.png">
 
-The Intergovernmental Panel On Climate Change (IPCC) published the Synthesis report from its Sixth Assessment Cycle in March 2023. The UN Secretary-General called it a “survival guide to humanity”. But this guide is complex, jargon-rich and comes as a dumb PDF. It links to 10,000 pages from other reports. Our diverse team from India has been collaborating virtually for over two years to semantify IPCC reports, to extract knowledge from them. In the hackathon, you will try the tools and make knowledge graphs to navigate the complexed interlinked structure. You don't need to have a technical background to get started. So, bring your laptops, and let's hack away!
+The Intergovernmental Panel On Climate Change (IPCC) published the Synthesis report from its Sixth Assessment Cycle in March 2023. The UN Secretary-General called it a “survival guide to humanity”. But this guide is complex, jargon-rich and comes as a dumb PDF. It links to 10,000 pages from other reports. Our diverse team from India has been collaborating virtually for over two years to semantify IPCC reports, to extract knowledge from them. In the hackathon, you will try the tools and make knowledge graphs to navigate the complexed interlinked structure. 
+
+We've chosen [Wikibase](https://www.mediawiki.org/wiki/Wikibase) and Wikimedia tools to provide an interactive editing, query and display system for our #semanticClimate knowledge base. We are delighted that senior Wikimedians are working with us and will be present during the hackathon!
+
+You don't need to have a technical background to get started. So, bring your laptops, and let's hack away!
 
 Read [our blog](https://semanticclimate.org/p/en/posts/why-climate-knowledge-hunt/) to know more about the motivation behind runing the hackathon. 
 
@@ -22,9 +26,9 @@ Read [our blog](https://semanticclimate.org/p/en/posts/why-climate-knowledge-hun
 
 ## Event Timetable
 
-#### 18th May 2023
-
-#### 19th May 2023
+#### 18th May 2023 (Online)
+We will have a pre-hackathon half day event with Wikimedians and other global volunteers online. The timetable will be available soon. 
+#### 19th May 2023 (Hybrid; in-person in Delhi)
 
 | Time        | Event                                                           |
 | ----------- | --------------------------------------------------------------- |
