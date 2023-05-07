@@ -7,15 +7,76 @@ pagination:
   size: 6
   alias: docs
   reverse: true
+eleventyNavigation:
+  key: Participate!
+  order: 7
 ---
 
-  <div class="container">
+<div class="container">
   <h1>
-     {{ site.homepage.sectionHeading3}}
+    {{ site.homepage.sectionHeading3}}
   </h1>
-  <p> {{site.homepage.description3}}</p>
-    {% set docslist = collections.docs | sort(true, true, 'date') %}
-    {% include "components/docslist.njk" %}
-
+  <p>
+    {{site.homepage.description3}}</p>
+  {% set docslist = collections.docs | sort(true, true, 'date') %}
+  {% include "components/docslist.njk" %}
+  <h2>Table of contents</h2>
+  <ul>
+    <li>
+      <a href="1-0-0-introduction">Introduction (@Shweata: This is an example of a link pointing to a document in <em>this</em> repo.)</a>
+    </li>
+    <li>
+      <a href="#">Getting started</a>
+    </li>
+    <li>
+      <a href="#">Installation</a>
+      <ul>
+        <li>
+          <a href="#">Tools</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">The Hackathon</a>
+      <ul>
+        <li>
+          <a href="#">What do I do during the hackathon?</a>
+          <ul>
+            <li>
+              <a href="#">Test the tools (morning session)</a>
+              <ul>
+                <li>
+                  <a href="#">Conversion</a>
+                </li>
+                <li>
+                  <a href="#">Information extraction</a>
+                </li>
+                <li>
+                  <a href="#">Summarization</a>
+                </li>
+                <li>
+                  <a href="#">Linking paragraphs</a>
+                </li>
+                <li>
+                  <a href="#">Keyphrase generation</a>
+                </li>
+                <li>
+                  <a href="#">Get information from IPCC report using the tools</a>
+                </li>
+                <li>
+                  <a href="#">Interact with Wikibase</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">Show &amp; Tell (presentation slot)</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Next steps for implementing this structure</a>
+    </li>
+  </ul>
 </div>
-
