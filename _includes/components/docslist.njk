@@ -1,26 +1,4 @@
 <section>
     {% if page.url == "/" | url %}{% endif %}
-    {% for post in docslist %}
-        <article class="event">
-            {% if post.data.image %}
-                <img class="video-still list" src="{{ post.data.image }}"/>
-            {% endif %}
-            <h3>
-                <a href="{{ post.url | url }}">
-                    {% if post.data.title %}
-                        {{ post.data.title }}
-                    {% else %}
-                        Untitled
-                    {% endif %}
-                </a>
-            </h3>
-            {% if post.data.description %}
-                <p class="text-lg text-gray-500 mb-3">
-                    {{ post.data.description }}
-                </p>
-            {% endif %}
-            <div style="clear: both; overflow: hidden"></div>
-        </article>
-        <br>
-    {% endfor %}
+    
 </section>

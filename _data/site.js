@@ -13,12 +13,13 @@ module.exports = {
     sectionHeading2: "Events",
     description2:
       "#semanticClimate is hosting a series of hackathons. Check out <a href='events'>our Events page</a> to find out when the next one is.",
-    sectionHeading3: "Documentation",
+    sectionHeading3: "Build a Climate Explorer!",
     description3: "Feel free to read our manuals and tutorials to get started.",
     sectionHeading4: "Blog",
     description4: "",
     sectionHeading5: "Volunteers wanted!",
-    description5: "Planet-saving information is a terrible thing to waste. Join our team to help!",
+    description5:
+      "Planet-saving information is a terrible thing to waste. Join our team to help!",
   },
   feed: {
     // used in feed.xml.njk
