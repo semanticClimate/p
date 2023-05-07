@@ -35,9 +35,7 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 | 0900 - 0915 | Orientation                                                     |
 | 0915 - 1000 | Communal activities                                             |
 | 1000 - 1030 | Familiarize with technology and material (Google Colab/Jupyter) |
-| 1030 - 1100 | Identify tasks for their theme                                  |
-| 1100 - 1120 | Presentation of tasks/request for help                          |
-| 1120 - 1230 | 1st Hack sesh!                                                  |
+| 1030 - 1230 |  1st Hack sesh! (Run Colab Notebook, discuss and clean output, brainstorm questions)|
 | 1230 - 1315 | Lunch                                                           |
 | 1315 - 1345 | Games sesh!                                                     |
 | 1345 - 1400 | Presentation/Review                                             |
