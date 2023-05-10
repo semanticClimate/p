@@ -16,10 +16,13 @@ We presented at Cambridge (MPhil Lecture Series), TDWG 2022, Piaget Hackathon, O
 ## Technology
 ### Tools
 - [`pyami`](https://github.com/petermr/pyami)
-- [`docanalysis`](https://github.com/petermr/docanalysis)
+- [`docanalysis`](https://github.com/petermr/docanalysis) and its [tutorial](https://github.com/petermr/docanalysis/wiki/docanalysis-Tutorial)
 - [Summarizer](https://github.com/petermr/semanticClimate/tree/main/Summarization)
 - [Keyphrase extraction](https://github.com/petermr/semanticClimate/tree/main/keyword_extraction/code_v2)
 
 ### Knowledge Base
-- Wikidata
-- Wikibase Instance
+- [Wikidata](https://www.wikidata.org/)
+- [Wikibase Instance](https://kg-ipclimatec-reports.wikibase.cloud/)
+
+### IPCC Reports
+- [IPCC AR6](https://github.com/petermr/semanticClimate/tree/main/ipcc)
