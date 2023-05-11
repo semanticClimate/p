@@ -6,14 +6,14 @@ tags:
   - semanticclimate
 ---
 ## An Overview of #semanticClimate Toolkit
-The Toolkit consists of a number of components which work together in a toolchain. There’s more than one toolchain for different things that we're going to do. The pyami tool takes a PDF and converts it into HTML pages. These HTML pages are processed to get structured or semantic HTML. We also add meaning to a lot of the components of the HTML. We can reorganize, search, or  annotate the structured HTML
+The Toolkit consists of a number of components which work together in a toolchain. There’s more than one toolchain for different things that we're going to do. The [pyami](https://github.com/petermr/pyami) tool takes a PDF and converts it into HTML pages. These HTML pages are processed to get structured or semantic HTML. We also add meaning to a lot of the components of the HTML. We can reorganize, search, or  annotate the structured HTML
 
 ## Converting Raw PDF to Semantic HTML
 Watch this 15 min. to get a glimpse of IPCC report PDF and semantic HTML version. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5agFbOBJ_RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In essence, we go from: 
-<img src = "/p/static/img/syr_html_screenshot_2.png" >
+<img src = "/p/static/img/syr_pdf_screenshot.png" >
 
 to:
 ```
@@ -24,4 +24,8 @@ to:
 ```
 
 which looks like this when rendered
-<img src = "/p/static/img/syr_pdf_screenshoot.png">
+<img src = "/p/static/img/syr_html_screenshot_2.png.png">
+
+You can check out the full HTML, [here](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/syr/lr/total_pages.annotated.html)
+
+In the next blog, we will look at how we extract information from the semantic HTML using our tools (`docanalysis`, `keyphrase_extractor`, `summarizer`)
