@@ -6,7 +6,7 @@ tags:
   - semanticclimate
 ---
 ## An Overview of #semanticClimate Toolkit
-The Toolkit consists of a number of components which work together in a toolchain. There’s more than one toolchain for different things that we're going to do. The [pyami](https://github.com/petermr/pyami) tool takes a PDF and converts it into HTML pages. These HTML pages are processed to get structured or semantic HTML. We also add meaning to a lot of the components of the HTML. We can reorganize, search, or  annotate the structured HTML
+The Toolkit consists of several components which work together as a toolchain. There can be more than one toolchain. The [pyami](https://github.com/petermr/pyami) tool takes a PDF and converts it into HTML pages. These HTML pages are processed to get structured or semantic HTML. We also add meaning to a lot of the components of the HTML. We can reorganize, search, or annotate the structured HTML.
 
 ## Converting Raw PDF to Semantic HTML
 Watch this 15 min. to get a glimpse of IPCC report PDF and semantic HTML version. 
