@@ -24,7 +24,7 @@ to:
 ```
 
 which looks like this when rendered
-<img src = "/p/static/img/syr_html_screenshot_2.png.png">
+<img src = "/p/static/img/syr_html_screenshot_2.png">
 
 You can check out the full HTML, [here](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/syr/lr/total_pages.annotated.html)
 
