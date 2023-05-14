@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>List of all tags | #semanticClimate</title>
-  <meta name="description" content="Liberating knowledge from climate-related reports">
+  <title>What are dictionaries? | #semanticClimate</title>
+  <meta name="description" content="Learn more about dictionaries!">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/p/static/css/main.css" media="all">
@@ -82,104 +82,69 @@
 
   
 <div class="container">
+  <h1>What are dictionaries?</h1>
+  
+    
+  
+    
+  
 
-  <h1>All Tags</h1>
+  <p>Dictionaries, also called terminologies, are collections of terms which occur in documents, with explanations and formal identifiers (Wikidata ID, for example).</p>
+<p>Here's an example of dictionary of abbreviations created from Chapter 15 of AR6/WGIII. This was created automatically using the tool, <a href="https://github.com/petermr/docanalysis"><code>docanalysis</code></a>.</p>
+<pre><code>&lt;dictionary title=&quot;abb_chapter15&quot;&gt;
+  &lt;entry name=&quot;SCF&quot; term=&quot;Standing Committee on Finance&quot;&gt;
+    &lt;raw wikidataID=&quot;Q115097350, Q107564351, Q60753288, Q3421536&quot;/&gt;
+  &lt;/entry&gt;
+  &lt;entry name=&quot;LDCs&quot; term=&quot;Least Developed Countries&quot;&gt;
+    &lt;raw wikidataID=&quot;Q752401, Q177323&quot;/&gt;
+  &lt;/entry&gt;
+  &lt;entry name=&quot;ESG&quot; term=&quot;environmental, social and governance&quot; wikidataID=&quot;Q3817465&quot;/&gt;
+  &lt;entry name=&quot;TCFD&quot; term=&quot;Task  Force  on  Climate-Related  Financial  Disclosures&quot; wikidataID=&quot;&quot;/&gt;
+  &lt;entry name=&quot;OPEX&quot; term=&quot;operating  and maintenance expenditures&quot; wikidataID=&quot;&quot;/&gt;
+  &lt;entry name=&quot;GCF&quot; term=&quot;Green Climate Fund&quot;&gt;
+    &lt;raw wikidataID=&quot;Q3075923, Q71863830&quot;/&gt;
+  &lt;/entry&gt;
+  &lt;entry name=&quot;GEF&quot; term=&quot;Global Environment Facility&quot;&gt;
+    &lt;raw wikidataID=&quot;Q384410, Q59639658&quot;/&gt;
+  &lt;/entry&gt;
+  &lt;entry name=&quot;AF&quot; term=&quot;Adaptation Fund&quot; wikidataID=&quot;Q352378&quot;/&gt;
+  ...
+</code></pre>
+<p><a href="https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter15/dict/ipcc_chapter15_man_dict.xml">Full dictionary</a></p>
+<p>We can also manually create dictionaries based on topics of interest (like our intern, Gayathri, created for Chapter 15). Here's a snippet:</p>
+<pre><code>&lt;dictionary title=&quot;finance and investment&quot; version=&quot;0.0.5&quot;&gt;
+  &lt;desc&gt; manually created by Gayathri Jonnalagadda 2023-01-24 &lt;/desc&gt;
+&lt;entry term=&quot;capital&quot; wikidataID=&quot;Q1897397&quot; wikipediapage=&quot;https://en.wikipedia.org/wiki/Financial_capital&quot;
+  desc=&quot;money used by entrepreneurs and businesses to buy what they need to make their products or provide their services&quot;/&gt;
+ &lt;entry term=&quot;Low carbon transition&quot;  wikidataID=&quot;&quot; wikipediapage=&quot;&quot; desc=&quot;&quot;/&gt;
+ &lt;entry term=&quot;just transition&quot; wikidataID=&quot;Q6316391&quot; wikipediapage=&quot;https://en.wikipedia.org/wiki/Just_transition&quot;
+ desc=&quot;Framework developed by the trade union movement to encompass wide range of social interventions needed to secure decent work opportunities and a greener economy&quot;/&gt;
+</code></pre>
+<p><a href="https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/wg3/Chapter15/dict/ipcc_chapter15_abb_dict.xml">Full dictionary</a></p>
+<h3>What are dictionaries used for?</h3>
+<ul>
+<li>To annotate the HTML reports with Wikidata identifiers. This is a huge step towards making the reports more accessible becuase readers can immediately learn the meaning of these terms in their own languages (assuming Wikidata has that information).</li>
+<li>Extract information like which terms cooccur, what's the frequency of different terms, etc.</li>
+</ul>
+<p>In the hackathon, we will be creating dictionaries both manually and automatically.</p>
 
-  <div class="card-grid">
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/semanticclimate">semanticclimate</a></h2>
-      <div class="card__subtitle">13 Posts</div>
+
+  
+    <div class="card__tags">
+      
+        
+          <a href="/p/en/tags/docs">docs</a>
+        
+      
+        
+          <a href="/p/en/tags/semanticclimate">semanticclimate</a>
+        
+      
     </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/docs">docs</a></h2>
-      <div class="card__subtitle">9 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/past">past</a></h2>
-      <div class="card__subtitle">7 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/oaweek">oaweek</a></h2>
-      <div class="card__subtitle">5 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/outreach">outreach</a></h2>
-      <div class="card__subtitle">4 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/hackathon">hackathon</a></h2>
-      <div class="card__subtitle">3 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/video">video</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/event">event</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/presentation">presentation</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/notebook">notebook</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/pdf">pdf</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/xml">xml</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/climate-knowledge">climate knowledge</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/tools">tools</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/introduction">introduction</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/examples">examples</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/cop27">COP27</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-    <div class="card">
-      <h2 class="card__title"><a href="/p/en/tags/climate-knowledge-hunt">climate-knowledge-hunt</a></h2>
-      <div class="card__subtitle">1 Posts</div>
-    </div>
-    
-  </div>
+  
+  <br>
+  <a href="javascript:history.back()">&larr; Back</a>
 </div>
-
   <footer class="footer">
   <p>
     <a href="gdpr">Privacy Policy & GDPR</a> | 
