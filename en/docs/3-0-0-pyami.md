@@ -13,7 +13,7 @@ Watch this 15 min. to get a glimpse of IPCC report PDF and semantic HTML version
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5agFbOBJ_RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In essence, we go from: 
-<img src = "/p/static/img/syr_pdf_screenshot.png" >
+<img src="/p/static/img/syr_pdf_screenshot.png" >
 
 to:
 ```
@@ -24,7 +24,7 @@ to:
 ```
 
 which looks like this when rendered
-<img src = "/p/static/img/syr_html_screenshot_2.png">
+<img src="/p/static/img/syr_html_screenshot_2.png">
 
 You can check out the full HTML, [here](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/syr/lr/total_pages.annotated.html)
 
