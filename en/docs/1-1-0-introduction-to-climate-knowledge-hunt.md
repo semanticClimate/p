@@ -8,7 +8,7 @@ tags:
 ## What is a hackathon?
 A hackathon is an event where many people (often not knowing each other) come together to work on a particular problem. They bring tools or just the general ability to create documents and manage resources. It's inclusive; everybody has something to offer and something to gain. There is a distant projection as to what might be achieved, but normally one achieves only a part of the problem. You also meet a lot of people who have both similar and complementary interests.
 
-## Why is # semanticClimate running this hackathon?
+## Why is #semanticClimate running this hackathon?
 We have something to offer. We are creating this semantic resource of the world's climate knowledge, but we don't have users at the moment. We want to reach out to as many different types of people as possible who want to use climate knowledge: people with climate knowledge, climate experts, citizens, and decision-makers. We would love to reach out to all these people and help make decisions about climate. A hackathon is one of the ways of doing it.
 
 Let's assume that you are in the local government. You're concerned about the effect of climate change. We are trying to make this information available to help you make policy in local government, education, or all sorts of aspects of human life.
@@ -27,6 +27,7 @@ People come not knowing what to expect. Sometimes they may say that this is not 
 
 ## How can participants make the best out of this hackathon?
 Well, we know everybody is busy. This is not like an undergraduate class where you do lots of work. To ensure you make the most out of the opportunity, we recommend you: 
+
 1. Read some of the material before coming; get an overview of the IPCC Reports, especially the Synthesis Longer Report, 
 2. Come with ideas. How can we enhance the report, for example?
 3. Actively participate on our discord server. You can go in and say, “ Hey, I'm somebody. I'm interested in science communication. I'd like to find out what people are doing, and their experiences with climate”. Other people might say they've got a tool and explain it. We hope there will be a lot of discussion on the Discord server before and during the event. 

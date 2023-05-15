@@ -13,4 +13,4 @@ Wikibase defines Items. An Item is any object which can be precisely identified 
 
 
 ## Useful Links
-1. https://www.mediawiki.org/wiki/Wikibase/What_is_Wikibase
+1. <https://www.mediawiki.org/wiki/Wikibase/What_is_Wikibase>
