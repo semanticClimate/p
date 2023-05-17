@@ -30,21 +30,29 @@ Read [our blog](https://semanticclimate.org/p/en/posts/why-climate-knowledge-hun
 We will have a pre-hackathon half day event with Wikimedians and other global volunteers online. The timetable will be available soon. 
 #### 19th May 2023 (Hybrid; in-person in Delhi)
 
-| Time        | Event                                                           |
-| ----------- | --------------------------------------------------------------- |
-| 0900 - 0915 | Orientation                                                     |
-| 0915 - 1000 | Communal activities                                             |
-| 1000 - 1030 | Familiarize with technology and material (Google Colab/Jupyter) |
-| 1030 - 1230 |  1st Hack sesh! (Run Colab Notebook, discuss and clean output, brainstorm questions)|
-| 1230 - 1315 | Lunch                                                           |
-| 1315 - 1345 | Games sesh!                                                     |
-| 1345 - 1400 | Presentation/Review                                             |
-| 1400 - 1530 | 2nd Hack sesh!                                                  |
-| 1530 - 1545 | Comfort break                                                   |
-| 1545 - 1615 | Prepare for final presentations                                 |
-| 1615 - 1710 | Final Presenatations                                            |
-| 1710 - 1730 | Wrap-up                                                         |
-
+ Outer pipes  Cell padding 
+No sorting
+| Time              | What happens                                                                             |
+| ----------------- | ---------------------------------------------------------------------------------------- |
+| 1000 - 1030       | Arrival at Venue, Ice Break, Tea and Coffee                                              |
+| INAUGURAL SESSION |                                                                                          |
+| 1030-1040         | Welcome Address NIPGR Director                                                           |
+| 1040-1050         | Dr. G Yadav; Introduction to #semanticClimate                                            |
+| 1050 -1100:       | Dr. Peter Murray-Rust: Intro to the Hackathon Series                                     |
+| HACK SESSION 1    |                                                                                          |
+| 1100-1130         | Set up Tech/Material (Google Colab/Jupyter)                                              |
+| 11:30 - 13:00     | Hack! Hack! Hack! ((Run Colab Notebook, discuss and clean output, brainstorm questions)) |
+| LUNCH 1300 - 1400 |                                                                                          |
+| HACK SESSION 2    |                                                                                          |
+| 1400 - 1445       | Games sesh!                                                                              |
+| 1445 - 1530       | Presentation/Review                                                                      |
+| 1530 - 1545       | Coffee Break                                                                             |
+| HACK SESSION 3    |                                                                                          |
+| 1545 - 1630       | Hack! Hack! Hack! (Wikimedia)                                                            |
+| 1630 - 1700       | Prepare for final presentations                                                          |
+| 1700 - 1830       | Final Presentations                                                                      |
+| 1830 - 1900       | Wrap-up & Final Comments                                                                 |
+| DINNER (1900)     |
 
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
