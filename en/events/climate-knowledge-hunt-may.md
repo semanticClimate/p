@@ -30,8 +30,6 @@ Read [our blog](https://semanticclimate.org/p/en/posts/why-climate-knowledge-hun
 We will have a pre-hackathon half day event with Wikimedians and other global volunteers online. The timetable will be available soon. 
 #### 19th May 2023 (Hybrid; in-person in Delhi)
 
- Outer pipes  Cell padding 
-No sorting
 | Time              | What happens                                                                             |
 | ----------------- | ---------------------------------------------------------------------------------------- |
 | 1000 - 1030       | Arrival at Venue, Ice Break, Tea and Coffee                                              |
