@@ -12,4 +12,5 @@ tags:
 
 
 ## Hack sesssion
-<img src = /p/en/posts/assets/semanticClimate_breakout_01.jpeg>
+<img src = /p/static/img/semanticClimate_breakout_01.jpeg>
+<img src = /p/static/img/semanticClimate_breakout_02.jpeg>
