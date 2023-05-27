@@ -11,6 +11,6 @@ tags:
 #semanticClimate Team and Gitanjali Yadav's Computational Biology Lab hosted Climate Knowledge Hunt Hackathon on 2023-05-19 at NII Board Room. We had about 20 in-person and 7 online participants. 
 
 
-## Hack sesssion
+## Hack session
 <img src = /p/static/img/semanticClimate_breakout_01.jpeg>
 <img src = /p/static/img/semanticClimate_breakout_02.jpeg>
