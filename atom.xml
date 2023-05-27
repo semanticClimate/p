@@ -5,12 +5,32 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-05-18T14:24:32Z</updated>
+	<updated>2023-05-27T07:00:40Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="/p/en/posts/climate_knowledge_hunt_event_may_23_report/"/>
+		<updated>2023-05-27T07:00:10Z</updated>
+		<id>/p/en/posts/climate_knowledge_hunt_event_may_23_report/</id>
+		<content type="html">&lt;p&gt;title: Event Report | Climate Knowledge Hunt Hackathon May 2023
+date: 2023-05-27
+description: Missed the event? Here&#39;s what we did on the hack day...
+author: the team
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;event report&lt;/li&gt;
+&lt;li&gt;outreach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;#semanticClimate Team and Gitanjali Yadav&#39;s Computational Biology Lab hosted Climate Knowledge Hunt Hackathon on 2023-05-19 at NII Board Room. We had about 20 in-person and 7 online participants.&lt;/p&gt;
+&lt;h2&gt;Hack sesssion&lt;/h2&gt;
+&lt;img src=&quot;/p/en/posts/assets/semanticClimate_breakout_01.jpeg&quot; /&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Why are we running this hackathon?</title>
