@@ -14,4 +14,4 @@ tags:
 
 ## Hack session
 <img src = /p/static/img/semanticClimate_breakout_01.jpeg>
-<img src = https://github.com/flower1430/p/blob/main/static/img/semanticClimate_breakout_03.jpeg>
+<img src = /p/static/img/semanticClimate_breakout_03.jpeg>
