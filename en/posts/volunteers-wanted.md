@@ -1,6 +1,7 @@
 ---
-title: Volunteers Wanted
+title: Join us Today!
 date: 2022-11-07
+summary: How to become part of this Citizen Science Initiative! 
 description: Join us! Apply your skills!** Be a part of building and enhancing powerful new tools that take information and transform it into new, structured, filtered, and actionable knowledge!
 tags:
   - semanticclimate
