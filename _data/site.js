@@ -17,7 +17,7 @@ module.exports = {
     description3: "Feel free to read our manuals and tutorials to get started.",
     sectionHeading4: "Blog",
     description4: "",
-    sectionHeading5: "Volunteers wanted!",
+    sectionHeading5: "Join this Citizen Science Initiative!",
     description5:
       "Planet-saving information is a terrible thing to waste. Join our team to help!",
   },
