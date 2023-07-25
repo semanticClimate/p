@@ -9,7 +9,7 @@ tags:
   - presentation
 ---
 
-semanticClimate has been invited to join a panel "Open Access and Climate Justice" hosted by UN Library.
+semanticClimate was invited to join a panel "Open Access and Climate Justice" hosted by UN Library.
 
 2022-11-30
 
