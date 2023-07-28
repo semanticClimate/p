@@ -12,6 +12,6 @@ tags:
 
 
 
-## About the Event
+## About the event
 
 <img src = "/p/static/img/fsci.jpeg">
