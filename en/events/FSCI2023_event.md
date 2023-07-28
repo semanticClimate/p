@@ -13,7 +13,7 @@ FSCI 2023 (hosted by the FORCE11 Scholarly Communications Institute) aims to enh
 
 <img src = "/p/static/img/FSCI2023_event_poster.png">
 
-#semanticClimate Founder Gitanjali Yadav will deliver the Opening Plenary and Keynote Speech at FSCI 2023 
+#semanticClimate Founder Gitanjali Yadav will deliver the Opening Plenary and Keynote Speech at FSCI 2023 on July 31, 2023
 
 #semanticlimate Team will showcase Knoweldge Extraction using Open Tech
 
