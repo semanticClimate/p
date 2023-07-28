@@ -22,6 +22,6 @@ FSCI 2023 (hosted by the FORCE11 Scholarly Communications Institute) aims to enh
 
 ## Event Timetable
 
-<img src = "/p/static/img/FSCI_schedule.png">
+<img src = "/p/static/img/fsci_schedule.png">
 
 
