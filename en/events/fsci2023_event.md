@@ -11,7 +11,7 @@ tags:
 ## About the Event
 FSCI 2023 (hosted by the FORCE11 Scholarly Communications Institute) aims to enhance scholarly communication across the world. FORCE11 is a community of scholars, librarians, researchers, publishers, funders etc. that is progressively working on new developments in open science, knowledge creation and collaborative research endeavour.  
 
-<img src = "/p/static/img/FSCI2023_event_poster.png">
+<img src = "/p/static/img/fsci2023_event_poster.png">
 
 #semanticClimate Founder Gitanjali Yadav will deliver the Opening Plenary and Keynote Speech at FSCI 2023 on July 31, 2023
 
