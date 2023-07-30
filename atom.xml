@@ -5,12 +5,22 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-07-27T04:36:17Z</updated>
+	<updated>2023-07-30T15:29:00Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>FSCI 2023</title>
+		<link href="/p/en/posts/fsci_blog/"/>
+		<updated>2023-07-30T00:00:00Z</updated>
+		<id>/p/en/posts/fsci_blog/</id>
+		<content type="html">&lt;h2&gt;About the event&lt;/h2&gt;
+&lt;img src=&quot;/p/static/img/fsci.jpeg&quot; /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Event Report | Climate Knowledge Hunt Hackathon May 2023</title>
