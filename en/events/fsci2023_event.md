@@ -1,6 +1,6 @@
 ---
 title: FSCI 2023 | Enhancing Global Impact of Open Scholarship 
-date: July 31 - August 4, 2023
+date: 2023-07-31
 featured: true
 description: Invited Keynote and Hackathon with FORCE11
 tags:
