@@ -1,12 +1,11 @@
 ---
 title: Alpha Tests for FSCI 2023
 date: 2023-08-02
-description: 
+description: To get started with, here are some tests you could run to familiarise yourself with our toolchain. 
 author: The team
 tags:
   - semanticclimate
   - hackathon
-  - 
 ---
 
 # Pre-requisite
