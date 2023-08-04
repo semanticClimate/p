@@ -152,6 +152,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/testpost/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/CHANGELOG/</loc>
     <lastmod>2023-08-04</lastmod>
   </url>
@@ -283,6 +288,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
     <lastmod>2023-08-04</lastmod>
   </url>
   

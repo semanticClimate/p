@@ -5,12 +5,22 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-08-04T13:31:12Z</updated>
+	<updated>2023-08-04T13:43:50Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Testpost</title>
+		<link href="/p/en/posts/testpost/"/>
+		<updated>2023-08-04T00:00:00Z</updated>
+		<id>/p/en/posts/testpost/</id>
+		<content type="html">&lt;p&gt;This is a post that is hidden in the timeline of posts due to the flag &lt;code&gt;hide: true&lt;/code&gt; in the YAML frontmatter. It has a regular URL and can thus be linked to.&lt;/p&gt;
+&lt;p&gt;For the logic related to the flag please cf. &lt;code&gt;_includes/components/postslist.njk&lt;/code&gt; and the wide &lt;code&gt;if&lt;/code&gt; statement from line 4 to 33.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Alpha Tests for FSCI 2023</title>
