@@ -306,3 +306,12 @@ pre {
     clear: both;
   }
 }
+
+.box {
+  border: 1px solid #0088be;
+  padding: 10px 20px;
+}
+
+.box h3 {
+  margin-top: 5px;
+}
