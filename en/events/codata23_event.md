@@ -2,7 +2,7 @@
 title: International Training Workshop on Open Science and SDGs, Beijing, China
 date: 2023-09-01
 featured: true
-description: Open Science Cloud Showcase of SemanticClimate
+description: Open Science Cloud Showcase of SemanticClimate (online)
 tags:
   - semanticclimate
   - outreach
