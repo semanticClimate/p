@@ -16,7 +16,11 @@ This workshop will concentrate on fundamental knowledge and skills related to op
 #semanticlimate Team will showcase Knoweldge Extraction using Open Tech
 
 ## Registration
-[Click here](https://ostraining2023.casconf.cn/) to register your interest. 
+[Click here](https://ostraining2023.casconf.cn/) to register your interest.
+
+## Event schedule
+Sept. 1st, 15:45-16:45 PM (CST/UTC+8)
+Sept. 1st, 13:15-14:15 PM (IST)
 
 
 
