@@ -13,7 +13,7 @@ This workshop will concentrate on fundamental knowledge and skills related to op
 
 <img src = "/p/static/img/CODATA-workshop.jpg">
 
-#semanticlimate Team will showcase Knoweldge Extraction using Open Tech
+#semanticlimate Team will showcase Knoweldge Extraction using Open Tech (Prof. Gitanjali Yadav, Prof. Peter Murray-Rust, Ms. Shweata N. Hegde, University of Cambridge, Online)
 
 ## Registration
 [Click here](https://ostraining2023.casconf.cn/) to register your interest.
