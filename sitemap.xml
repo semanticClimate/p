@@ -157,11 +157,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/codata23_event/</loc>
-    <lastmod>2023-09-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/codata23_event/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
@@ -329,5 +324,10 @@
   <url>
     <loc>https://semanticclimate.github.io/p/</loc>
     <lastmod>2023-09-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/open_FAIR_data23_event/</loc>
+    <lastmod>2023-09-10</lastmod>
   </url>
 </urlset>
