@@ -27,5 +27,5 @@ Sept. 1st, 15:45-16:45 PM (CST/UTC+8)/ 13:15-14:15 PM (IST)
 ## Event Report
 We are excited to share the event report from our recent training workshop at ISOSC CODATA 2023, China, which aimed to provide insight about the knowledge extraction from the IPCC reports.
 
-[Training Workshop Session 2023](../posts/ISOSC_event_report.md)
+[Training Workshop Session 2023](/posts/ISOSC_event_report.md)
 
