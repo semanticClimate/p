@@ -13,7 +13,7 @@ This International Conference on Open and FAIR Data Ecosystem will predominantly
 
 <img src = "/p/static/img/FAIR-data.jpg">
 
-#semanticClimate Founder Prof. Gitanjali Yadav will deliver a talk on "Open Access, Data Semantics and Climate Justice" at International Conference on Open and FAIR Data Ecosystem on September 12, 2023.
+[#semanticClimate](https://semanticclimate.org/p/en/) Founder **Prof. Gitanjali Yadav** will deliver a talk on "Open Access, Data Semantics and Climate Justice" at International Conference on Open and FAIR Data Ecosystem on September 12, 2023.
 
 ## Registration
 [Click here](https://www.pkc.org.in/openfairdataconf/) to register your interest.
