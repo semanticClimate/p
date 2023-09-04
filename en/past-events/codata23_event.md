@@ -24,5 +24,7 @@ Sept. 1st, 15:45-16:45 PM (CST/UTC+8)/ 13:15-14:15 PM (IST)
 ## Training Handbook
 [Download pdf](https://github.com/petermr/semanticClimate/blob/main/codata_training_handbook_2023.pdf)
 
-
+## Event Report
+We are excited to share the event report from our recent training workshop at ISOSC CODATA 2023, China, which aimed to provide insight about the knowledge extraction from the IPCC reports.
+<p><a href="../posts/ISOSC_event_report/">Training Workshop Session</a></p>
 
