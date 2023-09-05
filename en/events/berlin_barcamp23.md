@@ -1,5 +1,5 @@
 ---
-title: Barcamp open Science (Connect, Unlock, Together!) Berlin, Germany (Hybrid event) 
+title: Barcamp Open Science | Connect, Unlock, Together! Berlin, Germany (Hybrid event) 
 date: 2023-09-21
 featured: true
 description: Drive justice through Open Science practices (e.g. global climate justice) 
