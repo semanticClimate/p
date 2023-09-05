@@ -27,5 +27,5 @@ Sept. 1st, 15:45-16:45 PM (CST/UTC+8)/ 13:15-14:15 PM (IST)
 ## Event Report
 We are excited to share the event report from our recent training workshop at ISOSC CODATA 2023, China, which aimed to provide insight about the knowledge extraction from the IPCC reports.
 
-[Training Session ISOSC 2023](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y)
+[Training Session ISOSC 2023](https://semanticclimate.org/p/en/posts/isosc_event_report/)
 
