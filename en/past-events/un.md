@@ -15,6 +15,9 @@ semanticClimate was invited to join a panel "Open Access and Climate Justice" ho
 
 details: <https://research.un.org/conferences/webinar3>
 
+#### UN "Open Access for Climate Justice" Presentation by Prof. Gitanjali Yadav
+[See here](https://youtu.be/7gWHprc-h1k?si=QZ9nJ-xslbDR-c5U)
+
 
 
 
