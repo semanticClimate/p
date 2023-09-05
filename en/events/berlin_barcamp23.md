@@ -19,7 +19,7 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 [Click here](https://barcamps.eu/oscibar2023/?__l=en) to register your interest.
 
 ## Event schedule
-21 September 2023
+21 September, 2023
 
 
 
