@@ -24,4 +24,6 @@ FSCI 2023 (hosted by the FORCE11 Scholarly Communications Institute) aims to enh
 
 <img src = "/p/static/img/fsci_schedule.png">
 
+## Event Report
 
+Here is the curated collections of [videos](https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT) made by different team members that have been presented in the FISCI 2023. All the prersentations in the videos contribute to comprehensive understanding of the various IPCC reports and their respective chapters.  
