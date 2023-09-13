@@ -21,7 +21,24 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 ## Event schedule
 21 September, 2023
 
+#### Schedule
+(CEST)
 
+- 09:30 – 10:00 Registration and Coffee
+- 10:00 – 10:30 Welcome & Introduction
+- 10:30 – 10:45 Ignition Talk by Prince Edem Samoh (invited)
+- 10:45 – 11:15 Session Planning
+- 11:15 – 11:30 Short Break
+- 11:30 – 12:15 Sessions I
+- 12:15 – 12:30 Short Break
+- 12:30 – 13:15 Sessions II
+- 13:15 – 14:15 Lunch
+- 14:15 – 14:45 Session-Pitches I and II // Session Planning Update
+- 14:45 – 15:30 Sessions III
+- 15:30 – 15:45 Short Break
+- 15:45 – 16:30 Sessions IV
+- 16:30 – 16:40 Short Break
+- 16:40 – 17:00  Session-Pitches III and IV // Wrap-up
 
 
 
