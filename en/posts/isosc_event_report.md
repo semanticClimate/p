@@ -14,28 +14,38 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 ### Here are some videos showcasing various sessions in the CODATA China event.
 
-#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2uxx-ZfXng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz3ne1JnOt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Food security IPCC SRCCL | Feat. Dr Yasin JK 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4GjNfsQb200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x2uxx-ZfXng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5>It "NEVER" Rains in Ladakh | feat. Shiwani Yadav</h5>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <iframe width="200" height="200" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
-    <h4>Knowledge Graph Explained by Prof. Peter Murray-Rust</h4>
+    <h5>Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish</h5>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz3ne1JnOt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5>IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi</h5>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4GjNfsQb200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5>Food security IPCC SRCCL | Feat. Dr Yasin JK</h5>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5>Knowledge Graph Explained by Prof. Peter Murray-Rust</h5>
   </div>
 </div>
 
