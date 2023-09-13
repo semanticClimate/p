@@ -32,10 +32,10 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 
 
-<div style="display: flex; align-items: center;">
-  <iframe width="250" height="250" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
-    <h6>Knowledge Graph Explained by Prof. Peter Murray-Rust</h6>
+    <h4>Knowledge Graph Explained by Prof. Peter Murray-Rust</h4>
   </div>
 </div>
 
