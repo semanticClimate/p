@@ -21,7 +21,9 @@ This International Conference on Open and FAIR Data Ecosystem will predominantly
 ## Event schedule
 10 September - 13 September, 2023
 
+The event schedule, including session timings and speakers, is available [here](https://www.pkc.org.in/wp-content/uploads/2023/09/schedule.pdf)
 
+<img src = "/p/static/img/open-fair-schedule.jpg">
 
 
 
