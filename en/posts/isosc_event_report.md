@@ -14,14 +14,22 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 ### Here are some videos showcasing various sessions in the CODATA China event.
 
-#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate
+#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2uxx-ZfXng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish #semanticClimate
+#### Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi #semanticClimate
+#### IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pz3ne1JnOt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Food security IPCC SRCCL | Feat. Dr Yasin JK 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GjNfsQb200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Knowledge Graph Explained by Prof. Peter Murray-Rust
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
