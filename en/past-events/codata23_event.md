@@ -21,6 +21,10 @@ This workshop will concentrate on fundamental knowledge and skills related to op
 ## Event schedule
 Sept. 1st, 15:45-16:45 PM (CST/UTC+8)/ 13:15-14:15 PM (IST)
 
+<img src = "/p/static/img/isosc23-China-schedule.jpg">
+
+#### Explore the complete event program and schedule [here](https://github.com/petermr/semanticClimate/blob/main/codata_training_handbook_2023.pdf)
+
 ## Training Handbook
 [Download pdf](https://github.com/petermr/semanticClimate/blob/main/codata_training_handbook_2023.pdf)
 
