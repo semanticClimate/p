@@ -18,3 +18,6 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 [![It "NEVER" Rains in Ladakh](https://img.youtube.com/vi/x2uxx-ZfXng/maxresdefault.jpg)](https://www.youtube.com/watch?v=x2uxx-ZfXng)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2uxx-ZfXng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
