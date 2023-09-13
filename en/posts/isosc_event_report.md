@@ -20,8 +20,8 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 #### Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish #semanticClimate
 
-<iframe width="560" height="315" src="https://youtu.be/zKs-qEggg7Y?si=PqTAFf0pEuYwPV7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi #semanticClimate
 
-<iframe width="560" height="315" src="https://youtu.be/Pz3ne1JnOt8?si=cCA8w3xcPchCyoor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz3ne1JnOt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
