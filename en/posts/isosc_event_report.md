@@ -12,8 +12,9 @@ tags:
 
 In this series of [informative videos](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y), you'll find discussions on simplifying IPCC climate reports, complete with insights into the tools that streamline the process of climate data extraction. It also displays the sessions where experts sharing their experiences working with different IPCC chapters and making it a valuable resource for researchers and climate enthusiasts.
 
-## Here are some videos showcasing various sessions in the CODATA China event.
+#### Here are some videos showcasing various sessions in the CODATA China event.
 
-<div class="container">
-<h3>It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate by Shiwani Yadav</h3>
-<p><iframe width="560" height="315" src="https://youtu.be/x2uxx-ZfXng?si=pGDu1fg7ZNoZUF6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p></div>
+It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate
+
+[![It "NEVER" Rains in Ladakh](https://img.youtube.com/vi/x2uxx-ZfXng/maxresdefault.jpg)](https://www.youtube.com/watch?v=x2uxx-ZfXng)
+
