@@ -11,3 +11,9 @@ tags:
 [#semanticclimate](https://semanticclimate.org/p/en/) Team has presented their work in 1 hr session on open science and SDGs in the ISOSC training workshop through online plateform. The work showcased were mainly the pre-recorded videos by the different team members.
 
 In this series of [informative videos](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y), you'll find discussions on simplifying IPCC climate reports, complete with insights into the tools that streamline the process of climate data extraction. It also displays the sessions where experts sharing their experiences working with different IPCC chapters and making it a valuable resource for researchers and climate enthusiasts.
+
+Here are some videos showcasing various sessions in the CODATA China event.
+
+#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate by Shiwani Yadav
+
+<iframe width="560" height="315" src="https://youtu.be/x2uxx-ZfXng?si=pGDu1fg7ZNoZUF6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
