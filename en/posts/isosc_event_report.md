@@ -30,15 +30,12 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4GjNfsQb200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Knowledge Graph Explained by Prof. Peter Murray-Rust
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div style="display: flex; align-items: center;">
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="250" height="250" src="https://www.youtube.com/embed/jEEMxC1V0n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
-    <h4>Knowledge Graph Explained by Prof. Peter Murray-Rust</h4>
+    <h6>Knowledge Graph Explained by Prof. Peter Murray-Rust</h6>
   </div>
 </div>
 
