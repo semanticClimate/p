@@ -14,6 +14,6 @@ In this series of [informative videos](https://www.youtube.com/playlist?list=PLt
 
 Here are some videos showcasing various sessions in the CODATA China event.
 
-#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate by Shiwani Yadav
+#### It "NEVER" Rains in Ladakh | feat. Shiwani Yadav #semanticClimate
 
 <iframe width="560" height="315" src="https://youtu.be/x2uxx-ZfXng?si=pGDu1fg7ZNoZUF6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
