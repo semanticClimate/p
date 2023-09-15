@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-09-15T06:24:48Z</updated>
+	<updated>2023-09-15T06:33:14Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,8 +17,7 @@
 		<link href="/p/en/posts/barcamp-post1/"/>
 		<updated>2023-09-15T00:00:00Z</updated>
 		<id>/p/en/posts/barcamp-post1/</id>
-		<content type="html">&lt;h3&gt;Introduction to SemanticClimate in Berlin Barcamp&lt;/h3&gt;
-&lt;p&gt;This is the first of several blog posts which will help Barcamprs to understand what &lt;a href=&quot;https://semanticclimate.org/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; does and what we offer to the camp. Some are recorded from conversations in the group.&lt;/p&gt;
+		<content type="html">&lt;p&gt;This is the first of several blog posts which will help Barcamprs to understand what &lt;a href=&quot;https://semanticclimate.org/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; does and what we offer to the camp. Some are recorded from conversations in the group.&lt;/p&gt;
 &lt;p&gt;(&lt;strong&gt;Peter Murray-Rust&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;Semantic climate is a group of people mainly in India but distributed across the world who are committed to creating knowledge about climate in a form that both humans and machines can understand.&lt;/p&gt;
 &lt;ul&gt;
