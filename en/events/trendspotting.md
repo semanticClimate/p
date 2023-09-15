@@ -16,7 +16,7 @@ tags:
 
 The topics of discussion are anticipated to encompass a wide spectrum, including the collaboration of exceptional scientific teams and the importance of involving women in scientific pursuits. Additionally, the conversations will delve into the examination of incidents involving injuries to women in professional sports due to the utilization of equipment originally designed for men.
 
-[#semanticClimate](https://semanticclimate.org/p/en/) Founder Prof. Gitanjali Yadav will be the Panellist in the Keynote session on 31 October, 2023.
+[#semanticClimate](https://semanticclimate.org/p/en/) Founder **Prof. Gitanjali Yadav** will be the Panellist in the Keynote session on 31 October, 2023.
 
 ## Registration
 [Click here](https://forms.zohopublic.com/shashank6/form/Trendspotting31October2023/formperma/Kk0otDkimsJuZh1sufmcFARuXYFoqUHt1MleOBt0EeU) to register your interest.
