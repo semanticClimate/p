@@ -5,12 +5,67 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-09-13T11:49:43Z</updated>
+	<updated>2023-09-15T06:24:48Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Introduction to SemanticClimate in Berlin Barcamp</title>
+		<link href="/p/en/posts/barcamp-post1/"/>
+		<updated>2023-09-15T00:00:00Z</updated>
+		<id>/p/en/posts/barcamp-post1/</id>
+		<content type="html">&lt;h3&gt;Introduction to SemanticClimate in Berlin Barcamp&lt;/h3&gt;
+&lt;p&gt;This is the first of several blog posts which will help Barcamprs to understand what &lt;a href=&quot;https://semanticclimate.org/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; does and what we offer to the camp. Some are recorded from conversations in the group.&lt;/p&gt;
+&lt;p&gt;(&lt;strong&gt;Peter Murray-Rust&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;Semantic climate is a group of people mainly in India but distributed across the world who are committed to creating knowledge about climate in a form that both humans and machines can understand.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We&#39;ve been going for about three years as a community.&lt;/li&gt;
+&lt;li&gt;We are single mindedly looking at climate knowledge; how to create it; how to disseminate it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We know that the world is desperate for knowledge about climate. I attended a workshop two days ago in Cambridge of ordinary citizens, not specialists, who really wanted to know about climate. They were working within the framework of a worldwide group, &lt;a href=&quot;https://climatefresk.org/&quot;&gt;Climatefresk&lt;/a&gt; , who&#39;d created a game where you can use cards to steer through the information on climate.&lt;/p&gt;
+&lt;p&gt;It was great, fun, intense.
+But what I realized from that was that a million people had been through this system and there were 50,000 people who were trained to deliver these workshops. Those are huge numbers.&lt;/p&gt;
+&lt;p&gt;People really need climate knowledge.
+They&#39;re not getting it from from some of the sources that we might expect.
+In SemanticClimate we&#39;re dedicated to finding reliable sources and transforming them into components that people can understand.
+We work both asynchronously and synchronously. We use &lt;a href=&quot;https://slack.com/intl/en-in&quot;&gt;Slack&lt;/a&gt; on a daily basis and we&#39;ve got probably about twenty people who are active on that Slack. But frequently we also synchronously hook up using Zoom, often on a daily basis.&lt;/p&gt;
+&lt;p&gt;We &lt;strong&gt;learn by doing&lt;/strong&gt;.
+If there are things we don&#39;t understand, we see if we can find resources on the web which we believe in.
+That&#39;s particularly true of using new software. We don&#39;t wait to be taught how to do it.
+We go out and do it and see what works.
+It&#39;s also true of knowledge. If we don&#39;t understand subject such as &lt;strong&gt;climate justice&lt;/strong&gt; (our subject in Berlin), we use reliable sources which we&#39;ll tell you about those later.&lt;/p&gt;
+&lt;p&gt;We also have a strong &lt;strong&gt;tool based approach&lt;/strong&gt;. We&#39;ve created some of our own tools:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;tools for automatically downloading the literature,&lt;/li&gt;
+&lt;li&gt;tools for extracting words and phrases out of it,&lt;/li&gt;
+&lt;li&gt;tools for organizing it, clustering it,  making it more understandable.
+And we also use existing tools, for downloading, analysing, reorganizing and displaying.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are very strong believers in &lt;strong&gt;Wikimedia&lt;/strong&gt; (of course we are meeting in Wikimedia DE. Thanks!).
+You all know Wikipedia. But there&#39;s also a huge amount of information in Wikidata.
+Think of Wikidata as all the structured, annotated information in Wikipedia pages. And add a huge amount from public open databases, such as genes, proteins, people, places and much more. Every Wikipedia page has a Wikidata item that gives information about the knowledge that&#39;s been collected for that subject.
+It&#39;s got pointers to the terms in different languages.
+It&#39;s got the formal knowledge representation of the terms.
+There&#39;s lots of geospatial data.
+and chemistry
+and species
+and ...
+and climate?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.org/p/en/&quot;&gt;SemanticClimate&lt;/a&gt; are a hybrid group.
+At the Barcamp, &lt;strong&gt;Simon Worthington&lt;/strong&gt; and &lt;strong&gt;Peter Murray Rust&lt;/strong&gt; are going to be in Berlin. but there are going to be people attending online mainly from India and another countries.
+They&#39;ll be taking part in the barcamp as well.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First we&#39;d love to discuss &lt;strong&gt;climate justice&lt;/strong&gt;. What you know and want to know. Can we create knowledge  from sources?&lt;/li&gt;
+&lt;li&gt;Then we&#39;ll make our tools available, to find out about climate justice in our resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of our main resources is the &lt;a href=&quot;https://www.ipcc.ch/&quot;&gt;United Nations International Panel on Climate Change IPCC&lt;/a&gt;. That&#39;s a huge resource, but it&#39;s 15,000 pages. you need tools to navigate it. We&#39;ve done that. We&#39;ll be showing you how to explore the Open Science Literature that&#39;s made available through Europe PUBMED Central. Tens of millions of papers. We show you how our tools can automatically search it download hundreds of papers. then we can analyze them using the tools that we&#39;ve created, and Panadas and Matplotlib.&lt;/p&gt;
+&lt;p&gt;Hopefully, we&#39;ll be able to come up with new ideas. Possibly even new tools, and ones that we didn&#39;t know about.
+And of course verything is &lt;strong&gt;OpenNotebookScience&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Event Report | Open Science and SDGs (ISOSC 2023), Beijing, China</title>
