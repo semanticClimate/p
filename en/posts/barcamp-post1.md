@@ -57,7 +57,7 @@ They'll be taking part in the barcamp as well.
 - First we'd love to discuss **climate justice**. What you know and want to know. Can we create knowledge  from sources?
 - Then we'll make our tools available, to find out about climate justice in our resources.
   
-One of our main resources is the [United Nations International Panel on Climate Change IPCC](https://www.ipcc.ch/). That's a huge resource, but it's 15,000 pages. you need tools to navigate it. We've done that. We'll be showing you how to explore the Open Science Literature that's made available through Europe PUBMED Central. Tens of millions of papers. We show you how our tools can automatically search it download hundreds of papers. then we can analyze them using the tools that we've created, and Panadas and Matplotlib.
+One of our main resources is the [United Nations International Panel on Climate Change IPCC](https://www.ipcc.ch/). That's a huge resource, but it's 15,000 pages. you need tools to navigate it. We've done that. We'll be showing you how to explore the Open Science Literature that's made available through Europe PUBMED Central. Tens of millions of papers. We show you how our tools can automatically search it download hundreds of papers. then we can analyze them using the tools that we've created, and Pandas and Matplotlib.
 
 Hopefully, we'll be able to come up with new ideas. Possibly even new tools, and ones that we didn't know about.
-And of course verything is **OpenNotebookScience**
+And of course everything is **OpenNotebookScience**
