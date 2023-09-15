@@ -25,7 +25,7 @@ But what I realized from that was that a million people had been through this sy
 People really need climate knowledge.
 They're not getting it from from some of the sources that we might expect.
 In SemanticClimate we're dedicated to finding reliable sources and transforming them into components that people can understand.
-We work both asynchronously and synchronously. We use [Slack](https://slack.com) on a daily basis and we've got probably about twenty people who are active on that Slack. But frequently we also synchronously hook up using Zoom, often on a daily basis.
+We work both asynchronously and synchronously. We use **Slack** on a daily basis and we've got probably about twenty people who are active on that Slack. But frequently we also synchronously hook up using Zoom, often on a daily basis.
 
 We **learn by doing**.
 If there are things we don't understand, we see if we can find resources on the web which we believe in.
