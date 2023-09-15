@@ -8,6 +8,7 @@ tags:
   - hackathon
 ---
 
+
 This is the first of several blog posts which will help Barcamprs to understand what [#semanticClimate](https://semanticclimate.org/p/en/) does and what we offer to the camp. Some are recorded from conversations in the group.
 
 (**Peter Murray-Rust**)
