@@ -26,7 +26,7 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 
 - 09:30 – 10:00 Registration and Coffee
 - 10:00 – 10:30 Welcome & Introduction
-- 10:30 – 10:45 Ignition Talk by Prince Edem Samoh (invited)
+- 10:30 – 10:45 Ignition Talk by Peter Murray-Rust (invited)
 - 10:45 – 11:15 Session Planning
 - 11:15 – 11:30 Short Break
 - 11:30 – 12:15 Sessions I
