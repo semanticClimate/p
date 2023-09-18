@@ -40,5 +40,5 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 - 16:30 – 16:40 Short Break
 - 16:40 – 17:00  Session-Pitches III and IV // Wrap-up
 
-
+[Introduction to semanticClimate in Berlin Barcamp](https://semanticclimate.org/p/en/posts/barcamp-post1/)
 
