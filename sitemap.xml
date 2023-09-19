@@ -307,12 +307,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2023-09-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2023-09-19</lastmod>
   </url>
   
@@ -322,12 +317,17 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
     <lastmod>2023-09-19</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2023-09-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2023-09-19</lastmod>
   </url>
   
@@ -349,6 +349,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/events/berlin_barcamp23/</loc>
     <lastmod>2023-09-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/ukri/</loc>
+    <lastmod>2023-10-18</lastmod>
   </url>
   
   <url>
