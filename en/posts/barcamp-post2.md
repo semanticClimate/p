@@ -8,7 +8,6 @@ tags:
   - hackathon
 ---
 
-# The sources that SemanticClimate can use for Climate Justice
 
 *A lightly edited transcript of a conversation between Waheb Mehdi and Peter Murray-Rust 2023-09-13 . Discussing what might happen and what resources might be used. However it's also a general overview of what #sC can offer any community or project*
 *P:* Can you tell us about your ideas for extracting knowledge on climate justice particularly with reference to the Berlin Barcamp, which is in a weeks time.
