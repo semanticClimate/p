@@ -2,7 +2,7 @@
 title: The sources that SemanticClimate can use for Climate Justice
 date: 2023-09-19
 description: Berlin Barcamp on September 21, 2023 
-author: The Team
+author: The team
 tags:
   - semanticclimate
   - hackathon
