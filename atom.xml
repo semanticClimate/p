@@ -5,12 +5,79 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-09-18T04:25:38Z</updated>
+	<updated>2023-09-19T05:21:04Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>The sources that SemanticClimate can use for Climate Justice</title>
+		<link href="/p/en/posts/barcamp-post2/"/>
+		<updated>2023-09-19T00:00:00Z</updated>
+		<id>/p/en/posts/barcamp-post2/</id>
+		<content type="html">&lt;h1&gt;The sources that SemanticClimate can use for Climate Justice&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;A lightly edited transcript of a conversation between Waheb Mehdi and Peter Murray-Rust 2023-09-13 . Discussing what might happen and what resources might be used. However it&#39;s also a general overview of what #sC can offer any community or project&lt;/em&gt;
+&lt;em&gt;P:&lt;/em&gt; Can you tell us about your ideas for extracting knowledge on climate justice particularly with reference to the Berlin Barcamp, which is in a weeks time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;W:&lt;/em&gt; What I&#39;m aiming to do is I&#39;m aiming to build a beginner friendly project which would take climate justice reports from different parts of the world and using semanticclimate tools such as &lt;code&gt;pyamihtml&lt;/code&gt;, and &lt;code&gt;docanalysis&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We could first of all, we could convert the PDF documents of climate justice reports into HTML and we could use &lt;code&gt;docanalysis&lt;/code&gt; to section those HTML documents into different parts like the &lt;em&gt;introduction&lt;/em&gt; , the conclusion as far as I know, do analysis also has the feature to extract keywords from the reports.&lt;/p&gt;
+&lt;p&gt;it could also generate some &lt;strong&gt;summaries&lt;/strong&gt; and &lt;strong&gt;summary statistics&lt;/strong&gt; like how many times a certain keyword is occurring in the report.
+we could use that data and represent that as graphs, using Python, using Python libraries like &lt;code&gt;matplotlib&lt;/code&gt;, maybe something else.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P:&lt;/em&gt; Well, that&#39;s a fantastic idea.
+Let me add some &lt;strong&gt;technical observations&lt;/strong&gt;.
+First of all, for next week, we&#39;re probably going to be limited either to the open access literature or to the text of the IPCC projects that you&#39;ve been looking at. and we won&#39;t know which is most tractable. The current toolkit &lt;code&gt;pygetpapers&lt;/code&gt; will retrieve the open access literature.
+We can look for say, &lt;strong&gt;&amp;quot;climate justice in West Africa&amp;quot;&lt;/strong&gt; and that will retrieve a number of papers, maybe a few 100.
+and we might then want to cut it down by date or or something of that sort.
+When we&#39;ve got those papers, they go into &lt;code&gt;docanalysis&lt;/code&gt; which will analyze them for words.&lt;/p&gt;
+&lt;p&gt;There are two ways that it does this, &lt;em&gt;supervised learning&lt;/em&gt; and &lt;em&gt;unsupervised learning&lt;/em&gt;.
+if we&#39;ve got a list of words we&#39;re interested in, we can look for those. let&#39;s say that we have a vocabulary of climate justice terms we can see which of the papers contain those words because they won&#39;t always use the term &amp;quot;&lt;strong&gt;climate justice&lt;/strong&gt;&amp;quot;.
+They might talk about &amp;quot;&lt;strong&gt;loss and damage&lt;/strong&gt;&amp;quot; or &amp;quot;&lt;strong&gt;climate inequity&lt;/strong&gt;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;A very good way of classifying papers is to find out what words they contain.
+&lt;em&gt;unsupervised analysis&lt;/em&gt; is when you ask the tool to cluster objects so you can categorize them.
+&lt;code&gt;spacy&lt;/code&gt; which is what &lt;code&gt;docanalysis&lt;/code&gt; runs has got several methods.
+One method is that it&#39;s pre trained on a number of concepts so we can look for things like countries or organizations and &lt;code&gt;spacy-docanalysis&lt;/code&gt; will come up with those.
+We couldn&#39;t, for example, look for &amp;quot;justice&amp;quot; using that.
+An unsupervised method is to cluster the words in a text by a number of metrics, e.g. which words co-occur with other words.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;W:&lt;/em&gt; are we going to use supervised approach or supervised approach?
+&lt;em&gt;P:&lt;/em&gt; I think I think we already use both. But if we have a climate dictionary, that will be very powerful in looking for the concepts we&#39;re interested in.
+&lt;em&gt;W:&lt;/em&gt;  Mhm So that means that we do unsupervised at the moment.
+&lt;em&gt;P:&lt;/em&gt; we can do supervised if we have dictionaries. one way to get dictionaries is actually to do a search of the literature.
+and then use &lt;code&gt;docanalysis&lt;/code&gt; to group the words we get out and then decide if we feel that those words are representative of climate justice.
+at the same time, we can also link them to Wikipedia and Wikidata.
+Does that make sense?
+&lt;em&gt;W:&lt;/em&gt; Sure.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P:&lt;/em&gt; we&#39;ve got several different methods. All of these are what you might call research so that we don&#39;t know which of these is going to work. But I think I would be fairly confident in getting a word list which can be turned into a semantic dictionary.
+We have tools for that and I&#39;d be fairly optimistic that docanalysis could extract those sentences which had these which had these terms in so that you could find out how people were using the terms.
+yeah.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;W:&lt;/em&gt; what happens after we create these dictionaries?
+Would that be our end goal or can we do something with the dictionaries?
+&lt;em&gt;P:&lt;/em&gt; First of all, what we do at barcamp depends on what we can offer. the people who turn up.
+let&#39;s assume that we&#39;ve got people interested in climate justice and people who are able to run Python programs and they get together in a group so that any question can be put into the system and we&#39;ll find out whether that method works or not during that.
+We&#39;ll certainly come up with a list of terms and we&#39;ll look those up in wiki data because that gives us a link back into all the Wikimedia support of that.
+if you&#39;ve got something like climate justice, you can go to the wiki data page on it, the Wikimedia, the Wikipedia page on it, you can find diagrams which relate to it, you can find papers which are about it and so forth.
+wikidata, for example, has got a list of open access papers.
+and that&#39;s a very good way into the literature. what we want to do is describe this before the meeting, work on the tools and make sure that they run and then see what the barcampers want to do with them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P:&lt;/em&gt;
+I&#39;m hoping that this will persist after this.
+the bar campers are a way of alpha testing whether this is a useful way forward.
+currently, the focus is that we can get all of the three tools to work on the Climate Justice in the scholarly literature and IPCC reports.
+we don&#39;t yet know which parts of the IPCC report contain information on climate justice. They have to be converted into html first of all.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discussion aboout where to find Climate Justice in IPCC is chopped&lt;/em&gt;
+...But the problem is those reports may not be very easy to read because they&#39;ll be in PDF and the PDF is still not very easy to convert.
+*W: * if we can turn them into HTML, that would be really good.
+&lt;em&gt;P:&lt;/em&gt; Right.
+&lt;em&gt;W:&lt;/em&gt; we could also try to search for climate justice related concepts in the &lt;strong&gt;IPCC AR6&lt;/strong&gt; reports.
+&lt;em&gt;P:&lt;/em&gt; I think it would be very valuable if you could manually browse the IPCC AR6 reports and find out where there&#39;s information on climate change.
+There is an index created by IPCC.
+It&#39;s not hyperlinked.
+I would look in WG2 which is about adaptation because that I think may have climate justice.
+It may also occur in WG3 which is about mitigation,
+But does that cover roughly the your idea?
+&lt;em&gt;W:&lt;/em&gt; It does, we could find a climate justice related text in the IPCC AR6 reports and maybe we could just apply the tools on those specific sections and see what we can come up with.
+&lt;em&gt;P:&lt;/em&gt; That might well work.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introduction to SemanticClimate in Berlin Barcamp</title>
