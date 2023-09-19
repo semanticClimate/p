@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-09-19T05:23:09Z</updated>
+	<updated>2023-09-19T05:23:38Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,8 +17,7 @@
 		<link href="/p/en/posts/barcamp-post2/"/>
 		<updated>2023-09-19T00:00:00Z</updated>
 		<id>/p/en/posts/barcamp-post2/</id>
-		<content type="html">&lt;h1&gt;The sources that SemanticClimate can use for Climate Justice&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;A lightly edited transcript of a conversation between Waheb Mehdi and Peter Murray-Rust 2023-09-13 . Discussing what might happen and what resources might be used. However it&#39;s also a general overview of what #sC can offer any community or project&lt;/em&gt;
+		<content type="html">&lt;p&gt;&lt;em&gt;A lightly edited transcript of a conversation between Waheb Mehdi and Peter Murray-Rust 2023-09-13 . Discussing what might happen and what resources might be used. However it&#39;s also a general overview of what #sC can offer any community or project&lt;/em&gt;
 &lt;em&gt;P:&lt;/em&gt; Can you tell us about your ideas for extracting knowledge on climate justice particularly with reference to the Berlin Barcamp, which is in a weeks time.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;W:&lt;/em&gt; What I&#39;m aiming to do is I&#39;m aiming to build a beginner friendly project which would take climate justice reports from different parts of the world and using semanticclimate tools such as &lt;code&gt;pyamihtml&lt;/code&gt;, and &lt;code&gt;docanalysis&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;We could first of all, we could convert the PDF documents of climate justice reports into HTML and we could use &lt;code&gt;docanalysis&lt;/code&gt; to section those HTML documents into different parts like the &lt;em&gt;introduction&lt;/em&gt; , the conclusion as far as I know, do analysis also has the feature to extract keywords from the reports.&lt;/p&gt;
