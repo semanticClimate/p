@@ -5,12 +5,21 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-09-19T06:22:13Z</updated>
+	<updated>2023-09-20T11:47:48Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Introduction to SemanticClimate tools in Berlin Barcamp</title>
+		<link href="/p/en/posts/barcamp_post3/"/>
+		<updated>2023-09-20T00:00:00Z</updated>
+		<id>/p/en/posts/barcamp_post3/</id>
+		<content type="html">&lt;p&gt;&amp;quot;Explore the interactive tools and code snippets in Colab notebook by following this link: &lt;a href=&quot;https://colab.research.google.com/drive/1wnXP8ACDYVGfSuKxHXUzSD2qd7vaxc0V&quot;&gt;Colab Notebook&lt;/a&gt; for extracting climate information from the available literature. You can experiment with the input query in the provided code, visualize data, and run analyses directly in your browser. Have fun exploring!&amp;quot;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>The sources that SemanticClimate can use for Climate Justice</title>
