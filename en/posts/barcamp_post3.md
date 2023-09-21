@@ -9,5 +9,5 @@ tags:
 ---
 
 
-"Explore the interactive tools and code snippets in Colab notebook by following this link: [Colab Notebook for climate justice](https://colab.research.google.com/drive/12ixmez8zh288hBGzwWmBaj29leeuQRD7#scrollTo=Be74i2ErAmIi) for extracting climate information from the available literature. You can experiment with the input query in the provided code, visualize data, and run analyses directly in your browser. Have fun exploring!"
+"Explore the interactive tools and code snippets in Colab notebook by following this link: [Colab Notebook for climate justice](https://colab.research.google.com/drive/12ixmez8zh288hBGzwWmBaj29leeuQRD7#scrollTo=THyLJArMaLDi) for extracting climate information from the available literature. You can experiment with the input query in the provided code, visualize data, and run analyses directly in your browser. Have fun exploring!"
 
