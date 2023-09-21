@@ -55,7 +55,7 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 
 [**The sources that SemanticClimate can use for Climate Justice**](https://semanticclimate.org/p/en/posts/barcamp-post2/)
 
-[**Toolkit:Introduction to SemanticClimate tools in Berlin Barcamp**](https://semanticclimate.org/p/en/posts/barcamp_post3/)
+[**Toolkit: Introduction to SemanticClimate tools**](https://semanticclimate.org/p/en/posts/barcamp_post3/)
 
 
 
