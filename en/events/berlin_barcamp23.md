@@ -40,7 +40,7 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 - 16:30 – 16:40 Short Break
 - 16:40 – 17:00  Session-Pitches III and IV // Wrap-up
 
-#### Barcamp program for today (21 September, 2023)
+## Barcamp program for today (21 September, 2023)
 
 ##### Ignition Talk (1030 CEST/ 1400 IST)
 - Principles
@@ -49,7 +49,7 @@ The [Barcamp Open Science](https://www.barcamp-open-science.eu/) is an inclusive
 ##### Climate Justice in the Literature (1445 CEST / 1815 IST)
 - Synchronous drop-in with Team (all day)
 
-#### Here are the resources for the Berlin Barcamp 2023
+## Here are the resources for the Berlin Barcamp 2023
 
 [**Introduction to semanticClimate in Berlin Barcamp**](https://semanticclimate.org/p/en/posts/barcamp-post1/)
 
