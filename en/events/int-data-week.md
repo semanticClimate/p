@@ -16,7 +16,7 @@ tags:
 
 The IDW 2023 event will be with in person and virtual components, brings together the global community of data scientists, researchers, policy makers, cheminformatics, industry leaders etc. The event will highlight the opportunities for positive transformation with regard to global challenges.
 
-[#semanticClimate](https://semanticclimate.org/p/en/) Founder Prof. Gitanjali Yadav will be the Panellist in the Plenary Session `AI and ethics in dialogue with data science` from 23 - 26 October 2023.
+[#semanticClimate](https://semanticclimate.org/p/en/) Founder **Prof. Gitanjali Yadav** will be the panellist in the Plenary Session `AI and ethics in dialogue with data science`.
 
 ## Registration
 [Click here](https://internationaldataweek.org/idw2023/registration/) to register your interest.
