@@ -16,7 +16,7 @@ tags:
 
 The diverse participants like researcher, students, data scientist, government agencies, private sector companies etc. will work on the big data to innovate the process, data-driven applications and tools to bring solution to the challenges of Sustainable Development Goals (SDG). 
 
-[#semanticClimate](https://semanticclimate.org/p/en/) team Peter Murray-Rust, Simon Worthington and Shweata Hegde will participate in the datathon and showcase the semantic climate tools to analyze the climate data from the IPCC.
+[#semanticClimate](https://semanticclimate.org/p/en/) team **Peter Murray-Rust**, **Simon Worthington** and **Shweata Hegde** will participate in the datathon and showcase the semantic climate tools to analyze the climate data from the IPCC.
 
 ## Registration
 [Click here](https://input.un.org/EFM/se/3995D1A45810116D) to register your interest.
