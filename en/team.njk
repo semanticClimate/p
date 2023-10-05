@@ -1,0 +1,19 @@
+---
+eleventyComputed:
+  title: Team
+layout: layouts/base.njk
+pagination:
+  data: collections.post
+  size: 6
+  alias: team
+  reverse: true
+eleventyNavigation:
+  key: Team
+  order: 5
+---
+
+  <div class="container">
+  <h1>Team</h1>
+    {% set eventslist = collections.event | sort(true, true, 'date') %}
+    {% include "components/memberslist.njk" %}
+</div>
