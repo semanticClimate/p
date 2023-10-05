@@ -12,8 +12,29 @@ eleventyNavigation:
   order: 5
 ---
 
-  <div class="container">
+<script src="https://cdn.tailwindcss.com"></script>
+<div class="container">
   <h1>Team</h1>
-    {% set eventslist = collections.event | sort(true, true, 'date') %}
-    {% include "components/memberslist.njk" %}
+  <div class="container px-5 py-24 mx-auto">
+    {% if page.url == "/" | url %}{% endif %}
+    <!-- Volunteers -->
+    <h2 class="mb-12">Volunteers</h2>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "volunteer" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Interns -->
+    <h2 class="mb-12">Interns</h2>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "intern" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 </div>
