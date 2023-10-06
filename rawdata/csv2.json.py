@@ -3,6 +3,8 @@
 import csv 
 import json
 import time
+import datetime
+from time import mktime
 
 def csv_to_json(csvFilePath, jsonFilePath):
     jsonArray = []
@@ -14,7 +16,14 @@ def csv_to_json(csvFilePath, jsonFilePath):
 
         #convert each csv row into python dict
         for row in csvReader: 
+            # Convert the US date to timestamp. Formatting is done in JavaScript
+            if row["start"] != "" and row["end"] != "":
+                start = datetime.datetime.strptime(row["start"], "%m/%d/%Y")
+                end   = datetime.datetime.strptime(row["end"], "%m/%d/%Y")
+                row["start"] = mktime(start.timetuple()) * 1000
+                row["end"] = mktime(end.timetuple()) * 1000
             #add this python dict to json array
+
             jsonArray.append(row)
   
     #convert python jsonArray to JSON String and write to file

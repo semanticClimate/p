@@ -24,7 +24,7 @@ pagination:
     <h2 id="volunteers" class="mt-12 text-3xl font-semibold">Volunteers</h2>
     <p class="mb-6">Meet the bright, tech-savvy volunteers of #semanticClimate</p>
     <div class="flex flex-wrap -m-4">
-      {% for member in memberList %}
+      {% for member in memberList | sort(true, false, 'end') %}
         {% if member.status == "volunteer" %}
           {% include "components/member.njk" %}
         {% endif %}
@@ -35,7 +35,7 @@ pagination:
     <h2 id="interns" class="mt-12 text-3xl font-semibold">Interns</h2>
     <p class="mb-6">Meet our team of talented, diverse interns</p>
     <div class="flex flex-wrap -m-4">
-      {% for member in memberList %}
+      {% for member in memberList | sort(true, false, 'end') %}
         {% if member.status == "intern" %}
           {% include "components/member.njk" %}
         {% endif %}
