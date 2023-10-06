@@ -1,0 +1,65 @@
+---
+eleventyComputed:
+  title: Team
+layout: layouts/base.njk
+pagination:
+  data: collections.post
+  size: 6
+  alias: team
+  reverse: true
+---
+
+<script src="https://cdn.tailwindcss.com"></script>
+<div class="container sm:px-4 lg:px-60 mt-6 mx-auto">
+  <h1 class="text-5xl mb-6">Team</h1>
+  <p> Jump to 
+    <a class="text-[#00adef]" href="#volunteers">Volunteers</a> |
+    <a class="text-[#00adef]" href="#interns">Interns</a> |
+    <a class="text-[#00adef]" href="#mentors">Mentors</a> |
+    <a class="text-[#00adef]" href="#partners">Our Partners</a>
+  </p>
+  <div>
+    {% if page.url == "/" | url %}{% endif %}
+    <!-- Volunteers -->
+    <h2 id="volunteers" class="mt-12 text-3xl font-semibold">Volunteers</h2>
+    <p class="mb-6">Meet the bright, tech-savvy volunteers of #semanticClimate</p>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "volunteer" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Interns -->
+    <h2 id="interns" class="mt-12 text-3xl font-semibold">Interns</h2>
+    <p class="mb-6">Meet our team of talented, diverse interns</p>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "intern" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Mentors -->
+    <h2 id="mentors" class="mt-12 mb-6 text-3xl font-semibold">Mentors</h2>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "mentor" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Partners -->
+    <h2 id="partners" class="mt-12 mb-6 text-3xl font-semibold">Our Partners</h2>
+    <div class="flex flex-wrap -m-4">
+      {% for member in memberList %}
+        {% if member.status == "partner" %}
+          {% include "components/member.njk" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
