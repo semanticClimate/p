@@ -35,6 +35,11 @@ module.exports = (config) => {
     );
   });
 
+  config.addFilter("convertDate", (dateObj) => {
+    date = new Date(dateObj);
+    return date.toLocaleDateString("en-US");
+  });
+
   // Nunjucks Shortcode
   config.addShortcode("register", function (link, target) {
     html = "";
@@ -74,5 +79,4 @@ module.exports = (config) => {
   return {
     pathPrefix: "/p/",
   };
-
 };
