@@ -1,9 +1,9 @@
 <div class="p-4 lg:w-1/2">
   <div class="h-full flex sm:flex-row flex-col justify-center text-center sm:text-left">
     {% if member.status == "partner" %}
-    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-contain object-center sm:mb-0 mb-4" src="/p/static/img/members/{{ member.image }}" loading="lazy">
+    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-contain object-center sm:mb-0 mb-4" src="{{ '/static/img/members/' | url }}{{ member.image }}" loading="lazy">
     {% else %}
-    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/static/img/members/{{ member.image }}" loading="lazy">
+    <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="{{ '/static/img/members/' | url }}{{ member.image }}" loading="lazy">
     {% endif %}
     <div class="flex-grow sm:pl-8">
       <h2 class="title-font font-medium text-2xl font-bold text-[#b03382]">{{ member.name }}</h2>
