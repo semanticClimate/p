@@ -9,7 +9,7 @@
       <h2 class="title-font font-medium text-2xl font-bold text-[#b03382]">{{ member.name }}</h2>
       <h3 class="text-gray-500 mb-1">{{ member.affiliation }}</h3>
       {% if member.start != "" and member.end != "" %}
-        <h4 class="text-gray-500 italic">{{ member.start }} - {{ member.end }}
+        <h4 class="text-gray-500 italic">{{ member.start | convertDate}} - {{ member.end | convertDate }}
         </h4>
       {% endif %}
       <p class="mb-3 text-base leading-tight">{{ member.interests }}</p>
