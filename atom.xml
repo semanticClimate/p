@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-06T09:42:25Z</updated>
+	<updated>2023-10-06T19:12:09Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -583,12 +583,12 @@ wait to be let in.&lt;/p&gt;
 		<link href="/p/en/posts/oaweek_workflow/"/>
 		<updated>2022-10-23T00:00:00Z</updated>
 		<id>/p/en/posts/oaweek_workflow/</id>
-		<content type="html">&lt;h1&gt;Steps in processing a Chapter&lt;/h1&gt;
+		<content type="html">&lt;h2&gt;Steps in processing a Chapter&lt;/h2&gt;
 &lt;p&gt;We assume&lt;/p&gt;
-&lt;h2&gt;PDF2HTML&lt;/h2&gt;
+&lt;h3&gt;PDF2HTML&lt;/h3&gt;
 &lt;p&gt;The raw chapter is in PDF which requires messy heuristic processing into HTML. We have done this for a small
 number of chapters and will be automating it as soon as we can. Here&#39;s a typical chunk.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./assets/chap02.png&quot; /&gt; &lt;!-- check this --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/p/static/img/chap02.png&quot; /&gt; &lt;!-- check this --&gt;&lt;/p&gt;
 &lt;p&gt;There are no words, lines, paragraphs in PDF. The tools usually guess right but here there&#39;s a problem of the
 top and left margins. We have to set clipping boxes. Sometimes these haven&#39;t worked. But generally we can get HTML
 (although things like font styles, subscripts, etc. are often trashed.&lt;/p&gt;
