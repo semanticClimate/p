@@ -21,11 +21,11 @@
 
     <div class="navbar__links">
       {% for entry in navPages %}
-        <a class="navbar__link {% if entry.url == page.url %}navbar__link--active{% endif %}" href="{{ entry.url | url }}">
+        <a class="text-[#0088be] navbar__link {% if entry.url == page.url %}navbar__link--active{% endif %}" href="{{ entry.url | url }}">
           {{ entry.title }}
         </a>
       {%- endfor %}
-      <a class="navbar__link" style="font-weight: bold" href='{{ "/en/posts/volunteers-wanted" | url }}'>Volunteer!</a>
+      <a class="text-[#0088be] navbar__link" style="font-weight: bold" href='{{ "/en/posts/volunteers-wanted" | url }}'>Volunteer!</a>
 
 {#
       <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
