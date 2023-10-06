@@ -5,7 +5,6 @@ const rssPlugin = require("@11ty/eleventy-plugin-rss");
 module.exports = (config) => {
   config.addPlugin(navigationPlugin);
   config.addPlugin(rssPlugin);
-
   config.addPassthroughCopy("css");
   config.addPassthroughCopy("static");
 
@@ -17,16 +16,16 @@ module.exports = (config) => {
 
   config.addFilter("featured", (listObj) => {
     // console.log(listObj[0].data)
-    featured = []
+    featured = [];
 
     listObj.forEach((element) => {
       // console.log(element)
       if (element.data.featured) {
         // console.log(element.data.title)
-        featured.push(element)
+        featured.push(element);
       }
-    })
-    
+    });
+
     return featured;
   });
 
@@ -38,10 +37,14 @@ module.exports = (config) => {
 
   // Nunjucks Shortcode
   config.addShortcode("register", function (link, target) {
-    html = ""
-    if (link != false ) {
-    html =
-      '<p class="button-wrap"><a target=' + target + ' class="action register" href="' + link + '" >Register →</a></p>';
+    html = "";
+    if (link != false) {
+      html =
+        '<p class="button-wrap"><a target=' +
+        target +
+        ' class="action register" href="' +
+        link +
+        '" >Register →</a></p>';
     }
     return html;
   });
@@ -67,4 +70,9 @@ module.exports = (config) => {
     });
     return tagList.sort((a, b) => b.tagCount - a.tagCount);
   });
+
+  return {
+    pathPrefix: "/p/",
+  };
+
 };
