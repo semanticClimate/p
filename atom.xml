@@ -5,12 +5,43 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-09T07:15:40Z</updated>
+	<updated>2023-10-13T04:47:20Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>inaugural_session</title>
+		<link href="/p/en/posts/inaugural/"/>
+		<updated>2023-10-13T00:00:00Z</updated>
+		<id>/p/en/posts/inaugural/</id>
+		<content type="html">&lt;h2&gt;Registration and Inaugural Session_Climate Knowledge Hunt Hackathon May 2023&lt;/h2&gt;
+&lt;p&gt;We are very excited to revisit the excitement and success of the registration and inaugural session for the Climate Knowledge Hunt Hackathon May 2023. The participants were very eager to secure their spot for the unforgettable journey of discovery, networking, and growth.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/registration.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/registration1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;The inaugural session was enlighted by the ideas and insights from the distinguished speakers from different institutes. Their highly motivational conversations encouraged the participants to learn a lot from the event. A glimpse of Introduction about the hackathon was also presented by one of the team member.&lt;/p&gt;
+&lt;h4&gt;Welcome Address by Prof. Subhra Chakraborty (Director NIPGR), New Delhi&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hybrid_session.jpg&quot; alt=&quot;Welcome Address by Director NIPGR, New Delhi&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_intro.jpg&quot; alt=&quot;Welcome Address&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;Welcome Address by Prof. Debasis Mohanty (Director, NII) and Prof. Gitanjali Yadav (Scientist, NIPGR) and Introduction about hackathon by Shweata Hegde&lt;/h4&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_inaugural.jpg&quot; alt=&quot;Welcome Address by Prof. Debasis Mohanty and Prof. Gitanjali Yadav&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/intro_session2.jpg&quot; alt=&quot;Introduction about hackathon by Shweata Hegde&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introduction to SemanticClimate tools in Berlin Barcamp</title>
