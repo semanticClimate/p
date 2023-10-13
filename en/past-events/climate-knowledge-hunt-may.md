@@ -52,6 +52,9 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 | 1830 - 1900       | Wrap-up & Final Comments                                                                 |
 | DINNER (1900)     |
 
+## Event Highlights
+#### [Inauguration session](../post/inaugural.md)
+
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
 The participants must bring a laptop that can support modern tools written in Python.
