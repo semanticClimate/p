@@ -2,7 +2,7 @@
 title: Navigation to IPCC reports
 date: 2023-10-19
 description: Overview of the resources_IPCC reports and glossary 
-author: edited from the transcript of daily session
+author: edited from the transcript of daily session with PMR and team
 tags:
   - semanticclimate
   - hackathon
@@ -41,7 +41,7 @@ So what you will see is about this report, but it also links to the other report
 
 ### Overview of the reports
 There's WG1 which is `physical science`, WG2, which is `adaptation` and WG3 which is `mitigation`.
-There are special reports on ocean and Cryosphere.
+There are special reports on `Ocean and Cryosphere`.
 Cryosphere means all the frozen water on the planet.
 So icebergs, glaciers, ice sheets and so on.
 
