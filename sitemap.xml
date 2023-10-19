@@ -202,6 +202,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/resources/</loc>
+    <lastmod>2023-10-19</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/CHANGELOG/</loc>
     <lastmod>2023-10-19</lastmod>
   </url>
@@ -257,17 +262,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
-    <lastmod>2023-10-19</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2023-10-19</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
+    <lastmod>2023-10-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
     <lastmod>2023-10-19</lastmod>
   </url>
   
@@ -278,6 +278,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2023-10-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2023-10-19</lastmod>
   </url>
   
