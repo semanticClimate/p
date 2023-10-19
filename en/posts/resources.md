@@ -2,7 +2,7 @@
 title: Navigation to IPCC reports
 date: 2023-10-19
 description: Overview of the resources_IPCC reports and glossary 
-author: edited from the transcript of daily session with PMR and team
+author: Edited from the transcript of daily session with PMR and team
 tags:
   - semanticclimate
   - hackathon
