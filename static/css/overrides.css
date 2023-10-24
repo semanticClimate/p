@@ -103,7 +103,7 @@ a {
 
 h1 {
   font-size: 3rem;
-  color: var(--primary);
+  color: var(--special);
   line-height: 3.8rem;
 }
 
@@ -310,6 +310,8 @@ pre {
 .box {
   border: 1px solid #0088be;
   padding: 10px 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .box h3 {

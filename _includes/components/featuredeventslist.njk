@@ -9,7 +9,7 @@
       <div class="card__tags">
         {% for tag in post.data.tags %}
           {% if tag != 'post' %}
-            <a href="{{ '/en/tags/' | url }}{{ tag | slug }}">{{ tag }}</a>
+            <a href="{{ '/en/tags/' | url }}{{ tag | slug }}"/>{{ tag }}</a>
           {% endif %}
         {% endfor %}
       </div>

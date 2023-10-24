@@ -13,5 +13,5 @@ tags:
 
 
 ## Hack session
-<img src = /p/static/img/semanticClimate_breakout_01.jpeg>
-<img src = /p/static/img/semanticClimate_breakout_03.jpeg>
+<img src='{{ "/static/img/semanticClimate_breakout_01.jpeg" | url }}'>
+<img src='{{ "/static/img/semanticClimate_breakout_03.jpeg" | url }}'>

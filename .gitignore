@@ -1,3 +1,6 @@
 node_modules
 .vscode
 _site
+rawdata/members-data-short.csv
+.gitignore
+rawdata/members-data-short.ods
