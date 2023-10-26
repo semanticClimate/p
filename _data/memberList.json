@@ -2,7 +2,7 @@
     {
         "name": "Abhishek Prasad",
         "status": "volunteer",
-        "twitter": "@Abhi_pandora",
+        "twitter": "Abhi_pandora",
         "github": "IamAbhishek22",
         "affiliation": "National Institute of Plant Genome Research",
         "interests": "Genomics, RNA-seq, Invasion Biology, Text and Data Mining ",
@@ -11,6 +11,45 @@
         "image": "Abhishek_Prasad.jpg",
         "email": "",
         "link": ""
+    },
+    {
+        "name": "Axel Dürkop",
+        "status": "volunteer",
+        "twitter": "",
+        "github": "xldrkp",
+        "affiliation": "Hamburg University of Technology (TUHH), Germany",
+        "interests": "Axel is a philosopher and developer. He designs tools, workflows and events in the mindset of Open Education and Open Science.",
+        "start": 1659996000000.0,
+        "end": 1663970400000.0,
+        "image": "axel-duerkop.jpg",
+        "email": "axel.duerkop@tuhh.de",
+        "link": ""
+    },
+    {
+        "name": "Simon Worthington",
+        "status": "volunteer",
+        "twitter": "",
+        "github": "",
+        "affiliation": "Member of HsHJointLab and Open Science Lab, TIB",
+        "interests": "Simon works on European coordination and communications for semanticClimate. He is an open source software publishing technology expert – as product owner. He is a researcher for NFDI4Culture – Data Publications and project lead on NextGen Books service at TIB.",
+        "start": "",
+        "end": "",
+        "image": "simon_worthington.jpg",
+        "email": "",
+        "link": ""
+    },
+    {
+        "name": "Leibniz Joint Lab Future Libraries & Research Data",
+        "status": "partner",
+        "twitter": "",
+        "github": "",
+        "affiliation": "",
+        "interests": "The Joint Lab provides a framework for intensifying cooperation in research, development and teaching on \"Future Libraries & Research Data\" with Hannover University of Applied Sciences and Arts (HsH) and TIB - Leibniz Information Centre for Science and Technology. ",
+        "start": "",
+        "end": "",
+        "image": "",
+        "email": "",
+        "link": "https://www.tib.eu/en/research-development/joint-labs/joint-lab-future-libraries-and-research-data"
     },
     {
         "name": "Anam Anjum",
