@@ -53,7 +53,7 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 | DINNER (1900)     |
 
 ## Event Highlights
-#### [Inauguration session](../posts/inaugural.md)
+#### [Inauguration session](../../posts/inaugural/)
 
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
