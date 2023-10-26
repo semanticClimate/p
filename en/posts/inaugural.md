@@ -1,5 +1,5 @@
 ---
-title: inaugural_session
+title: Inaugural session
 date: 2023-10-13
 description: Climate Knowledge Hunt Hackathon May 2023
 author: Renu Kumari
@@ -14,11 +14,10 @@ tags:
 We are very excited to revisit the excitement and success of the registration and inaugural session for the Climate Knowledge Hunt Hackathon May 2023. The participants were very eager to secure their spot for the unforgettable journey of discovery, networking, and growth.
 
 
-
 <table>
 <tr>
-<td><img src="static/img/registration.jpg" width="500" height="300"></td>
-<td><img src="static/img/registration1.jpg" width="500" height="300"></td>
+<td><img src='{{ "/static/img/registration.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/registration1.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
@@ -29,8 +28,8 @@ The inaugural session was enlighted by the ideas and insights from the distingui
 
 <table>
 <tr>
-<td><img src="static/img/hybrid_session.jpg" alt="Welcome Address by Director NIPGR, New Delhi" width="500" height="300"></td>
-<td><img src="static/img/hack_intro.jpg" alt="Welcome Address" width="500" height="300"></td>
+<td><img src='{{ "/static/img/hybrid_session.jpg" | url }}' alt="Welcome Address by Director NIPGR, New Delhi" width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_intro.jpg" | url }}' alt="Welcome Address" width="500" height="300"></td>
 </tr>
 </table>
 
@@ -38,8 +37,8 @@ The inaugural session was enlighted by the ideas and insights from the distingui
 
 <table>
 <tr>
-<td><img src="static/img/hack_inaugural.jpg" alt="Welcome Address by Prof. Debasis Mohanty and Prof. Gitanjali Yadav" width="500" height="300"></td>
-<td><img src="static/img/intro_session2.jpg" alt="Introduction about hackathon by Shweata Hegde" width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_inaugural.jpg" | url }}' alt="Welcome Address by Prof. Debasis Mohanty and Prof. Gitanjali Yadav" width="500" height="300"></td>
+<td><img src='{{ "/static/img/intro_session2.jpg" | url }}' alt="Introduction about hackathon by Shweata Hegde" width="500" height="300"></td>
 </tr>
 </table>
 
