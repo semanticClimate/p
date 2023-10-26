@@ -28,8 +28,7 @@ The inaugural session was enlighted by the ideas and insights from the distingui
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/hybrid_session.jpg" | url }}' alt="Welcome Address by Director NIPGR, New Delhi" width="300" height="300"></td>
-<td><img src='{{ "/static/img/hack_intro.jpg" | url }}' alt="Welcome Address" width="300" height="300"></td>
+<td><img src='{{ "/static/img/hybrid_session.jpg" | url }}' alt="Welcome Address by Director NIPGR, New Delhi" width="500" height="300"></td>
 </tr>
 </table>
 
