@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-## Registration and Inaugural Session_Climate Knowledge Hunt Hackathon May 2023
+### Registration and Inaugural Session_Climate Knowledge Hunt Hackathon May 2023
 
 We are very excited to revisit the excitement and success of the registration and inaugural session for the Climate Knowledge Hunt Hackathon May 2023. The participants were very eager to secure their spot for the unforgettable journey of discovery, networking, and growth.
 
