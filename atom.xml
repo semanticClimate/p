@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-30T10:28:34Z</updated>
+	<updated>2023-10-30T10:29:36Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,12 +13,11 @@
 	</author>
 	
 	<entry>
-		<title>Hack session</title>
+		<title>Hack session_Climate Knowledge Hunt Hackathon May 2023</title>
 		<link href="/p/en/posts/hack_session/"/>
 		<updated>2023-10-30T00:00:00Z</updated>
 		<id>/p/en/posts/hack_session/</id>
-		<content type="html">&lt;h3&gt;Climate Knowledge Hunt Hackathon May 2023&lt;/h3&gt;
-&lt;p&gt;#semanticClimate ran its first ever hybrid Hackathon on 2023-05-19. There was a diverse community of the participants, team members and mentors with different subjects backgrounds, experiences and the different age groups. All of them were very excited to learn by exploring as for some of them it is entirely a new thing.&lt;/p&gt;
+		<content type="html">&lt;p&gt;#semanticClimate ran its first ever hybrid Hackathon on 2023-05-19. There was a diverse community of the participants, team members and mentors with different subjects backgrounds, experiences and the different age groups. All of them were very excited to learn by exploring as for some of them it is entirely a new thing.&lt;/p&gt;
 &lt;h3&gt;Hackathon Participants&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
