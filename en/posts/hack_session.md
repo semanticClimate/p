@@ -1,5 +1,5 @@
 ---
-title: Hack session
+title: Hack session_Climate Knowledge Hunt Hackathon May 2023
 date: 2023-10-30
 description: Climate Knowledge Hunt Hackathon May 2023
 author: Renu Kumari
@@ -9,7 +9,6 @@ tags:
   - hackathon
 ---
 
-### Climate Knowledge Hunt Hackathon May 2023
 
 #semanticClimate ran its first ever hybrid Hackathon on 2023-05-19. There was a diverse community of the participants, team members and mentors with different subjects backgrounds, experiences and the different age groups. All of them were very excited to learn by exploring as for some of them it is entirely a new thing.
 
