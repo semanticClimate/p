@@ -54,6 +54,7 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 
 ## Event Highlights
 ##### [Inauguration session](../../posts/inaugural/)
+##### [Hack session](../../posts/hack_session/)
 
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
