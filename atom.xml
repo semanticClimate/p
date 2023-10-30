@@ -5,12 +5,106 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-30T06:03:54Z</updated>
+	<updated>2023-10-30T06:04:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Hack session</title>
+		<link href="/p/en/posts/hack_session/"/>
+		<updated>2023-10-30T00:00:00Z</updated>
+		<id>/p/en/posts/hack_session/</id>
+		<content type="html">&lt;h3&gt;Climate Knowledge Hunt Hackathon May 2023&lt;/h3&gt;
+&lt;p&gt;#semanticClimate ran its first ever hybrid Hackathon on 2023-05-19. There was a diverse community of the participants, team members and mentors with different subjects backgrounds, experiences and the different age groups. All of them were very excited to learn by exploring as for some of them it is entirely a new thing.&lt;/p&gt;
+&lt;h3&gt;Hackathon Participants&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_participants1.jpg&quot; alt=&quot;Hackathon Participants&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_participants2.jpg&quot; alt=&quot;Hackathon Participants&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;h3&gt;Team Members&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/team_members.jpg&quot; alt=&quot;Team Members&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_labmembers1.jpg&quot; alt=&quot;Team Members&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Here are the different hack sessions with their different tasks&lt;/h3&gt;
+&lt;p&gt;After the inaugural session, we divided ourselves into 4 smaller groups of 5. Each focused on a specific component of Climate Knowledge Explorer.&lt;/p&gt;
+&lt;p&gt;Group 01 looked at key phrase extraction; Group 02 worked on building a summarizer; Group 03 focused on Wikibase, dictionary creation and information extraction; and Group 04 worked on finding out why a paragraph of the report refernced a different paragraph (linking attributes).&lt;/p&gt;
+&lt;h2&gt;Different Groups&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Group 01&lt;/li&gt;
+&lt;li&gt;Group 02&lt;/li&gt;
+&lt;li&gt;Group 03&lt;/li&gt;
+&lt;li&gt;Group 04&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before going to deal with the task assigned, all the members of each groups have installed the requirements in their machine.&lt;/p&gt;
+&lt;h2&gt;Set up Tech/Material (Google Colab/Jupyter)&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/tool_install1.jpg&quot; alt=&quot;Set up Tech/Material&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/tool_install2.jpg&quot; alt=&quot;Set up Tech/Material&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;p&gt;The softwares were successfully installed by each group member and then it was described by the different mentors leading the session.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_session4.jpg&quot; alt=&quot;Hack Session 2&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_session7.jpg&quot; alt=&quot;Hack Session 2&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h1&gt;Group 01&lt;/h1&gt;
+&lt;h3&gt;Hack Session 01&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The group used various python packages (Numpy, Pandas, transformers, NLTK) to extract keywords from the IPCC report.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Hack Session 02&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The group performed the keyword extraction for technical summary of IPCC report &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/group_01/CLIMATE%20CHANGE%20.docx&quot;&gt;technical summary&lt;/a&gt; and also checked the quality of the keyword extracted.&lt;/li&gt;
+&lt;li&gt;The group wrote the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/group_01/group_1.py&quot;&gt;code&lt;/a&gt; to extract the keywords from the report. The unique keywords extracted are listed &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/group_01/keywords%20Extraction%20data.xlsx&quot;&gt;here&lt;/a&gt; as an output.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Group 02&lt;/h1&gt;
+&lt;h3&gt;Hack Session 01&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The group used the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/Summarization/summarization.ipynb&quot;&gt;summarizer Jupyter Notebook&lt;/a&gt; to summarize paragraphs from the IPCC reports or any paragraph of their choosing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Hack Session 02&lt;/h3&gt;
+&lt;p&gt;The group discussed issues related to running the notebook which are mentioned in the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/Group_2/Group2_hackthon.pptx&quot;&gt;final presentation&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accordingly, the group together wrote few lines of &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/Group_2/hackathon_code_group2.py&quot;&gt;code&lt;/a&gt; to overcome issues stated in the presentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What next?&lt;/h3&gt;
+&lt;p&gt;Changes to the notebook will be made as we work to solve issues currently present and issues which may arrive in the future.&lt;/p&gt;
+&lt;h1&gt;Group 03&lt;/h1&gt;
+&lt;h2&gt;What we did&lt;/h2&gt;
+&lt;p&gt;The group explored the structure and contents of IPCC Reports. We also toured the &lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/&quot;&gt;Wikibase Instance&lt;/a&gt;. Later, we curated terms related to migration, created an AMI dictionary and used it to search some chapters of IPCC Report.&lt;/p&gt;
+&lt;h3&gt;Hack Session 01&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The group used the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/Summarization/summarization.ipynb&quot;&gt;summarizer Jupyter Notebook&lt;/a&gt; to summarize paragraphs from the IPCC reports or any paragraph of their choosing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Hack Session 02&lt;/h3&gt;
+&lt;p&gt;the group discussed issues related to running the notebook which are mentioned in the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/Group_2/Group2_hackthon.pptx&quot;&gt;final presentation&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accordingly, the group together wrote few lines of &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/climate-knowledge-hunt-hackathon-material/Group_2/hackathon_code_group2.py&quot;&gt;code&lt;/a&gt; to overcome issues stated in the presentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What next?&lt;/h3&gt;
+&lt;p&gt;Changes to the notebook will be made as we work to solve issues currently present and issues which may arrive in the future.&lt;/p&gt;
+&lt;h1&gt;Group 04&lt;/h1&gt;
+&lt;h2&gt;What we did&lt;/h2&gt;
+&lt;p&gt;We investigated the interconnectedness between various target and anchor nodes, as well as identified the appropriate attributes for linking these node pairs. Additionally, we delved into the efficiency of the tools provided by semantic climate, which facilitate rapid analysis. We emphasized the capabilities of the Summarizer and Keyword Extraction tools and discussed their practical applications for various tasks.&lt;/p&gt;
+&lt;h3&gt;Hack session 01&lt;/h3&gt;
+&lt;p&gt;Utilized the &lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/paragraphLinking/Relation_Attribute_Annotation.ipynb&quot;&gt;Relation_Attribute_Annotation Colab Notebook&lt;/a&gt; to gain hands-on experience with the annotation workflow and determine the most appropriate relation attribute for connecting two nodes. Additionally, I familiarized myself with the functioning of the Semantic Climate Summarizer.&lt;/p&gt;
+&lt;h3&gt;Hack session 02&lt;/h3&gt;
+&lt;p&gt;Gained some practical experience in coding the keyword extractor through the Keyword Tutorial Notebook. Further, explored various Hugging Face models and subsequently discussed additional measures that can enhance our ability to extract more cohesive and correlated keywords.&lt;/p&gt;
+&lt;h2&gt;What next?&lt;/h2&gt;
+&lt;p&gt;Discussed how the Open Source LLM like Bloom can help us to better understand the interconnectedness between various target and anchor nodes.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Navigation to IPCC reports</title>
