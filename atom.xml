@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-30T06:07:10Z</updated>
+	<updated>2023-10-30T06:14:50Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -22,15 +22,15 @@
 &lt;h3&gt;Hackathon Participants&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/hack_participants1.jpg&quot; alt=&quot;Hackathon Participants&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/hack_participants2.jpg&quot; alt=&quot;Hackathon Participants&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_participants1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_participants2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;
 &lt;h3&gt;Team Members&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/team_members.jpg&quot; alt=&quot;Team Members&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/hack_labmembers1.jpg&quot; alt=&quot;Team Members&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/team_members.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_labmembers1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;Here are the different hack sessions with their different tasks&lt;/h3&gt;
@@ -47,15 +47,15 @@
 &lt;h2&gt;Set up Tech/Material (Google Colab/Jupyter)&lt;/h2&gt;
 &lt;table&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/tool_install1.jpg&quot; alt=&quot;Set up Tech/Material&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/tool_install2.jpg&quot; alt=&quot;Set up Tech/Material&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/tool_install1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/tool_install2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;
 &lt;p&gt;The softwares were successfully installed by each group member and then it was described by the different mentors leading the session.&lt;/p&gt;
 &lt;table&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/hack_session4.jpg&quot; alt=&quot;Hack Session 2&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;static/img/hack_session7.jpg&quot; alt=&quot;Hack Session 2&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_session4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;static/img/hack_session7.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h1&gt;Group 01&lt;/h1&gt;
