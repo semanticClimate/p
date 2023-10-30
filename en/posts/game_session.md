@@ -15,6 +15,6 @@ This session was full of laughter and excitement as all the attendeed have kept 
 <table>
 <tr>
 <td><img src='{{ "/static/img/game_session2.jpg" | url }}'  width="500" height="300"></td>
-<td><img src='{{ "/static/img/game_session4.jpg" | url }}'  width="500" height="300"></td>
+<td><img src='{{ "/static/img/game_session3.jpg" | url }}'  width="500" height="300"></td>
 </tr>   
 </table>
