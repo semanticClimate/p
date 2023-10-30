@@ -17,8 +17,8 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "static/img/hack_participants1.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "static/img/hack_participants2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_participants1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_participants2.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
@@ -26,8 +26,8 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "static/img/team_members.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "static/img/hack_labmembers1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/team_members.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_labmembers1.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
@@ -50,8 +50,8 @@ Before going to deal with the task assigned, all the members of each groups have
 
 <table>
 <tr>
-<td><img src='{{ "static/img/tool_install1.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "static/img/tool_install2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/tool_install1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/tool_install2.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
@@ -59,8 +59,8 @@ The softwares were successfully installed by each group member and then it was d
 
 <table>
 <tr>
-<td><img src='{{ "static/img/hack_session4.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "static/img/hack_session7.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_session4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_session7.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
