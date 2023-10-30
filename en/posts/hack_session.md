@@ -60,7 +60,7 @@ The softwares were successfully installed by each group member and then it was d
 <table>
 <tr>
 <td><img src='{{ "/static/img/hack_session4.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/hack_session7.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/hack_session1.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
