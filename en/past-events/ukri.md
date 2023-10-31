@@ -42,6 +42,6 @@ Diwan I Am, Taj Mahal Hotel
 Taj Mansingh Road New Delhi-110011, India
 
 ## Event Highlights
-##### [Celebrating 15 years of UKRI India](../../posts/ukri_event/)
+#### [Celebrating 15 years of UKRI India](../../posts/ukri_event/)
 
 
