@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-11-02T06:04:48Z</updated>
+	<updated>2023-11-02T06:14:14Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -24,6 +24,7 @@
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/ipcc_glossary.html&quot;&gt;Shweata&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page&quot;&gt;Egon&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/city-climate-plans/#H9711914&quot;&gt;IPCC Reports and City Climate Change Plans&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/p/en/posts/ipcc_resources/&quot;&gt;Navigation through IPCC reports&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/p/en/posts/alpha-tests-for-fsci-23/&quot;&gt;Get started with pygetpapers, pyamihtml and docanalysis&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Colab Notebooks&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;docanalysis ipcc_analysis.ipynb&lt;/a&gt;&lt;/h4&gt;
