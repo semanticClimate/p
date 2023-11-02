@@ -22,6 +22,8 @@ tags:
 
 #### [IPCC Reports and City Climate Change Plans](https://semanticclimate.org/city-climate-plans/#H9711914)
 
+#### [Navigation through IPCC reports](https://semanticclimate.org/p/en/posts/ipcc_resources/)
+
 #### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.org/p/en/posts/alpha-tests-for-fsci-23/)
 
 ### Colab Notebooks
