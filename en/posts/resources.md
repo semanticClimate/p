@@ -54,7 +54,7 @@ tags:
 - [**Email-id :**](semanticclimate@gmail.com) <semanticclimate@gmail.com>
 - [**GitHub URL**](https://github.com/petermr/semanticClimate)
 - [**X (Formerly Twitter) :**](https://twitter.com/semanticClimate) #semanticClimate
-- [**YouTube Channel :**](https://www.youtube.com/channel/UCtsjF_DOMiCoZlZV3BzuAsg)
+- [**YouTube Channel**](https://www.youtube.com/channel/UCtsjF_DOMiCoZlZV3BzuAsg)
 - [**Volunteer with us using This Form! :**](https://forms.gle/YaMs9GBKXropVoS4A)
  
 
