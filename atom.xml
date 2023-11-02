@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-11-02T05:43:43Z</updated>
+	<updated>2023-11-02T05:52:23Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,7 +13,7 @@
 	</author>
 	
 	<entry>
-		<title>Introduction to SemanticClimate resources</title>
+		<title>Introduction to semanticClimate resources</title>
 		<link href="/p/en/posts/resources/"/>
 		<updated>2023-11-01T00:00:00Z</updated>
 		<id>/p/en/posts/resources/</id>
@@ -23,11 +23,13 @@
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/ipcc_glossary.html&quot;&gt;Shweata&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page&quot;&gt;Egon&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/city-climate-plans/#H9711914&quot;&gt;City Climate Plans&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/city-climate-plans/#H9711914&quot;&gt;IPCC Reports and City Climate Change Plans&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/p/en/posts/alpha-tests-for-fsci-23/&quot;&gt;Get started with pygetpapers, pyamihtml and docanalysis&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Colab Notebooks&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;docanalysis ipcc_analysis.ipynb&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb&quot;&gt;pygetpapers_module_demo.ipynb&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook&quot;&gt;Climate Knowledge Hunt Notebooks&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/p/en/posts/barcamp_post3/&quot;&gt;Introduction to SemanticClimate tools in Berlin Barcamp&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Youtube video playlist presented in different climate events and hackathons&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&quot;&gt;FSCI 2023 Videos Playlist&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;CODATA China 2023 Playlist&lt;/a&gt;&lt;/h4&gt;
