@@ -2,7 +2,7 @@
 title: Introduction to semanticClimate resources
 date: 2023-11-01
 description: About the glossary and tools 
-author: The team
+author: Renu Kumari
 tags:
   - semanticclimate
   - hackathon
