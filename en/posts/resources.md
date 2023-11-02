@@ -10,7 +10,7 @@ tags:
 
 ### These are the #sC resources used for climate knowledge 
 
-#### [Enhanced glossary](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html&enableMarker=true&mark=0-36576-0-160-36736,0-36576-0-181-36757,red%1Fhello%1FOC%20can%20affect%20other%20c)
+#### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html)
 
 #### [#semanticclimate video playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y)
 
