@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-11-02T06:40:17Z</updated>
+	<updated>2023-11-02T08:25:26Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -18,7 +18,7 @@
 		<updated>2023-11-01T00:00:00Z</updated>
 		<id>/p/en/posts/resources/</id>
 		<content type="html">&lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html&amp;amp;enableMarker=true&amp;amp;mark=0-36576-0-160-36736,0-36576-0-181-36757,red%1Fhello%1FOC%20can%20affect%20other%20c&quot;&gt;Enhanced glossary&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html&quot;&gt;Enhanced glossary&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;#semanticclimate video playlist&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/ipcc_glossary.html&quot;&gt;Shweata&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
