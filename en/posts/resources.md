@@ -1,5 +1,5 @@
 ---
-title: Introduction to SemanticClimate resources
+title: Introduction to semanticClimate resources
 date: 2023-11-01
 description: About the glossary and tools 
 author: The team
@@ -20,7 +20,9 @@ tags:
 
 #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
-#### [City Climate Plans](https://semanticclimate.org/city-climate-plans/#H9711914)
+#### [IPCC Reports and City Climate Change Plans](https://semanticclimate.org/city-climate-plans/#H9711914)
+
+#### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.org/p/en/posts/alpha-tests-for-fsci-23/)
 
 ### Colab Notebooks
 
@@ -29,6 +31,8 @@ tags:
 #### [pygetpapers_module_demo.ipynb](https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb)
 
 #### [Climate Knowledge Hunt Notebooks](https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook)
+
+#### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.org/p/en/posts/barcamp_post3/)
 
 ### Youtube video playlist presented in different climate events and hackathons
 
