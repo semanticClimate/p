@@ -5,12 +5,46 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-10-31T05:35:44Z</updated>
+	<updated>2023-11-02T05:42:43Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Introduction to SemanticClimate resources</title>
+		<link href="/p/en/posts/resources/"/>
+		<updated>2023-11-01T00:00:00Z</updated>
+		<id>/p/en/posts/resources/</id>
+		<content type="html">&lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html&amp;amp;enableMarker=true&amp;amp;mark=0-36576-0-160-36736,0-36576-0-181-36757,red%1Fhello%1FOC%20can%20affect%20other%20c&quot;&gt;Enhanced glossary&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;#semanticclimate video playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/ipcc_glossary.html&quot;&gt;Shweata&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page&quot;&gt;Egon&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.org/city-climate-plans/#H9711914&quot;&gt;City Climate Plans&lt;/a&gt;&lt;/h4&gt;
+&lt;h3&gt;Colab Notebooks&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;docanalysis ipcc_analysis.ipynb&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb&quot;&gt;pygetpapers_module_demo.ipynb&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook&quot;&gt;Climate Knowledge Hunt Notebooks&lt;/a&gt;&lt;/h4&gt;
+&lt;h3&gt;Youtube video playlist presented in different climate events and hackathons&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&quot;&gt;FSCI 2023 Videos Playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;CODATA China 2023 Playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmUCHn0YuGRGY1jbtovjAly&quot;&gt;Package Tutorials&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/@ShweataNHegde/videos&quot;&gt;Shweata Hegde’s Youtube Channel&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pUjiNzLVHLY&amp;amp;&quot;&gt;Ayush Garg’s tutorial on pygetpapers from INCOB ‘21&lt;/a&gt;&lt;/h4&gt;
+&lt;h3&gt;Contact #semanticClimate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Website :&lt;/strong&gt; https://semanticclimate.org/p/en/&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email-id :&lt;/strong&gt; semanticclimate@gmail.com&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub :&lt;/strong&gt; https://github.com/petermr/semanticClimate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;X (Formerly Twitter) :&lt;/strong&gt; https://twitter.com/semanticClimate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;YouTube :&lt;/strong&gt; https://www.youtube.com/channel/UCtsjF_DOMiCoZlZV3BzuAsg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Volunteer! form :&lt;/strong&gt; https://forms.gle/YaMs9GBKXropVoS4A&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>UKRI | Celebrating 15 years of India’s collaboration with UKRI</title>
@@ -166,88 +200,6 @@
 &lt;td&gt;&lt;img src=&quot;/p/static/img/certificate_disrtibution3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Navigation to IPCC reports</title>
-		<link href="/p/en/posts/resources/"/>
-		<updated>2023-10-19T00:00:00Z</updated>
-		<id>/p/en/posts/resources/</id>
-		<content type="html">&lt;h2&gt;Navigation to the IPCC chapters and the IPCC glossaries&lt;/h2&gt;
-&lt;p&gt;The goal is to make the IPCC reports and other material semantic. This is quite a reasonable place to come in, the synthesis report, here which is the 2023 summary, &amp;quot;&lt;strong&gt;the handbook for the survival of humanity&lt;/strong&gt;&amp;quot; according to Guterres.&lt;/p&gt;
-&lt;p&gt;So what you will see is about this report, but it also links to the other reports. So if you go to &lt;a href=&quot;https://www.ipcc.ch&quot;&gt;ipcc&lt;/a&gt; and that gives you the synthesis report and then there are three working groups.&lt;/p&gt;
-&lt;h3&gt;There are seven reports.&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;WG1&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/&quot;&gt;IPCC/ar6/wg1&lt;/a&gt; report with 12 chapters&lt;/li&gt;
-&lt;li&gt;The title is &amp;quot;&lt;strong&gt;Climate Change 2021: The Physical Science Basis&lt;/strong&gt;&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;WG2&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg2/&quot;&gt;IPCC/ar6/wg2&lt;/a&gt; report with 18 chapters&lt;/li&gt;
-&lt;li&gt;The title is &amp;quot;&lt;strong&gt;Climate Change 2022: Impacts, Adaptation and Vulnerability&lt;/strong&gt;&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;WG3&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg3/&quot;&gt;IPCC/ar6/wg3&lt;/a&gt; report with 17 chapters&lt;/li&gt;
-&lt;li&gt;The title is &amp;quot;&lt;strong&gt;Climate Change 2022: Mitigation of Climate Change&lt;/strong&gt;&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;AR6 &lt;a href=&quot;https://www.ipcc.ch/report/ar6/syr/&quot;&gt;&lt;strong&gt;Synthesis Report&lt;/strong&gt; (syr)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SR15&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SPECIAL REPORT on &lt;a href=&quot;https://www.ipcc.ch/sr15/&quot;&gt;Global Warming of 1.5 ºC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SRCCL&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SPECIAL REPORT on &lt;a href=&quot;https://www.ipcc.ch/srccl/&quot;&gt;Climate Change and Land&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;SROCC&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Special Report on the &lt;a href=&quot;https://www.ipcc.ch/srocc/&quot;&gt;Ocean and Cryosphere in a Changing Climate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Overview of the reports&lt;/h3&gt;
-&lt;p&gt;There&#39;s WG1 which is &lt;code&gt;physical science&lt;/code&gt;, WG2, which is &lt;code&gt;adaptation&lt;/code&gt; and WG3 which is &lt;code&gt;mitigation&lt;/code&gt;.
-There are special reports on &lt;code&gt;Ocean and Cryosphere&lt;/code&gt;.
-Cryosphere means all the frozen water on the planet.
-So icebergs, glaciers, ice sheets and so on.&lt;/p&gt;
-&lt;p&gt;There&#39;s one on land, climate change and land and there&#39;s one on the effect and of limiting global warming to 1.5 degrees C we have and that makes up seven reports.&lt;/p&gt;
-&lt;p&gt;So there are other reports that we may look at and there may be other reports from other United Nations organizations or from other scientific and governmental organizations.&lt;/p&gt;
-&lt;p&gt;But these are the seven reports we&#39;re looking at, synthesis, WG1, WG2, WG3 and Cryosphere, land and 1.5.&lt;/p&gt;
-&lt;h3&gt;About the glossary&lt;/h3&gt;
-&lt;p&gt;Now, the other thing that we use, which isn&#39;t linked from here is a &lt;code&gt;glossary&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://apps.ipcc.ch/glossary/&quot;&gt;Glossary&lt;/a&gt; is a &lt;em&gt;collection of terms with some additional informations&lt;/em&gt;. This has got 931 terms in it.&lt;/p&gt;
-&lt;p&gt;And it&#39;s designed for people to browse through.&lt;/p&gt;
-&lt;p&gt;So if you don&#39;t know what &lt;code&gt;Cryosphere&lt;/code&gt; is, you go to see and then you scroll through here and you find Cryosphere and it tells you that it&#39;s the components of the earth system below the land and ocean surface that are frozen.&lt;/p&gt;
-&lt;p&gt;We believe that the things in italics here are largely pointers to the terms in the glossary.&lt;/p&gt;
-&lt;h3&gt;About the reports and glossary in the semantic climate repository on github&lt;/h3&gt;
-&lt;p&gt;So if we go to &lt;code&gt;github&lt;/code&gt; and &lt;code&gt;semantic climate&lt;/code&gt;, then we have a repository &lt;a href=&quot;https://github.com/petermr/semanticClimate&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;petermr/semanticClimate&lt;/code&gt; one is the data from the IPCC.&lt;/p&gt;
-&lt;p&gt;So, semantic climate is our repository. And there&#39;s a lot of stuff there, but the one we&#39;re looking at, at the moment is &lt;code&gt;IPCC&lt;/code&gt;.
-The repository is arranged like a directory structure.&lt;/p&gt;
-&lt;p&gt;So if we click on this, we&#39;ll see a whole number of subdirectories here.&lt;/p&gt;
-&lt;p&gt;The one we want is &lt;code&gt;AR6&lt;/code&gt; and then under that you can see all of the reports there, the working groups and the special reports.&lt;/p&gt;
-&lt;p&gt;So if, for example, we go to &lt;code&gt;WG3&lt;/code&gt;, we&#39;ve got all the chapters there.&lt;/p&gt;
-&lt;p&gt;Most of what we&#39;re looking at is in the glossary.
-I&#39;ve made a special directory here which is not very cleverly named &lt;code&gt;test&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;So, we go into that and then we&#39;ve got another copy of all of the reports and total glossary.&lt;/p&gt;
-&lt;p&gt;And what we&#39;re looking at is something called &lt;code&gt;total glossary&lt;/code&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
