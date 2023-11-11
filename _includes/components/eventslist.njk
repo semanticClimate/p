@@ -1,0 +1,30 @@
+<section>
+    {% if page.url == "/" | url %}
+    {% endif %}
+    {% for post in eventslist | sort(true, true, "date")%}
+        <article class="event">
+            <h3>
+                <a href="{{ post.url | url }}">
+                    {% if post.data.title %}
+                        {{ post.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h3>
+            <p>
+                <time>
+                    {{ post.date | readableDate }}
+                </time>
+            </p>
+            {% if post.data.description %}
+                <p class="text-lg text-gray-500 mb-3">
+                    {{ post.data.description }}
+                </p>
+            {% endif %}
+
+
+        </article>
+        <br>
+    {% endfor %}
+</section>

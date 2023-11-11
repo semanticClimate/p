@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="container">
+  <h1>{{ title }}</h1>
+  {% for tag in tags %}
+    {% if tag == 'post' %}
+      <div class="post-meta">
+        <time>{{ date | readableDate }}</time>
+        <span class="post-author">by {{ author }}</span>
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  {{ content | safe }}
+
+  {% if not hideTagsList %}
+    <div class="card__tags">
+      {% for tag in tags %}
+        {% if tag != 'post' %}
+          <a href="{{ '/en/tags/' | url }}{{ tag | slug }}"/>{{ tag }}</a>
+          {%- if not loop.last %}{% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+  <br>
+  <a href="javascript:history.back()">&larr; Back</a>
+</div>
