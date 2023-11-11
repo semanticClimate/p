@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explaining semantic | #semanticClimate</title>
+  <meta name="description" content="Liberating knowledge from climate-related reports">
+
+  <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/p/static/css/main.css" media="all">
+  <link rel="stylesheet" href="/p/static/css/overrides.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+  <style>
+    .hero {background: url(/p/static/img/hero-background.jpg)
+    no-repeat}
+  </style>
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/p/">
+    <img src='/p/static/img/logo.png' alt="#semanticClimate Logo" />
+    </a>
+
+    <div class="navbar__mobile-options">
+      
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="text-[#0088be] navbar__link " href="/p/en/">
+          Home
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/about/">
+          About
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/events/">
+          Events
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/posts/">
+          Blog
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/team/">
+          Team
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/docs/">
+          Participate!
+        </a>
+      <a class="text-[#0088be] navbar__link" href='/p/en/posts/resources/'>Resources</a>
+      <a class="text-[#0088be] navbar__link" style="font-weight: bold" href='/p/en/posts/volunteers-wanted'>Volunteer!</a>
+
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/p/en/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/events/">
+        Events
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/posts/">
+        Blog
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/team/">
+        Team
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/docs/">
+        Participate!
+      </a>
+      <a class="navbar__mobile-link" href='/p/en/posts/resources/'>Resources</a>
+      <a class="navbar__mobile-link" style="font-weight: bold" href='/p/en/posts/volunteers-wanted'>Volunteer!</a>
+  </div>
+
+</nav>
+
+  
+<div class="container">
+  <h1>Explaining semantic</h1>
+  
+    
+      <div class="post-meta">
+        <time>23 Oct, 2022</time>
+        <span class="post-author">by Peter Murray-Rust</span>
+      </div>
+    
+  
+    
+  
+    
+  
+    
+  
+
+  <h2>What's semantic?</h2>
+<p>&quot;semantic&quot; means that at some level machines can &quot;understand&quot; data (in this case text).</p>
+<h3>example:</h3>
+<blockquote>
+<p>Two countries (China, India) contributed more than 50% to the net
+6.5 GtCO2eqyr-1 increase in GHG emissions during 2010-2019 (at
+39% and 14%, respectively), while ten countries (China, India,
+Indonesia, Vietnam, Iran, Turkey, Saudi Arabia, Pakistan, Russian
+Federation, Brazil) jointly contributed about 75% (Figure 2.9) (see
+also Minx et al., 2021; Crippa et al., 2021).</p>
+</blockquote>
+<p>As a human you understand some of this and not other parts; by default a machine &quot;understands&quot; nothing. It sees
+<code>&quot;T&quot;, &quot;w&quot;, &quot;o&quot;, &quot;c&quot;, &quot;o&quot; ...</code>
+(no words, no sopaces, no newlines and no understanding of the)
+We need to give it rules (or models) that give it the power to parse this into objects it can process.</p>
+<h3>syntax</h3>
+<p>Unfortunately the reports are only available (2022-10) in PDF. Unlike HTML this is very unpleasant to process
+and introduces errors. PDF2HTML is the weakest part of our toolchain. If the authors could make their text-processor
+output available it would be a huge help.</p>
+<p><code>NLTK</code> and <code>spaCy</code> and other tools have methods for parsing sentences and extracting the syntax. Here's
+an online part of speeh tagger and chunker <a href="https://www.link.cs.cmu.edu/cgi-bin/link/construct-page-4.cgi#submit">parser from CMU site</a> you can try it!
+It gives:</p>
+<pre><code>(S (NP (NP Two countries)
+       (SBAR (S (NP China , India)
+                (VP contributed more
+                    (PP than
+                        (NP 50))
+                    (PP to
+                        (NP (QP the net 6.5)
+                            GtCO2eqyr-1))))))
+   (VP increase
+       (PP in
+           (NP GHG emissions))
+       (PP during
+           (NP 2010))))
+</code></pre>
+<p>It picks out nouns/noun_phrases (NP)
+<code>/Two countries/ /China , India/ /the net 6.5) GtCO2eqyr-1)/ /GHG emissions/ /2010/</code>
+(gets one wrong <code>increase</code> is a noun not a verb). And verbs VP (<code>contributed</code>), and prepositions (PP)
+but has no idea what they mean.</p>
+<h3>general semantics</h3>
+<p>We concentrate on nouns and now add meaning to them.</p>
+<ul>
+<li><em><code>Two countries</code></em> : <code>NLTK</code> knows about numbers and also that <code>countries</code> is the plural of <code>country</code></li>
+<li><em><code>China , India</code></em> : <code>spaCy</code> knows these are countries</li>
+<li><em><code>6.5</code></em> : <code>NLTK</code> and <code>spaCy</code> know is a floating point number</li>
+<li><em><code>2010</code></em> : the tools know this could be a date</li>
+</ul>
+<h3>Wikidata semantics</h3>
+<ul>
+<li><em><code>GHG</code></em> : we can automatically look this up in Wikidata.org and get:</li>
+</ul>
+<pre><code class="language-greenhouse">as in an atmosgphere of a planet (usually Earth) that absorbs 
+and emits radiation within the thermal infrared range and 
+causes the greenhouse effect
+48 statements, 81 sitelinks - 07:22, 15 October 2022
+
+Marshfield Municipal Airport (Q650060) : GHG
+airport
+22 statements, 5 sitelinks - 05:58, 3 October 2022
+
+etc.
+</code></pre>
+<p>Wikidata has several entries for <code>GHG</code>. The top one is what we want, with an <code>identifier</code> of
+<code>Q167336</code> . This illustrates <em>ambiguity</em> - common words and acronyms/abbreviations often have multiple meanings.
+In this case  we could see if the nouns in the <code>description</code> (&quot;gas&quot;, &quot;atmosphere&quot;, &quot;planet&quot;, &quot;radiation&quot;...)
+are common in the text of the report. That's one role of our <code>dictionaries</code></p>
+<h3>report semantics</h3>
+<p><code>GtCO2eqyr-1</code> occurs frequently and we can collect these sorts of terms. However they need human interpretation (this is badly
+formatted and should read
+GtCO<sub>2</sub>eq yr<sup>-1</sup>. It reads &quot;gigatonnes of carbon dioxide equivalents per year&quot;. We also tackle this
+by creating it as an entry (or synonym) in a climateChange dictionary)</p>
+<h3>hyperlinks</h3>
+<p>Hyperlinks are assumed, not explicit.</p>
+<ul>
+<li><code>(Figure 2.9)</code> is a link to Figure 2.9 (which is not explicitly semantically labelled)</li>
+<li><code>(see also Minx et al., 2021; Crippa et al., 2021).</code> are 2 links to the bibliography (again needs messy
+heuristics)</li>
+</ul>
+<h3>argumentation</h3>
+<p>We'd like to extract more meaning than just the nouns (&quot;which countries contributed most to the emissions&quot;). There
+are research tools that can address this but they are problem-specific.</p>
+
+
+  
+    <div class="card__tags">
+      
+        
+      
+        
+          <a href="/p/en/tags/introduction"/>introduction</a>
+        
+      
+        
+          <a href="/p/en/tags/examples"/>examples</a>
+        
+      
+        
+          <a href="/p/en/tags/oaweek"/>oaweek</a>
+        
+      
+    </div>
+  
+  <br>
+  <a href="javascript:history.back()">&larr; Back</a>
+</div>
+  <footer class="footer">
+  <p>
+    <a href=/p/en/gdpr/>Privacy Policy & GDPR</a> | 
+    <a href=/p/en/imprint/>Imprint</a> | 
+    <a href=/p/en/about/>About</a> | 
+    <a target="_blank" href="https://github.com/petermr/petermr/discussions/">Contact</a> | 
+    <a target="_blank" href="https://github.com/petermr/semanticClimate/blob/main/LICENSE">Licensing - Apache License 2.0</a> | 
+    Follow us on <a target="_blank" href = "https://github.com/petermr/semanticClimate"> GitHub </a>
+    </p>
+</footer>
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/p/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/p/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>

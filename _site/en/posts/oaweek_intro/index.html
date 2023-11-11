@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Introduction to semanticClimate | #semanticClimate</title>
+  <meta name="description" content="Liberating knowledge from climate-related reports">
+
+  <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/p/static/css/main.css" media="all">
+  <link rel="stylesheet" href="/p/static/css/overrides.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+  <style>
+    .hero {background: url(/p/static/img/hero-background.jpg)
+    no-repeat}
+  </style>
+</head>
+<body>
+  
+<nav class="navbar">
+  <div class="navbar__inner">
+    <a class="navbar__logo" href="/p/">
+    <img src='/p/static/img/logo.png' alt="#semanticClimate Logo" />
+    </a>
+
+    <div class="navbar__mobile-options">
+      
+      <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
+          <path d="M0 0h24v24H0z" fill="none"/>
+          <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="navbar__links">
+      
+        <a class="text-[#0088be] navbar__link " href="/p/en/">
+          Home
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/about/">
+          About
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/events/">
+          Events
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/posts/">
+          Blog
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/team/">
+          Team
+        </a>
+        <a class="text-[#0088be] navbar__link " href="/p/en/docs/">
+          Participate!
+        </a>
+      <a class="text-[#0088be] navbar__link" href='/p/en/posts/resources/'>Resources</a>
+      <a class="text-[#0088be] navbar__link" style="font-weight: bold" href='/p/en/posts/volunteers-wanted'>Volunteer!</a>
+
+
+    </div>
+  </div>
+
+  <div class="navbar__mobile-links">
+    
+      <a class="navbar__mobile-link " href="/p/en/">
+        Home
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/about/">
+        About
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/events/">
+        Events
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/posts/">
+        Blog
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/team/">
+        Team
+      </a>
+      <a class="navbar__mobile-link " href="/p/en/docs/">
+        Participate!
+      </a>
+      <a class="navbar__mobile-link" href='/p/en/posts/resources/'>Resources</a>
+      <a class="navbar__mobile-link" style="font-weight: bold" href='/p/en/posts/volunteers-wanted'>Volunteer!</a>
+  </div>
+
+</nav>
+
+  
+<div class="container">
+  <h1>Introduction to semanticClimate</h1>
+  
+    
+      <div class="post-meta">
+        <time>22 Oct, 2022</time>
+        <span class="post-author">by Peter Murray-Rust</span>
+      </div>
+    
+  
+    
+  
+    
+  
+
+  <h1>OA Week 2022: Introduction to #semanticClimate</h1>
+<p>We are really excited to offer semanticClimate for OA week. It's a relatively new way of communicating complex topics and
+it's best understood by actually &quot;learning by doing&quot;. Don't be frightened by &quot;semantic&quot;; it means using machines to help
+with the bits machines are good at (<a href="https://en.wikipedia.org/wiki/Semantic_Web">TimBl's semantic web</a>), freeing human brains to do what they are best at.</p>
+<p>&quot;Climate&quot; is complex! No human understands everything, so it's critical to link different resources: data, text, simulations, etc. &quot;semantic&quot; means they can all talk to each other. Machine&lt;-&gt;machine, human&lt;-&gt;machine and human&lt;-&gt;human. And anyone can be part of this; if you have resource that could be useful join us this week! There's so many levels of knowledge and so many subdisciplines</p>
+<p>Our approach can be adjusted for any climate approach, but our examples here are:</p>
+<ul>
+<li>The &quot;Mitigation&quot; <a href="https://www.ipcc.ch/report/ar6/wg3/">section (WG3) of the IPCC AR6 report</a></li>
+<li>Novel searching of the OpanAccess literature (with <code>pygetpapers</code>)</li>
+</ul>
+<h2>Example: &quot;what does 'GHG' mean and why does it matter?&quot;</h2>
+<p>Many of you will know this means &quot;Greenhouse Gas&quot; in a climate context, but do you know what these gases actually are?
+To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can think of Wikidata as the &quot;data items in Wikipedia articles&quot; (though it's much more than that), and this week (2022-10-20) it passed 100*000_000 items! Here's the <a href="https://www.wikidata.org/wiki/Q167336">wikidata item for &quot;greenhouse gas&quot;</a>. It's multilingual (<a href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8*%E0%A4%97%E0%A5%88%E0%A4%B8">ग्रीनहाउस गैस</a> and we've already had contributions to our notebooks in 7 languages)</p>
+<h1>How this week will work</h1>
+<p>This is an experiment! Think &quot;us&quot;, not &quot;I&quot; and &quot;you&quot;. We have working examples of search and analysis tools and also content (IPCC) with videos and text. The week is largely asynchronous; you can try these in your own timezone at your own pace. There are discussion tools so you can leave questions or offer content. We'll aim to have a time which most people can access (probably 1230 UTC, where we normally meet with India and Americas) for an hour or so on Zoom. We stress &quot;learning by doing&quot; and also constantly evolving software, documentation, content, examples. These work &quot;most of the time&quot; but may depend on experience and location (<a href="https://en.wikipedia.org/wiki/Perpetual_beta">Perpetual beta</a>); if you have problems, then identify them, and if you can, help to fix them.</p>
+<p>We expect that the content and approach will change a lot during the week.</p>
+<p>Typical journeys might be:</p>
+<h2>term extraction</h2>
+<ul>
+<li>watch video on term extraction</li>
+<li>try the Colab/Jupyter notebook on Chapter02 (tutorial)</li>
+<li>have a question, so post on discussion list/Etherpad</li>
+<li>then try Notebook on Chapter11 (experiment!)</li>
+</ul>
+<h2>creating dictionaries</h2>
+<ul>
+<li>watch video on creating dictionaries</li>
+<li>watch video on markup using dictionaries</li>
+<li>try Colab/Jupyter Notebook on Chapter02 with prepared dictionaries</li>
+<li>try on Chapter02 with <code>country.xml</code> (experiment!)</li>
+</ul>
+<h2>search OA literature</h2>
+<ul>
+<li>search for <code>climate justice</code> in EuropePMC using <code>pygetpapers</code></li>
+<li>automatically download (say) 50 papers.</li>
+<li>skim-read to determine the ones you might be interested in</li>
+<li>refine query (dates, Boolean queries, etc.)</li>
+<li>repeat</li>
+<li>analyse results with <code>docanalysis</code></li>
+</ul>
+<h1>Suggested reading of blog posts</h1>
+<h2><a href="oaweek_communication.md">Communication</a></h2>
+<p>This outines how we work during OAWeek</p>
+<h2>oaweek_intro.md</h2>
+<p>This file</p>
+<h2><a href="./oaweek_semantic.md">Semantic</a></h2>
+<p>Explains &quot;semantic&quot; and why we are doing this. Read early.</p>
+<h2><a href="./oaweek_search.md">Search</a></h2>
+<p>Explains what the most important tools do. Also watch the videos</p>
+
+
+  
+    <div class="card__tags">
+      
+        
+      
+        
+          <a href="/p/en/tags/pdf"/>pdf</a>
+        
+      
+        
+          <a href="/p/en/tags/xml"/>xml</a>
+        
+      
+    </div>
+  
+  <br>
+  <a href="javascript:history.back()">&larr; Back</a>
+</div>
+  <footer class="footer">
+  <p>
+    <a href=/p/en/gdpr/>Privacy Policy & GDPR</a> | 
+    <a href=/p/en/imprint/>Imprint</a> | 
+    <a href=/p/en/about/>About</a> | 
+    <a target="_blank" href="https://github.com/petermr/petermr/discussions/">Contact</a> | 
+    <a target="_blank" href="https://github.com/petermr/semanticClimate/blob/main/LICENSE">Licensing - Apache License 2.0</a> | 
+    Follow us on <a target="_blank" href = "https://github.com/petermr/semanticClimate"> GitHub </a>
+    </p>
+</footer>
+
+  <script>
+    const ham = document.querySelector('.navbar__hamburger')
+    const menu = document.querySelector('.navbar__mobile-links')
+    const darkToggleButtons = document.querySelectorAll('.dark-toggle')
+
+    function changeDarkToggleBtnIcon () {
+      darkToggleButtons.forEach(btn => {
+        if (btn.querySelector('img').src.indexOf('/static/img/moon.svg') !== -1) {
+          btn.querySelector('img').src = "/p/static/img/sun.svg"
+        } else {
+          btn.querySelector('img').src = "/p/static/img/moon.svg"
+        }
+      })
+    }
+
+    if (
+      localStorage.prefsDark === 'true' || 
+      (
+        window.matchMedia && 
+        window.matchMedia('(prefers-color-scheme: dark)').matches && 
+        localStorage.prefsDark !== 'false')
+      ) {
+      document.body.classList.add('dark')
+      changeDarkToggleBtnIcon()
+    }
+
+    ham.addEventListener('click', () => {
+      menu.classList.toggle('navbar__mobile-links--open')
+
+      let prevState = JSON.parse(ham.getAttribute('aria-expanded'))
+      ham.setAttribute('aria-expanded', !prevState)
+    })
+
+    darkToggleButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        changeDarkToggleBtnIcon()
+
+        if (document.body.classList.contains('dark')) {
+          document.body.classList.remove('dark')
+          localStorage.prefsDark = 'false'
+        } else {
+          document.body.classList.add('dark')
+          localStorage.prefsDark = 'true'
+        }
+
+      })
+    })
+  </script>
+</body>
+</html>
