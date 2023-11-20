@@ -20,7 +20,7 @@ tags:
 
 #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
-#### [IPCC Reports and City Climate Change Plans](https://semanticclimate.org/city-climate-plans/#H9711914)
+#### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
 
 #### [Navigation through IPCC reports](ipcc_resources.md)
 
