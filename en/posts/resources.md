@@ -16,15 +16,15 @@ tags:
 
 #### [abbreviations with wikipedia links](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv)
 
-#### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.org/p/en/ipcc_glossary/)
+#### [Shweata's IPCC glossary knowledge graph](ipcc_glossary.html)
 
 #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
 #### [IPCC Reports and City Climate Change Plans](https://semanticclimate.org/city-climate-plans/#H9711914)
 
-#### [Navigation through IPCC reports](https://semanticclimate.org/p/en/posts/ipcc_resources/)
+#### [Navigation through IPCC reports](ipcc_resources.md)
 
-#### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.org/p/en/posts/alpha-tests-for-fsci-23/)
+#### [Get started with pygetpapers, pyamihtml and docanalysis](alpha-tests-for-fsci-23.md)
 
 ### Colab Notebooks
 
@@ -34,7 +34,7 @@ tags:
 
 #### [Climate Knowledge Hunt Notebooks](https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook)
 
-#### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.org/p/en/posts/barcamp_post3/)
+#### [Introduction to SemanticClimate tools in Berlin Barcamp](barcamp_post3.md)
 
 ### Youtube video playlist presented in different climate events and hackathons
 
@@ -50,7 +50,7 @@ tags:
 
 ### Contact #semanticClimate
 
-- [**Website :**](https://semanticclimate.org/p/en/) Our HomePage
+- [**Website :**](https://semanticclimate.github.io/p/en/) Our HomePage
 - [**Email-id :**](semanticclimate@gmail.com) <semanticclimate@gmail.com>
 - [**GitHub URL**](https://github.com/petermr/semanticClimate)
 - [**X (Formerly Twitter) :**](https://twitter.com/semanticClimate) #semanticClimate
