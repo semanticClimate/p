@@ -22,9 +22,9 @@ tags:
 
 #### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
 
-#### [Navigation through IPCC reports](ipcc_resources)
+#### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
 
-#### [Get started with pygetpapers, pyamihtml and docanalysis](alpha-tests-for-fsci-23)
+#### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
 
 ### Colab Notebooks
 
@@ -34,7 +34,7 @@ tags:
 
 #### [Climate Knowledge Hunt Notebooks](https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook)
 
-#### [Introduction to SemanticClimate tools in Berlin Barcamp](barcamp_post3)
+#### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.github.io/p/en/posts/barcamp_post3/)
 
 ### Youtube video playlist presented in different climate events and hackathons
 
