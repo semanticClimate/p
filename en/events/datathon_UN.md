@@ -29,3 +29,16 @@ Montevideo, Uruguay
 
 ## Event Programme
 The detailed programme is available here: [UN DATATHON 2023](https://unstats.un.org/bigdata/events/2023/un-datathon/)
+
+## Event report
+The work presented at the Geneva SDG Lab from November 3rd to 5th, 2023.
+
+### GitHub Repository:
+Check out the code and resources related to the UN Datathon 2023 in our [GitHub Repository](https://github.com/semanticClimate/un-datathon-2023/tree/main)
+
+### Video presentation
+[UN Datathon 2023](https://www.youtube.com/watch?v=XjfvvA_yVXw)
+
+
+
+
