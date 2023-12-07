@@ -26,6 +26,8 @@ tags:
 
 #### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
 
+#### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
+
 ### Colab Notebooks
 
 #### [docanalysis ipcc_analysis.ipynb](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
@@ -47,6 +49,8 @@ tags:
 #### [Shweata Hegde’s Youtube Channel](https://www.youtube.com/@ShweataNHegde/videos)
 
 #### [Ayush Garg’s tutorial on pygetpapers from INCOB ‘21](https://www.youtube.com/watch?v=pUjiNzLVHLY&)
+
+#### [UN datathon 2023_#semanticClimate](https://www.youtube.com/watch?v=XjfvvA_yVXw)
 
 ### Contact #semanticClimate
 
