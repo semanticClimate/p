@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-12-08T11:31:35Z</updated>
+	<updated>2023-12-08T11:41:51Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -37,7 +37,13 @@
 &lt;td&gt;&lt;img src=&quot;/p/static/img/wikidata-modelling4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;
-&lt;p&gt;The fundamental concepts, insights, and key highlights covered in the presentations can be found here: &lt;a href=&quot;https://youtu.be/krbeWMTz5CY&quot;&gt;full presentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;The fundamental concepts, insights, and key highlights covered in the presentations can be found here:&lt;/h3&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </content>
 	</entry>
 	
