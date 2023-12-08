@@ -2,7 +2,7 @@
 title: Wikidata:Events / Data Modelling Days 2023
 date: 2023-12-07
 description: Work presented by Dr. Gitanjali Yadav  
-author: Renu Kumari
+author: the team
 tags:
   - semanticclimate
   - hackathon
