@@ -5,12 +5,41 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2023-12-07T10:59:53Z</updated>
+	<updated>2023-12-08T11:22:06Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Wikidata:Events / Data Modelling Days 2023</title>
+		<link href="/p/en/posts/wiki-DMD2023/"/>
+		<updated>2023-12-07T00:00:00Z</updated>
+		<id>/p/en/posts/wiki-DMD2023/</id>
+		<content type="html">&lt;h3&gt;Wikidata : Data Modelling Days 2023&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&quot;https://www.wikidata.org/wiki/Wikidata:Events/Data_Modelling_Days_2023#Sessions&quot;&gt;Data Modelling Days 2023&lt;/a&gt; took place as a virtual event tailored for the Wikidata community, concentrating on the intricacies of describing and structuring data on Wikidata.&lt;/p&gt;
+&lt;img src=&quot;/p/static/img/wikidata_DMD23.png&quot; /&gt;
+&lt;h3&gt;Event schedule&lt;/h3&gt;
+&lt;p&gt;30 November - 2 December 2023&lt;/p&gt;
+&lt;h3&gt;Event Report&lt;/h3&gt;
+&lt;p&gt;Dr. Gitanjali Yadav, Founder &lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;#semanticClimate&lt;/a&gt;, has presented the work entitled &lt;strong&gt;&amp;quot;Building a semantic knowledge (wiki)base for synthetic phytochemistry&amp;quot;&lt;/strong&gt; in the session &lt;code&gt;Building and modelling a Wikibase instance from scratch&lt;/code&gt; on 2 December.&lt;/p&gt;
+&lt;p&gt;Here are the snapshot of the presentations that serve as a visual reference for the content covered.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/wikidata-modelling1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/wikidata-modelling2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/wikidata-modelling3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/wikidata-modelling4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;p&gt;The fundamental concepts, insights, and key highlights covered in the presentations can be found here: &lt;a href=&quot;https://youtu.be/krbeWMTz5CY&quot;&gt;full presentation&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Introduction to semanticClimate resources</title>
