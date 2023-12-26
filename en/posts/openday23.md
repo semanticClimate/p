@@ -24,6 +24,13 @@ The open day served as a bridge between academic institutions and research endea
 
 <table>
 <tr>
+<td><img src='{{ "/static/img/openday23_4.jpg" | url }}' width="500" height="200"></td>
+<td><img src='{{ "/static/img/openday23_3.jpg" | url }}' width="500" height="200"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
 <td><img src='{{ "/static/img/openday23_1.jpg" | url }}' width="500" height="200"></td>
 <td><img src='{{ "/static/img/openday23_2.jpg" | url }}' width="500" height="200"></td>
 </tr>   
