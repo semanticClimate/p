@@ -12,7 +12,7 @@ tags:
 
 Students from both school and college backgrounds enthusiastically participated in the open day organized at the **NIPGR on 22 December, 2023**, creating a vibrant and diverse atmosphere. 
 
-<img src = "/p/static/img/openday23_10.jpg" height="200">
+<img src = "/p/static/img/openday23_10.jpg" height="100">
 
 The event provided a unique opportunity for the students to witness firsthand the practical applications of theoretical concepts, fostering a deeper appreciation for the intersection of academia and real-world innovation. 
 
