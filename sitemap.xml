@@ -232,11 +232,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/trendspotting/</loc>
-    <lastmod>2023-10-31</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/trendspotting/</loc>
     <lastmod>2023-10-31</lastmod>
   </url>
@@ -377,22 +372,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
-    <lastmod>2023-12-26</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
-    <lastmod>2023-12-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
     <lastmod>2023-12-26</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
+    <lastmod>2023-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
+    <lastmod>2023-12-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
     <lastmod>2023-12-26</lastmod>
   </url>
   
