@@ -22,4 +22,4 @@ The Climate Knowledge Hunt Hackathon! is a plateform that brings togetther Clima
 26-27 February, 2024
 
 ## Event location
-Manav Rachna International Institute of Research and Studies (MRIIRS), Sector – 43, Delhi–Surajkund Road, Faridabad – 121004, Haryana, India
+School of Engineering and Technology, Department of Biotechnology, Manav Rachna International Institute of Research and Studies (MRIIRS), Sector – 43, Delhi–Surajkund Road, Faridabad – 121004, Haryana, India
