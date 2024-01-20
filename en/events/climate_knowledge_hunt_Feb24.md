@@ -15,7 +15,7 @@ tags:
 ## Mode 
 In-person
 
-## Register [Now](https://forms.gle/nFG5gYHmAGyVbx5X6)!
+## [Register Now](https://forms.gle/nFG5gYHmAGyVbx5X6)!
 [CLICK HERE TO REGISTER](https://forms.gle/nFG5gYHmAGyVbx5X6)
 
 You can register in teams of FIVE individuals of students or early career researchers, everyone is welcome. Feel free to experiment and improvise, maybe you can have one teacher and four students, or five freinds each with a different expertise! 
