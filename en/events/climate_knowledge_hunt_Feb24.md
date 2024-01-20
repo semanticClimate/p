@@ -15,6 +15,11 @@ tags:
 ## Mode 
 In-person
 
+## Register [Now](https://forms.gle/nFG5gYHmAGyVbx5X6)!
+[CLICK HERE TO REGISTER](https://forms.gle/nFG5gYHmAGyVbx5X6)
+
+You can register in teams of FIVE individuals of students or early career researchers, everyone is welcome. Feel free to experiment and improvise, maybe you can have one teacher and four students, or five freinds each with a different expertise! 
+
 ## Location 
 School of Engineering and Technology, Department of Biotechnology, Manav Rachna International Institute of Research and Studies (MRIIRS), Sector – 43, Delhi–Surajkund Road, Faridabad – 121004, Haryana, India
 
@@ -22,10 +27,6 @@ See Map For Directions:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d56127.48959827611!2d77.283747!3d28.450378!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1705773145598!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Register Now!
-[Register here](https://forms.gle/nFG5gYHmAGyVbx5X6)
-
-You can register in teams of FIVE individuals of students or early career researchers, everyone is welcome. Feel free to experiment and improvise, maybe you can have one teacher and four students, or five freinds each with a different expertise! 
 
 ## About This Event
 This Hackathon is planned as a collaborative two day event to showcase our open source tools and research/solutions. 
