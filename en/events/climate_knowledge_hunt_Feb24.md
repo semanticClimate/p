@@ -12,6 +12,8 @@ tags:
 
 The Climate Knowledge Hunt Hackathon! is a plateform that brings togetther Climate Enthusiasts from diverse backgrounds and locations. Participants will explore and extract the valuable climate knowledge from the locked literatures for the benefit of both humanity and the environment. 
 
+<img src = "/p/static/img/climate-hack.jpg">
+
 
 ## Registration
 The link will be updated soon.
