@@ -96,7 +96,7 @@ Detailed Program for 26-27 February, 2024 to be added here soon!
 * Encourage technical delegates to explore other chapters automatically
 
 ## Event Infrastucture 
-* Hosted from NIPGR, New Delhi MRIIRS, NCR, India
+* Hosted from MRIIRS, NCR, India
 * Groups to work in dedicated Theme-specific Teams
 * All materials available over Sematic Climate in Github
 * Encourage all delegates have Github IDs
