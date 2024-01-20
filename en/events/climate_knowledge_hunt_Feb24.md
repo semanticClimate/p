@@ -12,12 +12,11 @@ tags:
 
 The Climate Knowledge Hunt Hackathon! is a plateform that brings togetther Climate Enthusiasts from diverse backgrounds and locations. Participants will explore and extract the valuable climate knowledge from the locked literatures for the benefit of both humanity and the environment. 
 
-<img src = "/p/static/img/climate-hack.jpg" height="100" style="max-width: 100%;">
+<img src = "/p/static/img/climate-hack.jpg" height="50px">
 
 
 ## Registration
-The link will be updated soon.
-[Register here](add url)
+[Register here](https://forms.gle/nFG5gYHmAGyVbx5X6)
 
 ## Event schedule
 26-27 February, 2024
