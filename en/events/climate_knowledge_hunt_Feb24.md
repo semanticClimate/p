@@ -20,6 +20,8 @@ In-person
 
 You can register in teams of FIVE individuals of students or early career researchers, everyone is welcome. Feel free to experiment and improvise, maybe you can have one teacher and four students, or five freinds each with a different expertise! 
 
+<b>Registration Will be Closed at Midnight Feb 06, 2024 </b>
+
 ## Location 
 School of Engineering and Technology, Department of Biotechnology, Manav Rachna International Institute of Research and Studies (MRIIRS), Sector – 43, Delhi–Surajkund Road, Faridabad – 121004, Haryana, India
 
