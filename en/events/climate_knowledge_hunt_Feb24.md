@@ -17,6 +17,7 @@ The Climate Knowledge Hunt Hackathon! is a plateform that brings togetther Clima
 
 ## Registration
 The link will be updated soon.
+[Register here](add url)
 
 ## Event schedule
 26-27 February, 2024
