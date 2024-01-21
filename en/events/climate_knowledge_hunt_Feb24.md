@@ -73,7 +73,9 @@ The First Runner ups will win INR 10000/-
 The Second Runner ups will win INR 7000/-
 
 ## Program schedule
-Detailed Program for 26-27 February, 2024 to be added here soon!
+Detailed Program for 26-27 February, 2024
+
+<img src = "/p/static/img/FebHack_Program.png">
 
 ## What Can I Bring?!
 * Bring your questions and/or knowledge of climate.
