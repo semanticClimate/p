@@ -29,7 +29,6 @@ See Map For Directions:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d56127.48959827611!2d77.283747!3d28.450378!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1705773145598!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
 ## About This Event
 This Hackathon is planned as a collaborative two day event to showcase our open source tools and research/solutions. 
 
@@ -41,6 +40,17 @@ We have limited spaces, but we wish to invite 5-10 teams of upto Climate Change 
 * Learn/Develop human/machine knowledge systems
 * Make new contacts in the India Climate Landscape
 * Feedback knowledge and technology to ClimateHunt
+
+  ## Our Partners/ Funders/ Collaborators ! 
+* National Institue of Plant Genome Research [(NIPGR)](https://www.nipgr.ac.in/home/home.php), New Delhi India
+* Delhi City Knowledge Cluster [DRIIV](https://www.driiv.co.in/), India
+* Manav Rachna International Institute of Research and Studies [(MRIIRS)](https://mriirs.edu.in/international-institute-of-research-and-studies/engineering-technology/department-biotechnology/), Haryana, India
+* Cambridge India Research Foundation [CIRF](https://thehearthadvisors.com/cambridge/), University of Cambridge, U.K
+* TiB VIVO Berlin, Germany
+* WikiMedia, WikiBase [wikibase cloud](https://wikiba.se/)
+* [Clear Meat](www.clearmeat.com)
+* Igreenik India Ltd
+* [CODATA India](https://codata.org/india/) 
 
 ## Event Rationale
 We believe in making Knowledge freely accessible to all.
