@@ -1,5 +1,5 @@
 ---
-title: list of people
+title: Organizers and Instructors_Hackathon
 date: 2024-01-22
 description: Climate Knowledge Hunt Hackathon 2024
 author: Renu Kumari
