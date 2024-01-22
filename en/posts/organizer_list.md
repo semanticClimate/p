@@ -11,7 +11,7 @@ tags:
 
 # #semanticClimate's Team
 
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,8 +88,8 @@ html
             </div>
         </div>
     </section>
-</body
-
+</body>
+</html>
 
 
 
