@@ -5,12 +5,105 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-22T06:11:55Z</updated>
+	<updated>2024-01-22T06:26:30Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>list of people</title>
+		<link href="/p/en/posts/organizer_list/"/>
+		<updated>2024-01-22T00:00:00Z</updated>
+		<id>/p/en/posts/organizer_list/</id>
+		<content type="html">&lt;h2&gt;Organizers&lt;/h2&gt;
+ &lt;!-- Organizer 1 --&gt;
+&lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/GY_photo.png&quot; alt=&quot;Person 1&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Dr. Gitanjali Yadav&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dr. Gitanjali is a scientist at NIPGR, New Delhi as well as a Professor of Data Science at IISER Bhopal. She is also a Trustee at St Edmunds&#39; College, University of Cambridge. Her work is on genomics and structural informatics with applications in Climate, Conservation, and Food Security.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Organizer 2 --&gt;
+  &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/PMR_photo.png&quot; alt=&quot;Person 2&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Prof. Peter Murray Rust&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Prof. Peter is a chemist currently working at the University of Cambridge. As well as his work in chemistry, Murray-Rust is also known for his support of open access and open data. Peter is a pioneer in text mining through The Content Mine, an advocacy and implementation project consisting of a community, framework, and toolset that facilitate the freeing of scientific data and building of further tools for improved open Science, Technology, and Medicine communication.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Organizer 3 --&gt;
+  &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/jayant_maini.jpg&quot; alt=&quot;Person 3&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Dr. Jayant Maini&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dr. Jayant is working as an Assistant Professor in the Department of Biotechnology, School of Engineering and Technology, Manav Rachna International Institute of Research and Studies. He is a geneticist, delving into the tangled web of the epigenome to uncover how our wacky lifestyles, questionable food choices, and &amp;quot;urban jungle&amp;quot; life affect our genes. Dr. Jayant is a climate change enthusiast and an avid reader.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Organizer 4 --&gt;
+  &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/vineeta_sharma.jpg&quot; alt=&quot;Person 4&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Dr. Vineeta Sharma&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dr. Vineeta is working as an Associate Professor at the Department of Biotechnology, School of Engineering and Technology, Manav Rachna International Institute of Research and Studies. She is an epigenetics whiz on a mission to unravel the secrets of our genes in the face of climate change. She is a life sciences professional with 10 years of experience in research and academics. Her expertise is in diverse functional research domains, i.e., Genetics, Epigenetics, Oncology, Toxicology, and Translational Research.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Organizer 5 --&gt;
+  &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/simon_worthington.jpg&quot; alt=&quot;Person 5&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Dr. Simon Worthington&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dr. Simon works on European coordination and communications for semanticClimate. He is an open-source software publishing technology expert – as a product owner. He is a researcher for NFDI4Culture – Data Publications and project lead on NextGen Books service at TIB.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Organizer 6 --&gt;
+  &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+    &lt;!-- Image on the left --&gt;
+    &lt;img src=&quot;/static/img/Renu.jpg&quot; alt=&quot;Person 6&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+&lt;p&gt;&lt;!-- Paragraph on the right --&gt;
+&lt;/p&gt;&lt;div&gt;
+&lt;p&gt;
+&lt;strong&gt;Dr. Renu Kumari&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dr. Renu is a programme manager with semantic climate. She manages the website semanticClimate, makes blog posts, and coordinates with the interns during their internship. She is also a researcher in plant biology and phytochemistry.
+&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;  
+</content>
+	</entry>
 	
 	<entry>
 		<title>OPEN DAY 2023 at NIPGR, India</title>
