@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-22T11:10:21Z</updated>
+	<updated>2024-01-22T11:14:55Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -47,6 +47,7 @@ Prof. Peter is a distinguished professor of chemistry at the University of Cambr
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;div style=&quot;display: flex; align-items: center; margin-bottom: 20px;&quot;&gt;
   &lt;!-- Person 3 --&gt;
   &lt;div style=&quot;flex: 1; display: flex; align-items: center;&quot;&gt;
     &lt;!-- Image on the left (Person 3) --&gt;
@@ -61,7 +62,7 @@ Dr. Jayant Maini, an Assistant Professor at Manav Rachna International Institute
 &lt;/p&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
- 
+&lt;/div&gt; 
  &lt;!-- Person 4 --&gt;
   &lt;div style=&quot;flex: 1; display: flex; align-items: center;&quot;&gt;
     &lt;!-- Image on the left (Person 4) --&gt;
@@ -77,6 +78,7 @@ Dr. Vineeta, an Associate Professor at MRIIRS, specializes in epigenetics and is
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
 
+&lt;div style=&quot;display: flex; align-items: center; margin-bottom: 20px;&quot;&gt;
 &lt;!-- Person 5 --&gt;
   &lt;div style=&quot;flex: 1; display: flex; align-items: center;&quot;&gt;
     &lt;!-- Image on the left (Person 5) --&gt;
@@ -91,7 +93,7 @@ Dr. Simon works on European coordination and communications for semanticClimate.
 &lt;/p&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
-
+&lt;/div&gt;
 &lt;!-- Person 6 --&gt;
   &lt;div style=&quot;flex: 1; display: flex; align-items: center;&quot;&gt;
     &lt;!-- Image on the left (Person 6) --&gt;
