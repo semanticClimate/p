@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-22T06:32:14Z</updated>
+	<updated>2024-01-22T06:37:43Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -21,7 +21,7 @@
  &lt;!-- Organizer 1 --&gt;
 &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
     &lt;!-- Image on the left --&gt;
-    &lt;img src=&quot;/p/static/img/GY_photo.png&quot; alt=&quot;Person 1&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+    &lt;img src=&quot;/p/static/img/members/GY_photo.png&quot; alt=&quot;Person 1&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
 &lt;p&gt;&lt;!-- Paragraph on the right --&gt;
 &lt;/p&gt;&lt;div&gt;
 &lt;p&gt;
@@ -35,7 +35,7 @@ Dr. Gitanjali is a scientist at NIPGR, New Delhi as well as a Professor of Data 
   &lt;!-- Organizer 2 --&gt;
   &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
     &lt;!-- Image on the left --&gt;
-    &lt;img src=&quot;/p/static/img/PMR_photo.png&quot; alt=&quot;Person 2&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+    &lt;img src=&quot;/p/static/img/members/PMR_photo.png&quot; alt=&quot;Person 2&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
 &lt;p&gt;&lt;!-- Paragraph on the right --&gt;
 &lt;/p&gt;&lt;div&gt;
 &lt;p&gt;
@@ -77,7 +77,7 @@ Dr. Vineeta is working as an Associate Professor at the Department of Biotechnol
   &lt;!-- Organizer 5 --&gt;
   &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
     &lt;!-- Image on the left --&gt;
-    &lt;img src=&quot;/p/static/img/simon_worthington.jpg&quot; alt=&quot;Person 5&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+    &lt;img src=&quot;/p/static/img/members/simon_worthington.jpg&quot; alt=&quot;Person 5&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
 &lt;p&gt;&lt;!-- Paragraph on the right --&gt;
 &lt;/p&gt;&lt;div&gt;
 &lt;p&gt;
@@ -91,7 +91,7 @@ Dr. Simon works on European coordination and communications for semanticClimate.
   &lt;!-- Organizer 6 --&gt;
   &lt;div style=&quot;display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
     &lt;!-- Image on the left --&gt;
-    &lt;img src=&quot;/p/static/img/Renu.jpg&quot; alt=&quot;Person 6&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
+    &lt;img src=&quot;/p/static/img/members/Renu.jpg&quot; alt=&quot;Person 6&quot; style=&quot;max-width: 100px; max-height: 100px; border-radius: 50%; margin-right: 20px;&quot; /&gt;
 &lt;p&gt;&lt;!-- Paragraph on the right --&gt;
 &lt;/p&gt;&lt;div&gt;
 &lt;p&gt;
