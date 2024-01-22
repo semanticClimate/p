@@ -57,6 +57,7 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 ##### [Hack session](../../posts/hack_session/)
 ##### [Game session](../../posts/game_session/)
 ##### [Closing & Certificate distribution](../../posts/closing_session/)
+##### [Organizers](../../posts/organizer_list/)
 
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
