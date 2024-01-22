@@ -43,9 +43,7 @@ tags:
       </p>
     </div>
   </div>
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Person 3 -->
   <div style="flex: 1; display: flex; align-items: center;">
     <!-- Image on the left (Person 3) -->
@@ -61,7 +59,7 @@ tags:
       </p>
     </div>
   </div>
-</div> 
+
 
  <!-- Person 4 -->
   <div style="flex: 1; display: flex; align-items: center;">
@@ -78,9 +76,7 @@ tags:
       </p>
     </div>
   </div>
-</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
 <!-- Person 5 -->
   <div style="flex: 1; display: flex; align-items: center;">
     <!-- Image on the left (Person 5) -->
@@ -96,7 +92,6 @@ tags:
       </p>
     </div>
   </div>
-</div>
 
 <!-- Person 6 -->
   <div style="flex: 1; display: flex; align-items: center;">
