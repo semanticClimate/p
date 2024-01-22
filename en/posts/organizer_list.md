@@ -8,7 +8,7 @@ hide: true
 tags:
   - hackathon
 ---
-## Organizers
+
 
  <!-- Organizer 1 -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
