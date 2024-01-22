@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-22T10:12:55Z</updated>
+	<updated>2024-01-22T10:17:18Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -38,7 +38,7 @@
                 &amp;lt;!--About people--&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/GY_photo.png&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/GY_photo.png&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Dr. Gitanjali Yadav&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;Dr. Gitanjali is a scientist at NIPGR and a Data Science Professor at IISER Bhopal. She serves as a Trustee at St Edmunds&#39; College, Cambridge. Her research specializes in genomics and structural informatics for applications in Climate, Conservation, and Food Security.&amp;lt;/p&amp;gt;
@@ -47,7 +47,7 @@
                 &amp;lt;/div&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/PMR_photo.png&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/PMR_photo.png&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Prof. Peter Murray Rust&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;Prof. Peter is a distinguished professor of chemistry at the University of Cambridge. He is a pioneer in text mining through The Content Mine, an advocacy and implementation project consisting of a community, framework, and toolset that facilitate the freeing of scientific data and building of further tools for improved open Science, Technology, and Medicine communication.&amp;lt;/p&amp;gt;
@@ -56,7 +56,7 @@
                 &amp;lt;/div&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/jayant_maini.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/jayant_maini.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Dr. Jayant Maini&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;
@@ -66,7 +66,7 @@
                 &amp;lt;/div&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/vineeta_sharma.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/vineeta_sharma.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Dr. Vineeta Sharma&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;Dr. Vineeta, an Associate Professor at MRIIRS, specializes in epigenetics and is dedicated to uncovering how climate change affects our genes. With expertise in Genetics, Epigenetics, Oncology, Toxicology, and Translational Research, she delves into diverse functional research domains. Her mission aligns with understanding the secrets of genes amid environmental challenges.&amp;lt;/p&amp;gt;
@@ -75,7 +75,7 @@
                 &amp;lt;/div&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/simon_worthington.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/simon_worthington.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Dr. Simon Worthington&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;Dr. Simon works on European coordination and communications for semanticClimate. He is an open-source software publishing technology expert – as a product owner. He is a researcher for NFDI4Culture – Data Publications and project lead on NextGen Books service at TIB.&amp;lt;/p&amp;gt;
@@ -84,7 +84,7 @@
                 &amp;lt;/div&amp;gt;
                 &amp;lt;div class=&amp;quot;p-4 lg:w-1/2&amp;quot;&amp;gt;
                     &amp;lt;div class=&amp;quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&amp;quot;&amp;gt;
-                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/p/static/img/Renu.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
+                        &amp;lt;img alt=&amp;quot;team&amp;quot; class=&amp;quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&amp;quot; src=&amp;quot;/static/img/Renu.jpg&amp;quot; loading=&amp;quot;lazy&amp;quot;&amp;gt;
                         &amp;lt;div class=&amp;quot;flex-grow sm:pl-8&amp;quot;&amp;gt;
                             &amp;lt;h2 class=&amp;quot;title-font font-medium text-lg text-black&amp;quot;&amp;gt;Dr. Renu Kumari&amp;lt;/h2&amp;gt;
                             &amp;lt;p class=&amp;quot;mb-3&amp;quot;&amp;gt;Dr. Renu is a the program manager at Semantic Climate, overseeing website management, creating blog content, and coordinating internships. In addition to her role in program management, she is also a researcher in plant biology and phytochemistry.&amp;lt;/p&amp;gt;
@@ -96,8 +96,6 @@
     &amp;lt;/section&amp;gt;
 &amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;
-
-
 
 &lt;/code&gt;&lt;/pre&gt;
 </content>
