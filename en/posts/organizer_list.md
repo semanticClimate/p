@@ -13,7 +13,7 @@ tags:
  <!-- Organizer 1 -->
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <!-- Image on the left -->
-    <img src="/p/static/img/GY_photo.png" alt="Person 1" style="max-width: 200px; max-height: 200px; border-radius: 50%; margin-right: 20px;">
+    <img src="/p/static/img/GY_photo.png" alt="Person 1" style="max-width: 100px; max-height: 100px; margin-right: 20px;">
   
     <!-- Paragraph on the right -->
     <div>
