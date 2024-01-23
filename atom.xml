@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T04:19:59Z</updated>
+	<updated>2024-01-23T04:26:54Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -114,7 +114,6 @@ Dr. Renu is a the program manager at Semantic Climate, overseeing website manage
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
-&lt;/div&gt;
 &lt;style&gt;
   @media screen and (max-width: 450px) {
     div[style*=&quot;flex: 0 0 48%&quot;] {
@@ -122,6 +121,7 @@ Dr. Renu is a the program manager at Semantic Climate, overseeing website manage
     }
   }
 &lt;/style&gt;
+&lt;/div&gt;
 </content>
 	</entry>
 	
