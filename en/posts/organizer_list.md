@@ -119,13 +119,7 @@ tags:
       </div>
     </div>
   </div>
-<style>
-  @media screen and (max-width: 450px) {
-    div[style*="flex: 0 0 48%"] {
-      flex: 0 0 100%;
-    }
-  }
-</style>
+
 </div>
 
 
