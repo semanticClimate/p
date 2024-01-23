@@ -20,10 +20,10 @@ tags:
 
       <!-- Paragraph on the right -->
       <div>
-        <p style="font-size: clamp(1rem, 0.3043rem + 3.4783vw, 3rem); margin-bottom: 8px;">
+        <p style="font-size: clamp(1rem, 0.3043rem + 3.4783vw, 2rem); margin-bottom: 8px;">
           <strong>Dr. Gitanjali Yadav</strong>
         </p>
-        <p style="font-size: 14px; line-height: 1.4;">
+        <p style="font-size: clamp(1rem, 0.3043rem + 3.2783vw, 1rem); line-height: 1.4;">
           Dr. Gitanjali is a scientist at NIPGR and a Data Science Professor at IISER Bhopal. She serves as a Trustee at St Edmunds' College, Cambridge. Her research specializes in genomics and structural informatics for applications in Climate, Conservation, and Food Security.
         </p>
       </div>
