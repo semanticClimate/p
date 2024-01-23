@@ -76,6 +76,61 @@ tags:
                     </div>
                 </div>
             </div>
+             <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/shweata.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Shweata Hegde</h2>
+                        <p class="mb-2 text-sm">Shweata Hegde is an open source developer and a science communicator. She was the project manager of #semanticClimate and is currently a volunteer. She has previously run Climate Knowledge Hunt Hackathons. She also co-authored a Python package called docanlysis, a text-data mining tool.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/Dhananjay_Sharma.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Dhananjay Sharma</h2>
+                        <p class="mb-2 text-sm">Jay works as a project associate at NIPGR in New Delhi and volunteers with #semanticClimate. As a skilled software developer, he possesses expertise in text and data mining from scientific literature and climate reports. Currently, he is engaged in the creation of a database for phytochemicals.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/abhishek.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Abhishek Prasad</h2>
+                        <p class="mb-2 text-sm">Abhishek Prasad is a Ph.D student at NIPGR. He specialises in different NGS techniques, text and data mining, data science and machine learning, which he is currently using to explore the genomic basis of invasiveness in invasive plants. He has also worked as an instructor in previous semantic climate hackathon.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/priti.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Priti</h2>
+                        <p class="mb-2 text-sm">Priti, currently pursuing her Ph.D. at NIPGR in New Delhi, specializes in chemoinformatics, data science, and machine learning within her research areas. She served as the project manager for #semanticClimate and actively participated as a mentor in various hackathons organized by the #semanticClimate.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/mandeep.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Mandeep</h2>
+                        <p class="mb-2 text-sm">Mandeep, PhD student at NIPGR and and volunteers with #semanticClimate. His research work is basically on plant invasion. His work centers around the plant rhizosphere, aiming to provide insights into plant invasion dynamics.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-4 lg:w-1/2">
+                <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/amit.jpg" loading="lazy">
+                    <div class="flex-grow sm:pl-4">
+                        <h2 class="title-font font-medium text-md text-black">Amit</h2>
+                        <p class="mb-2 text-sm">Amit is an intern working with #semanticClimate. He is actively using his expertise in his Biotechnology for better hopes for a planet and tried to develop self sustainable models like recycling and toxicity management.
+He's also active in developing code snippets, and making small scale social network platforms.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
