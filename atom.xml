@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T04:39:00Z</updated>
+	<updated>2024-01-23T04:39:30Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -21,13 +21,6 @@
   &lt;!-- Person 1 --&gt;
   &lt;div style=&quot;flex: 0 0 48%; margin-bottom: 20px;&quot;&gt;
     &lt;div style=&quot;display: flex; align-items: center;&quot;&gt;
-      &lt;style&gt;
-  @media screen and (max-width: 450px) {
-    div[style*=&quot;flex: 0 0 48%&quot;] {
-      flex: 0 0 100%;
-    }
-  }
-&lt;/style&gt;
       &lt;!-- Image on the left (Person 1) --&gt;
       &lt;img src=&quot;/p/static/img/GY_photo.png&quot; alt=&quot;Dr. Gitanjali Yadav&quot; style=&quot;width: 150px; height: 150px; object-fit: cover; margin-right: 20px;&quot; /&gt;
 &lt;p&gt;&lt;!-- Paragraph on the right --&gt;
