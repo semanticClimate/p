@@ -1,6 +1,6 @@
 ---
 title: The Climate Knowledge Hunt Hackathon!
-date: 2024-02-26
+date: 2024-01-23
 featured: true
 description: A Collaborative Hackathon to Understand and Create Climate Knowledge
 tags:
