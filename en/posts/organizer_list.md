@@ -96,7 +96,7 @@ tags:
             </div>
             <div class="p-4 lg:w-1/2">
                 <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/abhishek.jpg" loading="lazy">
+                    <img alt="team" class="flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/Abhishek_Prasad.jpg" loading="lazy">
                     <div class="flex-grow sm:pl-4">
                         <h2 class="title-font font-medium text-md text-black">Abhishek Prasad</h2>
                         <p class="mb-2 text-sm">Abhishek Prasad is a Ph.D student at NIPGR. He specialises in different NGS techniques, text and data mining, data science and machine learning, which he is currently using to explore the genomic basis of invasiveness in invasive plants. He has also worked as an instructor in previous semantic climate hackathon.</p>
