@@ -9,10 +9,6 @@ tags:
   - presentation
 ---
 
-<head>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-
 # semanticClimate's Team
 
 semanticClimate was invited to join a panel "Open Access and Climate Justice" hosted by UN Library.
@@ -25,7 +21,9 @@ details: [https://research.un.org/conferences/webinar3](https://research.un.org/
 [See here](https://youtu.be/7gWHprc-h1k?si=QZ9nJ-xslbDR-c5U)
 
 ## Organizers
-
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
 <section class="text-black bg-white body-font">
     <div class="container px-5 py-12 mx-auto"> <!-- Reduced py-24 to py-12 for less space above -->
         <div class="flex flex-col text-center w-full mb-10"> <!-- Reduced mb-20 to mb-10 for less space below -->
