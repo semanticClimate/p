@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T08:39:19Z</updated>
+	<updated>2024-01-23T08:40:14Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -84,7 +84,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
 &lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
-&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/shweata.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/Shweata_N_Hegde.jpg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
 &lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Shweata Hegde&lt;/h2&gt;
 &lt;p class=&quot;mb-2 text-sm&quot;&gt;Shweata Hegde is an open source developer and a science communicator. She was the project manager of #semanticClimate and is currently a volunteer. She has previously run Climate Knowledge Hunt Hackathons. She also co-authored a Python package called docanlysis, a text-data mining tool.&lt;/p&gt;
