@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T06:42:12Z</updated>
+	<updated>2024-01-23T06:42:26Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -19,7 +19,6 @@
 		<id>/p/en/posts/organizer_list/</id>
 		<content type="html">&lt;head&gt;
     &lt;script src=&quot;https://cdn.tailwindcss.com&quot;&gt;&lt;/script&gt;
-    &lt;title&gt;#semanticClimate&#39;s Team&lt;/title&gt;
 &lt;/head&gt;
 &lt;h2&gt;Organizers&lt;/h2&gt;
 &lt;section class=&quot;text-black bg-white body-font&quot;&gt;
