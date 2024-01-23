@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T08:13:32Z</updated>
+	<updated>2024-01-23T08:28:05Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -79,6 +79,61 @@
 &lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
 &lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Dr. Renu Kumari&lt;/h2&gt;
 &lt;p class=&quot;mb-2 text-sm&quot;&gt;Dr. Renu is a the program manager at Semantic Climate, overseeing website management, creating blog content, and coordinating internships. In addition to her role in program management, she is also a researcher in plant biology and phytochemistry.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/shweata.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Shweata Hegde&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Shweata Hegde is an open source developer and a science communicator. She was the project manager of #semanticClimate and is currently a volunteer. She has previously run Climate Knowledge Hunt Hackathons. She also co-authored a Python package called docanlysis, a text-data mining tool.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/Dhananjay_Sharma.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Dhananjay Sharma&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Jay works as a project associate at NIPGR in New Delhi and volunteers with #semanticClimate. As a skilled software developer, he possesses expertise in text and data mining from scientific literature and climate reports. Currently, he is engaged in the creation of a database for phytochemicals.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/abhishek.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Abhishek Prasad&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Abhishek Prasad is a Ph.D student at NIPGR. He specialises in different NGS techniques, text and data mining, data science and machine learning, which he is currently using to explore the genomic basis of invasiveness in invasive plants. He has also worked as an instructor in previous semantic climate hackathon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/priti.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Priti&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Priti, currently pursuing her Ph.D. at NIPGR in New Delhi, specializes in chemoinformatics, data science, and machine learning within her research areas. She served as the project manager for #semanticClimate and actively participated as a mentor in various hackathons organized by the #semanticClimate.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/mandeep.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Mandeep&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Mandeep, PhD student at NIPGR and and volunteers with #semanticClimate. His research work is basically on plant invasion. His work centers around the plant rhizosphere, aiming to provide insights into plant invasion dynamics.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
+&lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/amit.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
+&lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Amit&lt;/h2&gt;
+&lt;p class=&quot;mb-2 text-sm&quot;&gt;Amit is an intern working with #semanticClimate. He is actively using his expertise in his Biotechnology for better hopes for a planet and tried to develop self sustainable models like recycling and toxicity management.
+He&#39;s also active in developing code snippets, and making small scale social network platforms.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
