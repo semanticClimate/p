@@ -1,24 +1,36 @@
 ---
-title: demo page
-date: 2022-11-30
+title: The Climate Knowledge Hunt Hackathon!
+date: 2024-02-26
 featured: true
-description: Invited panel at UN Library Discussions
+description: A Collaborative Hackathon to Understand and Create Climate Knowledge
 tags:
   - semanticclimate
   - outreach
-  - presentation
+  - hackathon
 ---
+## Date & Time
 
-# semanticClimate's Team
+26-27 February, 2024
 
-semanticClimate was invited to join a panel "Open Access and Climate Justice" hosted by UN Library.
+## Mode 
+In-person
 
-2022-11-30
+## [Register Now](https://forms.gle/nFG5gYHmAGyVbx5X6)!
+[CLICK HERE TO REGISTER](https://forms.gle/nFG5gYHmAGyVbx5X6)
 
-details: [https://research.un.org/conferences/webinar3](https://research.un.org/conferences/webinar3)
+You can register in teams of FIVE individuals of students or early career researchers, everyone is welcome. Feel free to experiment and improvise, maybe you can have one teacher and four students, or five freinds each with a different expertise! 
 
-## UN "Open Access for Climate Justice" Presentation by Prof. Gitanjali Yadav
-[See here](https://youtu.be/7gWHprc-h1k?si=QZ9nJ-xslbDR-c5U)
+<b>Registration Will be Closed at Midnight Feb 06, 2024 </b>
+
+## Location 
+School of Engineering and Technology, Department of Biotechnology, Manav Rachna International Institute of Research and Studies (MRIIRS), Sector – 43, Delhi–Surajkund Road, Faridabad – 121004, Haryana, India
+
+See Map For Directions:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d56127.48959827611!2d77.283747!3d28.450378!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1705773145598!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## About This Event
+This Hackathon is planned as a collaborative two day event to showcase our open source tools and research/solutions. 
 
 ## Organizers
 <head>
