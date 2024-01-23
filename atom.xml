@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T08:31:47Z</updated>
+	<updated>2024-01-23T08:32:56Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -102,7 +102,7 @@
 &lt;/div&gt;
 &lt;div class=&quot;p-4 lg:w-1/2&quot;&gt;
 &lt;div class=&quot;h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left&quot;&gt;
-&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/abhishek.jpg&quot; loading=&quot;lazy&quot; /&gt;
+&lt;img alt=&quot;team&quot; class=&quot;flex-shrink-0 rounded-lg w-32 h-32 object-cover object-center sm:mb-0 mb-4&quot; src=&quot;/p/static/img/Abhishek_Prasad.jpg&quot; loading=&quot;lazy&quot; /&gt;
 &lt;div class=&quot;flex-grow sm:pl-4&quot;&gt;
 &lt;h2 class=&quot;title-font font-medium text-md text-black&quot;&gt;Abhishek Prasad&lt;/h2&gt;
 &lt;p class=&quot;mb-2 text-sm&quot;&gt;Abhishek Prasad is a Ph.D student at NIPGR. He specialises in different NGS techniques, text and data mining, data science and machine learning, which he is currently using to explore the genomic basis of invasiveness in invasive plants. He has also worked as an instructor in previous semantic climate hackathon.&lt;/p&gt;
