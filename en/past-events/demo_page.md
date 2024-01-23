@@ -37,19 +37,19 @@ This Hackathon is planned as a collaborative two day event to showcase our open 
 <!-- New organizers -->
 <div class="p-4 lg:w-1/2">
     <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-        <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/static/img/new_organizer1.jpg" loading="lazy">
+        <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/GY_photo.png" loading="lazy">
         <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-black">New Organizer 1</h2>
-            <p class="mb-3">Description for New Organizer 1.</p>
+            <h2 class="title-font font-medium text-lg text-black">Dr. Gitanjali Yadav</h2>
+            <p class="mb-3">Dr. Gitanjali is a scientist at NIPGR and a Data Science Professor at IISER Bhopal. She serves as a Trustee at St Edmunds' College, Cambridge. Her research specializes in genomics and structural informatics for applications in Climate, Conservation, and Food Security.</p>
         </div>
     </div>
 </div>
 <div class="p-4 lg:w-1/2">
     <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-        <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/static/img/new_organizer2.jpg" loading="lazy">
+        <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="/p/static/img/PMR_photo.png" loading="lazy">
         <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-black">New Organizer 2</h2>
-            <p class="mb-3">Description for New Organizer 2.</p>
+            <h2 class="title-font font-medium text-lg text-black">Prof. Peter Murray Rust</h2>
+            <p class="mb-3">Prof. Peter is a distinguished professor of chemistry at the University of Cambridge. He is a pioneer in text mining through The Content Mine, an advocacy and implementation project consisting of a community, framework, and toolset that facilitate the freeing of scientific data and building of further tools for improved open Science, Technology, and Medicine communication.</p>
         </div>
     </div>
 </div>
