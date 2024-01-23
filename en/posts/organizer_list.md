@@ -11,7 +11,13 @@ tags:
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;">
-
+<style>
+  @media screen and (max-width: 450px) {
+    div[style*="flex: 0 0 48%"] {
+      flex: 0 0 100%;
+    }
+  }
+</style>
   <!-- Person 1 -->
   <div style="flex: 0 0 48%; margin-bottom: 20px;">
     <div style="display: flex; align-items: center;">
@@ -122,10 +128,4 @@ tags:
 
 </div>
 
-<style>
-  @media screen and (max-width: 450px) {
-    div[style*="flex: 0 0 48%"] {
-      flex: 0 0 100%;
-    }
-  }
-</style>
+
