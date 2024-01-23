@@ -11,7 +11,6 @@ tags:
 
 <head>
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>#semanticClimate's Team</title>
 </head>
 
 ## Organizers
