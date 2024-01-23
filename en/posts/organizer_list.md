@@ -20,7 +20,7 @@ tags:
 
       <!-- Paragraph on the right -->
       <div>
-        <p style="font-size: 16px; margin-bottom: 8px;">
+        <p style="font-size: clamp(1rem, 0.3043rem + 3.4783vw, 3rem); margin-bottom: 8px;">
           <strong>Dr. Gitanjali Yadav</strong>
         </p>
         <p style="font-size: 14px; line-height: 1.4;">
