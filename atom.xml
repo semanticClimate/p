@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-01-23T04:35:34Z</updated>
+	<updated>2024-01-23T04:36:19Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -18,6 +18,13 @@
 		<updated>2024-01-22T00:00:00Z</updated>
 		<id>/p/en/posts/organizer_list/</id>
 		<content type="html">&lt;div style=&quot;display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 20px;&quot;&gt;
+&lt;style&gt;
+  @media screen and (max-width: 450px) {
+    div[style*=&quot;flex: 0 0 48%&quot;] {
+      flex: 0 0 100%;
+    }
+  }
+&lt;/style&gt;
   &lt;!-- Person 1 --&gt;
   &lt;div style=&quot;flex: 0 0 48%; margin-bottom: 20px;&quot;&gt;
     &lt;div style=&quot;display: flex; align-items: center;&quot;&gt;
@@ -115,13 +122,6 @@ Dr. Renu is a the program manager at Semantic Climate, overseeing website manage
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;style&gt;
-  @media screen and (max-width: 450px) {
-    div[style*=&quot;flex: 0 0 48%&quot;] {
-      flex: 0 0 100%;
-    }
-  }
-&lt;/style&gt;
 </content>
 	</entry>
 	
