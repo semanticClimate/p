@@ -59,6 +59,12 @@ We will have a pre-hackathon half day event with Wikimedians and other global vo
 ##### [Closing & Certificate distribution](../../posts/closing_session/)
 ##### [Organizers](../../posts/organizer_list/)
 
+## organizers
+<img src = "/p/static/img/organizers_people.jpg">
+
+## Instructors
+<img src = "/p/static/img/instructors_febhack.jpg">
+
 ## FAQ
 #### What are the technical requirements to participate in the hackathon?
 The participants must bring a laptop that can support modern tools written in Python.
