@@ -130,7 +130,7 @@ This page already contains our introductions! Please click on Registration Link 
 
 • What you hope to gain from the Hackathon
 
-## organizers
+## Organizers
 <img src = "/p/static/img/organizers_people.jpg">
 
 ## Instructors
