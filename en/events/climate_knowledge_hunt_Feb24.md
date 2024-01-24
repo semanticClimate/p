@@ -129,3 +129,9 @@ This page already contains our introductions! Please click on Registration Link 
 • Relevantskills (scripting, editing, HTML, Wikimedia, Python, etc.)
 
 • What you hope to gain from the Hackathon
+
+## organizers
+<img src = "/p/static/img/organizers_people.jpg">
+
+## Instructors
+<img src = "/p/static/img/instructors_febhack.jpg">
