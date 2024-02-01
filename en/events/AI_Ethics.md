@@ -1,5 +1,5 @@
 ---
-title: National Library Conclave on AI and Ethics 
+title: National Conclave on AI and Ethics 
 date: 2024-02-20
 featured: true
 description: AI and ETHICS | Perspectives from Industry and Academia
