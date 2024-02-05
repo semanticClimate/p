@@ -8,6 +8,12 @@ tags:
   - outreach
   - hackathon
 ---
+## AI  and Ethics
+
+A thought-provoking set of presentations and an engaging panel conversation during the National Conclave on AI and Ethics.
+
+<img src = "/p/static/img/Feb_IIC_FLyer_HiRes.png">
+
 ## Date & Time
 
 20 February, 2024
