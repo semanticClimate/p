@@ -59,7 +59,7 @@ But these are the seven reports we're looking at, synthesis, WG1, WG2, WG3 and C
 ### About the glossary
 Now, the other thing that we use, which isn't linked from here is a `glossary`.
 
-[Glossary](https://apps.ipcc.ch/glossary/) is a *collection of terms with some additional informations*. This has got 931 terms in it.
+[Original IPCC Glossary](https://apps.ipcc.ch/glossary/) is a *collection of terms with some additional informations*. This has got 931 terms in it.
 
 And it's designed for people to browse through.
 
