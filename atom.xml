@@ -5,12 +5,39 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-05T11:37:27Z</updated>
+	<updated>2024-02-05T11:38:33Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>The Climate Knowledge Hunt Hackathon! Feb Hack MRIIRS, India</title>
+		<link href="/p/en/posts/e-materials_Febhack24/"/>
+		<updated>2024-02-05T00:00:00Z</updated>
+		<id>/p/en/posts/e-materials_Febhack24/</id>
+		<content type="html">&lt;p&gt;This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi, India.&lt;/p&gt;
+&lt;h2&gt;semanticClimate website&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;Home page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;IPCC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/events/climate_knowledge_hunt_Feb24/&quot;&gt;MRIIRS event page&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Presentations&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1oXU92zQMzBZvQQd3jEfWFl_Z-JsVLYHr/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;Introduction about the dictionary&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/129YE-H3ooS0QFvjapZ75bXEJ3gO5YtwB/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;Introduction about IPCC and semanticclimate tools&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Github repository&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc&quot;&gt;IPCC materials intended for re-use as documents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;IPCC glossary in vivliostyle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/glossary-demo&quot;&gt;IPCC Glossary: #semanticClimate Research Demo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate&quot;&gt;petermr semanticclimate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pyamihtml&quot;&gt;pyamihtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Colab notebook&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1r3nXwH8GU5DZaq6ViFN8EYwul75QTG8H&quot;&gt;dictionary from literatures&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Organizers and Instructors | Climate Knowledge Hunt Hackathon 2024</title>
