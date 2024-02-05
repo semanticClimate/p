@@ -40,6 +40,8 @@ tags:
 
 ### Youtube video playlist presented in different climate events and hackathons
 
+#### [Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav](https://www.youtube.com/embed/krbeWMTz5CY)
+
 #### [FSCI 2023 Videos Playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT)
 
 #### [CODATA China 2023 Playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y)
