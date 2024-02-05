@@ -8,7 +8,7 @@ tags:
   - outreach
   - hackathon
 ---
-## Climate Internship
+
 An internship for the next few months **starting from February 2024** with `#semanticClimate`. 
  
 ## About the project
