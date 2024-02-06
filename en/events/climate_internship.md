@@ -26,11 +26,18 @@ Anyone with an enthusiasm for Climate action with some knoweldge of data mining 
 The data is already publicly available in the NJDG portal: Your induction task is to automate, extract and collate this into a single CSV file and send it to us by end of week Feb 10, 2024. 
 
 * Go to <a href= https://njdg.ecourts.gov.in/njdgnew/?p=main/index&state_code=7~26>NJDG Portal & Click on Delhi State</a>
-* Scrooll down to the row that says 20-30
-If we have multiple successful candidates, we may invite them for an informal online interview next week, but the task must be completed within this week.)
+* Scrooll down to the row that says 20-30 Years
+* See the number in the last coloum (Total Cases) - it will be something above 600
+* Extract the Metadata for each of these cases in CSV format
+* Return the combined metadata to us as single file (Our Email at the end of this page)
+* Attach a copy of your signed CV along with the data.
+
+  
+If we have multiple successful candidates, we may invite you for an informal online interview.
+Please do not write to us or apply without the data.
 
 ## Stipend for Internship
-**Successful interns will be paid a Stipend of INR 25000/- per month for upto three months**, depending on their time, availability and ability to collate maximum amount of climate justice records for India and our Biodiversity Hotspots.
+**Successful interns will be paid a Stipend of INR 25000/- per month for upto three months**, depending on their time, availability and ability to collate maximum amount of climate justice related data.
 
 ## Contact
 semanticclimate@gmail.com
