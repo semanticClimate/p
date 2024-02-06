@@ -1,5 +1,5 @@
 ---
-title: Climate Internship 
+title: Climate Justice Internship (3 months)
 date: 2024-02-05
 featured: true
 description: climate knowledge
