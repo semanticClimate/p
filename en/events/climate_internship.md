@@ -18,7 +18,7 @@ The overall theme will be Climate Justice in India, involving collection of raw 
 **The internship format will be online**, and selected interns will work asynchronously in their free time. They are also welcome to visit NIPGR and work with us full time in case they wish to do so. 
 
 ## Eligibility 
-Anyone with an enthusiasm for Climate action with some knoweldge of data mining can apply for the internship. You may continue with your regular day job, studies or other engagements, as long as you can use your free time to get results on this. Selected interns will work asynchronously in their free time. 
+Anyone with an enthusiasm for Climate action with some knoweldge of data mining can apply for the internship. You may continue with your regular day job, studies or other engagements, as long as you can use your free time to collate data and scale up the automation for us. Selected interns will work asynchronously in their free time. 
 
 ## Mode of Selection
 **Selection will be made based on a small induction test** for us to ensure the applicant knows what needs to be done; This involves Extracting Metadata for all cases that are pending in the Indian Judiciary for the past 30 years in the Delhi State. 
