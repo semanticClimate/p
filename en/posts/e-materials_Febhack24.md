@@ -60,6 +60,8 @@ This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi
 
 ## Colab notebook
 
+[chapter HTML annotated with Dictionary](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
+
 
 [dictionary from literatures](https://colab.research.google.com/drive/1r3nXwH8GU5DZaq6ViFN8EYwul75QTG8H)
 
