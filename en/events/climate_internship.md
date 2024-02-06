@@ -39,7 +39,7 @@ Please do not write to us or apply without the data.
 ## Stipend for Internship
 **Successful interns will be paid a Stipend of INR 25000/- per month for upto three months**, depending on their time, availability and ability to collate maximum amount of climate justice related data.
 
-## Contact
+## Email for Correspondence 
 semanticclimate@gmail.com
 
 
