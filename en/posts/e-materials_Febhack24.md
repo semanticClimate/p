@@ -36,6 +36,7 @@ This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi
 
 ## Github repository
 
+[for Hackathon_India](https://github.com/semanticClimate)
 
 [IPCC materials intended for re-use as documents](https://github.com/semanticClimate/ipcc)
 
