@@ -29,10 +29,10 @@ This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi
 ## Presentations
 
 
-[Introduction about the dictionary](https://docs.google.com/presentation/d/1jZLKTj1jwPC2Y-jjrPj6y2-pdFWM68Ep/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
+[Introduction about the dictionary](https://docs.google.com/presentation/d/1oXU92zQMzBZvQQd3jEfWFl_Z-JsVLYHr/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 
 
-[Introduction about IPCC and semanticclimate tools](https://docs.google.com/presentation/d/129YE-H3ooS0QFvjapZ75bXEJ3gO5YtwB/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
+[Introduction about IPCC and semanticclimate tools](https://docs.google.com/presentation/d/1jZLKTj1jwPC2Y-jjrPj6y2-pdFWM68Ep/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 
 ## Github repository
 
