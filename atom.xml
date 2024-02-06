@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-06T08:32:30Z</updated>
+	<updated>2024-02-06T10:09:37Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -27,6 +27,7 @@
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1oXU92zQMzBZvQQd3jEfWFl_Z-JsVLYHr/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;Introduction about the dictionary&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1jZLKTj1jwPC2Y-jjrPj6y2-pdFWM68Ep/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;Introduction about IPCC and semanticclimate tools&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Github repository&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate&quot;&gt;for Hackathon_India&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc&quot;&gt;IPCC materials intended for re-use as documents&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;IPCC glossary in vivliostyle&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/glossary-demo&quot;&gt;IPCC Glossary: #semanticClimate Research Demo&lt;/a&gt;&lt;/p&gt;
