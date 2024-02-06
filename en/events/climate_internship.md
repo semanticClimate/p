@@ -25,8 +25,8 @@ Anyone with an enthusiasm for Climate action with some knoweldge of data mining 
 
 The data is already publicly available in the NJDG portal: Your induction task is to automate, extract and collate this into a single CSV file and send it to us by end of week Feb 10, 2024. 
 
-* Go to [(NJDG Portal & Click on Delhi State)](https://njdg.ecourts.gov.in/njdgnew/?p=main/index&state_code=7~26)
-* Scrooll down to the row that says 20-30 Years
+* Go to [NJDG Portal & Click on Delhi State](https://njdg.ecourts.gov.in/njdgnew/?p=main/index&state_code=7~26)
+* Scroll down to the row that says 20-30 Years
 * See the number in the last coloum (Total Cases) - it will be something above 600
 * Extract the Metadata for each of these cases in CSV format
 * Return the combined metadata to us as single file (Our Email at the end of this page)
