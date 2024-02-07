@@ -14,6 +14,8 @@ An internship for three months **starting Feb/March 2024** with `#semanticClimat
 ## The Theme
 The overall theme will be Climate Justice in India, involving collection of raw metadata from publicly available judicial repositories such as the National Judiciary Data Grid (NJDG). As an intern you will explore various Text and Data mining (TDM) tools, web scrapers or java crawlers that you may download/create/run. A student with expertise in python coding, TDM or AI over NLP will easily be able to do so.
 
+<img src = "/p/static/img/climate_internship.jpg">
+
 ## Mode of Internship 
 **The internship format will be online**, and selected interns will work asynchronously in their free time. They are also welcome to visit NIPGR and work with us full time in case they wish to do so. 
 
