@@ -13,7 +13,11 @@ tags:
 
 In partnership with the CUES (**Centre for Urban Ecology and Sustainability**) and **Cambridge India Research Foundation** (CIRF) , we invie you to join us at Dheerpur Wetland Park for a Nature walk and short Field trip to appreciate the bird diversity at the park and have an open air discussion on Open Access to Biodiversity Data, Climate Action and Sustainability. We will have arrangements including spotting scopes, binoculars and other displays/flyers field guides on site for visitors. 
 
-<img src = "/p/static/img/CUES_sc_Flyer_Feb17.jpeg" height="200">
+<table>
+<tr>
+<td><img src='{{ "/p/static/img/CUES_sc_Flyer_Feb17.jpeg" | url }}' width="500" height="300"></td>
+</tr>
+</table>
 
 
 ## Date:
