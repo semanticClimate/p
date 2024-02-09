@@ -30,7 +30,7 @@ February 17th, 2024
 - `Climate Justice for Marginalised Communities` by Gitanjali Yadav, NIPGR
 - Lunch Break
 - Specific discussions on Future Actions 
-- CLosure & Departure
+- Closure & Departure
 
 
 ## Registration: 
