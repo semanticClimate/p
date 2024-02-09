@@ -25,7 +25,7 @@ February 17th, 2024
 - A short briefing on the restoration project by Director, CUES
 - A nature walk around the Wetlands
 - Informal Introductions over Tea
-- `Creating Youth Knoweldg Champion` by Peter Murray-Rust, University of Cambridge 
+- `Creating Youth Knowledge Champion` by Peter Murray-Rust, University of Cambridge 
 - `Liberating Literature` by Simon Worthington, TiB, Vivi
 - `Climate Justice for Marginalised Communities` by Gitanjali Yadav, NIPGR
 - Lunch Break
