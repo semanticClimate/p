@@ -16,7 +16,7 @@ In partnership with the CUES (**Centre for Urban Ecology and Sustainability**) a
 <table align="center">
   <tr>
     <td align="center">
-      <img src='{{ "/static/img/CUES_sc_Flyer_Feb17.jpeg" | url }}' width="500" height="200">
+      <img src='{{ "/static/img/CUES_sc_Flyer_Feb17.jpeg" | url }}' width="600" height="100">
     </td>
   </tr>
 </table>
