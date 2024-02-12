@@ -29,11 +29,12 @@ February 17th, 2024
 ## Schedule:
 - Assemble as early as practically possible (7.30-8.00am IST) 
 - A short briefing on the restoration project by Director, CUES
+- **The Story of Dheerpur Wetlands** by Suresh Babu, Director, CUES
 - A nature walk around the Wetlands
 - Informal Introductions over Tea
-- **Creating Youth Knowledge Champion** by Peter Murray-Rust, University of Cambridge 
-- **Liberating Literature** by Simon Worthington, TiB, Vivi
-- **Climate Justice for Marginalised Communities** by Gitanjali Yadav, NIPGR
+- **Creating Youth Knowledge Champions!** by Peter Murray-Rust, University of Cambridge 
+- **Liberating Books!** by Simon Worthington, TiB, Vivo
+- **Catalysing Climate Justice** by Gitanjali Yadav, NIPGR
 - Lunch Break
 - Specific discussions on Future Actions 
 - Closure & Departure
