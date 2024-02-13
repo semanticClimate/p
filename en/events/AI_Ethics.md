@@ -35,10 +35,24 @@ New Delhi 110003
 
 ## Full programme
 
-<img src='{{ "/static/img/AI_ethics_program1.jpg" | url }}' width="500" height="100">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src='{{ "/static/img/AI_ethics_program1.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src='{{ "/static/img/AI_ethics_program2.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src='{{ "/static/img/AI_ethics_program3.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
-<img src='{{ "/static/img/AI_ethics_program2.jpg" | url }}' width="500" height="100">
 
-<img src='{{ "/static/img/AI_ethics_program3.jpg" | url }}' width="500" height="100">
 
 
