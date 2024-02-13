@@ -20,6 +20,8 @@ tags:
 
 #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
+#### [Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | Daniel Spiller & Marcel](https://www.youtube.com/watch?v=7ok7hx40Bes)
+
 #### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
 
 #### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
