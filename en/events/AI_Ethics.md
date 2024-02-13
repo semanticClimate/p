@@ -32,3 +32,11 @@ India International Centre
 40, Max Mueller Marg
 
 New Delhi 110003
+
+## Full programme
+
+<img src = "/p/static/img/AI_ethics_program1.jpg">
+
+<img src = "/p/static/img/AI_ethics_program2.jpg">
+
+<img src = "/p/static/img/AI_ethics_program3.jpg">
