@@ -60,7 +60,8 @@ This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi
 
 [demo_chapter HTML annotated with Dictionary](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
 
-
+##### complete itinerary for India Visit from 16 Feb - 01 march, 2024
+[full itinerary](https://docs.google.com/document/d/1Y1aKZw4Gk6zUWyM4FWSmlBHPRgqxQPqY/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 
 
 
