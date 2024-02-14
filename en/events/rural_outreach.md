@@ -33,8 +33,8 @@ In-person
 * Leave for Govt Girls School: 11am
 * Arrive at Sherpur Village: 12 noon
 * Lunch and Cultura Program: 1pm
-* Deprt for Delhi: 2pm
-* Return to NIPGR: 5pm 
+* Depart for Delhi: 3pm
+* Return to NIPGR: 6pm 
 
 ## Location
 
