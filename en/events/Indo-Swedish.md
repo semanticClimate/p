@@ -21,7 +21,7 @@ The opportunity to collaborate and explore avenues for meaningful climate action
 In-person
 
 ## People Involved
-PMR, GY, SW, Raquel, RPdE, Marwa Halmy, NIPGR Scientists and Swedish Scientists 
+PMR, GY, SW, RPdE, Marwa Halmy, NIPGR Scientists and Swedish Scientists 
 
 ## Location
 Archive Room, [NIPGR](https://www.nipgr.ac.in/home/home.php), New Delhi.
