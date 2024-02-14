@@ -20,22 +20,13 @@ A thought-provoking set of presentations and an engaging panel conversation duri
 
 3-6pm (IST)
 
-## Mode 
-In-person
-
-## People Involved
-PMR, GY, SW, RPdE, Marwa Halmy
-
 ## Register Now!
 [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/1CGN5tHvQpoU0tSAo86cFs6Cv7Sju5X5S6IYqVhOZWS0/edit)
 
 ## Location
 India International Centre
-
 40, Max Mueller Marg
-
 New Delhi 110003
-
 Travel time : 30-40 min
 
 ## Full programme
