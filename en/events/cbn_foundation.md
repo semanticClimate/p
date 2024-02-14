@@ -1,6 +1,6 @@
 ---
 title:  Youth Interaction about climate action 
-date: 2024-02-16
+date: 2024-02-19
 featured: true
 description: Meeting and discussion with graduate students 
 tags:
