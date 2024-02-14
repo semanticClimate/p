@@ -1,7 +1,7 @@
 ---
 title: The Climate Knowledge Hunt Hackathon! Feb Hack MRIIRS, India
 date: 2024-02-05
-description: Climate Knowledge Hunt Hackathon May 2023
+description: Climate Knowledge Hunt Hackathon
 author: The Team
 summary: Full day hack session 2024 
 hide: true
