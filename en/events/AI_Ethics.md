@@ -27,7 +27,9 @@ A thought-provoking set of presentations and an engaging panel conversation duri
 India International Centre
 40, Max Mueller Marg
 New Delhi 110003
-Travel time : 30-40 min
+Travel time from NIPGR : 30-40 min
+
+See Map For Directions:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14012.822395997846!2d77.2227395!3d28.5936083!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2edb5f05711%3A0x3b0ae135e9a68300!2sIndia%20International%20Centre!5e0!3m2!1sen!2sin!4v1707924054139!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Full programme
