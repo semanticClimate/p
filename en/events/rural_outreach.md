@@ -32,7 +32,7 @@ PMR, GY, SW, RPdE, Marwa Halmy
 
 - [SHIVAM INTERNATIONAL SCHOOL](https://www.schooldetails.org/haryana/kurukshetra/ismailabad/-/shivam-international-school-10380108704)
 
-Travel time: 2.30 h
+Travel time: 2.5 h
 
 
 
