@@ -20,6 +20,9 @@ Climate education by [#semanticClimate](https://semanticclimate.github.io/p/en/)
 ## Mode 
 In-person
 
+## People Involved
+PMR, GY, SW, RPdE, Marwa Halmy
+
 ## Location
 
 **Schools are:** 
@@ -28,6 +31,8 @@ In-person
 - [Divine Dale International School, Sherpur](https://www.divinedale.org/)
 
 - [SHIVAM INTERNATIONAL SCHOOL](https://www.schooldetails.org/haryana/kurukshetra/ismailabad/-/shivam-international-school-10380108704)
+
+Travel time: 2.30 h
 
 
 
