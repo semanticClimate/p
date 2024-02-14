@@ -21,6 +21,9 @@ This event offers a unique opportunity for alumni to reconnect, reminisce, and r
 ## Mode 
 Hybrid
 
+## People Involved
+PMR, GY, SW, RPdE, Marwa Halmy, SH, Waheb, Shubham, Renu, Jay, Priti, Mandeep, Abhishek, Joshy, Amit  
+
 ## Location
 
 [National Institute of Plant Genome Research (NIPGR)](https://nipgr.ac.in/home/home.php), New Delhi, India
