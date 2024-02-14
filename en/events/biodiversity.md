@@ -25,6 +25,8 @@ In partnership with the [**Centre for Urban Ecology and Sustainability**(CUES)](
 ## Date:
 February 17th, 2024 
 
+## People Involved
+PMR, GY, SW, RPdE, Marwa Halmy, Jay, Priti, Mandeep, Abhishek, Joshy, Amit, AUD team
 
 ## Schedule:
 - Assemble as early as practically possible (7.30-8.00am IST) 
@@ -47,5 +49,7 @@ If you wish to join us for this event, please email us at the contact below.
 ## Email for Correspondence
 semanticclimate@gmail.com
 
-
+## Location 
+[Dheerpur Wetlands](https://urbanwetlandrestoration.wordpress.com/)
+Travel time : 1 h
 
