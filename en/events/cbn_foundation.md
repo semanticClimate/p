@@ -9,20 +9,27 @@ tags:
   - hackathon
 ---
 
-[#semanticClimate](https://semanticclimate.github.io/p/en/) team will interact with graduate students and [CBN foundation](https://cbnindia.org/) to exchange insights and expertise regarding climate knowledge.  Through this interaction, participants can gain a comprehensive understanding of various aspects related to climate science, adaptation strategies, and mitigation efforts. 
+[#semanticClimate](https://semanticclimate.github.io/p/en/) team will interact with middle and high school students of the underprevileged communities [CBN foundation](https://cbnindia.org/) to exchange insights and expertise regarding climate knowledge.  Through this interaction, participants can gain a comprehensive understanding of various aspects related to climate science, adaptation strategies, and mitigation efforts. 
+
+With this effort, we hope to empower and enrich the lives of students and lead the way for them to become climate champions!
 
 ## Date & Time
 
 19 February, 2024
 
-10:00 am - 4:00 pm (IST)
+10:00 am - 3:00 pm (IST)
 
 ## Mode 
 In-person
 
 ## People & Program
-PMR, GY, SW, RPdE, Marwa Halmy, graduate students and CBN foundation team
-
+PMR, GY, SW, RPdE, Marwa Halmy, middle school students of CBNF and CBN foundation team
+10am: Depart for The Venue
+11am: Interact with Youth
+12pm: Interviews with CBN Foundation Media Team
+1pm: Lunch
+2pm: Departure
+3pm: Return to NIPGR
 
 
 ## Location
