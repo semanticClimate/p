@@ -2,7 +2,7 @@
 title:  semanticClimate Alumni Reunion
 date: 2024-02-25
 featured: true
-description: climate education to school students 
+description: Hybrid meeting with team 
 tags:
   - semanticclimate
   - outreach
