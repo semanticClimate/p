@@ -10,7 +10,9 @@ tags:
 ---
 
 Climate education by [#semanticClimate](https://semanticclimate.github.io/p/en/) team to school students for fostering environmental awareness and empowering the next generation to become stewards of the planet. These efforts aim to bridge the gap in climate literacy, equipping students from the rural area with the knowledge and skills necessary to mitigate risks and adapt to changing environmental conditions.
-The schools selected for this visit were included in the India-UK BBSRC funded TIGR2ESS program for Trasnforming India's Green Revolution via Research and Empowerment for Sustainable Food Supplies. 
+
+The schools selected for this visit were included in the India-UK BBSRC funded [TIGR2ESS program](https://tigr2ess.globalfood.cam.ac.uk/)  for Trasnforming India's Green Revolution via Research and Empowerment for Sustainable Food Supplies. 
+
 Our aim is to meet the young students, specially girls and encourage them to undertake science streams.
 The Goal of the visit is also to explore possibilities of rural students being able to undertake short summer internships in Delhi and outside India. 
 
