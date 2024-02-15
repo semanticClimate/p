@@ -28,8 +28,7 @@ This page contains the materials for the Feb 2024 hackathon at MRIIRS, New Delhi
 
 ## Presentations
 
-
-[steps to create dictionary from climate chapter](https://docs.google.com/presentation/d/1mfG8ykXxsgUHo3UwR3xL29643c-abZfd/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
+[steps to annotate html with dictionary](https://docs.google.com/presentation/d/1QfQe9HrA0myhijqMPQrGZ3Dwsn9O89nB/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 
 ## Github repository
 
