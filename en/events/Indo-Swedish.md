@@ -1,5 +1,5 @@
 ---
-title:  Swedish-India Center of Excellence in Climate Action 
+title:  Swedish-India Center of Excellence for Sustainable Society/City 
 date: 2024-02-16
 featured: true
 description: Joint discussion to collaborate for meaningful climate action between Sweden and India
