@@ -14,10 +14,10 @@ The presentation will provide the insight about the Open accesss and the use of 
 #### Speakers:
 
 **Peter Murray Rust** (Professor Emeritus, Cambridge University)
-Topic: AI over NLP
+**Topic: AI over NLP**
 
 **Simon Worthington** (Member of HsHJointLab and Open Science Lab, TIB) 
-Topic: Open Access
+**Topic: Open Access**
 
 
 ## Date & Time
