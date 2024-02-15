@@ -8,6 +8,8 @@ tags:
   - hackathon
 ---
 
+##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
+
 ### These are the #sC resources used for climate knowledge 
 
 #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
