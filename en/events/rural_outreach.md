@@ -32,7 +32,7 @@ In-person
 * Arrive at Shiva School : 10am
 * Leave for Govt Girls School: 11am
 * Arrive at Sherpur Village: 12 noon
-* Lunch and Cultura Program: 1pm
+* Lunch and Cultural Program: 1pm
 * Depart for Delhi: 3pm
 * Return to NIPGR: 6pm 
 
