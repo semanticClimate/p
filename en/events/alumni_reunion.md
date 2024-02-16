@@ -19,10 +19,15 @@ This event offers a unique opportunity for alumni to reconnect, reminisce, and r
 1030 - 1600 (IST)
 
 ## Programme
+
 1030 – 1600 IST: 	Alum reunion of Semantic CLimate, OpenVirus and CEVOpen
+
 1030 - 1200 IST:  Walk to JNU for Open Air Chat and Tea/Coffee 
+
 1300 - 1400 IST: 	Lunch NIPGR Archive Room
+
 **1400 - 1600 IST:  Hybrid meeting with Alums**	
+
 
 ## People Involved
 PMR, GY, SW, RPdE, Marwa Halmy, SH, Waheb, Shubham, Renu, Jay, Priti, Mandeep, Abhishek, Joshy, Amit  
