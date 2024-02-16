@@ -15,18 +15,20 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 ## IPCC Glossary and Knowledge graph
 
-#### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
+##### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
 
-#### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
+##### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
 
 
-#### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
+##### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
+
 
 
 ## Program schedule_MRIIRS Climate Hackathon
 
 **[Detailed Program](https://drive.google.com/file/d/1WLsirekDjWAb1IeCfaFmzWnTL7a04inv/view?usp=sharing) for 26-27 February, 2024**
+
 
 
 ## semanticClimate website
