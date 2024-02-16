@@ -61,6 +61,10 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 [pygetpapers](https://github.com/petermr/pygetpapers)
 
+## Colab Notebooks
+
+[dictionary_HTML_annotation](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
+
 
 
 
