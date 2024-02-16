@@ -73,7 +73,7 @@ The First Runner ups will win INR 10000/-
 The Second Runner ups will win INR 7000/-
 
 ## Program schedule
-**Detailed Program for 26-27 February, 2024**
+**[Detailed Program](https://drive.google.com/file/d/1WLsirekDjWAb1IeCfaFmzWnTL7a04inv/view?usp=sharing) for 26-27 February, 2024**
 
 <table align="center">
   <tr>
