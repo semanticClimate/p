@@ -75,7 +75,24 @@ The Second Runner ups will win INR 7000/-
 ## Program schedule
 Detailed Program for 26-27 February, 2024
 
-<img src = "/p/static/img/FebHack_Program.png">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src='{{ "/static/img/feb_hack_program1.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src='{{ "/static/img/feb_hack_program2.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src='{{ "/static/img/feb_hack_program3.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 
 ## What Can I Bring?!
 * Bring your questions and/or knowledge of climate.
