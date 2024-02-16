@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-16T06:06:07Z</updated>
+	<updated>2024-02-16T06:11:37Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -35,6 +35,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pyamihtml&quot;&gt;pyamihtml&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Colab Notebooks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing&quot;&gt;dictionary_HTML_annotation&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
