@@ -28,6 +28,15 @@ This talks, panel and discussions aim to foster stakeholder engagement through f
 ## Link to Register:
 [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/1CGN5tHvQpoU0tSAo86cFs6Cv7Sju5X5S6IYqVhOZWS0/edit)
 
+## Our Partners/ Funders/ Collaborators ! 
+
+* National Institue of Plant Genome Research [(NIPGR)](https://www.nipgr.ac.in/home/home.php), New Delhi India
+* Delhi City Knowledge Cluster [DRIIV](https://www.driiv.co.in/), India
+* Cambridge India Research Foundation [CIRF](https://thehearthadvisors.com/cambridge/), University of Cambridge, U.K
+* TiB VIVO Berlin, Germany
+* CoARA ERIP Working Group
+* [CODATA International Data Policy Committee](https://codata.org/initiatives/data-policy/international-data-policy-committee/) 
+
 ## Location
 India International Centre
 40, Max Mueller Marg
