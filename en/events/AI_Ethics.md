@@ -23,7 +23,7 @@ This talks, panel and discussions aim to foster stakeholder engagement through f
 
 20 February, 2024
 
-3-6pm (IST)
+1600 IST == 1030 UTC == 1130 CET
 
 ## Link to Register:
 [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/1CGN5tHvQpoU0tSAo86cFs6Cv7Sju5X5S6IYqVhOZWS0/edit)
