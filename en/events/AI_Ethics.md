@@ -10,7 +10,7 @@ tags:
 ---
 ## AI  and Ethics
 
-A thought-provoking set of presentations and an engaging panel conversation during the National Conclave on AI and Ethics. Developed roughly on the lines of a successful EU framerwork, the panel aims to work across disciplines for global engagement and impact. Our panelists are mostly from India, but also from Cambridge U.K, and Germany. The event is open to all, free to join and in hybrid mode, and I have ensured timing tomorrow Feb 20th, 2024 at (1600 IST == 1030 UTC == 1130 CET) such that more of us can attend from the group, if you would like to!
+A thought-provoking set of presentations and an engaging panel conversation during the National Conclave on AI and Ethics. Developed roughly on the lines of a successful EU framerwork, the panel aims to work across disciplines for global engagement and impact. Our panelists are mostly from India, but also from Cambridge U.K, and Germany. The event is open to all, free to join and in hybrid mode, scheduled on Feb 20th, 2024 at (1600 IST == 1030 UTC == 1130 CET).
 
 The audience will be diverse, representing not just India, but also several European and African nations. One of the organsiers of this event, Gitanjali Yadav, our co-founder, is also a member of the Coalition for the Advancement of Research Assessment (CoARA)'s Working Group on 'Ethics and Research Integrity Policy in Responsible Research Assessment for Data and Artificial Intelligence [(ERIP)](https://coara.eu/coalition/working-groups/)'.  Please register and we will send you a link :)
 
