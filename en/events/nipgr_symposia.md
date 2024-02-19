@@ -14,10 +14,15 @@ The presentation will provide the insight about the Open accesss and the use of 
 #### Speakers:
 
 **Peter Murray Rust** (Professor Emeritus, Cambridge University)
-**Topic: AI over NLP**
+**Topic: "Creating Youth AI Champions in India"**
+
 
 **Simon Worthington** (Member of HsHJointLab and Open Science Lab, TIB) 
-**Topic: Open Access**
+**Topic: "Beyond PDF Printing: Open Access for Liberating Literature"**
+
+
+**Raquel Perez de Eulate**, Creative Director – Interpunct, Spain
+**Topic: "VivlioStyle & CSS Media Design"**
 
 
 ## Date & Time
