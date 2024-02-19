@@ -17,7 +17,7 @@ The audience will be diverse, representing not just India, but also several Euro
 This talks, panel and discussions aim to foster stakeholder engagement through facilitated dialogue / collaboration among researchers, policymakers, as well as funding agencies, towards development and implementation of ethical research assessment policies for data and AI.
 
 
-<img src = "/p/static/img/Feb_IIC_FLyer_HiRes.png">
+<img src = "/p/static/img/AI_Ethics_Flyer_updated.jpeg">
 
 ## Date & Time
 
