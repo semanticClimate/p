@@ -25,7 +25,7 @@ This event aims to foster stakeholder engagement through facilitated dialogue / 
 
 3-6pm (IST)
 
-## Register Now!
+## Link to Register:
 [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/1CGN5tHvQpoU0tSAo86cFs6Cv7Sju5X5S6IYqVhOZWS0/edit)
 
 ## Location
