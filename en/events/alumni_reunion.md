@@ -11,12 +11,22 @@ tags:
 
 This event offers a unique opportunity for alumni to reconnect, reminisce, and reflect on their collective journey towards understanding and addressing the complexities of climate change. 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src='{{ "/static/img/sC_Reunion.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 ## Date & Time
 
 25 February, 2024
 
 1030 - 1600 (IST)
+
+## Registration
+Click [here](https://forms.gle/mqkgEfjs3yWw95NE9) for registration
 
 ## Programme
 
@@ -27,7 +37,6 @@ This event offers a unique opportunity for alumni to reconnect, reminisce, and r
 1300 - 1400 IST: 	Lunch (NIPGR Archive Room)
 
 **1400 - 1600 IST:  Hybrid meeting with Alums**	
-
 
 ## People Involved
 PMR, GY, SW, RPdE, Marwa Halmy, SH, Waheb, Shubham, Renu, Jay, Priti, Mandeep, Abhishek, Joshy, Amit  
