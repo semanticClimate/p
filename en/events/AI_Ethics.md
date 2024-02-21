@@ -68,8 +68,8 @@ See Map For Directions:
 
 ## Event Highlight
 
-<iframe width="250" height="200" src="https://www.youtube.com/live/PGR_3Ow8ImA?si=Ckk8mOGnWqM97XTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-National Conclave on AI and Ethics: Perspectives from Industry & Academia
+<iframe width="250" height="200" src="https://www.youtube.com/watch?v=PGR_3Ow8ImA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### National Conclave on AI and Ethics: Perspectives from Industry & Academia
 
 
 
