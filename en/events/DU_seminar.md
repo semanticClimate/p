@@ -16,7 +16,7 @@ The **National Seminar on AI in Biological Sciences** will provide an insights i
 <table align="center">
   <tr>
     <td align="center">
-      <img src='{{ "/static/img/flyer_arsd1.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/flyer_arsd1.jpg" | url }}' width="250" height="50">
     </td>
   </tr>
 </table>
@@ -37,12 +37,12 @@ In-person
 <table align="center">
   <tr>
     <td align="center">
-      <img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="250" height="50">
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src='{{ "/static/img/Aflyer_arsd3.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/flyer_arsd3.jpg" | url }}' width="250" height="50">
     </td>
   </tr>
 </table>
