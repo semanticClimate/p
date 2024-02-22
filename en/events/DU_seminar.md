@@ -13,7 +13,10 @@ tags:
 
 The **National Seminar on AI in Biological Sciences** will provide an insights into the most recent breakthroughs and prospective utilizations of AI within Biological Sciences. This includes presentations, interactive discussions, plenary and keynote lectures by distinguished scientists.
 
-<img src="/p/static/img/flyer_arsd1.jpg" width="100" height="100">
+<div style="text-align:center;">
+    <img src="/p/static/img/flyer_arsd1.jpg" width="100" height="100">
+</div>
+
    
 ## Date & Time
 
