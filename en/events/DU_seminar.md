@@ -30,17 +30,11 @@ In-person
 
 ## Programme
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="250" height="50">
-    </td>
-  </tr>
-   <tr>
-    <td align="center">
-      <img src='{{ "/static/img/flyer_arsd3.jpg" | url }}' width="250" height="50">
-    </td>
-  </tr>
+<table>
+<tr>
+<td><img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="300"></td>
+</tr>
 </table>
 
 
