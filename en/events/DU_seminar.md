@@ -1,6 +1,6 @@
 ---
 title:  National Seminar on  "AI in Biological Sciences" 
-date: 2024-02-27
+date: 2024-02-28
 featured: true
 description: Two day National Seminar
 tags:
