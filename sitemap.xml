@@ -372,17 +372,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
-    <lastmod>2024-02-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2024-02-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
+    <lastmod>2024-02-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
     <lastmod>2024-02-22</lastmod>
   </url>
   
@@ -393,6 +388,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2024-02-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2024-02-22</lastmod>
   </url>
   
@@ -457,12 +457,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge-hunt/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2024-02-22</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge-hunt/</loc>
     <lastmod>2024-02-22</lastmod>
   </url>
   
@@ -494,5 +494,10 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/events/climate_knowledge_hunt_Feb24/</loc>
     <lastmod>2024-02-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/DU_seminar/</loc>
+    <lastmod>2024-02-27</lastmod>
   </url>
 </urlset>
