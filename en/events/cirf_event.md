@@ -11,10 +11,7 @@ tags:
 
 This event offers an opportunity for young researchers and students from the University of Delhi to explore and uncover the opportunities and challenges within the field of Data Science, guided by a team of internationally acclaimed scientists.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src='{{ "/static/img/cirf1.jpg" | url }}' style="max-width: 100%; max-height: 100%;">
-</div>
-
+<img src='{{ "/static/img/cirf1.jpg" | url }}' style="max-width: 100%; max-height: 100%;">
 
 ## Date & Time
 
