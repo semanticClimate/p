@@ -11,7 +11,7 @@ tags:
 
 **Artificial Intelligence (AI)** has become a groundbreaking influence within the realm of Biological Sciences, reshaping research methodologies, diagnostic procedures, and data analysis techniques.
 
-The **National Seminar on AI in Biological Sciences** will provide an insights into the most recent breakthroughs and prospective utilizations of AI within Biological Sciences. This includes presentations, interactive discussions, plenary and keynote lectures by distinguished scientists.
+The [**National Seminar on AI in Biological Sciences**](https://www.arsdcollege.ac.in/event/two-day-national-seminar-on-ai-in-biological-sciences/) will provide an insights into the most recent breakthroughs and prospective utilizations of AI within Biological Sciences. This includes presentations, interactive discussions, plenary and keynote lectures by distinguished scientists.
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
