@@ -14,10 +14,11 @@ tags:
 The **National Seminar on AI in Biological Sciences** will provide an insights into the most recent breakthroughs and prospective utilizations of AI within Biological Sciences. This includes presentations, interactive discussions, plenary and keynote lectures by distinguished scientists.
 
 
-<img src='{{ "/static/img/flyer_arsd4.jpg" | url }}'>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src='{{ "/static/img/flyer_arsd1.jpg" | url }}' style="max-width: 100%; max-height: 100%;">
+</div>
 
-
-   
+ 
 ## Date & Time
 
 27-28 February, 2024.
