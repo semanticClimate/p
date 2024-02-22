@@ -33,7 +33,7 @@ In-person
 <table>
 <tr>
 <td><img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/flyer_arsd3.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
