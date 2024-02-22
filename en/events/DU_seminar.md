@@ -51,6 +51,8 @@ In-person
 ## Location
 
 Seminar Hall 1, [ARSD College](https://www.arsdcollege.ac.in/)
+
+
 ATMA RAM SANATAN DHARMA COLLEGE, Ring Rd, Dhaula Kuan Enclave I, Dhaula Kuan, New Delhi, Delhi 110021
 
 
