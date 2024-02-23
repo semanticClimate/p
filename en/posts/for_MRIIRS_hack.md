@@ -17,6 +17,7 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 ##### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
+##### [ipcc_glossary](https://drive.google.com/file/d/1a2qWGR6Ot_vlQ31TMBbNaVsD6S_1_gT2/view?usp=sharing)
 
 ##### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
 
