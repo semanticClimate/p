@@ -68,6 +68,10 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 [dict_HTML_annotation](https://docs.google.com/presentation/d/1fqP6F6tJ60QFB0A0F37h6TuPyeC4LReb/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 
 
+## Tutorial document
+[tutorial_pyamihtmlx](https://docs.google.com/document/d/1CF68Fw9NytnUH2ZAEecpUeligXczhn4A/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
+
+
 ## Colab Notebooks
 
 [dictionary_HTML_annotation](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
