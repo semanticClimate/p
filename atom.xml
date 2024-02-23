@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-23T11:24:10Z</updated>
+	<updated>2024-02-23T11:31:03Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -38,6 +38,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Presentation slides (stepwise description about colab)&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fqP6F6tJ60QFB0A0F37h6TuPyeC4LReb/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;dict_HTML_annotation&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Tutorial document&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1CF68Fw9NytnUH2ZAEecpUeligXczhn4A/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;tutorial_pyamihtmlx&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Colab Notebooks&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing&quot;&gt;dictionary_HTML_annotation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/Chapter_17_Notebook.ipynb&quot;&gt;chapter17_IPCC_analysis&lt;/a&gt;&lt;/p&gt;
