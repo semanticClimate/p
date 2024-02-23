@@ -24,7 +24,6 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 ##### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
 
-
 ## Program schedule_MRIIRS Climate Hackathon
 
 **[Detailed Program](https://drive.google.com/file/d/1WLsirekDjWAb1IeCfaFmzWnTL7a04inv/view?usp=sharing) for 26-27 February, 2024**
@@ -62,6 +61,11 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 
 [pygetpapers](https://github.com/petermr/pygetpapers)
+
+
+## Presentation slides (stepwise description about colab)
+[dict_HTML_annotation](https://docs.google.com/presentation/d/1fqP6F6tJ60QFB0A0F37h6TuPyeC4LReb/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
+
 
 ## Colab Notebooks
 
