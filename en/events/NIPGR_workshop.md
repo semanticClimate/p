@@ -30,17 +30,17 @@ In-person
 
 ## Programme
 
-3:00 pm:  Tea & Coffee (Meet and Greet)
+**3:00 pm:**  Tea & Coffee (Meet and Greet)
 
-3:25 pm:  Welcome & Ice Break (Gitanjali Yadav)
+**3:25 pm:**  Welcome & Ice Break (Gitanjali Yadav)
 
-3:30 pm:  Concepts of Data Semantification (by Peter Murray-Rust)
+**3:30 pm:**  Concepts of Data Semantification (by Peter Murray-Rust)
 
-3:40 pm:  Set up Workspace (Laptops/ Wifi/ Chrome)
+**3:40 pm:**  Set up Workspace (Laptops/ Wifi/ Chrome)
 
-4:10 pm:  Introduction to the Semantic Toolkit for Phytochemistry (By PMR & SW)
+**4:10 pm:**  Introduction to the Semantic Toolkit for Phytochemistry (By PMR & SW)
 
-4:20 pm:  DIY Data Semantification
+**4:20 pm:**  DIY Data Semantification
 
 - Keyword Search of Europe PMC
 - Download papers of interest 
@@ -50,18 +50,18 @@ In-person
 - Text Annotation using AI over NLP 
 - Knowledge Embedding into the Global Knowledge Graph
   
-5:15 pm:  Continuation of the Authoring Pipeline ( by Simon Worthington)
+**5:15 pm:**  Continuation of the Authoring Pipeline ( by Simon Worthington)
 
-5:30 pm:  Collaborative Editing via Vivliostyle ( by Raquel Perez deEulate)
+**5:30 pm:**  Collaborative Editing via Vivliostyle ( by Raquel Perez deEulate)
 
 - Book Outputs from Input Keywords and Article Metadata
 - Tricks n Tips about Styling Hyperbooks
   
-6:00 pm:  Vote of Thanks (Gitanjali Yadav)
+**6:00 pm:**  Vote of Thanks (Gitanjali Yadav)
 
 - Final Remarks (by NIPGR Director) 
   
-6:30 pm:  High Tea & Closure
+**6:30 pm:**  High Tea & Closure
 
 
 ## Location
