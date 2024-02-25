@@ -78,7 +78,7 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 [chapter17_IPCC_analysis](https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/Chapter_17_Notebook.ipynb)
 
-[pygetpapers_literature_search_keyword_extraction_word_cloud](https://colab.research.google.com/drive/12ixmez8zh288hBGzwWmBaj29leeuQRD7#scrollTo=THyLJArMaLDi)
+[pygetpapers_literature_search_keyword_extraction_word_cloud](https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt#scrollTo=Be74i2ErAmIi)
 
 
 
