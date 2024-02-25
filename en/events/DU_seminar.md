@@ -34,6 +34,8 @@ In-person
 <table>
 <tr>
 <td><img src='{{ "/static/img/program1.jpg" | url }}' width="500" height="300"></td>
+</tr>
+<tr>
 <td><img src='{{ "/static/img/program2.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
