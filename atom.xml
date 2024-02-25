@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-25T10:42:35Z</updated>
+	<updated>2024-02-25T10:48:33Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -43,7 +43,7 @@
 &lt;h2&gt;Colab Notebooks&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing&quot;&gt;docanalysis_dictionary_HTML_annotation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/Chapter_17_Notebook.ipynb&quot;&gt;chapter17_IPCC_analysis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt#scrollTo=Be74i2ErAmIi&quot;&gt;pygetpapers_literature_search_keyword_extraction_word_cloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing&quot;&gt;pygetpapers_literature_search_keyword_extraction_word_cloud&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
