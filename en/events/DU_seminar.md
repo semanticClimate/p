@@ -21,7 +21,7 @@ The [**National Seminar on AI in Biological Sciences**](https://www.arsdcollege.
  
 ## Date & Time
 
-27-28 February, 2024.
+28 February, 2024.
 
 Time: 9:30 a.m.- 4:30 p.m. (IST)
 
@@ -33,8 +33,8 @@ In-person
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/flyer_arsd2.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/flyer_arsd3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/program1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/program2.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
