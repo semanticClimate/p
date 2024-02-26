@@ -14,6 +14,8 @@ This page contains the materials for the participants of the hackathon at MRIIRS
 
 #### [A Hack Handbook](https://bit.ly/sc_hackbook)
 
+#### [Etherpad for introducing yourself](https://pad.mozilla.org/p/mriirs)
+
 
 ## IPCC Glossary and Knowledge graph
 
