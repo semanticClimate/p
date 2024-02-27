@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-27T09:10:55Z</updated>
+	<updated>2024-02-27T17:13:09Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -18,8 +18,6 @@
 		<updated>2024-02-05T00:00:00Z</updated>
 		<id>/p/en/posts/for_MRIIRS_hack/</id>
 		<content type="html">&lt;p&gt;This page contains the materials for the participants of the hackathon at MRIIRS, New Delhi, India.&lt;/p&gt;
-&lt;h4&gt;&lt;a href=&quot;https://bit.ly/sc_hackbook&quot;&gt;A Hack Handbook&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://pad.mozilla.org/p/mriirs&quot;&gt;Etherpad for introducing yourself&lt;/a&gt;&lt;/h4&gt;
 &lt;h2&gt;IPCC Glossary and Knowledge graph&lt;/h2&gt;
 &lt;h5&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;Enhanced glossary&lt;/a&gt; - CSS Typeset, &lt;a href=&quot;https://github.com/semanticClimate/glossary-demo/blob/main/README.md&quot;&gt;see readme&lt;/a&gt;.&lt;/h5&gt;
 &lt;h5&gt;&lt;a href=&quot;https://drive.google.com/file/d/1a2qWGR6Ot_vlQ31TMBbNaVsD6S_1_gT2/view?usp=sharing&quot;&gt;ipcc_glossary&lt;/a&gt;&lt;/h5&gt;
