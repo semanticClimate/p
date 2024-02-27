@@ -2,7 +2,7 @@
 title:  AI in Research and Higher Education 
 date: 2024-02-29
 featured: true
-description: Creating Climate knowledge Champions 
+description: Academic visit to give an insight about AI and Climate knowledge 
 tags:
   - semanticclimate
   - outreach
