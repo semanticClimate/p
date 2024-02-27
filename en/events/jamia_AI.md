@@ -24,11 +24,11 @@ In-person
 
 ## Programme Schedule
 
-##### Inaugural program
+#### Inaugural program
 
 <img src='{{ "/static/img/inaugural_jamia.png" | url }}' width="500" height="300">
 
-##### Academic Visit Program
+#### Academic Visit Program
 
 <img src='{{ "/static/img/talk_jamia.png" | url }}' width="500" height="300">
 
