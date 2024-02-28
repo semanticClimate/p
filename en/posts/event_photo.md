@@ -35,7 +35,28 @@ This page showcases images from various events in which Semantic Climate has eit
 </tr>   
 </table>
 
+### MRIIRS Hackathon_February 26-27, 2024
 
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/feb_hack1.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/feb_hack4.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/feb_hack3.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/feb_hack2.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/feb_hack5.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/feb_hack6.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
 
 
 
