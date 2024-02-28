@@ -1,7 +1,7 @@
 ---
 title: Event Highlights
 date: 2024-02-29
-description: About the glossary and tools 
+description: images from the events 
 author: RK
 tags:
   - semanticclimate
