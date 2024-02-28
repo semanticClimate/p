@@ -16,7 +16,7 @@ This page showcases images from various events in which Semantic Climate has eit
 <table>
 <tr>
 <td><img src='{{ "/static/img/photo/alumni1.JPG" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/alumni2.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/alumni5.JPG" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
@@ -29,7 +29,7 @@ This page showcases images from various events in which Semantic Climate has eit
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/alumni5.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/alumni2.JPG" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/alumni6.JPG" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
