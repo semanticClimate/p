@@ -3,8 +3,9 @@ title: Event Highlights
 date: 2024-02-29
 description: images from the events 
 author: RK
+summary: A glimpse of events, hackathon and outreach 
+hide: true
 tags:
-  - semanticclimate
   - hackathon
 ---
 
