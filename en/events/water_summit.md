@@ -23,7 +23,7 @@ This event is for both members and non-members. India, Finland, Sweden, Norway, 
 
 ## Register Now!
 
-[Click ere for registration](https://inwf.in/spring-water-summit-2024/)
+[Click here for registration](https://inwf.in/spring-water-summit-2024/)
 
 ## Program 
 
