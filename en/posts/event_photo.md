@@ -10,7 +10,46 @@ tags:
 ---
 
 
-This page showcases images from various events in which Semantic Climate has either participated or organized.
+**This page showcases images from various events in which Semantic Climate has either participated or organized.**
+
+### Swedish-India Center of Excellence for Sustainable Society/City
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/SI_meeting4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/SI_meeting1.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/SI_meeting5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/SI_meeting6.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/SI_meeting2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/SI_meeting3.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+### Biodiversity Field Trip
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/wetland_pic1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/wetland_pic5.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/wetland_pic2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/wetland_pic6.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
 
 ### semanticClimate Alumni Reunion
 
