@@ -1,8 +1,8 @@
 ---
-title:  AI in Research and Higher Education 
+title:  National Conclave on “Artificial Intelligence in Education” 
 date: 2024-02-29
 featured: true
-description: Academic visit to give an insight about AI and Climate knowledge 
+description: Academic visit to give an insight about AI in research and education 
 tags:
   - semanticclimate
   - outreach
@@ -24,14 +24,7 @@ In-person
 
 ## Programme Schedule
 
-#### Inaugural program
-
-<img src='{{ "/static/img/inaugural_jamia.png" | url }}' width="500" height="300">
-
-#### Academic Visit Program
-
-<img src='{{ "/static/img/talk_jamia.png" | url }}' width="500" height="300">
-
+<img src='{{ "/static/img/jamia_prog1.jpg" | url }}' width="500" height="300">
 
 ## Location
 
