@@ -51,6 +51,45 @@ tags:
 </tr>   
 </table>
 
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/wetland_pic4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/wetland_pic10.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/wetland_pic8.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/wetland_pic9.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+### Youth Interaction about climate action at Garden of Five Senses, Delhi
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/outreach_pic1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/outreach_pic3.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+### A Data Mining Workshop at CRDF, Gujarat
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/crdf_pic1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/crdf_pic2.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/crdf_pic3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/crdf_pic4.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### semanticClimate Alumni Reunion
 
 <table>
