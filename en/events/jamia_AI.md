@@ -27,7 +27,7 @@ In-person
 <table>
 <tr>
 <td><img src='{{ "/static/img/jamia_prog1.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/program_jamia.png" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/jamia_prog2.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
 
