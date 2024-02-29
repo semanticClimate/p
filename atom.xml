@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-02-29T11:04:46Z</updated>
+	<updated>2024-02-29T11:09:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,7 +17,39 @@
 		<link href="/p/en/posts/event_photo/"/>
 		<updated>2024-02-29T00:00:00Z</updated>
 		<id>/p/en/posts/event_photo/</id>
-		<content type="html">&lt;p&gt;This page showcases images from various events in which Semantic Climate has either participated or organized.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;This page showcases images from various events in which Semantic Climate has either participated or organized.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Swedish-India Center of Excellence for Sustainable Society/City&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/SI_meeting3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;h3&gt;Biodiversity Field Trip&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/wetland_pic1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/wetland_pic5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/wetland_pic2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/wetland_pic6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
 &lt;h3&gt;semanticClimate Alumni Reunion&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
