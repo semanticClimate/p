@@ -16,7 +16,7 @@ This one day event will have diverse talks and panel discussion on AI in higher 
 
 **29 February, 2024**
 
-Time: **10:00 a.m.- 4:00 p.m.** (IST)
+Time: **10:00 a.m.- 02:00 p.m.** (IST)
 
 ## Mode 
 
@@ -24,11 +24,18 @@ In-person
 
 ## Programme Schedule
 
-<img src='{{ "/static/img/jamia_prog1.jpg" | url }}' width="500" height="300">
+<table>
+<tr>
+<td><img src='{{ "/static/img/jamia_prog1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/program_jamia.png" | url }}' width="500" height="300"></td>
+</tr>
+</table>
 
 ## Location
 
-SCLS AUDITORIUM
+Seminar Hall, 1st floor
+
+School of Chemical and Life Sciences
 
 [JAMIA HAMDARD UNIVERSITY](https://jamiahamdard.edu/)
 
