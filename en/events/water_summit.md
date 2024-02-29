@@ -9,13 +9,13 @@ tags:
   - hackathon
 ---
 
-The [SPRING Water Summit](https://inwf.in/spring-water-summit-2024/), an annual gathering, is coordinated by the Indo Nordic Water Forum, the Finnish Water Forum, and the Embassy of Finland in Delhi. 
+The [**SPRING Water Summit**](https://inwf.in/spring-water-summit-2024/), an annual gathering, is coordinated by the Indo Nordic Water Forum, the Finnish Water Forum, and the Embassy of Finland in Delhi. 
 
 The 2024 Summit centers around the theme "Water for All," featuring subthemes such as "Municipal and Rural Water" and "Water Usage in the Pulp and Paper Industry."
 
 This event is for both members and non-members. India, Finland, Sweden, Norway, Denmark and Iceland are the participating countries to explore the developments in the Indo Nordic water cooperation.
 
-[#semanticClimate](https://semanticclimate.github.io/p/en/) **is now a Member of the Indo-Nordic Water Forum (INWF)**.
+[**#semanticClimate**](https://semanticclimate.github.io/p/en/) **is now a Member of the Indo-Nordic Water Forum (INWF)**.
 
 ## Date
 
