@@ -1,6 +1,6 @@
 ---
 title: MRIIRS Hackathon 
-date: 2023-03-01
+date: 2024-03-01
 description: Climate Knowledge Hunt Hackathon February 2024
 author: RK
 summary: inaugural and hack session
