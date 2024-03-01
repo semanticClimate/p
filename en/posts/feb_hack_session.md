@@ -20,13 +20,6 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/pre_hack_pic3.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/pre_hack_pic6.jpg" | url }}' width="500" height="300"></td>
-</tr>   
-</table>
-
-<table>
-<tr>
 <td><img src='{{ "/static/img/photo/mriirs_inaug1.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/mriirs_inaug4.jpg" | url }}' width="500" height="300"></td>
 </tr>   
