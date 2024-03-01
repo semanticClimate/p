@@ -27,13 +27,6 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/mriirs_inaug2.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/mriirs_inaug6.jpg" | url }}' width="500" height="300"></td>
-</tr>   
-</table>
-
-<table>
-<tr>
 <td><img src='{{ "/static/img/photo/mriirs_inaug3.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/mriirs_inaug5.jpg" | url }}' width="500" height="300"></td>
 </tr>   
