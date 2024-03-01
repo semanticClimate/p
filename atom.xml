@@ -5,12 +5,99 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-03-01T06:56:02Z</updated>
+	<updated>2024-03-01T06:56:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>MRIIRS Hackathon</title>
+		<link href="/p/en/posts/feb_hack_session/"/>
+		<updated>2024-03-01T00:00:00Z</updated>
+		<id>/p/en/posts/feb_hack_session/</id>
+		<content type="html">&lt;h3&gt;Climate Knowledge Hunt Hackathan FEB 26-27, 2024&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/pre_hack_pic1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/pre_hack_pic2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack12.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack14.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack7.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack10.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack11.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack13.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack15.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack16.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack17.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack18.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Event Highlights</title>
@@ -1183,93 +1270,6 @@ and manipulated at all levels of granularity.&lt;/p&gt;
 &lt;h1&gt;Why not use AI/LLMs, etc.?&lt;/h1&gt;
 &lt;p&gt;There&#39;s no doubt that LLMs will transform how we manage information and transform it into communal knowledge and decision making. But it&#39;s at an early stage and errors are frequent. (ChatGPT told PMR that he had studied at the University of Chicago!). LLMs are not transparent - where did it get that info? - and so they aren&#39;t reliable. Accuracy and traceability are &lt;em&gt;essential&lt;/em&gt; if our semantic version is going to be valuable.
 Also the LLMs are run by closed, opaque companies. They almost certainly build in inequity (e.g. Anglophone, GlobalNorth), and without governance their motivation can&#39;t be trusted. So we believe that it will be better to build public Open LLMs, and semantic climate can be a useful input into that. (We can discuss at the hackathon!)&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>MRIIRS Hackathon</title>
-		<link href="/p/en/posts/feb_hack_session/"/>
-		<updated>2023-03-01T00:00:00Z</updated>
-		<id>/p/en/posts/feb_hack_session/</id>
-		<content type="html">&lt;h3&gt;Climate Knowledge Hunt Hackathan FEB 26-27, 2024&lt;/h3&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/pre_hack_pic1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/pre_hack_pic2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_inaug5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack12.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack14.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack7.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack10.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack11.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack13.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack15.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack16.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack17.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/photo/mriirs_hack18.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
-&lt;/table&gt;
 </content>
 	</entry>
 	
