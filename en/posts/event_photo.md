@@ -113,7 +113,7 @@ tags:
 </tr>   
 </table>
 
-### MRIIRS Hackathon_February 26-27, 2024
+[### MRIIRS Hackathon_February 26-27, 2024](../../posts/feb_hack_session/)
 
 <table>
 <tr>
