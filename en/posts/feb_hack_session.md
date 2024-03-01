@@ -48,7 +48,7 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/mriirs_hack4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/pre_hack_pic4.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/mriirs_hack12.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
