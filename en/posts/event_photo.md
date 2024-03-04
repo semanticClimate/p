@@ -99,7 +99,7 @@ tags:
 </tr>   
 </table>
 
-### semanticClimate Alumni Reunion
+### [semanticClimate Alumni Reunion](../../posts/sc_alumni_NIPGR/)
 
 <table>
 <tr>
