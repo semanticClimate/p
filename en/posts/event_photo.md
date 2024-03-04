@@ -79,7 +79,7 @@ tags:
 <table>
 <tr>
 <td><img src='{{ "/static/img/photo/BHC_pic3.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/BHC_pic4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/BHC_pic1.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
