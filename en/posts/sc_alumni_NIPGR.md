@@ -19,7 +19,7 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/alumni8.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/alumni13.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/alumni9.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
@@ -31,9 +31,3 @@ tags:
 </tr>   
 </table>
 
-<table>
-<tr>
-<td><img src='{{ "/static/img/photo/alumni13.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/alumni14.jpg" | url }}' width="500" height="300"></td>
-</tr>   
-</table>
