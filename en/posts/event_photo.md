@@ -74,6 +74,15 @@ tags:
 </tr>   
 </table>
 
+### UKRI, British Council discussion meeting
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/BHC_pic3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/BHC_pic4.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### A Data Mining Workshop at CRDF, Gujarat
 
 <table>
