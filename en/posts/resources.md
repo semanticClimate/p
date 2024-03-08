@@ -22,8 +22,6 @@ tags:
 
 #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
-#### [Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller & Marcel](https://www.youtube.com/watch?v=7ok7hx40Bes)
-
 #### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
 
 #### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
@@ -43,6 +41,8 @@ tags:
 #### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.github.io/p/en/posts/barcamp_post3/)
 
 ### Youtube video playlist presented in different climate events and hackathons
+
+#### [Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller & Marcel](https://www.youtube.com/watch?v=7ok7hx40Bes)
 
 #### [Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav](https://www.youtube.com/embed/krbeWMTz5CY)
 
