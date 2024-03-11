@@ -138,7 +138,7 @@ tags:
 </tr>   
 </table>
 
-### National Seminar on "AI in Biological Sciences" || February 28, 2024
+### [National Seminar on "AI in Biological Sciences" || February 28, 2024](../../posts/arsd_DU/)
 
 <table>
 <tr>
