@@ -32,6 +32,14 @@ tags:
 
 ### Colab Notebooks
 
+#### [docanalysis_dictionary_HTML_annotation](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
+
+#### [chapter17_IPCC_analysis](https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/Chapter_17_Notebook.ipynb)
+
+#### [pygetpapers_literature_search_keyword_extraction_word_cloud](https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing)
+
+#### [mriirs_hackathon_feb_24](https://colab.research.google.com/drive/1g60INRchV3QEwI1XsU6q4ipI-YfpM8PH?usp=sharing)
+
 #### [docanalysis ipcc_analysis.ipynb](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
 
 #### [pygetpapers_module_demo.ipynb](https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb)
