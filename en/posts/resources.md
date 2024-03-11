@@ -42,6 +42,8 @@ tags:
 
 ### Youtube video playlist presented in different climate events and hackathons
 
+#### [MRIIRS Hackathon 2024 Winning Team Presentations Playlist](https://www.youtube.com/watch?v=xuzRHDPZKjs&list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev)
+
 #### [Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller & Marcel](https://www.youtube.com/watch?v=7ok7hx40Bes)
 
 #### [Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav](https://www.youtube.com/embed/krbeWMTz5CY)
