@@ -122,7 +122,7 @@ The Two **Appreciated teams**
 
 **All the team have summarized their work in the form of video and PPT** 
 
-#### Team Remediators
+### Team Remediators
 
 **Title: PYGETPAPERS AND PASTORALISM: HARNESSING BIG DATA FOR THE LITTLE GUY**
 
@@ -136,7 +136,7 @@ The Two **Appreciated teams**
 </div>
 
 
-#### Team CRYPTC
+### Team CRYPTC
 
 **Title: CRYPTC : 2x vision Insights**
 
@@ -150,7 +150,7 @@ The Two **Appreciated teams**
 </div>
 
 
-#### Team Believer
+### Team Believer
 
 **Title: Climate Change and Food Security**
 
@@ -163,7 +163,7 @@ The Two **Appreciated teams**
   </div>
 </div>
 
-#### Team Abhyuday
+### Team Abhyuday
 
 **Title: Mitigating the generation of harmful algal blooms (HABs)**
 
@@ -174,7 +174,7 @@ The Two **Appreciated teams**
   </div>
 </div>
 
-#### Team Wildlife Whisperers
+### Team Wildlife Whisperers
 
 **Title: From Climate crisis to Extinction crisis**
 
@@ -187,6 +187,6 @@ The Two **Appreciated teams**
   </div>
 </div>
 
-### Event Highlights
+## Event Highlights
 
 [Click here](../../posts/feb_hack_session/)
