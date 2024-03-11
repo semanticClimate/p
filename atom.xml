@@ -5,12 +5,160 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-03-11T06:09:34Z</updated>
+	<updated>2024-03-11T10:49:28Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Climate Knowledge Hunt Hackathon 2024 | MRIIRS FebHack</title>
+		<link href="/p/en/posts/event_report_MRIIRS/"/>
+		<updated>2024-03-11T00:00:00Z</updated>
+		<id>/p/en/posts/event_report_MRIIRS/</id>
+		<content type="html">&lt;p&gt;The &lt;strong&gt;Climate Knowledge Hunt hackathon&lt;/strong&gt; has been organized by Manav Rachna International Institute of Research and Studies (MRIIRS), Faridabad in joint collaboration with &lt;strong&gt;#semanticClimate&lt;/strong&gt;. It was held on 26-27 February, 2024 at MRIIRS campus.&lt;/p&gt;
+&lt;p&gt;This event brought together more than 50 passionate individuals from diverse backgrounds, all united by a common goal: to tackle pressing challenges and foster innovation in Climate Knowledge.&lt;/p&gt;
+&lt;p&gt;Over the course of two days, participants collaborated, brainstormed, and developed creative solutions aimed at addressing different climate related challenges. The Hackathon provided a platform for participants to unleash their creativity and make a meaningful impact.&lt;/p&gt;
+&lt;h3&gt;About the Organizers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Organising Team&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Gitanjali Yadav (Scientist, NIPGR, New Delhi, India)&lt;/li&gt;
+&lt;li&gt;Dr. Vineeta Sharma (Associate Professor, MRIIRS, Faridabad)&lt;/li&gt;
+&lt;li&gt;Dr. Jayant Maini (Assistant Professor, MRIIRS, Faridabad)&lt;/li&gt;
+&lt;li&gt;Dr. Renu Kumari (Program Manager, #semanticClimate)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Special Guests&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Peter Murray-Rust (Distinguished Professor of Chemistry at the University of Cambridge)&lt;/li&gt;
+&lt;li&gt;Simon Worthington (Open-source software publishing technology expert, TIB, Berlin)&lt;/li&gt;
+&lt;li&gt;Raquel Perez de Eulate (Creative Director – Interpunct Studios)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hackathon Instructors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ms. Shweata Hegde (Open source developer and a science communicator)&lt;/li&gt;
+&lt;li&gt;Dhananjay Sharma (Project Associate, NIPGR)&lt;/li&gt;
+&lt;li&gt;Priti (PhD Student, NIPGR)&lt;/li&gt;
+&lt;li&gt;Mandeep (PhD Student, NIPGR)&lt;/li&gt;
+&lt;li&gt;Shubam Love (B.Tech Student, DU)&lt;/li&gt;
+&lt;li&gt;Waheb Mehdi (B.Sc. Biochemistry, AMU)&lt;/li&gt;
+&lt;li&gt;Tanvi (B.Tech in Biotchnology, MRIIRS)&lt;/li&gt;
+&lt;li&gt;Nazara Parween (B.Tech in Computer science, MRIIRS)&lt;/li&gt;
+&lt;li&gt;Ritika Chaudhary (B.Tech in Computer science, MRIIRS)&lt;/li&gt;
+&lt;li&gt;Tulika Sharma (B.Tech in CSE, MRIIRS)&lt;/li&gt;
+&lt;li&gt;Sumi Tiwari (B.Tech in CSE, MRIIRS)&lt;/li&gt;
+&lt;li&gt;Yash (B.Tech, MRIIRS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About the Participants&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An &lt;a href=&quot;https://pad.mozilla.org/p/mriirs&quot;&gt;Etherpad&lt;/a&gt; for Introduction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Nzl6GraOtNM2SUroFVAtgJph6MnomEex/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;Hack Handbook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Teams&lt;/h3&gt;
+&lt;p&gt;There were a total of 10 teams, each comprising 3-5 members.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team &lt;strong&gt;Climate Crusaders&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Believer&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Abhyuday&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Wildlife Whisperers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Climate Defenders&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Remediators&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Green Horizon&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Binary Bosses&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Impact Makers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;CRYPTC&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Every team chose a specific topic from the provided climate related themes and proceeded to analyze and gather meaningful data.&lt;/p&gt;
+&lt;h3&gt;Climate Knowledge Based Themes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Greenhouse gases &amp;amp; Carbon Emission&lt;/li&gt;
+&lt;li&gt;Climate Data Modelling &amp;amp; Simulation&lt;/li&gt;
+&lt;li&gt;Climate change &amp;amp; Food security&lt;/li&gt;
+&lt;li&gt;Climate Responsive Architecture&lt;/li&gt;
+&lt;li&gt;Climate Justice &amp;amp; Management&lt;/li&gt;
+&lt;li&gt;Climate Action &amp;amp; Mitigation Strategies&lt;/li&gt;
+&lt;li&gt;Migration Statistics&lt;/li&gt;
+&lt;li&gt;Carbon Budget&lt;/li&gt;
+&lt;li&gt;Carbon Footprint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Demo materials Provided&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1g60INRchV3QEwI1XsU6q4ipI-YfpM8PH?usp=sharing&quot;&gt;MAIN COLAB NOTEBOOK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1pPrL1W3h2zwLJ11EQZlfGvLhsgIiG-SE?usp=drive_link&quot;&gt;Colab for pyamihtmlx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/14k697nS0cNHAPncjYMuCYgPf_kwASSgC?usp=sharing&quot;&gt;Colab for Dictionary creation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Commands to run&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;!pip install pygetpapers&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;!pygetpapers --query “climate change AND India”-k 10 -x --output “climate_change_india_10”&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;!pip install docanalysis&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;!docanalysis --project_name climate_change_india_10  --make_section --dictionary ORGANIZATION --output climate_change_india_org.c1sv&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/playlists&quot;&gt;Video tutorials&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Outcomes and Achievements&lt;/h3&gt;
+&lt;p&gt;The hackathon yielded significant outcomes and notable achievements, showcasing the creativity, innovation, and collaborative spirit of the participating teams. From addressing pressing challenges to developing impactful solutions, each team made remarkable contributions that deserve recognition.&lt;/p&gt;
+&lt;p&gt;The Three &lt;strong&gt;winning teams&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team &lt;strong&gt;Remediators&lt;/strong&gt; (First Prize)&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;CRYPTC&lt;/strong&gt; (Second Prize)&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Believer&lt;/strong&gt; (Third Prize)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Two &lt;strong&gt;Appreciated teams&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team &lt;strong&gt;Abhyuday&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Team &lt;strong&gt;Wildlife Whisperers&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;All the team have summarized their work in the form of video and PPT&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Team Remediators&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Title: PYGETPAPERS AND PASTORALISM: HARNESSING BIG DATA FOR THE LITTLE GUY&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1WAWlKq18w-gX3RtWDf-G80vAMidIVfsI/view&quot;&gt;PPT&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/xuzRHDPZKjs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;PYGETPAPERS AND PASTORALISM | Team Remediators&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Team CRYPTC&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Title: CRYPTC : 2x vision Insights&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1okVMPDNokBeidnqSLroT3nZ3ADljcH_T/edit#slide=id.p1&quot;&gt;PPT&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/KVB1De7nHh8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;CRYPTC : 2x vision Insights | Team CRYPTC&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Team Believer&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Title: Climate Change and Food Security&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1UygzQ8zJBR4Nt-eLNg8xsHBqNVHcuctd/edit#slide=id.p1&quot;&gt;PPT&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/-zeKFhrjRzQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Climate Change and Food Security | Team Believer&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Team Abhyuday&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Title: Mitigating the generation of harmful algal blooms (HABs)&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/kcXFsoVwXJ0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Mitigating the generation of harmful algal blooms (HABs) | Team Abhyuday&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Team Wildlife Whisperers&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Title: From Climate crisis to Extinction crisis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1dpzzy5NRst0xV7wnTgY4HJmhChsKCGRk/edit#slide=id.p1&quot;&gt;PPT&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/-ChGUjQ6YTA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;From Climate crisis to Extinction crisis | Team Wildlife Whisperers&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Event Highlights&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;../../posts/feb_hack_session/&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>National Seminar on &quot;AI in Biological Sciences&quot;</title>
