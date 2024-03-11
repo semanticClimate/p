@@ -138,5 +138,14 @@ tags:
 </tr>   
 </table>
 
+### National Seminar on "AI in Biological Sciences" || February 28, 2024
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/arsd4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/arsd7.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 
 
