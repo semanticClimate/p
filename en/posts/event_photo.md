@@ -142,8 +142,8 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/arsd4.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/photo/arsd7.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/arsd8.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
