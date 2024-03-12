@@ -2,7 +2,7 @@
 title: National Seminar on "AI in Biological Sciences" 
 date: 2024-03-11
 description: Discussion about AI in Biological Sciences with students
-author: RK
+author: Team
 summary: meeting with semantic climate team
 hide: true
 tags:
