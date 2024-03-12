@@ -35,24 +35,27 @@ In-person
 ## Full Programme
 
 Guest Arrival: 2:30 to 2:45 PM
-2:45 PM: Tea in reception area
-3:00 PM: Program starts
-3:00 – 3:10: Felicitation (Presenting the books and Mementos by senior faculty members)
-3:10 PM Welcome address by Ms Alka Kacker (IQAC Coordinator)
-3:15 PM: Opening remarks by the Panelists
+
+- 2:45 PM: Tea in reception area
+- 3:00 PM: Program starts
+- 3:00 – 3:10: Felicitation (Presenting the books and Mementos by senior faculty members)
+- 3:10 PM Welcome address by Ms Alka Kacker (IQAC Coordinator)
+- 3:15 PM: Opening remarks by the Panelists
 
 Introduction of:
-3.15 PM: **Prof Peter Murray-Rust** (Dept. of Chemistry, University of Cambridge) by Dr Ambika
-3.15 to 3:25 PM: Address by Prof. Peter Murray-Rust
-3.25 PM: Introduction of **Simon Worthington** by Dr Pooja 
-3:30 to 3:40 PM: Address by Simon
-3:40 PM: Introduction of **Ms Raquel Perez de Eulate** by Dr Pratibha Pandey
-3:45 to 3:50 PM: Address by Ms Raquel Perez de Eulate
-3:50 PM: Introduction of **Prof. Marwa Halamy** by Dr Anurag
-3:55 to 4:05 PM: Address by Prof. Marwa Halamy
-4:05 PM: Introduction of Dr Gitanjali Yadav by Mr. Ashutosh Yadav
-4:10 to 4:20 PM: Address by Dr Gitanjali Yadav
-4:30 to 5:00 PM: Panel Discussion and Question Answer session
+
+- 3.15 PM: **Prof Peter Murray-Rust** (Dept. of Chemistry, University of Cambridge) by Dr Ambika
+- 3.15 to 3:25 PM: Address by Prof. Peter Murray-Rust
+- 3.25 PM: Introduction of **Simon Worthington** by Dr Pooja 
+- 3:30 to 3:40 PM: Address by Simon
+- 3:40 PM: Introduction of **Ms Raquel Perez de Eulate** by Dr Pratibha Pandey
+- 3:45 to 3:50 PM: Address by Ms Raquel Perez de Eulate
+- 3:50 PM: Introduction of **Prof. Marwa Halamy** by Dr Anurag
+- 3:55 to 4:05 PM: Address by Prof. Marwa Halamy
+- 4:05 PM: Introduction of Dr Gitanjali Yadav by Mr. Ashutosh Yadav
+- 4:10 to 4:20 PM: Address by Dr Gitanjali Yadav
+- 4:30 to 5:00 PM: Panel Discussion and Question Answer session
+
 Vote of thanks by Prof. Monika Koul
 
 ## Location
