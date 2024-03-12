@@ -21,34 +21,24 @@ The meeting welcomes all individuals interested in either participating in the C
 
 **12:00 to 14:00 CET (Brussels time)**
 
+## Registration
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZMrdeGhrT4jE9CDwzfKYEqck8-fhf4l3zE-#/registration)
+
 ## Mode
 
 Hybrid: In-person and on Zoom
 
 ## Program 
 
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/schedule1.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-   <tr>
-    <td>
-      <img src='{{ "/static/img/schedule2.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/schedule3.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
 
 ## Location
 
-Royal Academy in Brussels
+Palace of the Academies, 
+
+Hertogstraat 1 Rue Ducale, .
+
+1000 Brussels
 
 
 
