@@ -282,11 +282,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/Indo-Swedish/</loc>
-    <lastmod>2024-02-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/Indo-Swedish/</loc>
     <lastmod>2024-02-16</lastmod>
   </url>
@@ -387,11 +382,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/DU_seminar/</loc>
-    <lastmod>2024-02-28</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/events/cirf_event/</loc>
     <lastmod>2024-02-28</lastmod>
   </url>
@@ -424,11 +414,6 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/posts/feb_hack_session/</loc>
     <lastmod>2024-03-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/events/Gargi_seminar/</loc>
-    <lastmod>2024-03-02</lastmod>
   </url>
   
   <url>
@@ -567,22 +552,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
-    <lastmod>2024-03-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
-    <lastmod>2024-03-12</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2024-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
+    <lastmod>2024-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
