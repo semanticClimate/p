@@ -46,11 +46,13 @@ Hybrid: In-person and on Zoom
       <img src='{{ "/static/img/meeting3.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
-  <td>
+  <tr>
+    <td>
       <img src='{{ "/static/img/meeting4.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
-  <td>
+  <tr>
+    <td>
       <img src='{{ "/static/img/meeting5.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
