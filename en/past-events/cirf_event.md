@@ -52,7 +52,7 @@ Introduction of:
 - 3:45 to 3:50 PM: Address by Ms Raquel Perez de Eulate
 - 3:50 PM: Introduction of **Prof. Marwa Halamy** by Dr Anurag
 - 3:55 to 4:05 PM: Address by Prof. Marwa Halamy
-- 4:05 PM: Introduction of Dr Gitanjali Yadav by Mr. Ashutosh Yadav
+- 4:05 PM: Introduction of **Dr. Gitanjali Yadav** by Mr. Ashutosh Yadav
 - 4:10 to 4:20 PM: Address by Dr Gitanjali Yadav
 - 4:30 to 5:00 PM: Panel Discussion and Question Answer session
 
