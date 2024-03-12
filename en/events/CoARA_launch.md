@@ -1,5 +1,5 @@
 ---
-title: CoARA ERIP | Launch of CoARA ERIP  
+title: CoARA ERIP Launch Meeting  
 date: 2024-03-20
 featured: true
 description: Launch of the CoARA ERIP Working Group in the context of the 2024 EU Research & Innovation Week 
