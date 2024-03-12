@@ -21,7 +21,7 @@ The top-reviewed presentations will have the opportunity to submit full-length a
 
 ## Mode
 
-In-person
+**In-person**
 
 ## Program 
 
