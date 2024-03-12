@@ -15,6 +15,8 @@ tags:
 
 The top-reviewed presentations will have the opportunity to submit full-length articles for publication in a Scopus-indexed journal.
 
+[#semanticClimate](https://semanticclimate.github.io/p/en/) Co-founder **Dr. Gitanjali Yadav** will talk about **"Driving Data Science in India: Multi-Omics Data and AI for Research"** on March 16, 2024 at 10:40 am - 11:10 am (IST).
+
 ## Date
 
 **March 14-16, 2024**
