@@ -2,7 +2,7 @@
 title: Alumni_Reunion 2024 
 date: 2024-03-04
 description: Hybrid meeting with global semantic climate team
-author: RK
+author: Team
 summary: meeting with semantic climate alumni
 hide: true
 tags:
