@@ -23,7 +23,7 @@ Time: 3:00 p.m.- 5:00 p.m. (IST)
 
 In-person
 
-## Programme
+## Full Programme
 
 <table>
 <tr>
@@ -31,8 +31,6 @@ In-person
 <td><img src='{{ "/static/img/cirf3.jpg" | url }}' width="500" height="300"></td>
 </tr>
 </table>
-
-## Full Programme
 
 Guest Arrival: 2:30 to 2:45 PM
 
