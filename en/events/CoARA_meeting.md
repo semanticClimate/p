@@ -13,7 +13,7 @@ The Coalition for the Advancement of Research Assessment (CoARA)'s Working Group
 - Facilitating stakeholder engagement in ERIP
 - Developing ERIP’s approach
 - Enhancing CoARA's and ERIP's advocacy for responsible assessment practices in data and AI research
-- Examining the role ERIP
+- Examining the role of ERIP
 - Leveraging ERIP's involvement in CoARA to facilitate outreach for shaping policy and institutional shifts towards responsible research practices in data and AI.      
 
 [#semanticClimate](https://semanticclimate.github.io/p/en/) Co-founder **Dr. Gitanjali Yadav** will talk about "*The role of research evaluation in addressing the role of data and AI in the life sciences and meeting the challenges of the United Nations Strategic Development Goals*".
