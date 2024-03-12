@@ -27,23 +27,7 @@ The top-reviewed presentations will have the opportunity to submit full-length a
 
 ## Program 
 
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/icbhfs_schedule1.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/icbhfs_schedule2.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/icbhfs_schedule3.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
+
 
 
 ## Location
