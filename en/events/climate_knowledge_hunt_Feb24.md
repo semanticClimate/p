@@ -147,6 +147,8 @@ This page already contains our introductions! Please click on Registration Link 
 
 • What you hope to gain from the Hackathon
 
+## [Event Report](https://semanticclimate.github.io/p/en/posts/event_report_MRIIRS/)
+
 ## Organizers
 <img src = "/p/static/img/organizers_people.jpg">
 
