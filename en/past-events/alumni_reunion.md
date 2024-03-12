@@ -45,8 +45,9 @@ PMR, GY, SW, RPdE, Marwa Halmy, SH, Waheb, Shubham, Renu, Jay, Priti, Mandeep, A
 
 [National Institute of Plant Genome Research (NIPGR)](https://nipgr.ac.in/home/home.php), New Delhi, India
 
+## Event Pictures
 
-
+#### [Click here](https://semanticclimate.github.io/p/en/posts/sc_alumni_NIPGR/)
 
 
 
