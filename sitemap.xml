@@ -237,11 +237,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/datathon_UN/</loc>
-    <lastmod>2023-11-03</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/datathon_UN/</loc>
     <lastmod>2023-11-03</lastmod>
   </url>
@@ -502,12 +497,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/notebook/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/event-report/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/event-report/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/notebook/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
@@ -547,17 +542,17 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
-    <lastmod>2024-03-12</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge-hunt/</loc>
+    <lastmod>2024-03-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
     <lastmod>2024-03-12</lastmod>
   </url>
   
