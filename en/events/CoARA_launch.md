@@ -27,19 +27,19 @@ Hybrid: In-person and on Zoom
 
 ## Program 
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td>
       <img src='{{ "/static/img/schedule1.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
    <tr>
-    <td align="center">
+    <td>
       <img src='{{ "/static/img/schedule2.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src='{{ "/static/img/schedule3.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
