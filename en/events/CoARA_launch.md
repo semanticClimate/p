@@ -11,9 +11,9 @@ tags:
 
 The CoARA ERIP Working Group, set to launch during the 2024 EU Research & Innovation Week (18-22 March), aims to promote inclusion and integration. The meeting will focus on three main ERIP objectives: creating an outreach program to drive policy, institutional, and societal change in responsible data and AI research; developing policies and tools to ensure research ethics and integrity amidst increasing data and AI usage; and crafting a comprehensive toolkit for implementing best practices in research assessment for data and AI.
 
-<img src='{{ "/static/img/CoARA-Logo.jpg" | url }}' width="500" height="100">
-
 The meeting welcomes all individuals interested in either participating in the CoARA ERIP Working Group or gaining insight into how their CoARA Working Group or National Committee can collaborate with ERIP.
+
+[#semanticClimate](https://semanticclimate.github.io/p/en/) Co-founder **Dr. Gitanjali Yadav** will talk about "*Advancing research evaluation within national policies on data and AI*".
 
 ## Date and Time
 
@@ -31,6 +31,18 @@ Hybrid: In-person and on Zoom
 
 ## Program 
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/schedule1.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img src='{{ "/static/img/schedule2.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 ## Location
 
