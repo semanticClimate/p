@@ -36,6 +36,10 @@ In-person
 * Depart for Delhi: 3pm
 * Return to NIPGR: 6pm 
 
+## Event Pictures
+
+[Click Here](https://semanticclimate.github.io/p/en/posts/outreach_village/)
+
 ## Location
 
 **Schools are:** 
