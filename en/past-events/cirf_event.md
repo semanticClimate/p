@@ -56,6 +56,10 @@ Introduction of:
 
 Vote of thanks by Prof. Monika Koul
 
+## Event Pictures
+
+[Click here](https://semanticclimate.github.io/p/en/posts/DU_Hansraj_pic/)
+
 ## Location
 
 Old Seminar Room
