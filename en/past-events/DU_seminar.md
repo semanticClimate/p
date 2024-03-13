@@ -40,6 +40,9 @@ In-person
 </tr>
 </table>
 
+## Event Pictures
+
+[Click here](https://semanticclimate.github.io/p/en/posts/arsd_DU/)
 
 ## Location
 
