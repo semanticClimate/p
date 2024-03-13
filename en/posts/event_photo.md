@@ -156,6 +156,15 @@ tags:
 </tr>   
 </table>
 
+### Unlocking Innovative Solutions | Hansraj College, DU
+
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/Hansraj_DU9.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/Hansraj_DU13.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
 ### [National Conclave on “Artificial Intelligence in Education” | Jamia Hamdard University](../../posts/hamdard_allpic/)
 
 <table>
