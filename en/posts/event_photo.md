@@ -142,10 +142,18 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/photo/arsd7.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/arsd8.jpg" | url }}' width="500" height="300"></td>
+  <td><img src='{{ "/static/img/photo/arsd7.jpg" | url }}' width="500" height="300"></td>
+  <td><img src='{{ "/static/img/photo/arsd8.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
+### National Conclave on “Artificial Intelligence in Education”
+
+<table>
+<tr>
+  <td><img src='{{ "/static/img/photo/Hamdard_pic11.JPG" | url }}' width="500" height="300"></td>
+  <td><img src='{{ "/static/img/photo/Hamdard_pic12.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
 
 
