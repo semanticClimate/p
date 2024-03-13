@@ -156,7 +156,7 @@ tags:
 </tr>   
 </table>
 
-### Unlocking Innovative Solutions | Hansraj College, DU
+### [Unlocking Innovative Solutions | Hansraj College, DU](../../posts/DU_Hansraj_pic/)
 
 <table>
   <tr>
