@@ -31,6 +31,10 @@ In-person
 </tr>
 </table>
 
+## Event Pictures
+
+[Click Here](https://semanticclimate.github.io/p/en/posts/hamdard_allpic/)
+
 ## Location
 
 Seminar Hall, 1st floor
