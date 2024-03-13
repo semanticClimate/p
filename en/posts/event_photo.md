@@ -74,7 +74,7 @@ tags:
 </tr>   
 </table>
 
-### Rural School Outreach (Haryana) | Climate Education
+### [Rural School Outreach (Haryana) | Climate Education](../../posts/outreach_village/)
 
 <table>
   <tr>
