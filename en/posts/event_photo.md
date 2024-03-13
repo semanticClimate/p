@@ -74,6 +74,15 @@ tags:
 </tr>   
 </table>
 
+### Rural School Outreach (Haryana) | Climate Education
+
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/sec_school11.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/divine_dale13.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
 ### UKRI, British Council discussion meeting
 
 <table>
