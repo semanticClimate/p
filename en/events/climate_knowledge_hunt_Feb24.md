@@ -151,6 +151,10 @@ This page already contains our introductions! Please click on Registration Link 
 
 #### [Click Here to read](https://semanticclimate.github.io/p/en/posts/event_report_MRIIRS/)
 
+## Event Pictures
+
+[Click Here](https://semanticclimate.github.io/p/en/posts/feb_hack_session/)
+
 ## Organizers
 <img src = "/p/static/img/organizers_people.jpg">
 
