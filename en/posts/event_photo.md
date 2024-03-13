@@ -147,7 +147,7 @@ tags:
 </tr>   
 </table>
 
-### National Conclave on “Artificial Intelligence in Education”
+### [National Conclave on “Artificial Intelligence in Education” | Jamia Hamdard University](../../posts/hamdard_allpic/)
 
 <table>
 <tr>
