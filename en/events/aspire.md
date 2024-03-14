@@ -11,6 +11,8 @@ tags:
 
 [**Kotak Kanya Scholarship**](https://www.collegedekho.com/kotak-kanya-scholarship-dsp-13) provide financial assistance to meritorious girl students from underprivileged society to pursue higher education upon completion of their 12th standard.
 
+<img src='{{ "/static/img/aspire_poster.jpg" | url }}'>
+
 #semanticClimate Co-Founder **Dr. Gitanjali Yadav** will participate in ASPIRE 2024 as **Guest of Honour**.
 
 ## Date and Time
