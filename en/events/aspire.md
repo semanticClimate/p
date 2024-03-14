@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-[**Kotak Kanya Scholarship**](https://www.collegedekho.com/kotak-kanya-scholarship-dsp-13) provide financial assistance to meritorious girl students from underprivileged society to pursue higher education upon completion of their 12th standard.
+[**Kotak Kanya Scholarship**](https://www.collegedekho.com/kotak-kanya-scholarship-dsp-13) provide financial assistance to meritorious girl students from underprivileged society to pursue higher education upon completion of their 12th standard. This is organized by **Kotak Education Foundation**.
 
 <img src='{{ "/static/img/aspire_poster.jpg" | url }}'>
 
