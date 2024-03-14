@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-‘KARYASHALA’ endeavors to enhance the research productivity of talented postgraduate and doctoral students from universities and colleges by offering advanced workshops focused on specific themes. This is a SERB initiative. 
+[**KARYASHALA**](https://acceleratevigyan.gov.in/programs/abhyas/karyashala) endeavors to enhance the research productivity of talented postgraduate and doctoral students from universities and colleges by offering advanced workshops focused on specific themes. This is a SERB initiative. 
 
 <img src='{{ "/static/img/GNDU_flyer.jpg" | url }}'>
 
