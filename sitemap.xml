@@ -522,16 +522,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
-    <lastmod>2024-03-14</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
-    <lastmod>2024-03-14</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
     <lastmod>2024-03-14</lastmod>
   </url>
@@ -542,12 +532,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
+    <lastmod>2024-03-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
     <lastmod>2024-03-14</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <lastmod>2024-03-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
     <lastmod>2024-03-14</lastmod>
   </url>
   
@@ -574,6 +574,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/events/aspire/</loc>
     <lastmod>2024-03-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/karyashala_GNDU/</loc>
+    <lastmod>2024-03-18</lastmod>
   </url>
   
   <url>
