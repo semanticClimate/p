@@ -12,9 +12,9 @@ tags:
 
 #### [pygetpapers tutorial](https://drive.google.com/file/d/1YsZ9hCSR70ZXaFdFMiZIPGD9TiaXs8Ku/view?usp=sharing)
 
-##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
-
 ### These are the #sC resources used for climate knowledge 
+
+##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
 #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
