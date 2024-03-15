@@ -2,7 +2,7 @@
 title: Introduction to semanticClimate resources
 date: 2023-11-20
 description: About the glossary and tools 
-author: SW
+author: SW and Team
 tags:
   - semanticclimate
   - hackathon
