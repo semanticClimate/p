@@ -8,6 +8,10 @@ tags:
   - hackathon
 ---
 
+### Tutorials
+
+#### [pygetpapers tutorial](https://drive.google.com/file/d/1YsZ9hCSR70ZXaFdFMiZIPGD9TiaXs8Ku/view?usp=sharing)
+
 ##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
 ### These are the #sC resources used for climate knowledge 
