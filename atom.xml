@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-03-15T07:22:44Z</updated>
+	<updated>2024-03-15T07:23:16Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -913,8 +913,8 @@ He&#39;s also active in developing code snippets, and making small scale social 
 		<id>/p/en/posts/resources/</id>
 		<content type="html">&lt;h3&gt;Tutorials&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://drive.google.com/file/d/1YsZ9hCSR70ZXaFdFMiZIPGD9TiaXs8Ku/view?usp=sharing&quot;&gt;pygetpapers tutorial&lt;/a&gt;&lt;/h4&gt;
-&lt;h5&gt;&lt;a href=&quot;../../posts/for_MRIIRS_hack/&quot;&gt;MRIIRS Feb hack resources&lt;/a&gt;&lt;/h5&gt;
 &lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
+&lt;h5&gt;&lt;a href=&quot;../../posts/for_MRIIRS_hack/&quot;&gt;MRIIRS Feb hack resources&lt;/a&gt;&lt;/h5&gt;
 &lt;h4&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;Enhanced glossary&lt;/a&gt; - CSS Typeset, &lt;a href=&quot;https://github.com/semanticClimate/glossary-demo/blob/main/README.md&quot;&gt;see readme&lt;/a&gt;.&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;#semanticclimate video playlist&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
