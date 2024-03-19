@@ -131,6 +131,15 @@ tags:
 </tr>   
 </table>
 
+### [Text and data mining workshop at NIPGR, New Delhi](../../posts/nipgr_workshop/)
+
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/NIPGR_workshop5.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/NIPGR_workshop7.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
 ### [MRIIRS Hackathon_February 26-27, 2024](../../posts/feb_hack_session/)
 
 <table>
