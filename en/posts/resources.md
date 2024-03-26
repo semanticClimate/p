@@ -38,7 +38,7 @@ tags:
 
 #### [docanalysis_dictionary_HTML_annotation](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
 
-#### [chapter17_IPCC_analysis](https://colab.research.google.com/github/petermr/semanticClimate/blob/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook/Chapter_17_Notebook.ipynb)
+#### [chapter17_IPCC_analysis](https://colab.research.google.com/drive/16ybfejLFp5HiZ9nxp1r7Y1tXj7Cb9ZIk#scrollTo=TJTQ4c1mCq5a)
 
 #### [pygetpapers_literature_search_keyword_extraction_word_cloud](https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing)
 
