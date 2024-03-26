@@ -36,7 +36,7 @@ tags:
 
 ### Colab Notebooks
 
-#### [docanalysis_dictionary_HTML_annotation](https://colab.research.google.com/drive/13J-5kXKYUAMWGoSJGAANb-Ws70k7bvPs?usp=sharing)
+#### [IPCCchapter08_annotation_with_dict](https://colab.research.google.com/drive/1_8YICGe0cTbk5P8PqZf1-X_uY1jrDHAK#scrollTo=TJTQ4c1mCq5a)
 
 #### [chapter17_IPCC_analysis](https://colab.research.google.com/drive/16ybfejLFp5HiZ9nxp1r7Y1tXj7Cb9ZIk#scrollTo=TJTQ4c1mCq5a)
 
