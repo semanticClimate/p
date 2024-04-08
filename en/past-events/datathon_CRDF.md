@@ -41,6 +41,8 @@ In-person
 <table>
   <tr>
     <td><img src='{{ "/static/img/crdf_people1.jpg" | url }}' width="500" height="300"></td>
+  </tr>
+  <tr>
     <td><img src='{{ "/static/img/crdf_people2.jpg" | url }}' width="500" height="300"></td>
   </tr>
 </table>
