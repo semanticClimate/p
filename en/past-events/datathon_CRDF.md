@@ -19,6 +19,23 @@ Embrace the transformative AI movement propelling climate action. Dive into hand
 
 In-person
 
+## Program Schedule
+
+- **Welcome Address** (10:00 AM)
+- Intro to #SemanticClimate & FAIRification 
+- Orientation to Hackathon 
+- Ice Break over Tea & Coffee
+- **Hack Session 1** 
+- Set up Workspace, Familiarize Tech/ Material (Google Colab/Jupyter)
+- Run the Toolkit, Discuss and clean Output
+- Lunch Break (01:00 PM)
+- **Hack Session 2** (2:30 PM)
+- Delegates identify Climate Data to FAIRify
+- Identify, Decipher & FAIRIfy Your Own Climate Thematic over Tea Break
+- **Final Session**  (4 PM)
+- Presentation by Each Delegate on their chosen Data project
+- Final Remarks/ Comments / Q&A Future plans
+
 ## Location
 
 [Center for Applied Geomatics, CRDF](https://crdf.org.in/center/center-for-applied-geomatics), Ahmedabad, Gujarat, India
