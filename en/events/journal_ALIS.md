@@ -5,6 +5,8 @@ featured: true
 description: A series of data papers to commemorate the centenary of the S R Ranganathan in India
 tags:
   - semanticclimate
+  - outreach
+  - hackathon
 ---
 
 The year 2024 marks the centenary of the Father of Library Science, **S.R. Ranganathan’s** entry into his first professional position at the University of Madras, where he would remain until 1945. To mark this milestone centenary of data science and libraries in India, ALIS (Annals of Library and Information Science) – a journal founded by Ranganathan – is planning a thematic issue on “**Data for Development**” to be published in September 2024.  The special thematic issue will focus on various contours of data science and include papers that will address a broad range of sub-themes in the data science landscape.
