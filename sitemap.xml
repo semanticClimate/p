@@ -322,11 +322,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/climate_knowledge_hunt_Feb24/</loc>
-    <lastmod>2024-02-26</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/NIPGR_workshop/</loc>
     <lastmod>2024-02-26</lastmod>
   </url>
@@ -497,17 +492,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
-    <lastmod>2024-04-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2024-04-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
+    <lastmod>2024-04-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
     <lastmod>2024-04-09</lastmod>
   </url>
   
@@ -518,6 +508,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2024-04-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2024-04-09</lastmod>
   </url>
   
