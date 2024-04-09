@@ -34,7 +34,7 @@ Gunjana Boruah
 Swathi Gangadharan
 Shashank Bhardwaj 
 
-#### Affiliations
+#### Affiliation
 
 Ambedkar University (AUD), New Delhi
 
@@ -49,7 +49,7 @@ The intersection of data science and climate studies has long been a site for pr
 
 Nikita Ray, Sachin, Jhanak Saxena, Than Darr Aung, Manisha Goel*
 
-#### Affiliations
+#### Affiliation
 
 Department of Biophysics, University of Delhi South Campus.
 New Delhi – 110021, India
