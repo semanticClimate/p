@@ -28,11 +28,7 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 
 #### Authors
 
-Shiwani
-Maansi Rawat
-Gunjana Boruah
-Swathi Gangadharan
-Shashank Bhardwaj 
+Shiwani, Maansi Rawat, Gunjana Boruah, Swathi Gangadharan, Shashank Bhardwaj 
 
 #### Affiliation
 
@@ -67,11 +63,7 @@ In the present study, we intended to leverage this strategy to extract pertinent
 
 #### Authors
 
-Hasmeet Kaur
-Harshita Choudhary
-Kanav Sharma
-Yachna Soni
-Dr. Kapila Kumar
+Hasmeet Kaur, Harshita Choudhary, Kanav Sharma, Yachna Soni, Dr. Kapila Kumar
 All the authors has contributed equally to this work
 
 #### Affiliation
