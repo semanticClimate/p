@@ -12,7 +12,7 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
-### [Swedish-India Center of Excellence for Sustainable Society/City](../../posts/indo-sweden24/)
+### Swedish-India Center of Excellence for Sustainable Society/City
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ tags:
 </tr>   
 </table>
 
-### A Data Mining Workshop at CRDF, Gujarat
+### [A Data Mining Workshop at CRDF, Gujarat](../../posts/CRDF24/)
 
 <table>
 <tr>
