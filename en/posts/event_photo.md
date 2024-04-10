@@ -12,7 +12,7 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
-### Swedish-India Center of Excellence for Sustainable Society/City
+### [Swedish-India Center of Excellence for Sustainable Society/City](../../posts/indo-sweden24/)
 
 <table>
 <tr>
