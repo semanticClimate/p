@@ -19,7 +19,7 @@ This will also provide insight about AI applications for ensuring sustainable fo
 
 ## Mode
 
-**online**
+**Online**
 
 
 ## Date & Time
