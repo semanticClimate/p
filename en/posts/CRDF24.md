@@ -11,6 +11,13 @@ tags:
 
 <table>
   <tr>
+    <td><img src='{{ "/static/img/photo/crdf_datathon3.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/crdf_datathon6.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
     <td><img src='{{ "/static/img/photo/crdf_datathon8.jpg" | url }}' width="500" height="300"></td>
     <td><img src='{{ "/static/img/photo/crdf_datathon9.jpg" | url }}' width="500" height="300"></td>
   </tr>   
