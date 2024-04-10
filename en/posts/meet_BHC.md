@@ -12,14 +12,14 @@ tags:
 <table>
   <tr>
     <td><img src='{{ "/static/img/photo/BHC_1.jpg" | url }}' width="500" height="300"></td>
-    <td><img src='{{ "/static/img/photo/BHC_4.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/BHC_5.jpg" | url }}' width="500" height="300"></td>
   </tr>   
 </table>
 
 <table>
   <tr>
     <td><img src='{{ "/static/img/photo/BHC_2.jpg" | url }}' width="500" height="300"></td>
-    <td><img src='{{ "/static/img/photo/BHC_5.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/BHC_4.jpg" | url }}' width="500" height="300"></td>
   </tr>   
 </table>
 
