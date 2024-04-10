@@ -83,7 +83,7 @@ tags:
   </tr>   
 </table>
 
-### UKRI, British Council discussion meeting
+### [UKRI, British Council discussion meeting](../../posts/meet_BHC/)
 
 <table>
 <tr>
