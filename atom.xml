@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-04-10T11:10:06Z</updated>
+	<updated>2024-04-10T11:12:21Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -50,6 +50,12 @@
 		<updated>2024-04-10T00:00:00Z</updated>
 		<id>/p/en/posts/CRDF24/</id>
 		<content type="html">&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/p/static/img/photo/crdf_datathon3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;img src=&quot;/p/static/img/photo/crdf_datathon6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+  &lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;&lt;img src=&quot;/p/static/img/photo/crdf_datathon8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
     &lt;td&gt;&lt;img src=&quot;/p/static/img/photo/crdf_datathon9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
