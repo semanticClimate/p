@@ -1,7 +1,7 @@
 ---
-title: Swedish-India Center of Excellence for Sustainable Society/City
+title: AI for Climate | A Data Mining Workshop
 date: 2024-04-10
-description: Discussion meeting to explore avenues for meaningful climate action
+description: AI in Data Mining and NLP for Climate Solutions
 author: RK 
 summary: Event pictures
 hide: true
