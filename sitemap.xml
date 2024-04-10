@@ -432,11 +432,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/posts/indo-sweden24/</loc>
-    <lastmod>2024-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/CHANGELOG/</loc>
     <lastmod>2024-04-10</lastmod>
   </url>
@@ -547,22 +542,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
-    <lastmod>2024-04-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
-    <lastmod>2024-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2024-04-10</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2024-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
+    <lastmod>2024-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
     <lastmod>2024-04-10</lastmod>
   </url>
   
