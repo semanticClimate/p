@@ -14,6 +14,8 @@ Global Partnership on Artificial Intelligence (GPAI) for 2024 has included two n
 
 This will also provide insight about AI applications for ensuring sustainable food production systems and implementing resilient agricultural practices that increase productivity, improve land and soil quality. 
 
+[#semanticClimate](https://semanticclimate.github.io/p/en/) Co-founder **Dr. Gitanjali Yadav** will speak and participate in the breakout session on **“Enhancing Crop Productivity with AI”**.
+
 
 ## Mode
 
