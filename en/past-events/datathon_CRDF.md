@@ -51,7 +51,8 @@ In-person
 
 [Center for Applied Geomatics, CRDF](https://crdf.org.in/center/center-for-applied-geomatics), Ahmedabad, Gujarat, India
 
-
+## Event Highlights
+[Click here](https://semanticclimate.github.io/p/en/posts/CRDF24/)
 
 
 
