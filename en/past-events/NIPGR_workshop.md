@@ -73,6 +73,9 @@ New Delhi
 
 India
 
+## Event Pictures
+[Click here](https://semanticclimate.github.io/p/en/posts/nipgr_workshop/)
+
 
 
 
