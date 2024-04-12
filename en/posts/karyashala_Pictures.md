@@ -25,22 +25,14 @@ tags:
 
 <table>
   <tr>
-    <td><img src='{{ "/static/img/photo/GNDU_1.jpg" | url }}' width="500" height="300"></td>
-    <td><img src='{{ "/static/img/photo/GNDU_8.jpg" | url }}' width="500" height="300"></td>
-  </tr>   
-</table>
-
-<table>
-  <tr>
-    <td><img src='{{ "/static/img/photo/GNDU_7.jpg" | url }}' width="500" height="300"></td>
-    <td><img src='{{ "/static/img/photo/GNDU_12.jpg" | url }}' width="500" height="300"></td>
-  </tr>   
-</table>
-
-<table>
-  <tr>
-    <td><img src='{{ "/static/img/photo/GNDU_11.jpg" | url }}' width="500" height="300"></td>
     <td><img src='{{ "/static/img/photo/GNDU_13.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/GNDU_7.jpg" | url }}' width="500" height="300"></td>
   </tr>   
 </table>
 
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/GNDU_8.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/GNDU_11.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
