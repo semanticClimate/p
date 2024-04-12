@@ -12,7 +12,7 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
-### [Swedish-India Center of Excellence for Sustainable Society/City](../../posts/meet_IndoSW/)
+### Swedish-India Center of Excellence for Sustainable Society/City | [see more](../../posts/meet_IndoSW/)
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ tags:
 </tr>   
 </table>
 
-### [Rural School Outreach (Haryana) | Climate Education](../../posts/outreach_village/)
+### Rural School Outreach (Haryana) | Climate Education | [see more](../../posts/outreach_village/)
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ tags:
   </tr>   
 </table>
 
-### [UKRI, British Council discussion meeting](../../posts/meet_BHC/)
+### UKRI, British Council discussion meeting | [see more](../../posts/meet_BHC/)
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ tags:
 </tr>   
 </table>
 
-### [A Data Mining Workshop at CRDF, Gujarat](../../posts/CRDF24/)
+### A Data Mining Workshop at CRDF, Gujarat | [see more](../../posts/CRDF24/)
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ tags:
 </tr>   
 </table>
 
-### [semanticClimate Alumni Reunion](../../posts/sc_alumni_NIPGR/)
+### semanticClimate Alumni Reunion | [see more](../../posts/sc_alumni_NIPGR/)
 
 <table>
 <tr>
@@ -131,7 +131,7 @@ tags:
 </tr>   
 </table>
 
-### [Text and data mining workshop at NIPGR, New Delhi](../../posts/nipgr_workshop/)
+### Text and data mining workshop at NIPGR, New Delhi | [see more](../../posts/nipgr_workshop/)
 
 <table>
   <tr>
@@ -140,7 +140,7 @@ tags:
   </tr>   
 </table>
 
-### [MRIIRS Hackathon_February 26-27, 2024](../../posts/feb_hack_session/)
+### MRIIRS Hackathon_February 26-27, 2024 | [see more](../../posts/feb_hack_session/)
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ tags:
 </tr>   
 </table>
 
-### [National Seminar on "AI in Biological Sciences" || February 28, 2024](../../posts/arsd_DU/)
+### National Seminar on "AI in Biological Sciences" || February 28, 2024 | [see more](../../posts/arsd_DU/)
 
 <table>
 <tr>
@@ -165,7 +165,7 @@ tags:
 </tr>   
 </table>
 
-### [Unlocking Innovative Solutions | Hansraj College, DU](../../posts/DU_Hansraj_pic/)
+### Unlocking Innovative Solutions | Hansraj College, DU | [see more](../../posts/DU_Hansraj_pic/)
 
 <table>
   <tr>
@@ -174,7 +174,7 @@ tags:
   </tr>   
 </table>
 
-### [National Conclave on “Artificial Intelligence in Education” | Jamia Hamdard University](../../posts/hamdard_allpic/)
+### National Conclave on “Artificial Intelligence in Education” | Jamia Hamdard University | [see more](../../posts/hamdard_allpic/)
 
 <table>
 <tr>
