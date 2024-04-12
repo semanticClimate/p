@@ -70,7 +70,7 @@ Guru Nanak Dev University,
 Amritsar, Punjab 143005
 
 ## Event Pictures
-[Click here]((../../posts/karyashala_Pictures/))
+[Click here](../../posts/karyashala_Pictures/)
 
 
 
