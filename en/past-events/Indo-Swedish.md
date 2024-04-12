@@ -34,7 +34,12 @@ Archive Room, [NIPGR](https://www.nipgr.ac.in/home/home.php), New Delhi.
 - 3:00 pm: Joint vision for a Sweden-India Centre of Excellence for Climate Action. 
 - 3:15 pm: Discussion & Inputs from all delegates
 - 3:45 pm: Final Remarks; Project scope, potential challenges, and opportunities. 
-- 4:00 pm: Tea/Coffee & Closure 
+- 4:00 pm: Tea/Coffee & Closure
+
+## Event Photos
+[Click here](https://semanticclimate.github.io/p/en/posts/meet_IndoSW/)
+
+
 
 
 
