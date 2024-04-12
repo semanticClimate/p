@@ -27,6 +27,9 @@ New Delhi 110021
 
 India
 
+## Event pictures
+[Click here](https://semanticclimate.github.io/p/en/posts/meet_BHC/)
+
 
 
 
