@@ -53,3 +53,5 @@ semanticclimate@gmail.com
 [Dheerpur Wetlands](https://urbanwetlandrestoration.wordpress.com/)
 Travel time : 1 h
 
+## Event Pictures
+[Click here](https://semanticclimate.github.io/p/en/posts/wetland_Dheerpur/)
