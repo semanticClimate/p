@@ -65,7 +65,7 @@ tags:
 </tr>   
 </table>
 
-### Youth Interaction about climate action at Garden of Five Senses, Delhi
+### Youth Interaction about climate action at Garden of Five Senses, Delhi | [see more](../../posts/garden_senses/)
 
 <table>
 <tr>
