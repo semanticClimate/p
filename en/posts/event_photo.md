@@ -74,6 +74,22 @@ tags:
 </tr>   
 </table>
 
+### National Conclave on AI and Ethics, IIC New Delhi
+
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/AI_ethics6.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/AI_ethics4.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td><img src='{{ "/static/img/photo/AI_ethics3.jpg" | url }}' width="500" height="300"></td>
+    <td><img src='{{ "/static/img/photo/AI_ethics7.jpg" | url }}' width="500" height="300"></td>
+  </tr>   
+</table>
+
 ### Rural School Outreach (Haryana) | Climate Education | [see more](../../posts/outreach_village/)
 
 <table>
