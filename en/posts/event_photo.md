@@ -35,7 +35,7 @@ tags:
 </tr>   
 </table>
 
-### Biodiversity Field Trip
+### Biodiversity Field Trip | [see more](../../posts/wetland_Dheerpur/)
 
 <table>
 <tr>
