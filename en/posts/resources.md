@@ -14,8 +14,6 @@ tags:
 
 ### These are the #sC resources used for climate knowledge 
 
-##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
-
 #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
 #### [#semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
@@ -33,6 +31,8 @@ tags:
 #### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
 
 #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
+
+##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
 ### Colab Notebooks
 
