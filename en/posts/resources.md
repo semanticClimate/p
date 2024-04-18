@@ -12,7 +12,9 @@ tags:
 
 #### [pygetpapers tutorial](https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing)
 
-### These are the #sC resources used for climate knowledge 
+### These are the #sC resources used for climate knowledge
+
+#### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
 
 #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
