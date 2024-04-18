@@ -14,6 +14,8 @@ tags:
 
 ### These are the #sC resources used for climate knowledge
 
+#### [70 chapters of ipcc/ar6 | cleaned content](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
+
 #### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
 
 #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
