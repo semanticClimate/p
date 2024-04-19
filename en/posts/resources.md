@@ -26,7 +26,7 @@ tags:
 
 #### [abbreviations with wikipedia links](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv)
 
-#### [climate terms aligned with Wikidata](https://drive.google.com/file/d/1WbaX1iKDO-9zLXVi30Xzrb6Q_a6w3oyc/view?usp=sharing)
+#### [climate terms aligned with Wikidata](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv)
 
 #### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
 
