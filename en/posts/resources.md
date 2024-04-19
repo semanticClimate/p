@@ -14,6 +14,8 @@ tags:
 
 ### These are the #sC resources used for climate knowledge
 
+#### [acronyms with wikidata qid](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv)
+
 #### [70 chapters of ipcc/ar6 | cleaned content](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
 
 #### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
