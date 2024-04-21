@@ -29,7 +29,7 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 #### Contact Us 
 Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
 
-## <u>Currently accepted abstracts</u>
+## <u>CURRENTLY ACCEPTED ABSTRACTS</u>
 
 ## 1: AMI - a pipeline to make and re-use semantic corpora
 
