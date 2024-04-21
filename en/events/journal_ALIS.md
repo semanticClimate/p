@@ -225,6 +225,18 @@ Department of Library and Information Science, Central University of Haryana, Ma
 #### Abstract
 
 Science is referred to as "self-correcting" science because it is predicated on the replication of earlier research1. The ultimate goal behind making raw data available is to generate new knowledge on the basis of previous findings2. However, in many cases, it can be challenging to repeat scientific research since there is insufficient data to validate or verify the conclusions. To foster the reproducibility and promote sustainability of research, publishers/journals have started adopting data policies. Authors are being encouraged to share their data to publish articles and scholarly journals are playing vital role in such process.
+Problem Statement:
+No study has been found analyzing the existing research data policies of SDG (Sustainable
+Development Goals) journals. There is a greater need for a critical study of the research data
+policies of the SDG journals. In response to this gap, study analyses the research data policies of
+journals supporting SDGs indexed in Scopus database. The study is designed to answer the
+following research questions:
+1. Which are the top journals contributing to each SDGs and how many of them have research
+data policies?
+2. What are the trends related to the research data associated with each SDGs?
+3. What are the common and unique features of the research data policies of SDG journals?
+4. How the journals related to SDGs are promoting the sustainability of the research articles
+published in this area of research?
 
 
 ## 13: Why are libraries still violating procurement rules? or Libraries should also follow procurement rules
@@ -254,20 +266,8 @@ Kalyani University, Kolkata, West Bengal
 
 This paper discusses the importance of open data in libraries and the need for library professionals to acquire skills in managing and analyzing data. It introduces the concept of library carpentry, a subset of data carpentry that focuses on domain-specific data skills for library professionals, such as data curation, textual data management, bibliographic content negotiation, regular expressions (regex), named entity recognition (NER), and data reconciliation, among others. Library carpentry aims to empower library personnel to apply these data skills, enhance existing services, and introduce new, data-intensive information services. The paper presents case studies that provide insights into the possibilities offered by library carpentry methods and their applications, especially in understanding bibliographic datasets available in the public domain, specifically under the Open Data Commons Open Database License (ODbL). It concludes that by embracing library carpentry, libraries can adapt to the changing information landscape and continue to be valuable resources for their communities.
 
-## 15: A Study of Research Data Policy of Highly Ranked Journals Contributing to Sustainable Development Goals.
 
-#### Authors
-
-Dinesh K Gupta, Snigdha Dandpat, Kavya Asok, and Sapna Devi 
-
-#### Affiliation
-
-Central University of Haryana (CUH), Mahendergarh-123031
-
-#### Abstract
-TBA
-
-## 16: Economics of Integrated Research Data Management: Enhancing Efficiency and Impact.
+## 15: Economics of Integrated Research Data Management: Enhancing Efficiency and Impact.
 
 #### Authors
 
