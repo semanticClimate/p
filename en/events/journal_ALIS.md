@@ -11,7 +11,7 @@ tags:
 
 The year 2024 marks the centenary of the Father of Library Science, **S.R. Ranganathan’s** entry into his first professional position at the University of Madras, where he would remain until 1945. To mark this milestone centenary of data science and libraries in India, [ALIS](https://or.niscpr.res.in/index.php/ALIS) (Annals of Library and Information Studies) – a journal founded by Ranganathan – is planning a thematic issue on “**Data for Development**” to be published in September 2024.  
 
-We at #SemanticClimate are glad to join hands with ALIS for this Special Issue, our Co-founders Gitanjali Yadav and Peter Murray-Rust have agreed to act as Co-editors, and the Special issue will have several papers by our alumni as well as winning teams at the recent Climate Knowledge Hackathon, reflecting the use and application of the semantic Toolkit for research. The special thematic issue will focus on various contours of data science and include papers that will address a broad range of sub-themes in the data science landscape.
+For this Special issue, [#SemanticClimate](https://semanticclimate.github.io/p/en/) joins hands with ALIS. Our Co-founders [Gitanjali Yadav](https://www.nipgr.ac.in/research/dr_gyadav.php) and [Peter Murray-Rust](https://www.ch.cam.ac.uk/person/pm286) have agreed to act as Co-editors, and the Special issue will have several papers by our alumni as well as winning teams at the recent [Climate Knowledge Hackathon](https://semanticclimate.github.io/p/en/past-events/climate_knowledge_hunt_Feb24/), reflecting the use and application of the semantic Toolkit for research. The special thematic issue will focus on various contours of data science and include papers that will address a broad range of sub-themes in the data science landscape.
 
 The world needs Ranganathan's vision and his commitment to both equity and technology. He included "children, the physically disabled, artisans, newly literate adults, the intellectually disabled, working-class individuals, and individuals with niche interests". In the colon classification he presaged the knowledge systems of today (NoSQL databases, name-value pairs, RDF, Wikidata) and he would be active in championing these today.
 
@@ -253,3 +253,29 @@ Kalyani University, Kolkata, West Bengal
 #### Abstract
 
 This paper discusses the importance of open data in libraries and the need for library professionals to acquire skills in managing and analyzing data. It introduces the concept of library carpentry, a subset of data carpentry that focuses on domain-specific data skills for library professionals, such as data curation, textual data management, bibliographic content negotiation, regular expressions (regex), named entity recognition (NER), and data reconciliation, among others. Library carpentry aims to empower library personnel to apply these data skills, enhance existing services, and introduce new, data-intensive information services. The paper presents case studies that provide insights into the possibilities offered by library carpentry methods and their applications, especially in understanding bibliographic datasets available in the public domain, specifically under the Open Data Commons Open Database License (ODbL). It concludes that by embracing library carpentry, libraries can adapt to the changing information landscape and continue to be valuable resources for their communities.
+
+## 15: A Study of Research Data Policy of Highly Ranked Journals Contributing to Sustainable Development Goals.
+
+#### Authors
+
+Dinesh K Gupta, Snigdha Dandpat, Kavya Asok, and Sapna Devi 
+
+#### Affiliation
+
+Central University of Haryana (CUH), Mahendergarh-123031
+
+#### Abstract
+TBA
+
+## 16: Economics of Integrated Research Data Management: Enhancing Efficiency and Impact.
+
+#### Authors
+
+Angad Munshi & Ashim Raj Singla  
+
+#### Affiliation
+TBA
+
+#### Abstract
+TBA
+
