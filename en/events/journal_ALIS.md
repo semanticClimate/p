@@ -23,9 +23,13 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 - Notification of revisions (June 15, 2024)  
 - Submission of final revised version (July 27, 2024)  
 - Publication/ Proofs : August/ September 2024 
-
  
-## Currently accepted abstracts
+## <u>TO SUBMIT AN ARTICLE OR GET LINKS TO GUIDELINES</u>
+
+#### Contact Us 
+Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
+
+## <u>Currently accepted abstracts</u>
 
 ## 1: AMI - a pipeline to make and re-use semantic corpora
 
