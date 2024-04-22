@@ -15,7 +15,7 @@ For this Special issue, [#SemanticClimate](https://semanticclimate.github.io/p/e
 
 The world needs Ranganathan's vision and his commitment to both equity and technology. He included "children, the physically disabled, artisans, newly literate adults, the intellectually disabled, working-class individuals, and individuals with niche interests". In the colon classification he presaged the knowledge systems of today (NoSQL databases, name-value pairs, RDF, Wikidata) and he would be active in championing these today.
 
-## Publishing timelines
+## <u>Publishing timelines</u>
 
 - Abstract acceptance (March 31, 2024)
 - Table of Contents (This Page)
@@ -31,7 +31,7 @@ Please write to semanticClimate@gmail.com in case you wish to submit or find det
 
 ## <u>CURRENTLY ACCEPTED ABSTRACTS</u>
 
-## 1: AMI - a pipeline to make and re-use semantic corpora
+### 1: AMI - a pipeline to make and re-use semantic corpora
 
 #### Authors
 
@@ -281,5 +281,19 @@ Angad Munshi & Ashim Raj Singla
 TBA
 
 #### Abstract
-TBA
+This research delves into the economics of integrated research data management, exploring
+the transformative potential and challenges at the intersection of data, research, and economic
+understanding. The study reveals that effective data management practices play a pivotal role
+in reshaping the landscape of research &amp; development. Key findings highlight the efficiency
+gains attained through streamlined processes, the heightened reproducibility of studies, and
+the facilitation of interdisciplinary collaboration. The economic impact is evident in tangible
+benefits, including cost savings, resource optimization, and increased research productivity.
+Furthermore, integrated data management fosters innovation in research methodologies and
+informs evidence-based policymaking, which is also being substantiated through two case
+studies. Recommendations are proposed for researchers, institutions, and policymakers to
+navigate the cultural shift towards data literacy, invest in technological infrastructure, and
+uphold ethical considerations. In conclusion, the significance of this research lies in its
+contribution to advancing research practices in the era of big data, emphasizing the
+transformative potential of integrated research data management for researchers, institutions,
+and policymakers alike.
 
