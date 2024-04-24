@@ -261,7 +261,7 @@ Publicly funded institutions commonly have to obey strict spending rules. Common
 
 #### Authors
 
-Partha Sarathi Mukhepadhyay 
+Parthasarathi Mukhopadhyay 
 
 #### Affiliation
 
