@@ -243,14 +243,15 @@ data policies?
 published in this area of research?
 
 
-## 13: Why are libraries still violating procurement rules? or Libraries should also follow procurement rules
+## 13: Why are libraries still violating procurement rules?
 
 #### Authors
 
-Bjoern Brembs
+Björn Brembs
 
 #### Affiliation
 
+Universität Regensburg, Institut of Zoology - Neurogenetics, Regensburg, Germany
 
 #### Abstract
 
