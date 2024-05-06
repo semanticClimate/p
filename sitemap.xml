@@ -427,11 +427,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/gc2024/</loc>
-    <lastmod>2024-04-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/past-events/gc2024/</loc>
     <lastmod>2024-04-10</lastmod>
   </url>
@@ -469,11 +464,6 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/posts/wetland_Dheerpur/</loc>
     <lastmod>2024-04-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/events/ICID_Jamia/</loc>
-    <lastmod>2024-04-23</lastmod>
   </url>
   
   <url>
@@ -547,11 +537,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2024-05-06</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2024-05-06</lastmod>
   </url>
@@ -568,6 +553,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/past/</loc>
+    <lastmod>2024-05-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2024-05-06</lastmod>
   </url>
   
