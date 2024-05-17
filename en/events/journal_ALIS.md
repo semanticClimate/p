@@ -24,21 +24,17 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 - Submission of final revised version (July 27, 2024)  
 - Publication/ Proofs : August/ September 2024
 
-## Points to Remember
+## TO SUBMIT AN ARTICLE: Points To Remember
 
 - Please ensure that your paper is approximately **4500-7000 words long** (not counting citations).
 - Please ensure that you use/ refer to a specific Dataset for your submission, and in the spirit of Open and FAIR data principles, please ensure that all data used for the paper is on GitHub.
 - You are free to invite co-authors to assist you in writing your article (if so, please provide us with their contact information unless already done so).
 - **All submissions to be made via our [Online Submission portal](https://docs.google.com/forms/d/e/1FAIpQLSfN-yNFcVPemDIDwl3cqmt8ZXjyuRU5pr6EexfM5c3MzUoKxw/viewform)**
 - **Please read the [author guidelines](https://drive.google.com/file/d/16u3mM_IIE0Uwq2ig03uwqcP1P306HpbL/view?usp=sharing) to ensure that you submit the Main Paper and Figures as separate files, along with any Supplementary Data Files**.
-- Please submit the article by **May 31, 2024**. If you are unable to do so, please email us (semanticClimate@gmail.com) to inquire if we can accommodate an extension.
+- Please submit the article by **May 31, 2024**. If you are unable to do so, Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
+- Please complete the **[permissions form](https://docs.google.com/spreadsheets/d/197Fhbm5aRPNGKoyc8zF_uWNu2oGKEFW9/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)** listing the original sources of any figures and tables in your manuscript and submit it along with your submission as a Supplementary File.
 - See the [reference article](http://14.139.47.23/index.php/ALIS/article/view/68736/465482983).
  
-## <u>TO SUBMIT AN ARTICLE OR GET LINKS TO GUIDELINES</u>
-
-#### Contact Us 
-Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
-
 ## <u>CURRENTLY ACCEPTED ABSTRACTS</u>
 
 ### 1: AMI - a pipeline to make and re-use semantic corpora
