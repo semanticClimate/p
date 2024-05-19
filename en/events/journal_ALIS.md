@@ -342,3 +342,106 @@ While it's important to acknowledge that this particular method isn't universall
 **Case 4:** Another potential misuse of AI technology is plagiarism, where someone could copy an entire manuscript and use AI to subtly rephrase it. This shows a blatant disregard for intellectual property rights and can dilute original work, contributing no new knowledge to society.
 
 
+## 17: Impact of Climate change on Food Security
+
+#### Authors
+
+Sawan Yadav, Yogita, Diya, Nancy, Jayant Maini, Vineeta Sharma and Preeti Nandal*
+
+#### Affiliation
+
+Department of Biotechnology, School of Engineering and Technology, Manav Rachna
+International Institute of Research and Studies (MRIIRS), Faridabad, Haryana, India.
+
+#### Abstract
+
+The ever-increasing population poses a major threat to feeding of billions which in turn
+challenges food secutrity. In the present scenario, a third of all food produced (~2.5 billion
+tonnes) is wasted annually. Whereas 20-40% of the annual Global Crop yield is lost due to
+plant pathogens. Thus, exacerbating the food security. The climate change is promoting the
+growth of these spoilage microorganisms. These plant pathogens respond to changing climate
+in three keyways- multiplication (increased reproduction), migration (to new location/ host
+jumping) and evolution (genetic trait alteration and speciation). Therefore, it is the need of
+the hour to identify ways to reduce the yield loss caused by the microbes that turns
+pathogenic as a result of climate change. The main goals of this study are to gather
+information about the realtionship between pathogens growth and climate change, summarize
+the information, and develop a regression model using multiple variables to forecast how
+climate change will affect growth of these pathogens, then crop yield and finally the prices of
+food product in market. This prediction model can help farmers and farming businesses to
+predict crop yield in a particular season, knowing the cutltivation and harvest time of a
+particular crop in order to generate high yield crop.
+
+
+## 18: The Interconnected Dynamics of Climate Change, Plastic Pollution, and Human Health for Sustainable Solutions
+
+#### Authors
+
+Swasti Verma, Tanvi Sidwani, Hiya Goel, Preeti Nandal, Jayant Maini and Vineeta
+Sharma*
+
+#### Affiliation
+
+Department of Biotechnology, School of Engineering and Technology, Manav Rachna
+International Institute of Research and Studies, Faridabad, Haryana, INDIA.
+
+#### Abstract
+
+Plastic pollution represents a global environmental crisis of significant concern, evidenced by
+staggering statistics and widespread detrimental effects on ecosystems and human well-being.
+This study comprehensively examines the multifaceted dimensions of plastic pollution,
+elucidating its pervasive prevalence, diverse typologies, and extensive impacts across various
+domains. Ranging from the proliferation of single-use plastics to the omnipresence of
+microplastics, the ubiquity of plastic waste poses dire threats to marine ecosystems, terrestrial
+habitats, and the broader planetary health. Moreover, the intricate nexus between climate
+change, plastic pollution, and human health unveils a complex interplay of challenges, where
+climate change exacerbates plastic pollution dynamics while plastic pollution contributes to
+climate change through greenhouse gas emissions and carbon cycle disruption. A two-step
+methodology was adopted to conduct the present comprehensive study. Firstly, we utilized
+Pygetpapers command-line tool to systematically retrieve scientific papers from repositories
+such as PubMed, using relevant search terms and filters. Subsequently, document analysis
+using Doc Analysis tool to extract key information, analyse text content, and identify relevant
+papers based on predefined criteria, facilitating the synthesis of findings was performed. In
+response to these intertwined challenges, this study proposes the Ecosynergy Insight tool, an
+innovative tool designed to provide stakeholders with data-driven insights and encourage
+collaborative efforts to mitigate the effects of climate change, reduce plastic pollution, and
+protect human health. With its cutting-edge features and multidisciplinary methodology,
+Ecosynergy Insight seeks to ignite transformative actions towards a resilient and sustainable
+future.
+
+
+## 19: Harnessing data mining tools to evaluate the impact of the meat industry on climate.
+
+#### Authors
+
+Anmol Negi 1 , Ishita Singh 2 , Paridhi Gupta 2 , Ashwina Prasad 1 , Aayush
+Kukreja 1 , Preeti Nandal 2 , Vineeta Sharma 2 , Jayant Maini 2*
+
+#### Affiliation
+
+1 Department of Computer Sciences and Engineering, School of Engineering and
+Technology, Manav Rachna International Institute of Research and Studies,
+Faridabad, Haryana, India
+2 Department of Biotechnology, School of Engineering and Technology, Manav
+Rachna International Institute of Research and Studies, Faridabad, Haryana, India
+*Corresponding Author
+
+#### Abstract
+
+The meat industry has a significant impact on climate change. Cattle contributes to
+13-17% of the greenhouse gas emissions annually along with the collateral damage
+associated with deforestation of grasslands and increasing antimicrobial
+resistance. To call attention to this issue, the authors employed advanced data
+science techniques to extract insights from IPCC reports. Leveraging PyAMI
+HTML, PyGetPapers and using docanalysis, the team meticulously analysed
+specific sections related to food security, focusing on occurrence of the keyword
+&quot;meat” and extracting valuable insights from a subset of the IPCC chapter PDFs,
+translating them into graphs, tables and CSV files. The analysis led to the
+following observations a) a drastic increase in annual meat consumption from the
+year 1990 to 2020 which b) correlated with the increase in annual methane
+emissions 1960 to 2010, cattle being a major contributor. With this the authors
+bring a sharp focus on the problem of meat industries and its major contribution to
+the threat we face in the form of climate change. Furthermore, this technical
+contribution seeks to instill informed decision making and collaborative action
+towards a sustainable future, tackling a small portion of the massive issue of
+climate change.
+
