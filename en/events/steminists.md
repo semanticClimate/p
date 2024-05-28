@@ -14,7 +14,6 @@ The National Institute of Plant Genome Research (NIPGR), New Delhi in collaborat
 
 This event celebrated women in STEM to strengthen multilateral relations and evolved an empowering platform for women in science & technology. It aimed to highlight the essential role of women in science and technology and the changes that were needed to facilitate diversity and equity in this field. The event included talks, interviews, as well as a musical intermezzo to strengthen the bilateral technological and cultural relations of India and the Netherlands.
 
-[#semanticClimate](https://semanticclimate.github.io/p/en/) Founder **Dr. Gitanjali Yadav** has talked about the climate knowledge and #semanticClimate.
 
 <table>
   <tr>
@@ -23,6 +22,17 @@ This event celebrated women in STEM to strengthen multilateral relations and evo
     </td>
   </tr>
 </table>
+
+
+[#semanticClimate](https://semanticclimate.github.io/p/en/) Founder **Dr. Gitanjali Yadav** has talked about the climate knowledge and #semanticClimate.
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR</h5>
+  </div>
+</div>
+
 
 ## Date 
 
