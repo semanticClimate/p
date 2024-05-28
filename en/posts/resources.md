@@ -64,7 +64,7 @@ tags:
 
 ### Youtube video playlist presented in different climate events and hackathons
 
-#### [Introduction about #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
+#### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
 #### [MRIIRS Hackathon 2024 Winning Team Presentations Playlist](https://www.youtube.com/watch?v=xuzRHDPZKjs&list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev)
 
