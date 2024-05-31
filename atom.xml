@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-05-31T11:20:29Z</updated>
+	<updated>2024-05-31T11:20:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1323,7 +1323,11 @@ He&#39;s also active in developing code snippets, and making small scale social 
 		<updated>2023-11-20T00:00:00Z</updated>
 		<id>/p/en/posts/resources/</id>
 		<content type="html">&lt;h3&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing&quot;&gt;pygetpapers tutorial&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
