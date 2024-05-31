@@ -14,33 +14,33 @@ tags:
 
 ### These are the #sC resources used for climate knowledge
 
-#### [acronyms with wikidata qid](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv)
+- #### [acronyms with wikidata qid](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv)
 
-#### [70 chapters of ipcc/ar6 | cleaned content](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
+- #### [70 chapters of ipcc/ar6 | cleaned content](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
 
-#### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
+- #### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
 
-#### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
+- #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
 
-#### [#semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
+- #### [#semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
-#### [abbreviations with wikipedia links](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv)
+- #### [abbreviations with wikipedia links](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv)
 
-#### [climate terms aligned with Wikidata](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv)
+- #### [climate terms aligned with Wikidata](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv)
 
-#### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
+- #### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
 
-#### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
+- #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
 
-#### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
+- #### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
 
-#### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
+- #### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
 
-#### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
+- #### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
 
-#### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
+- #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
 
-##### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
+- #### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
 ### Colab Notebooks
 
