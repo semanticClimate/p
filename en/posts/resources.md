@@ -69,7 +69,7 @@ tags:
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR</h5>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of #semantic Climate</h5>
   </div>
 </div>
 
@@ -78,14 +78,28 @@ tags:
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/xuzRHDPZKjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>MRIIRS Hackathon 2024 Winning Team Presentations Playlist</h5>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Winning Team Presentations Playlist</h5>
   </div>
 </div>
 
 
 #### [Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller & Marcel](https://www.youtube.com/watch?v=7ok7hx40Bes)
 
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/7ok7hx40Bes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>IPCC Knowledge Graph</h5>
+  </div>
+</div>
+
 #### [Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav](https://www.youtube.com/embed/krbeWMTz5CY)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/krbeWMTz5CY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Building a semantic knowledge (wiki)base</h5>
+  </div>
+</div>
 
 #### [FSCI 2023 Videos Playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT)
 
