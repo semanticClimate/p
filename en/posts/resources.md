@@ -64,6 +64,13 @@ tags:
 
 ### Youtube video playlist presented in different climate events and hackathons
 
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR</h5>
+  </div>
+</div>
+
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
 #### [MRIIRS Hackathon 2024 Winning Team Presentations Playlist](https://www.youtube.com/watch?v=xuzRHDPZKjs&list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev)
