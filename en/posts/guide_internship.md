@@ -44,16 +44,16 @@ Here’s a list of general **joining tasks for interns**:
 
 - Step 1: open the terminal.
 - Step 2: Make directory where you want to save the repository. 
-- Step 3: Go to that directory with `cd`.
-- Step 4: Clone the repository with this `git clone https://github.com/petermr/amilib.git`
-- Step 5: Go to the specific directory with `cd amilib`.
-- Step 6: Check the branch for running the test and then checkout to that branch `git checkout [branch name]`
-- Step 7: Do `git pull` for fetching all the changes made remotely to the local repository.
-- Step 8: Run all the test with `pytest`.
+- Step 3: Go to that directory with **cd**
+- Step 4: Clone the repository with this **git clone https://github.com/petermr/amilib.git**
+- Step 5: Go to the specific directory with **cd amilib**
+- Step 6: Check the branch for running the test and then checkout to that branch **git checkout [branch name]**
+- Step 7: Do **git pull** for fetching all the changes made remotely to the local repository.
+- Step 8: Run all the test with **pytest**
 - Step 9: Report the errors if any to the [amilib](https://github.com/petermr/amilib) repository in the [issue section](https://github.com/petermr/amilib/issues). 
 
 ### PHASE 2: PROGRESSING
-- Follow the similar steps mentioned for `amilib` for cloning and running `pytest` for **[amiclimate](https://github.com/petermr/amiclimate)** repository.
+- Follow the similar steps mentioned for **amilib** for cloning and running `pytest` for **[amiclimate](https://github.com/petermr/amiclimate)** repository.
   
 ### PHASE 3: LEARNING `git` COMMANDS
 
@@ -112,7 +112,7 @@ Here are some essential `git` commands along with descriptions of their function
 * Share weekly reports on every Friday.
 * Join our **Slack** workspace that’s where we coordinate with team members and others.
 * Update your unavailability for meeting in #coordination channel of Slack.
-* Email to semanticclimate@gmail.com for any query.
+* Email to **semanticclimate@gmail.com** for any query.
 
 
 
