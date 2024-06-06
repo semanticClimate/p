@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T07:28:24Z</updated>
+	<updated>2024-06-06T07:32:40Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -124,9 +124,9 @@
 &lt;li&gt;Download and convert it to semantic form using &lt;code&gt;amilib&lt;/code&gt; and &lt;code&gt;amiclimate&lt;/code&gt; tool.&lt;/li&gt;
 &lt;li&gt;Create a &lt;strong&gt;dictionary&lt;/strong&gt; specific to the selected chapter with &lt;code&gt;amilib&lt;/code&gt; tool.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;HIGH-PRIORITY:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;HIGH-PRIORITY:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;See the &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;resource page&lt;/a&gt; of &lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;#semantiClimate&lt;/a&gt; website.&lt;/li&gt;
+&lt;li&gt;See the &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;resource page&lt;/a&gt; of &lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; website.&lt;/li&gt;
 &lt;li&gt;Attend daily Zoom meetings.&lt;/li&gt;
 &lt;li&gt;Report problems to the specific &lt;code&gt;github repositories&lt;/code&gt; as an issue with full description.&lt;/li&gt;
 &lt;li&gt;Update &lt;code&gt;daily progress sheet&lt;/code&gt; (&lt;strong&gt;what I DID, what I WILL do, What&#39;s BLOCKING me&lt;/strong&gt;)&lt;/li&gt;
