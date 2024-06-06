@@ -22,21 +22,21 @@ You will be required to install and alpha test the semanticClimate toolkits. The
 
 The tools are the following:
 
-- `amilib`
-- `amiclimate`
-- `pygetpapers`
-- `docanalysis`
+- [amilib](https://github.com/petermr/amilib)
+- [amiclimate](https://github.com/petermr/amiclimate)
+- [pygetpapers](https://github.com/petermr/pygetpapers)
+- [docanalysis](https://github.com/petermr/docanalysis)
   
 
-Here’s a list of general joining tasks for interns:
+Here’s a list of general **joining tasks for interns**:
 
 ### PHASE 0: ONBOARDING
-* Install [python](https://swcarpentry.github.io/python-novice-inflammation/) and [pip](https://pip.pypa.io/en/stable/user_guide/)
-* Install [git](https://swcarpentry.github.io/git-novice/) and get an ID on [GitHub](https://github.com/login)
-* install [pytest](https://carpentries-incubator.github.io/python-testing/)
+* Install [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installation/)
+* Install [git](https://git-scm.com/downloads) and get an ID on [GitHub](https://github.com/)
+* install [pytest](https://docs.pytest.org/en/stable/getting-started.html)
 * be able to use a text editor (Notepad++, TextMate, or many others NOT Word)
 * have an IDE (VSCode, PyCharm, etc.). Go for the freely accessible community editions.
-* learn the basics of [Markdown](https://www.markdownguide.org/)
+* learn the basics of [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### PHASE 1: UNIT TESTING
 
