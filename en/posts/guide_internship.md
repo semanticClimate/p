@@ -103,9 +103,9 @@ Here are some essential `git` commands along with descriptions of their function
 * Download and convert it to semantic form using `amilib` and `amiclimate` tool.
 * Create a **dictionary** specific to the selected chapter with `amilib` tool.
 
-## **HIGH-PRIORITY:**
+### **HIGH-PRIORITY:**
 
-* See the [resource page](https://semanticclimate.github.io/p/en/posts/resources/) of [#semantiClimate](https://semanticclimate.github.io/p/en/) website.
+* See the [resource page](https://semanticclimate.github.io/p/en/posts/resources/) of [#semanticClimate](https://semanticclimate.github.io/p/en/) website.
 * Attend daily Zoom meetings.
 * Report problems to the specific `github repositories` as an issue with full description.
 * Update `daily progress sheet` (**what I DID, what I WILL do, What's BLOCKING me**)
