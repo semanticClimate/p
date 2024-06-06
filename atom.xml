@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T07:35:14Z</updated>
+	<updated>2024-06-06T08:01:54Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -21,6 +21,7 @@
 &lt;p&gt;Welcome to the beginner&#39;s guide to #semanticClimate.&lt;/p&gt;
 &lt;p&gt;Starting an internship with us is a great way to help fight climate change.&lt;/p&gt;
 &lt;p&gt;Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.&lt;/p&gt;
+&lt;p&gt;The internship duration varies from 12 weeks to 6 months. It can be online as well as offline.&lt;/p&gt;
 &lt;h2&gt;The Program&lt;/h2&gt;
 &lt;p&gt;You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.&lt;/p&gt;
 &lt;p&gt;The tools are the following:&lt;/p&gt;
@@ -41,7 +42,7 @@
 &lt;li&gt;learn the basics of &lt;a href=&quot;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 1: UNIT TESTING&lt;/h3&gt;
-&lt;h4&gt;Cloning &lt;code&gt;amilib&lt;/code&gt; repository from github and running pytest from commandline/terminal&lt;/h4&gt;
+&lt;h4&gt;Cloning &lt;strong&gt;amilib&lt;/strong&gt; repository from &lt;code&gt;github&lt;/code&gt; and running &lt;code&gt;pytest&lt;/code&gt; from commandline/terminal&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Step 1: open the terminal.&lt;/li&gt;
 &lt;li&gt;Step 2: Make directory where you want to save the repository.&lt;/li&gt;
@@ -122,7 +123,7 @@
 &lt;li&gt;Watch the presentation &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3DDhtrAmzsc&amp;amp;list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&amp;amp;index=1&quot;&gt;video&lt;/a&gt;&lt;/strong&gt; for the overview of IPCC/AR6 report.&lt;/li&gt;
 &lt;li&gt;Select a chapter from the IPCC/AR6 report that you find interesting.&lt;/li&gt;
 &lt;li&gt;Download and convert it to semantic form using &lt;code&gt;amilib&lt;/code&gt; and &lt;code&gt;amiclimate&lt;/code&gt; tool.&lt;/li&gt;
-&lt;li&gt;Create a &lt;strong&gt;dictionary&lt;/strong&gt; specific to the selected chapter with &lt;code&gt;amilib&lt;/code&gt; tool.&lt;/li&gt;
+&lt;li&gt;Create a &lt;strong&gt;dictionary&lt;/strong&gt; specific to the selected chapter and annotating the chapter with dictionary terms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;HIGH-PRIORITY:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
