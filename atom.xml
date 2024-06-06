@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T07:00:06Z</updated>
+	<updated>2024-06-06T07:13:18Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,8 +17,9 @@
 		<link href="/p/en/posts/guide_internship/"/>
 		<updated>2024-06-06T00:00:00Z</updated>
 		<id>/p/en/posts/guide_internship/</id>
-		<content type="html">&lt;h1&gt;&lt;strong&gt;A guide to get started with #semanticClimate&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;(&lt;strong&gt;by an intern, for the interns&lt;/strong&gt;)&lt;/p&gt;
+		<content type="html">&lt;h2&gt;&lt;strong&gt;A beginner&#39;s guide to #semanticClimate&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Welcome to the beginner&#39;s guide to #semanticClimate.&lt;/p&gt;
+&lt;p&gt;Starting an internship with us is a great way to help fight climate change.&lt;/p&gt;
 &lt;p&gt;Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.&lt;/p&gt;
 &lt;h2&gt;The Program&lt;/h2&gt;
 &lt;p&gt;You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.&lt;/p&gt;
