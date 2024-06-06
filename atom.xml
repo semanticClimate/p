@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T07:32:40Z</updated>
+	<updated>2024-06-06T07:35:14Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -45,17 +45,17 @@
 &lt;ul&gt;
 &lt;li&gt;Step 1: open the terminal.&lt;/li&gt;
 &lt;li&gt;Step 2: Make directory where you want to save the repository.&lt;/li&gt;
-&lt;li&gt;Step 3: Go to that directory with &lt;code&gt;cd&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Step 4: Clone the repository with this &lt;code&gt;git clone https://github.com/petermr/amilib.git&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Step 5: Go to the specific directory with &lt;code&gt;cd amilib&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Step 6: Check the branch for running the test and then checkout to that branch &lt;code&gt;git checkout [branch name]&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Step 7: Do &lt;code&gt;git pull&lt;/code&gt; for fetching all the changes made remotely to the local repository.&lt;/li&gt;
-&lt;li&gt;Step 8: Run all the test with &lt;code&gt;pytest&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Step 3: Go to that directory with &lt;strong&gt;cd&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Step 4: Clone the repository with this &lt;strong&gt;git clone https://github.com/petermr/amilib.git&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Step 5: Go to the specific directory with &lt;strong&gt;cd amilib&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Step 6: Check the branch for running the test and then checkout to that branch &lt;strong&gt;git checkout [branch name]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Step 7: Do &lt;strong&gt;git pull&lt;/strong&gt; for fetching all the changes made remotely to the local repository.&lt;/li&gt;
+&lt;li&gt;Step 8: Run all the test with &lt;strong&gt;pytest&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Step 9: Report the errors if any to the &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; repository in the &lt;a href=&quot;https://github.com/petermr/amilib/issues&quot;&gt;issue section&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 2: PROGRESSING&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Follow the similar steps mentioned for &lt;code&gt;amilib&lt;/code&gt; for cloning and running &lt;code&gt;pytest&lt;/code&gt; for &lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/amiclimate&quot;&gt;amiclimate&lt;/a&gt;&lt;/strong&gt; repository.&lt;/li&gt;
+&lt;li&gt;Follow the similar steps mentioned for &lt;strong&gt;amilib&lt;/strong&gt; for cloning and running &lt;code&gt;pytest&lt;/code&gt; for &lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/amiclimate&quot;&gt;amiclimate&lt;/a&gt;&lt;/strong&gt; repository.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 3: LEARNING &lt;code&gt;git&lt;/code&gt; COMMANDS&lt;/h3&gt;
 &lt;p&gt;Here are some essential &lt;code&gt;git&lt;/code&gt; commands along with descriptions of their functionalities:&lt;/p&gt;
@@ -133,7 +133,7 @@
 &lt;li&gt;Share weekly reports on every Friday.&lt;/li&gt;
 &lt;li&gt;Join our &lt;strong&gt;Slack&lt;/strong&gt; workspace that’s where we coordinate with team members and others.&lt;/li&gt;
 &lt;li&gt;Update your unavailability for meeting in #coordination channel of Slack.&lt;/li&gt;
-&lt;li&gt;Email to semanticclimate@gmail.com for any query.&lt;/li&gt;
+&lt;li&gt;Email to &lt;strong&gt;semanticclimate@gmail.com&lt;/strong&gt; for any query.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
