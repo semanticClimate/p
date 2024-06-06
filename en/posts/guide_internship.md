@@ -37,7 +37,7 @@ Here’s a list of general **joining tasks for interns**:
 * Install [git](https://git-scm.com/downloads) and get an ID on [GitHub](https://github.com/)
 * install [pytest](https://docs.pytest.org/en/stable/getting-started.html)
 * be able to use a text editor (Notepad++, TextMate, or many others NOT Word)
-* have an IDE (VSCode, PyCharm, etc.). Go for the freely accessible community editions.
+* have an IDE ([VSCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows#section=windows), etc.). Go for the freely accessible community editions.
 * learn the basics of [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### PHASE 1: UNIT TESTING
