@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T08:01:54Z</updated>
+	<updated>2024-06-06T08:50:26Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -38,7 +38,7 @@
 &lt;li&gt;Install &lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;git&lt;/a&gt; and get an ID on &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;install &lt;a href=&quot;https://docs.pytest.org/en/stable/getting-started.html&quot;&gt;pytest&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;be able to use a text editor (Notepad++, TextMate, or many others NOT Word)&lt;/li&gt;
-&lt;li&gt;have an IDE (VSCode, PyCharm, etc.). Go for the freely accessible community editions.&lt;/li&gt;
+&lt;li&gt;have an IDE (&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VSCode&lt;/a&gt;, &lt;a href=&quot;https://www.jetbrains.com/pycharm/download/?section=windows#section=windows&quot;&gt;PyCharm&lt;/a&gt;, etc.). Go for the freely accessible community editions.&lt;/li&gt;
 &lt;li&gt;learn the basics of &lt;a href=&quot;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 1: UNIT TESTING&lt;/h3&gt;
