@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-06-06T07:16:47Z</updated>
+	<updated>2024-06-06T07:28:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -25,20 +25,20 @@
 &lt;p&gt;You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.&lt;/p&gt;
 &lt;p&gt;The tools are the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;amiclimate&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amiclimate&quot;&gt;amiclimate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Here’s a list of general joining tasks for interns:&lt;/p&gt;
+&lt;p&gt;Here’s a list of general &lt;strong&gt;joining tasks for interns&lt;/strong&gt;:&lt;/p&gt;
 &lt;h3&gt;PHASE 0: ONBOARDING&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Install &lt;a href=&quot;https://swcarpentry.github.io/python-novice-inflammation/&quot;&gt;python&lt;/a&gt; and &lt;a href=&quot;https://pip.pypa.io/en/stable/user_guide/&quot;&gt;pip&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install &lt;a href=&quot;https://swcarpentry.github.io/git-novice/&quot;&gt;git&lt;/a&gt; and get an ID on &lt;a href=&quot;https://github.com/login&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;install &lt;a href=&quot;https://carpentries-incubator.github.io/python-testing/&quot;&gt;pytest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;python&lt;/a&gt; and &lt;a href=&quot;https://pip.pypa.io/en/stable/installation/&quot;&gt;pip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Install &lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;git&lt;/a&gt; and get an ID on &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;install &lt;a href=&quot;https://docs.pytest.org/en/stable/getting-started.html&quot;&gt;pytest&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;be able to use a text editor (Notepad++, TextMate, or many others NOT Word)&lt;/li&gt;
 &lt;li&gt;have an IDE (VSCode, PyCharm, etc.). Go for the freely accessible community editions.&lt;/li&gt;
-&lt;li&gt;learn the basics of &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;learn the basics of &lt;a href=&quot;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 1: UNIT TESTING&lt;/h3&gt;
 &lt;h4&gt;Cloning &lt;code&gt;amilib&lt;/code&gt; repository from github and running pytest from commandline/terminal&lt;/h4&gt;
