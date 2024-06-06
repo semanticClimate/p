@@ -9,9 +9,11 @@ tags:
   - hackathon
 ---
 
-# **A guide to get started with #semanticClimate**
+## **A beginner's guide to #semanticClimate**
 
-(**by an intern, for the interns**)
+Welcome to the beginner's guide to #semanticClimate.
+
+Starting an internship with us is a great way to help fight climate change.
 
 Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.
 
