@@ -17,6 +17,8 @@ Starting an internship with us is a great way to help fight climate change.
 
 Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.
 
+The internship duration varies from 12 weeks to 6 months. It can be online as well as offline.
+
 ## The Program 
 You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.
 
@@ -40,7 +42,7 @@ Here’s a list of general **joining tasks for interns**:
 
 ### PHASE 1: UNIT TESTING
 
-#### Cloning `amilib` repository from github and running pytest from commandline/terminal
+#### Cloning **amilib** repository from `github` and running `pytest` from commandline/terminal
 
 - Step 1: open the terminal.
 - Step 2: Make directory where you want to save the repository. 
@@ -101,7 +103,7 @@ Here are some essential `git` commands along with descriptions of their function
 * Watch the presentation **[video](https://www.youtube.com/watch?v=3DDhtrAmzsc&list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&index=1)** for the overview of IPCC/AR6 report.
 * Select a chapter from the IPCC/AR6 report that you find interesting.
 * Download and convert it to semantic form using `amilib` and `amiclimate` tool.
-* Create a **dictionary** specific to the selected chapter with `amilib` tool.
+* Create a **dictionary** specific to the selected chapter and annotating the chapter with dictionary terms.
 
 ### **HIGH-PRIORITY:**
 
