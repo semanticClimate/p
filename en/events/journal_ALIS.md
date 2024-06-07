@@ -31,7 +31,7 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 - You are free to invite co-authors to assist you in writing your article (if so, please provide us with their contact information unless already done so).
 - **All submissions to be made via our [Online Submission portal](https://docs.google.com/forms/d/e/1FAIpQLSfN-yNFcVPemDIDwl3cqmt8ZXjyuRU5pr6EexfM5c3MzUoKxw/viewform)**
 - **Please ensure that you submit the Main Paper and Figures as separate files, along with any Supplementary Data Files**.
-- **See the format in [reference article](https://or.niscpr.res.in/index.php/ALIS/article/view/6727/2726) for adding references in the manuscript**.
+- **Read the [Author Guidelines](https://drive.google.com/file/d/1AqBG7teGvrS33GgX7HF5aOgtUf9o2381/view?usp=drive_link) and See the reference format in [reference article](https://or.niscpr.res.in/index.php/ALIS/article/view/6727/2726) for the manuscript**.
 - Please submit the article by **May 31, 2024**. If you are unable to do so, Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
 - Please complete the **[permissions form](https://docs.google.com/spreadsheets/d/197Fhbm5aRPNGKoyc8zF_uWNu2oGKEFW9/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)** listing the original sources of any figures and tables in your manuscript and submit it along with your submission as a Supplementary File.
 
