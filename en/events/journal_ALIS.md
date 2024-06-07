@@ -33,7 +33,7 @@ The world needs Ranganathan's vision and his commitment to both equity and techn
 - **Please read the [author guidelines](https://drive.google.com/file/d/16u3mM_IIE0Uwq2ig03uwqcP1P306HpbL/view?usp=sharing) to ensure that you submit the Main Paper and Figures as separate files, along with any Supplementary Data Files**.
 - Please submit the article by **May 31, 2024**. If you are unable to do so, Please write to semanticClimate@gmail.com in case you wish to submit or find details of article templates and author guidelines for thie Special Issue.
 - Please complete the **[permissions form](https://docs.google.com/spreadsheets/d/197Fhbm5aRPNGKoyc8zF_uWNu2oGKEFW9/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)** listing the original sources of any figures and tables in your manuscript and submit it along with your submission as a Supplementary File.
-- See the [reference article](http://14.139.47.23/index.php/ALIS/article/view/68736/465482983).
+- See the [reference article](https://or.niscpr.res.in/index.php/ALIS/article/view/6727/2726).
  
 ## <u>CURRENTLY ACCEPTED ABSTRACTS</u>
 
