@@ -16,6 +16,8 @@ tags:
 
 - #### [pygetpapers tutorial](https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing)
 
+- #### [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
+
 ### These are the #sC resources used for climate knowledge
 
 - #### [acronyms with wikidata qid](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv)
