@@ -403,7 +403,7 @@
         "link": ""
     },
     {
-        "name": "Poulomi Ghosh ",
+        "name": "Poulomi Ghosh",
         "status": "intern",
         "twitter": "@Poulomi01580706",
         "github": "poulomiG99",
@@ -588,7 +588,7 @@
         "name": "Waheb Mehdi",
         "status": "intern",
         "twitter": "@waheb_mehdi",
-        "github": "wahebmehdi ",
+        "github": "wahebmehdi",
         "affiliation": "AMU, Aligarh",
         "interests": "Bioinformatics, Python",
         "start": 1688940000000.0,
@@ -603,11 +603,24 @@
         "twitter": "@wiredweird_",
         "github": "nitikabaghel",
         "affiliation": "DA-IICT, Gandhinagar",
-        "interests": "algorithms to genomics, neuroscience to electronics",
+        "interests": "IT grad with a background in electronics. Interests span from algorithms to genomics, neuroscience to electronics, and more importantly, applying computational methods for biological and social good.",
         "start": 1715770374000.0,
         "end": 1721040774000.0,
         "image": "Nitika_Baghel.jpg",
         "email": "nitika.baghel13@gmail.com",
+        "link": ""
+    },
+    {
+        "name": "Smriti Mohanty",
+        "status": "intern",
+        "twitter": "@SmritiMohanty",
+        "github": "Smritiabcd",
+        "affiliation": "Lucknow",
+        "interests": "I am in the 2nd semester of Msc Bioinformatics. My interests are Differential gene expression, data analysis, developing algorithms.",
+        "start": 1711968774000.0,
+        "end": 1719744774000.0,
+        "image": "Smriti_Mohanty.jpg",
+        "email": "mohanty.smriti2011@gmail.com",
         "link": ""
     },
     {
