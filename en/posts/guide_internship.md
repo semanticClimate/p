@@ -97,6 +97,10 @@ Here are some essential `git` commands along with descriptions of their function
 
     - Temporarily shelves (or "stashes") changes in the working directory that are not ready to be committed. Use `git stash pop` to reapply the stashed changes later.
 
+#### How to create new branch of a repository on github
+
+- **[CLICK HERE](https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md) to Read the steps**
+
 ### PHASE 4: Climate Report Selection
 * Go to [IPCC](https://www.ipcc.ch/) official website.
 * Navigate through the different working groups from [here](https://semanticclimate.github.io/p/en/posts/ipcc_resources/).
