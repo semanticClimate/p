@@ -14,7 +14,7 @@ tags:
 
 ### Interns Project on IPCC Chapters
 
-- #### [Read the Project](../../posts/Interns_project/)
+- #### [Read the Project](https://github.com/semanticClimate/p/blob/main/en/posts/Interns_project.md)
 
 ### Tutorials
 
