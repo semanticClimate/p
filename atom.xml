@@ -5,12 +5,59 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-07-04T06:14:26Z</updated>
+	<updated>2024-07-15T06:56:55Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Project done by interns with semantic Climate</title>
+		<link href="/p/en/posts/Interns_project/"/>
+		<updated>2024-07-11T00:00:00Z</updated>
+		<id>/p/en/posts/Interns_project/</id>
+		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.&lt;/p&gt;
+&lt;h2&gt;semantic Dictionary (xml / html) from the wordlists for different IPCC/ar6/chapters&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nitika Baghel&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-8/&quot;&gt;wg2, Chapter 08: Poverty, livelihoods and sustainable development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/test/resources/wordlists/wg2_chap8.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/xml/wg2_chap8.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sravya Sattisetti&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-8/&quot;&gt;wg1, Chapter 08: Water Cycle Changes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/test/resources/misc/AR6_WGI_Ch08_Summary.md&quot;&gt;Summary of the chapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/test/resources/wordlists/water_cycle.txt&quot;&gt;list of words/terms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/water_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Parijat&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/&quot;&gt;wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md&quot;&gt;Summary of the chapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt&quot;&gt;wordlists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Anmol Negi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/&quot;&gt;wg2, Chapter 05: Food, Fibre and Other Ecosystem Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/Food_Ecosystem_Executive_summary.md&quot;&gt;Summary of the chapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/test/resources/wordlists/food_ecosystem.txt&quot;&gt;Wordlists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/xml/food_ecosystem.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Smriti&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/&quot;&gt;wg1, Chapter 03: Human Influence on the Climate System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Getting started with semantic Climate</title>
