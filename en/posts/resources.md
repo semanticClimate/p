@@ -12,6 +12,10 @@ tags:
 
 - #### [Read the orientation document](../../posts/guide_internship/)
 
+### Interns Project on IPCC Chapters
+
+- #### [Read the Project](../../posts/Interns_project/)
+
 ### Tutorials
 
 - #### [pygetpapers tutorial](https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing)
