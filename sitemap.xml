@@ -597,16 +597,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2024-07-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
-    <lastmod>2024-07-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2024-07-24</lastmod>
   </url>
@@ -623,6 +613,16 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
+    <lastmod>2024-07-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2024-07-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2024-07-24</lastmod>
   </url>
   
@@ -659,5 +659,10 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/events/journal_ALIS/</loc>
     <lastmod>2024-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/wg_co_chairs_forum/</loc>
+    <lastmod>2024-09-10</lastmod>
   </url>
 </urlset>
