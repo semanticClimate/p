@@ -80,6 +80,11 @@ Online (Live Zoom Session)
       <img src='{{ "/static/img/session6.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/session7.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
 </table>
 
 
