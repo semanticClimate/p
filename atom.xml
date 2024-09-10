@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-10T07:03:58Z</updated>
+	<updated>2024-09-10T07:17:27Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -53,18 +53,6 @@
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/@ShweataNHegde/videos&quot;&gt;Shweata Hegde’s Youtube Channel&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pUjiNzLVHLY&amp;amp;&quot;&gt;Ayush Garg’s tutorial on pygetpapers from INCOB ‘21&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjfvvA_yVXw&quot;&gt;UN datathon 2023_#semanticClimate&lt;/a&gt;&lt;/h3&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title></title>
-		<link href="/p/en/posts/Acronyms_IPCC/"/>
-		<updated>2024-09-10T07:03:44Z</updated>
-		<id>/p/en/posts/Acronyms_IPCC/</id>
-		<content type="html">&lt;h2&gt;Acronyms from IPCC Chapters&lt;/h2&gt;
-&lt;p&gt;These are the list of climate related abbreviations (more than 1600) present in the different IPCC Chapters alongwith their wikidata ID (qid).
-For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt;/strong&gt; qid : Q56679219&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv&quot;&gt;Click here&lt;/a&gt;&lt;/strong&gt; to read the full list of acronyms.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -185,6 +173,17 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;h4&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;descriptive demo of the literature search with pygetpapers&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Acronyms from IPCC reports</title>
+		<link href="/p/en/posts/Acronyms_IPCC/"/>
+		<updated>2024-09-10T00:00:00Z</updated>
+		<id>/p/en/posts/Acronyms_IPCC/</id>
+		<content type="html">&lt;p&gt;These are the list of climate related abbreviations (more than 1600) present in the different IPCC Chapters alongwith their wikidata ID (qid).
+For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt;/strong&gt; qid : Q56679219&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv&quot;&gt;Click here&lt;/a&gt;&lt;/strong&gt; to read the full list of acronyms.&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -497,7 +496,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;Create a &lt;strong&gt;dictionary&lt;/strong&gt; specific to the selected chapter and annotating the chapter with dictionary terms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Resources for climate knowledge&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;../../posts/new_resources/&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;../posts/new_resources/&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;&lt;strong&gt;HIGH-PRIORITY:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;See the &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;resource page&lt;/a&gt; of &lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; website.&lt;/li&gt;

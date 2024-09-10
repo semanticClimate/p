@@ -532,6 +532,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/Acronyms_IPCC/</loc>
+    <lastmod>2024-09-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/posts/lit_search/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
@@ -597,27 +602,17 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/posts/Acronyms_IPCC/</loc>
-    <lastmod>2024-09-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/docs/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
-    <lastmod>2024-09-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2024-09-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
+    <lastmod>2024-09-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
   
@@ -628,6 +623,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2024-09-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
   
@@ -677,17 +677,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2024-09-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
-    <lastmod>2024-09-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
+    <lastmod>2024-09-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
   
@@ -697,7 +692,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2024-09-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2024-09-10</lastmod>
   </url>
   
