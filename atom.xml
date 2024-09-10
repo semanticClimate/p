@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-10T08:21:33Z</updated>
+	<updated>2024-09-10T08:34:51Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -66,21 +66,21 @@
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/guide_internship/&quot;&gt;
+      &lt;a href=&quot;../../posts/guide_internship/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/Interns_project/&quot;&gt;
+      &lt;a href=&quot;../../posts/Interns_project/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/lit_search/&quot;&gt;
+      &lt;a href=&quot;../../posts/lit_search/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;pygetpapers&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
@@ -91,21 +91,21 @@
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/IPCC_Glossary/&quot;&gt;
+      &lt;a href=&quot;../../posts/IPCC_Glossary/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource9.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;glossary&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/semantic_chapters/&quot;&gt;
+      &lt;a href=&quot;../../posts/semantic_chapters/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource4.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;reports&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/kgraph/&quot;&gt;
+      &lt;a href=&quot;../../posts/kgraph/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource6.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;ipccglossary&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
@@ -116,21 +116,21 @@
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/syr_wikibase/&quot;&gt;
+      &lt;a href=&quot;../../posts/syr_wikibase/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource8.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;syr&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
     &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/notebook/&quot;&gt;
+      &lt;a href=&quot;../../posts/notebook/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource7.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;colab&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
     &lt;br /&gt;
     &lt;td&gt;
-      &lt;a href=&quot;/en/posts/demotutorial/&quot;&gt;
+      &lt;a href=&quot;../../posts/demotutorial/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource5.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;tutorial&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
