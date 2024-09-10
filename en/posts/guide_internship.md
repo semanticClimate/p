@@ -111,7 +111,7 @@ Here are some essential `git` commands along with descriptions of their function
 
 ### Resources for climate knowledge
 
-#### [Click Here](../posts/new_resources/)
+#### [Click Here](../../posts/new_resources/)
 
 ### **HIGH-PRIORITY:**
 

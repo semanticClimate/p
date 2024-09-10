@@ -15,21 +15,21 @@ tags:
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
-      <a href="/en/posts/guide_internship/">
+      <a href="en\posts\guide_internship.md">
         <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide">
       </a>
     </td>
      </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
-      <a href="/en/posts/Interns_project/">
+      <a href="en\posts\Interns_project.md">
         <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project">
       </a>
     </td>
      </br>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
-      <a href="/en/posts/lit_search/">
+      <a href="en\posts\lit_search.md">
         <img src='{{ "/static/img/resource3.jpg" | url }}' width="300" height="200" alt="pygetpapers">
       </a>
     </td>
@@ -40,21 +40,21 @@ tags:
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
-      <a href="/en/posts/IPCC_Glossary/">
+      <a href="en\posts\IPCC_Glossary.md">
         <img src='{{ "/static/img/resource9.jpg" | url }}' width="300" height="200" alt="glossary">
       </a>
     </td>
      </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
-      <a href="/en/posts/semantic_chapters/">
+      <a href="en\posts\semantic_chapters.md">
         <img src='{{ "/static/img/resource4.jpg" | url }}' width="300" height="200" alt="reports">
       </a>
     </td>
      </br>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
-      <a href="/en/posts/kgraph/">
+      <a href="en\posts\kgraph.md">
         <img src='{{ "/static/img/resource6.jpg" | url }}' width="300" height="200" alt="ipccglossary">
       </a>
     </td>
@@ -67,21 +67,21 @@ tags:
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
-      <a href="/en/posts/syr_wikibase/">
+      <a href="en\posts\syr_wikibase.md">
         <img src='{{ "/static/img/resource8.jpg" | url }}' width="300" height="200" alt="syr">
       </a>
     </td>
     </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
-      <a href="/en/posts/notebook/">
+      <a href="en\posts\notebook.md">
         <img src='{{ "/static/img/resource7.jpg" | url }}' width="300" height="200" alt="colab">
       </a>
     </td>
     <!-- Third clickable image linked to another page (optional) -->
     </br>
     <td>
-      <a href="/en/posts/demotutorial/">
+      <a href="en\posts\demotutorial.md">
         <img src='{{ "/static/img/resource5.jpg" | url }}' width="300" height="200" alt="tutorial">
       </a>
     </td>
