@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-10T06:49:44Z</updated>
+	<updated>2024-09-10T07:03:58Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -59,7 +59,7 @@
 	<entry>
 		<title></title>
 		<link href="/p/en/posts/Acronyms_IPCC/"/>
-		<updated>2024-09-10T06:49:30Z</updated>
+		<updated>2024-09-10T07:03:44Z</updated>
 		<id>/p/en/posts/Acronyms_IPCC/</id>
 		<content type="html">&lt;h2&gt;Acronyms from IPCC Chapters&lt;/h2&gt;
 &lt;p&gt;These are the list of climate related abbreviations (more than 1600) present in the different IPCC Chapters alongwith their wikidata ID (qid).
@@ -78,63 +78,71 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;guide_internship/&quot;&gt;
+      &lt;a href=&quot;/en/posts/guide_internship/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
+     &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;Interns_project/&quot;&gt;
+      &lt;a href=&quot;/en/posts/Interns_project/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
+     &lt;br /&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;lit_search/&quot;&gt;
+      &lt;a href=&quot;/en/posts/lit_search/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource3.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;pygetpapers&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+ &lt;br /&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;IPCC_Glossary/&quot;&gt;
+      &lt;a href=&quot;/en/posts/IPCC_Glossary/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource9.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;glossary&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
+     &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;semantic_chapters/&quot;&gt;
+      &lt;a href=&quot;/en/posts/semantic_chapters/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource4.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;reports&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
+     &lt;br /&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;kgraph/&quot;&gt;
+      &lt;a href=&quot;/en/posts/kgraph/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource6.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;ipccglossary&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;br /&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;syr_wikibase/&quot;&gt;
+      &lt;a href=&quot;/en/posts/syr_wikibase/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource8.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;syr&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
+    &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
-      &lt;a href=&quot;notebook/&quot;&gt;
+      &lt;a href=&quot;/en/posts/notebook/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource7.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;colab&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
     &lt;!-- Third clickable image linked to another page (optional) --&gt;
+    &lt;br /&gt;
     &lt;td&gt;
-      &lt;a href=&quot;demotutorial/&quot;&gt;
+      &lt;a href=&quot;/en/posts/demotutorial/&quot;&gt;
         &lt;img src=&quot;/p/static/img/resource5.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;tutorial&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
