@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-10T08:34:51Z</updated>
+	<updated>2024-09-11T09:52:09Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1387,6 +1387,154 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 	</entry>
 	
 	<entry>
+		<title>Introduction to semanticClimate resources for climate knowledge</title>
+		<link href="/p/en/posts/resources/"/>
+		<updated>2024-02-29T00:00:00Z</updated>
+		<id>/p/en/posts/resources/</id>
+		<content type="html">&lt;h3&gt;Getting started with #semanticClimate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;../../posts/guide_internship/&quot;&gt;Read the orientation document&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Interns Project on IPCC Chapters&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;../../posts/Interns_project/&quot;&gt;Read the Project&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing&quot;&gt;pygetpapers tutorial&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;descriptive demo of the literature search with pygetpapers&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv&quot;&gt;acronyms with wikidata qid&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/tree/main/cleaned_content&quot;&gt;70 chapters of ipcc/ar6 | cleaned content&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv&quot;&gt;dictionary search across all IPCC Reports: list of Countries&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;Enhanced glossary&lt;/a&gt; - CSS Typeset, &lt;a href=&quot;https://github.com/semanticClimate/glossary-demo/blob/main/README.md&quot;&gt;see readme&lt;/a&gt;.&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;#semanticclimate video playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv&quot;&gt;climate terms aligned with Wikidata&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/ipcc_glossary/&quot;&gt;Shweata&#39;s IPCC glossary knowledge graph&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page&quot;&gt;Egon&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://mrchristian.github.io/city-climate-plans-notebook/&quot;&gt;IPCC Reports and City Climate Change Plans&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;Navigation through IPCC reports&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/&quot;&gt;Get started with pygetpapers, pyamihtml and docanalysis&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/un-datathon-2023/tree/main&quot;&gt;UN Datathon 2023&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;../../posts/for_MRIIRS_hack/&quot;&gt;MRIIRS Feb hack resources&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Colab Notebooks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing&quot;&gt;pygetpapers_literature_search_demo&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1_8YICGe0cTbk5P8PqZf1-X_uY1jrDHAK#scrollTo=TJTQ4c1mCq5a&quot;&gt;IPCCchapter08_annotation_with_dict&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/16ybfejLFp5HiZ9nxp1r7Y1tXj7Cb9ZIk#scrollTo=TJTQ4c1mCq5a&quot;&gt;chapter17_IPCC_analysis&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing&quot;&gt;pygetpapers_literature_search_keyword_extraction_word_cloud&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1g60INRchV3QEwI1XsU6q4ipI-YfpM8PH?usp=sharing&quot;&gt;mriirs_hackathon_feb_24&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;docanalysis ipcc_analysis.ipynb&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb&quot;&gt;pygetpapers_module_demo.ipynb&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook&quot;&gt;Climate Knowledge Hunt Notebooks&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/barcamp_post3/&quot;&gt;Introduction to SemanticClimate tools in Berlin Barcamp&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Youtube video playlist presented in different climate events and hackathons&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://youtu.be/ljyyc8xzIak&quot;&gt;Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR&lt;/a&gt;&lt;/h4&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/ljyyc8xzIak&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of #semantic Climate&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xuzRHDPZKjs&amp;amp;list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev&quot;&gt;MRIIRS Hackathon 2024 Winning Team Presentations Playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/xuzRHDPZKjs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Winning Team Presentations Playlist&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ok7hx40Bes&quot;&gt;Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller &amp;amp; Marcel&lt;/a&gt;&lt;/h4&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/7ok7hx40Bes&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;IPCC Knowledge Graph&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot;&gt;Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav&lt;/a&gt;&lt;/h4&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Building a semantic knowledge (wiki)base&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&quot;&gt;FSCI 2023 Videos Playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;CODATA China 2023 Playlist&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmUCHn0YuGRGY1jbtovjAly&quot;&gt;Package Tutorials&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/@ShweataNHegde/videos&quot;&gt;Shweata Hegde’s Youtube Channel&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pUjiNzLVHLY&amp;amp;&quot;&gt;Ayush Garg’s tutorial on pygetpapers from INCOB ‘21&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjfvvA_yVXw&quot;&gt;UN datathon 2023_#semanticClimate&lt;/a&gt;&lt;/h4&gt;
+&lt;h3&gt;Contact #semanticClimate&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;&lt;strong&gt;Website :&lt;/strong&gt;&lt;/a&gt; Our HomePage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;semanticclimate@gmail.com&quot;&gt;&lt;strong&gt;Email-id :&lt;/strong&gt;&lt;/a&gt; &lt;a href=&quot;mailto:semanticclimate@gmail.com&quot;&gt;semanticclimate@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate&quot;&gt;&lt;strong&gt;GitHub URL&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/semanticClimate&quot;&gt;&lt;strong&gt;X (Formerly Twitter) :&lt;/strong&gt;&lt;/a&gt; #semanticClimate&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCtsjF_DOMiCoZlZV3BzuAsg&quot;&gt;&lt;strong&gt;YouTube Channel&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://forms.gle/YaMs9GBKXropVoS4A&quot;&gt;&lt;strong&gt;Volunteer with us using This Form! :&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Event Highlights</title>
 		<link href="/p/en/posts/event_photo/"/>
 		<updated>2024-02-29T00:00:00Z</updated>
@@ -1813,154 +1961,6 @@ He&#39;s also active in developing code snippets, and making small scale social 
     &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt; Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Introduction to semanticClimate resources</title>
-		<link href="/p/en/posts/resources/"/>
-		<updated>2023-11-20T00:00:00Z</updated>
-		<id>/p/en/posts/resources/</id>
-		<content type="html">&lt;h3&gt;Getting started with #semanticClimate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;../../posts/guide_internship/&quot;&gt;Read the orientation document&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Interns Project on IPCC Chapters&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;../../posts/Interns_project/&quot;&gt;Read the Project&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Tutorials&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing&quot;&gt;pygetpapers tutorial&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;descriptive demo of the literature search with pygetpapers&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;These are the #sC resources used for climate knowledge&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv&quot;&gt;acronyms with wikidata qid&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/tree/main/cleaned_content&quot;&gt;70 chapters of ipcc/ar6 | cleaned content&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv&quot;&gt;dictionary search across all IPCC Reports: list of Countries&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld&quot;&gt;Enhanced glossary&lt;/a&gt; - CSS Typeset, &lt;a href=&quot;https://github.com/semanticClimate/glossary-demo/blob/main/README.md&quot;&gt;see readme&lt;/a&gt;.&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;#semanticclimate video playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv&quot;&gt;abbreviations with wikipedia links&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv&quot;&gt;climate terms aligned with Wikidata&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/ipcc_glossary/&quot;&gt;Shweata&#39;s IPCC glossary knowledge graph&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page&quot;&gt;Egon&#39;s knowledge graph&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://mrchristian.github.io/city-climate-plans-notebook/&quot;&gt;IPCC Reports and City Climate Change Plans&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;Navigation through IPCC reports&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/&quot;&gt;Get started with pygetpapers, pyamihtml and docanalysis&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/un-datathon-2023/tree/main&quot;&gt;UN Datathon 2023&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;../../posts/for_MRIIRS_hack/&quot;&gt;MRIIRS Feb hack resources&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Colab Notebooks&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing&quot;&gt;pygetpapers_literature_search_demo&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1_8YICGe0cTbk5P8PqZf1-X_uY1jrDHAK#scrollTo=TJTQ4c1mCq5a&quot;&gt;IPCCchapter08_annotation_with_dict&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/16ybfejLFp5HiZ9nxp1r7Y1tXj7Cb9ZIk#scrollTo=TJTQ4c1mCq5a&quot;&gt;chapter17_IPCC_analysis&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing&quot;&gt;pygetpapers_literature_search_keyword_extraction_word_cloud&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1g60INRchV3QEwI1XsU6q4ipI-YfpM8PH?usp=sharing&quot;&gt;mriirs_hackathon_feb_24&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;docanalysis ipcc_analysis.ipynb&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb&quot;&gt;pygetpapers_module_demo.ipynb&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook&quot;&gt;Climate Knowledge Hunt Notebooks&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/barcamp_post3/&quot;&gt;Introduction to SemanticClimate tools in Berlin Barcamp&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Youtube video playlist presented in different climate events and hackathons&lt;/h3&gt;
-&lt;h4&gt;&lt;a href=&quot;https://youtu.be/ljyyc8xzIak&quot;&gt;Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/ljyyc8xzIak&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of #semantic Climate&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xuzRHDPZKjs&amp;amp;list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev&quot;&gt;MRIIRS Hackathon 2024 Winning Team Presentations Playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/xuzRHDPZKjs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Winning Team Presentations Playlist&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ok7hx40Bes&quot;&gt;Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller &amp;amp; Marcel&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/7ok7hx40Bes&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;IPCC Knowledge Graph&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot;&gt;Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Building a semantic knowledge (wiki)base&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&quot;&gt;FSCI 2023 Videos Playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot;&gt;CODATA China 2023 Playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtKHReMoCMwmUCHn0YuGRGY1jbtovjAly&quot;&gt;Package Tutorials&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/@ShweataNHegde/videos&quot;&gt;Shweata Hegde’s Youtube Channel&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pUjiNzLVHLY&amp;amp;&quot;&gt;Ayush Garg’s tutorial on pygetpapers from INCOB ‘21&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjfvvA_yVXw&quot;&gt;UN datathon 2023_#semanticClimate&lt;/a&gt;&lt;/h4&gt;
-&lt;h3&gt;Contact #semanticClimate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;&lt;strong&gt;Website :&lt;/strong&gt;&lt;/a&gt; Our HomePage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;semanticclimate@gmail.com&quot;&gt;&lt;strong&gt;Email-id :&lt;/strong&gt;&lt;/a&gt; &lt;a href=&quot;mailto:semanticclimate@gmail.com&quot;&gt;semanticclimate@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/semanticClimate&quot;&gt;&lt;strong&gt;GitHub URL&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/semanticClimate&quot;&gt;&lt;strong&gt;X (Formerly Twitter) :&lt;/strong&gt;&lt;/a&gt; #semanticClimate&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCtsjF_DOMiCoZlZV3BzuAsg&quot;&gt;&lt;strong&gt;YouTube Channel&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://forms.gle/YaMs9GBKXropVoS4A&quot;&gt;&lt;strong&gt;Volunteer with us using This Form! :&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </content>
 	</entry>
 	
