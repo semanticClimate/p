@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NIPGR seminar | AI over NLP | #semanticClimate</title>
-  <meta name="description" content="Presentation and discussion with NIPGR students and researcher">
+  <title>Introduction about semanticClimate tools | #semanticClimate</title>
+  <meta name="description" content="Information about tools and their tutorial">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/p/static/css/main.css" media="all">
@@ -55,7 +55,7 @@
         <a class="text-[#0088be] navbar__link " href="/p/en/docs/">
           Participate!
         </a>
-        <a class="text-[#0088be] navbar__link " href="/p/en/tools/">
+        <a class="text-[#0088be] navbar__link navbar__link--active" href="/p/en/tools/">
           Tools
         </a>
       <a class="text-[#0088be] navbar__link" href='/p/en/posts/resources/'>Resources</a>
@@ -86,7 +86,7 @@
       <a class="navbar__mobile-link " href="/p/en/docs/">
         Participate!
       </a>
-      <a class="navbar__mobile-link " href="/p/en/tools/">
+      <a class="navbar__mobile-link navbar__mobile-link--active" href="/p/en/tools/">
         Tools
       </a>
       <a class="navbar__mobile-link" href='/p/en/posts/resources/'>Resources</a>
@@ -98,54 +98,56 @@
 
   
 <div class="container">
-  <h1>NIPGR seminar | AI over NLP</h1>
-  
-    
-  
-    
-  
-    
-  
-    
+  <h1>Introduction about semanticClimate tools</h1>
   
 
-  <p>The presentation will provide the insight about the Open accesss and the use of AI in text and data mining. It will also shed light on the principles and benefits of open access, emphasizing its role in promoting knowledge dissemination and fostering innovation across various fields.</p>
-<h4>Speakers:</h4>
-<p><strong>Peter Murray Rust</strong> (Professor Emeritus, Cambridge University)
-<strong>Topic: &quot;Creating Youth AI Champions in India&quot;</strong></p>
-<p><strong>Simon Worthington</strong> (Member of HsHJointLab and Open Science Lab, TIB)
-<strong>Topic: &quot;Beyond PDF Printing: Open Access for Liberating Literature&quot;</strong></p>
-<p><strong>Raquel Perez de Eulate</strong>, Creative Director – Interpunct, Spain
-<strong>Topic: &quot;VivlioStyle &amp; CSS Media Design&quot;</strong></p>
-<h2>Date &amp; Time</h2>
-<p>22 February, 2024</p>
-<p>4:00 - 5:00 pm (IST)</p>
-<h2>Mode</h2>
-<p>In-person</p>
-<h2>Location</h2>
-<p><a href="https://nipgr.ac.in/home/home.php">National Institute of Plant Genome Research (NIPGR)</a>, New Delhi, India</p>
+  <p>The #semanticClimate tools provides an innovative approach to generating and managing climate data efficiently. This page provides an overview of these tools and their practical applications in streamlining the process of climate data creation.</p>
+<h2><code>Amilib</code></h2>
+<p><code>Amilib</code> has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
+<p>It is a Python library designed for document processing, and dictionary creation.</p>
+<p>We can create dctionaries using <code>amilib</code> from existing set of words.
+The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.</p>
+<p><strong>Repository</strong> - <a href="https://github.com/petermr/amilib/blob/main/README.md">git hub</a></p>
+<p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi">google collab notebook</a></p>
+<h2><code>pyamiimage</code></h2>
+<p><code>pyamiimage</code> is a set of tools to extract semantic information from scientific diagrams.</p>
+<p>The output of <code>pyamiimage</code> is an image with annotations of substrate, products and enzymes.</p>
+<p><strong>Repository</strong> - <a href="https://github.com/petermr/pyamiimage">github</a></p>
+<p><strong>README file of <code>pyamiimage</code></strong> : <a href="https://github.com/petermr/pyamiimage/blob/main/README.md">pyamiimage/README.md</a></p>
+<h2><code>amiclimate</code></h2>
+<p><code>amiclimate</code> is a NLP and semantic software and material for managing climate knowledge.</p>
+<p>It is a Python code for accessing and transforming key climate documents. A refactoring of the (bloated) <code>pyamihtml</code> repository and has the functionality for downloading and parsing</p>
+<ol>
+<li>IPCC reports</li>
+<li>IPCC glossary</li>
+<li>UNFCCC reports (COP, etc.)</li>
+</ol>
+<p>This repository will NOT have the complete IPCC or UNFCCC corpus , but will have small exemplars.</p>
+<p><strong>Repository</strong> - <a href="https://github.com/petermr/amiclimate">github</a></p>
+<p><strong>README file for <code>amiclimate</code></strong> : <a href="https://github.com/petermr/amiclimate/blob/main/README.md">amiclimate/README.md</a></p>
+<h2><code>pygetpapers</code></h2>
+<p><code>pygetpapers</code> is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.</p>
+<p>It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine</p>
+<p>It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.</p>
+<p>We use <code>pygetpapers</code> for querying current and past scholarly literature in bulk.</p>
+<p><strong>Repository</strong> - <a href="https://github.com/petermr/pygetpapers">github</a></p>
+<p><strong>README file of <code>pygetpapers</code></strong> : <a href="https://github.com/petermr/pygetpapers/blob/main/README.md">pygetpapers/README.md</a></p>
+<p><strong>Tutorial</strong> - <a href="https://youtu.be/cOW_NTeqErk">descriptive demo of the literature search with pygetpapers</a></p>
+<p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing">Google collab notebook</a></p>
+<h2><code>docanalysis</code></h2>
+<p><code>docanalysis</code> is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
+<p>It can:</p>
+<ol>
+<li>Divide documents into sections</li>
+<li>Perform text mining and natural language processing (NLP)</li>
+<li>Generate dictionaries of terms</li>
+</ol>
+<p>It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.</p>
+<p><strong>Repository</strong> - <a href="https://github.com/petermr/docanalysis">github</a></p>
+<p><strong>README file of <code>docanalysis </code></strong> : <a href="https://github.com/petermr/docanalysis/blob/main/README.md">docanalysis/README.md</a></p>
+<p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing">google collab notebook</a></p>
 
 
-  
-    <div class="card__tags">
-      
-        
-          <a href="/p/en/tags/past"/>past</a>
-        
-      
-        
-          <a href="/p/en/tags/semanticclimate"/>semanticclimate</a>
-        
-      
-        
-          <a href="/p/en/tags/outreach"/>outreach</a>
-        
-      
-        
-          <a href="/p/en/tags/hackathon"/>hackathon</a>
-        
-      
-    </div>
   
   <br>
   <a href="javascript:history.back()">&larr; Back</a>
