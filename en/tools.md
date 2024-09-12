@@ -8,30 +8,21 @@ eleventyNavigation:
   order: 7
 ---
 
-The #semanticClimate tools provides an innovative approach to generating and managing climate data efficiently. This page provides an overview of these tools and their practical applications in streamlining the process of climate data creation.
+The **#semanticClimate tools** provides an innovative approach to manage climate data efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and data.
 
 ### ```amilib```
 
- ```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
+```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
 
- It is a Python library designed for document processing, and dictionary creation.
+It is a Python library designed for document processing, and dictionary creation.
 
- We can create dctionaries using ```amilib``` from existing set of words.
- The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.
+We can create dctionaries using ```amilib``` from existing set of words.
+The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.
 
- **Repository** - [git hub](https://github.com/petermr/amilib/blob/main/README.md)
+**Repository** - [github](https://github.com/petermr/amilib)
 
- **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+**Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
  
-### ```pyamiimage```
-
-```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
-
-The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes. 
-
-**Repository** - [github](https://github.com/petermr/pyamiimage)
-
-**README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
 
 ### ```amiclimate```
 
@@ -49,12 +40,22 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 
 **README file for ```amiclimate```** : [amiclimate/README.md](https://github.com/petermr/amiclimate/blob/main/README.md)
 
+### ```pyamiimage```
+
+```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
+
+The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes. 
+
+**Repository** - [github](https://github.com/petermr/pyamiimage)
+
+**README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
+
 
 ### ```pygetpapers``` 
 
 ```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
-It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine
+It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.
 
 It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.
 
