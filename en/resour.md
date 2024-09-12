@@ -4,7 +4,7 @@ description: Information about tools and their usage
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
-  key: Tools
+  key: resources
   order: 7
 ---
 
