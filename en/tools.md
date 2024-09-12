@@ -10,9 +10,9 @@ eleventyNavigation:
 
 The #semanticClimate tools provides an innovative approach to generating and managing climate data efficiently. This page provides an overview of these tools and their practical applications in streamlining the process of climate data creation.
 
-## ```Amilib```
+### ```amilib```
 
- ```Amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
+ ```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
 
  It is a Python library designed for document processing, and dictionary creation.
 
@@ -23,7 +23,7 @@ The #semanticClimate tools provides an innovative approach to generating and man
 
  **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
  
- ## ```pyamiimage```
+### ```pyamiimage```
 
 ```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
 
@@ -33,7 +33,7 @@ The output of ```pyamiimage``` is an image with annotations of substrate, produc
 
 **README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
 
-## ```amiclimate```
+### ```amiclimate```
 
 ```amiclimate``` is a NLP and semantic software and material for managing climate knowledge.
 
@@ -50,7 +50,7 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 **README file for ```amiclimate```** : [amiclimate/README.md](https://github.com/petermr/amiclimate/blob/main/README.md)
 
 
-## ```pygetpapers``` 
+### ```pygetpapers``` 
 
 ```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
@@ -68,7 +68,7 @@ We use ```pygetpapers``` for querying current and past scholarly literature in b
 
 **Tutorial** - [Google collab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
-## ```docanalysis```
+### ```docanalysis```
 
 ```docanalysis``` is a command-line tool that processes document collections (CProjects) and performs text analysis. 
 
