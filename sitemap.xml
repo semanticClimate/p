@@ -677,12 +677,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2024-09-12</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2024-09-12</lastmod>
   </url>
   
@@ -697,7 +692,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2024-09-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2024-09-12</lastmod>
   </url>
   
@@ -708,6 +708,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/team/</loc>
+    <lastmod>2024-09-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tools/</loc>
     <lastmod>2024-09-12</lastmod>
   </url>
   
