@@ -24,8 +24,8 @@
         <a class="text-[#0088be] navbar__link {% if entry.url == page.url %}navbar__link--active{% endif %}" href="{{ entry.url | url }}">
           {{ entry.title }}
         </a>
-        <a class="text-[#0088be] navbar__link" href='{{ "/en/posts/resources/" | url }}'>Resources</a>
       {%- endfor %}
+      <a class="text-[#0088be] navbar__link" href='{{ "/en/posts/resources/" | url }}'>Resources</a>
       <a class="text-[#0088be] navbar__link" href='{{ "/en/posts/event_photo/" | url }}'>Gallery</a>
       <a class="text-[#0088be] navbar__link" style="font-weight: bold" href='{{ "/en/posts/volunteers-wanted" | url }}'>Volunteer!</a>
 
