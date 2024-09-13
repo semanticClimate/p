@@ -96,14 +96,35 @@
   
 
   <p>The <strong>#semanticClimate tools</strong> provides an innovative approach to manage climate data efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and data.</p>
+<p><strong>Requirements for Installing Tools with <code>pip</code></strong> :</p>
+<ul>
+<li>
+<p><strong>Python</strong> : Ensure that Python is installed on your system. Download python from: https://www.python.org/downloads/ and select the option Add Python to Path while installing.</p>
+</li>
+<li>
+<p><strong>pip</strong> : <code>pip</code> is the package installer for Python. Verify that pip is installed by running: <code>pip --version</code></p>
+</li>
+</ul>
 <h3><code>amilib</code></h3>
+<p><strong>Release Category</strong>: <code>Beta</code></p>
 <p><code>amilib</code> has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
 <p>It is a Python library designed for document processing, and dictionary creation.</p>
 <p>We can create dctionaries using <code>amilib</code> from existing set of words.
 The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.</p>
-<p><strong>Repository</strong> - <a href="https://github.com/petermr/amilib">github</a></p>
+<ul>
+<li><strong>Installation</strong> - Use <code>pip</code> to install the tool/package. Use this code <code>pip install amilib==0.2.7</code> to install amilib version 0.2.7</li>
+</ul>
+<p>Check the successful installation with command : <code>amilib --help</code>. You should see a help message come up.</p>
+<ul>
+<li>
+<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/amilib">github</a></p>
+</li>
+<li>
 <p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi">google collab notebook</a></p>
+</li>
+</ul>
 <h3><code>amiclimate</code></h3>
+<p><strong>Release Category</strong>: <code>Alpha</code></p>
 <p><code>amiclimate</code> is a NLP and semantic software and material for managing climate knowledge.</p>
 <p>It is a Python code for accessing and transforming key climate documents. A refactoring of the (bloated) <code>pyamihtml</code> repository and has the functionality for downloading and parsing</p>
 <ol>
@@ -112,23 +133,60 @@ The library simplifies data extraction and manipulation, offering a user-friendl
 <li>UNFCCC reports (COP, etc.)</li>
 </ol>
 <p>This repository will NOT have the complete IPCC or UNFCCC corpus , but will have small exemplars.</p>
-<p><strong>Repository</strong> - <a href="https://github.com/petermr/amiclimate">github</a></p>
+<ul>
+<li>
+<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/amiclimate">github</a></p>
+</li>
+<li>
 <p><strong>README file for <code>amiclimate</code></strong> : <a href="https://github.com/petermr/amiclimate/blob/main/README.md">amiclimate/README.md</a></p>
+</li>
+</ul>
 <h3><code>pyamiimage</code></h3>
+<p><strong>Release Category</strong>: <code>Alpha</code></p>
 <p><code>pyamiimage</code> is a set of tools to extract semantic information from scientific diagrams.</p>
 <p>The output of <code>pyamiimage</code> is an image with annotations of substrate, products and enzymes.</p>
-<p><strong>Repository</strong> - <a href="https://github.com/petermr/pyamiimage">github</a></p>
+<ul>
+<li>
+<p><strong>Installation</strong> - Use <code>pip</code> to install the tool/package. Use this code <code>pip install amilib==0.2.7</code> to install amilib version 0.2.7</p>
+</li>
+<li>
+<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/pyamiimage">github</a></p>
+</li>
+<li>
 <p><strong>README file of <code>pyamiimage</code></strong> : <a href="https://github.com/petermr/pyamiimage/blob/main/README.md">pyamiimage/README.md</a></p>
+</li>
+</ul>
 <h3><code>pygetpapers</code></h3>
+<p><strong>Release Category</strong>: <code>Production</code></p>
 <p><code>pygetpapers</code> is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.</p>
 <p>It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.</p>
 <p>It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.</p>
 <p>We use <code>pygetpapers</code> for querying current and past scholarly literature in bulk.</p>
-<p><strong>Repository</strong> - <a href="https://github.com/petermr/pygetpapers">github</a></p>
+<ul>
+<li><strong>Installation</strong> - Use the code <code>pip install pygetpapers</code> to install <code>pygetpapers</code></li>
+</ul>
+<p>Check the successful installation with command : <code>pygetpapers --help</code>. You should see a help message come up.</p>
+<ul>
+<li>
+<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/pygetpapers">github</a></p>
+</li>
+<li>
 <p><strong>README file of <code>pygetpapers</code></strong> : <a href="https://github.com/petermr/pygetpapers/blob/main/README.md">pygetpapers/README.md</a></p>
-<p><strong>Tutorial</strong> - <a href="https://youtu.be/cOW_NTeqErk">descriptive demo of the literature search with pygetpapers</a></p>
-<p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing">Google collab notebook</a></p>
+</li>
+<li>
+<p><strong>Tutorial</strong></p>
+<ul>
+<li>
+<p><a href="https://youtu.be/cOW_NTeqErk">descriptive demo of the literature search with pygetpapers</a></p>
+</li>
+<li>
+<p><a href="https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing">Google collab notebook</a></p>
+</li>
+</ul>
+</li>
+</ul>
 <h3><code>docanalysis</code></h3>
+<p><strong>Release Category</strong>: <code>Production</code></p>
 <p><code>docanalysis</code> is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
 <p>It can:</p>
 <ol>
@@ -137,9 +195,21 @@ The library simplifies data extraction and manipulation, offering a user-friendl
 <li>Generate dictionaries of terms</li>
 </ol>
 <p>It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.</p>
-<p><strong>Repository</strong> - <a href="https://github.com/petermr/docanalysis">github</a></p>
+<ul>
+<li><strong>Installation</strong> - Use the code <code>pip install docanalysis</code> to install <code>docanalysis</code></li>
+</ul>
+<p>Check the successful installation with command : <code>docanalysis --help</code>. You should see a help message come up.</p>
+<ul>
+<li>
+<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/docanalysis">github</a></p>
+</li>
+<li>
 <p><strong>README file of <code>docanalysis </code></strong> : <a href="https://github.com/petermr/docanalysis/blob/main/README.md">docanalysis/README.md</a></p>
+</li>
+<li>
 <p><strong>Tutorial</strong> - <a href="https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing">google collab notebook</a></p>
+</li>
+</ul>
 
 
   
