@@ -10,7 +10,15 @@ eleventyNavigation:
 
 The **#semanticClimate tools** provides an innovative approach to manage climate data efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and data.
 
+**Requirements for Installing Tools with `pip`** : 
+
+- **Python** : Ensure that Python is installed on your system. Download python from: https://www.python.org/downloads/ and select the option Add Python to Path while installing.
+  
+- **pip** : `pip` is the package installer for Python. Verify that pip is installed by running: `pip --version` 
+
 ### ```amilib```
+
+**Release Category**: `Beta`
 
 ```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
 
@@ -19,12 +27,18 @@ It is a Python library designed for document processing, and dictionary creation
 We can create dctionaries using ```amilib``` from existing set of words.
 The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.
 
-**Repository** - [github](https://github.com/petermr/amilib)
+- **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib==0.2.7` to install amilib version 0.2.7
 
-**Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+Check the successful installation with command : `amilib --help`. You should see a help message come up.
+
+- **Code Repository** - [github](https://github.com/petermr/amilib)
+
+- **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
  
 
 ### ```amiclimate```
+
+**Release Category**: `Alpha`
 
 ```amiclimate``` is a NLP and semantic software and material for managing climate knowledge.
 
@@ -36,22 +50,28 @@ It is a Python code for accessing and transforming key climate documents. A refa
 
 This repository will NOT have the complete IPCC or UNFCCC corpus , but will have small exemplars.
 
-**Repository** - [github](https://github.com/petermr/amiclimate)
+- **Code Repository** - [github](https://github.com/petermr/amiclimate)
 
-**README file for ```amiclimate```** : [amiclimate/README.md](https://github.com/petermr/amiclimate/blob/main/README.md)
+- **README file for ```amiclimate```** : [amiclimate/README.md](https://github.com/petermr/amiclimate/blob/main/README.md)
 
 ### ```pyamiimage```
 
+**Release Category**: `Alpha`
+
 ```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
 
-The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes. 
+The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes.
 
-**Repository** - [github](https://github.com/petermr/pyamiimage)
+- **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib==0.2.7` to install amilib version 0.2.7
 
-**README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
+- **Code Repository** - [github](https://github.com/petermr/pyamiimage)
+
+- **README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
 
 
-### ```pygetpapers``` 
+### ```pygetpapers```
+
+**Release Category**: `Production`
 
 ```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
@@ -61,15 +81,23 @@ It comes with the packages pygetpapers and download tools which provide various 
 
 We use ```pygetpapers``` for querying current and past scholarly literature in bulk.
 
-**Repository** - [github](https://github.com/petermr/pygetpapers)
+- **Installation** - Use the code `pip install pygetpapers` to install `pygetpapers`
 
-**README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
+Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
 
-**Tutorial** - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
+- **Code Repository** - [github](https://github.com/petermr/pygetpapers)
 
-**Tutorial** - [Google collab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
+- **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
+
+- **Tutorial** 
+
+  - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
+
+  - [Google collab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
 ### ```docanalysis```
+
+**Release Category**: `Production`
 
 ```docanalysis``` is a command-line tool that processes document collections (CProjects) and performs text analysis. 
 
@@ -81,8 +109,12 @@ It can:
    
 It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.
 
-**Repository** - [github](https://github.com/petermr/docanalysis)
+- **Installation** - Use the code `pip install docanalysis` to install `docanalysis`
 
-**README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
+Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
 
-**Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
+- **Code Repository** - [github](https://github.com/petermr/docanalysis)
+
+- **README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
+
+- **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
