@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-13T05:50:02Z</updated>
+	<updated>2024-09-13T05:55:02Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -62,7 +62,7 @@
 		<updated>2024-09-10T00:00:00Z</updated>
 		<id>/p/en/posts/new_resources/</id>
 		<content type="html">&lt;h2&gt;Tools and Resources for Climate Knowledge&lt;/h2&gt;
-&lt;table cellspacing=&quot;20&quot;&gt;
+&lt;table cellspacing=&quot;25&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
@@ -87,7 +87,7 @@
   &lt;/tr&gt;
 &lt;/table&gt;
  &lt;br /&gt;
-&lt;table&gt;
+&lt;table cellspacing=&quot;25&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
@@ -112,7 +112,7 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br /&gt;
-&lt;table&gt;
+&lt;table cellspacing=&quot;25&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
