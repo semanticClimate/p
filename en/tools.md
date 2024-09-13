@@ -16,7 +16,7 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
   
 - **pip** : `pip` is the package installer for Python. Verify that pip is installed by running: `pip --version` 
 
-### ```**amilib**```
+### ```amilib```
 
 **Release Category**: `Beta`
 
@@ -36,13 +36,13 @@ Check the successful installation with command : `amilib --help`. You should see
 - **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
  
 
-### ```amiclimate```
+### **```amiclimate```**
 
 **Release Category**: `Alpha`
 
-```amiclimate``` is a NLP and semantic software and material for managing climate knowledge.
+**```amiclimate```** is a NLP and semantic software and material for managing climate knowledge.
 
-It is a Python code for accessing and transforming key climate documents. A refactoring of the (bloated) ```pyamihtml``` repository and has the functionality for downloading and parsing
+It is a Python code for accessing and transforming key climate documents. A refactoring of the (bloated) **```pyamihtml```** repository and has the functionality for downloading and parsing
 
 1.  IPCC reports
 2.  IPCC glossary
@@ -54,15 +54,15 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 
 - **README file for ```amiclimate```** : [amiclimate/README.md](https://github.com/petermr/amiclimate/blob/main/README.md)
 
-### ```pyamiimage```
+### **```pyamiimage```**
 
 **Release Category**: `Alpha`
 
-```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
+**```pyamiimage```** is a set of tools to extract semantic information from scientific diagrams.
 
-The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes.
+The output of **```pyamiimage```** is an image with annotations of substrate, products and enzymes.
 
-- **Installation** - Use the code `pip install pyamiimage` to install `**pyamiimage**`
+- **Installation** - Use the code `pip install pyamiimage` to install **`pyamiimage`**
 
 - **Code Repository** - [github](https://github.com/petermr/pyamiimage)
 
@@ -73,15 +73,15 @@ The output of ```pyamiimage``` is an image with annotations of substrate, produc
 
 **Release Category**: `Production`
 
-```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
+**```pygetpapers```** is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
 It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.
 
 It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.
 
-We use ```pygetpapers``` for querying current and past scholarly literature in bulk.
+We use **```pygetpapers```** for querying current and past scholarly literature in bulk.
 
-- **Installation** - Use the code `pip install pygetpapers` to install `pygetpapers`
+- **Installation** - Use the code `pip install pygetpapers` to install **`pygetpapers`**
 
 Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
 
@@ -95,11 +95,11 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
   - [Google collab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
-### ```docanalysis```
+### **```docanalysis```**
 
 **Release Category**: `Production`
 
-```docanalysis``` is a command-line tool that processes document collections (CProjects) and performs text analysis. 
+**```docanalysis```** is a command-line tool that processes document collections (CProjects) and performs text analysis. 
 
 It can:
 
@@ -109,7 +109,7 @@ It can:
    
 It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.
 
-- **Installation** - Use the code `pip install docanalysis` to install `docanalysis`
+- **Installation** - Use the code `pip install docanalysis` to install **`docanalysis`**
 
 Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
 
