@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-13T05:32:11Z</updated>
+	<updated>2024-09-13T05:43:26Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -67,14 +67,14 @@
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
       &lt;a href=&quot;../../posts/guide_internship/&quot;&gt;
-        &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+        &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; style=&quot;border-radius: 15px; margin-right: 20px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
       &lt;a href=&quot;../../posts/Interns_project/&quot;&gt;
-        &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+        &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; style=&quot;border-radius: 15px; margin-right: 20px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
