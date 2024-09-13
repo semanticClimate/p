@@ -11,7 +11,7 @@ tags:
 
 ## Tools and Resources for Climate Knowledge
 
-<table cellspacing="20">
+<table cellspacing="25">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -36,7 +36,7 @@ tags:
   </tr>
 </table>
  </br>
-<table>
+<table cellspacing="25">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -63,7 +63,7 @@ tags:
 
 </br>
 
-<table>
+<table cellspacing="25">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
