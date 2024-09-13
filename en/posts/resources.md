@@ -5,7 +5,6 @@ description: About the softwares and semantic documents
 author: SW and RK
 summary: Information about the usage of tools and data presented in hackathon
 hide: true
-layout: layouts/post.njk
 tags:
   - hackathon
 ---
