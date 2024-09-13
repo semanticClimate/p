@@ -9,71 +9,83 @@ tags:
   - hackathon
 ---
 
-### Getting started with #semanticClimate
+## Tools and Resources for Climate Knowledge
 
-- #### [Read the orientation document](../../posts/guide_internship/)
+<table style="border-spacing: 25px; margin-bottom: 20px;">
+  <tr>
+    <!-- First clickable image linked to pos/test.md -->
+    <td>
+      <a href="../../posts/guide_internship/">
+        <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Second clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/Interns_project/">
+        <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Third clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/lit_search/">
+        <img src='{{ "/static/img/resource3.jpg" | url }}' width="300" height="200" alt="pygetpapers" style="border-radius: 15px;">
+      </a>
+    </td>
+  </tr>
+</table>
+<table style="border-spacing: 25px; margin-bottom: 20px;">
+  <tr>
+    <!-- First clickable image linked to pos/test.md -->
+    <td>
+      <a href="../../posts/IPCC_Glossary/">
+        <img src='{{ "/static/img/resource9.jpg" | url }}' width="300" height="200" alt="glossary" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Second clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/semantic_chapters/">
+        <img src='{{ "/static/img/resource4.jpg" | url }}' width="300" height="200" alt="reports" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Third clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/kgraph/">
+        <img src='{{ "/static/img/resource6.jpg" | url }}' width="300" height="200" alt="ipccglossary" style="border-radius: 15px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Interns Project on IPCC Chapters
+<table style="border-spacing: 25px;">
+  <tr>
+    <!-- First clickable image linked to pos/test.md -->
+    <td>
+      <a href="../../posts/syr_wikibase/">
+        <img src='{{ "/static/img/resource8.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Second clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/notebook/">
+        <img src='{{ "/static/img/resource7.jpg" | url }}' width="300" height="200" alt="colab" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Third clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/demotutorial/">
+        <img src='{{ "/static/img/resource5.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-- #### [Read the Project](../../posts/Interns_project/)
-
-### Tutorials
-
-- #### [pygetpapers tutorial](https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing)
-
-- #### [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
-
-### These are the #sC resources used for climate knowledge
-
-- #### [acronyms with wikidata qid](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki.csv)
-
-- #### [70 chapters of ipcc/ar6 | cleaned content](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
-
-- #### [dictionary search across all IPCC Reports: list of Countries](https://github.com/semanticClimate/ipcc/blob/main/ar6/test/ar6/query/country.csv)
-
-- #### [Enhanced glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld) - CSS Typeset, [see readme](https://github.com/semanticClimate/glossary-demo/blob/main/README.md).
-
-- #### [#semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
-
-- #### [abbreviations with wikipedia links](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/glossaries/total/acronyms_wiki_pedia.csv)
-
-- #### [climate terms aligned with Wikidata](https://github.com/petermr/semanticClimate/blob/main/ipcc/ar6/test/total_glossary/climate_terms_wiki.csv)
-
-- #### [Shweata's IPCC glossary knowledge graph](https://semanticclimate.github.io/p/en/ipcc_glossary/)
-
-- #### [Egon's knowledge graph](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Main_Page)
-
-- #### [IPCC Reports and City Climate Change Plans](https://mrchristian.github.io/city-climate-plans-notebook/)
-
-- #### [Navigation through IPCC reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
-
-- #### [Get started with pygetpapers, pyamihtml and docanalysis](https://semanticclimate.github.io/p/en/posts/alpha-tests-for-fsci-23/)
+### Resources from various Datathons/Hackathons
 
 - #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
 
 - #### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
-### Colab Notebooks
-
-- #### [pygetpapers_literature_search_demo](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
-
-- #### [IPCCchapter08_annotation_with_dict](https://colab.research.google.com/drive/1_8YICGe0cTbk5P8PqZf1-X_uY1jrDHAK#scrollTo=TJTQ4c1mCq5a)
-
-- #### [chapter17_IPCC_analysis](https://colab.research.google.com/drive/16ybfejLFp5HiZ9nxp1r7Y1tXj7Cb9ZIk#scrollTo=TJTQ4c1mCq5a)
-
-- #### [pygetpapers_literature_search_keyword_extraction_word_cloud](https://colab.research.google.com/drive/1QhkUNom8U_BR1bRVNNn6wWsIdtRmpxQt?usp=sharing)
-
-- #### [mriirs_hackathon_feb_24](https://colab.research.google.com/drive/1g60INRchV3QEwI1XsU6q4ipI-YfpM8PH?usp=sharing)
-
-- #### [docanalysis ipcc_analysis.ipynb](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
-
-- #### [pygetpapers_module_demo.ipynb](https://colab.research.google.com/github/petermr/pygetpapers/blob/main/pygetpapers_module_demo.ipynb)
-
-- #### [Climate Knowledge Hunt Notebooks](https://github.com/petermr/semanticClimate/tree/main/outreach/climate_knowledge_hunt_hackathon/Hackathon_Notebook)
-
-- #### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.github.io/p/en/posts/barcamp_post3/)
-
-### Youtube video playlist presented in different climate events and hackathons
+### A Glimpse of video presentations from different climate events and hackathons
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
@@ -111,18 +123,6 @@ tags:
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Building a semantic knowledge (wiki)base</h5>
   </div>
 </div>
-
-#### [FSCI 2023 Videos Playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT)
-
-#### [CODATA China 2023 Playlist](https://www.youtube.com/playlist?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y)
-
-#### [Package Tutorials](https://www.youtube.com/playlist?list=PLtKHReMoCMwmUCHn0YuGRGY1jbtovjAly)
-
-#### [Shweata Hegde’s Youtube Channel](https://www.youtube.com/@ShweataNHegde/videos)
-
-#### [Ayush Garg’s tutorial on pygetpapers from INCOB ‘21](https://www.youtube.com/watch?v=pUjiNzLVHLY&)
-
-#### [UN datathon 2023_#semanticClimate](https://www.youtube.com/watch?v=XjfvvA_yVXw)
 
 ### Contact #semanticClimate
 
