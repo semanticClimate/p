@@ -11,7 +11,7 @@ tags:
 
 ## Tools and Resources for Climate Knowledge
 
-<table cellspacing="25">
+<table style="border-spacing: 25px; margin-bottom: 20px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -19,14 +19,12 @@ tags:
         <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide" style="border-radius: 15px;">
       </a>
     </td>
-     </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/Interns_project/">
         <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project" style="border-radius: 15px;">
       </a>
     </td>
-     </br>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/lit_search/">
@@ -35,8 +33,7 @@ tags:
     </td>
   </tr>
 </table>
- </br>
-<table cellspacing="25">
+<table style="border-spacing: 25px; margin-bottom: 20px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -44,14 +41,12 @@ tags:
         <img src='{{ "/static/img/resource9.jpg" | url }}' width="300" height="200" alt="glossary" style="border-radius: 15px;">
       </a>
     </td>
-     </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/semantic_chapters/">
         <img src='{{ "/static/img/resource4.jpg" | url }}' width="300" height="200" alt="reports" style="border-radius: 15px;">
       </a>
     </td>
-     </br>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/kgraph/">
@@ -61,9 +56,7 @@ tags:
   </tr>
 </table>
 
-</br>
-
-<table cellspacing="25">
+<table style="border-spacing: 25px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -71,7 +64,6 @@ tags:
         <img src='{{ "/static/img/resource8.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
       </a>
     </td>
-    </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/notebook/">
@@ -79,7 +71,6 @@ tags:
       </a>
     </td>
     <!-- Third clickable image linked to another page (optional) -->
-    </br>
     <td>
       <a href="../../posts/demotutorial/">
         <img src='{{ "/static/img/resource5.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
@@ -88,14 +79,11 @@ tags:
   </tr>
 </table>
 
-
 ### Resources from various Datathons/Hackathons
 
 - #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
 
 - #### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
-
-
 
 ### Contact #semanticClimate
 

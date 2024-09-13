@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-## Tools and Resources for Climate Knowledge
+#### These are the resources created by #semanticClimate to analyse climate data and reports for making them semantic for accessibility and machine readability.
 
 <table style="border-spacing: 25px; margin-bottom: 20px;">
   <tr>
