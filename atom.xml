@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-09-13T05:43:26Z</updated>
+	<updated>2024-09-13T05:50:02Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -62,19 +62,19 @@
 		<updated>2024-09-10T00:00:00Z</updated>
 		<id>/p/en/posts/new_resources/</id>
 		<content type="html">&lt;h2&gt;Tools and Resources for Climate Knowledge&lt;/h2&gt;
-&lt;table&gt;
+&lt;table cellspacing=&quot;20&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
     &lt;td&gt;
       &lt;a href=&quot;../../posts/guide_internship/&quot;&gt;
-        &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; style=&quot;border-radius: 15px; margin-right: 20px;&quot; /&gt;
+        &lt;img src=&quot;/p/static/img/resource1.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;guide&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
     &lt;!-- Second clickable image linked to another page (optional) --&gt;
     &lt;td&gt;
       &lt;a href=&quot;../../posts/Interns_project/&quot;&gt;
-        &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; style=&quot;border-radius: 15px; margin-right: 20px;&quot; /&gt;
+        &lt;img src=&quot;/p/static/img/resource2.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;project&quot; style=&quot;border-radius: 15px;&quot; /&gt;
       &lt;/a&gt;
     &lt;/td&gt;
      &lt;br /&gt;
