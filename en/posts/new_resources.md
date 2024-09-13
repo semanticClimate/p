@@ -11,19 +11,19 @@ tags:
 
 ## Tools and Resources for Climate Knowledge
 
-<table>
+<table cellspacing="20">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
       <a href="../../posts/guide_internship/">
-        <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide" style="border-radius: 15px; margin-right: 20px;">
+        <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide" style="border-radius: 15px;">
       </a>
     </td>
      </br>
     <!-- Second clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/Interns_project/">
-        <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project" style="border-radius: 15px; margin-right: 20px;">
+        <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project" style="border-radius: 15px;">
       </a>
     </td>
      </br>
