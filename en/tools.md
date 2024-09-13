@@ -12,11 +12,11 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
 
 **Requirements for Installing Tools with `pip`** : 
 
-- **Python** : Ensure that Python is installed on your system. Download python from: https://www.python.org/downloads/ and select the option Add Python to Path while installing.
+- **Python** : Ensure that Python is installed on your system. Download python from [here](https://www.python.org/downloads/) and select the option Add Python to Path while installing.
   
 - **pip** : `pip` is the package installer for Python. Verify that pip is installed by running: `pip --version` 
 
-### ```amilib```
+### ```**amilib**```
 
 **Release Category**: `Beta`
 
@@ -62,7 +62,7 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 
 The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes.
 
-- **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib==0.2.7` to install amilib version 0.2.7
+- **Installation** - Use the code `pip install pyamiimage` to install `**pyamiimage**`
 
 - **Code Repository** - [github](https://github.com/petermr/pyamiimage)
 
