@@ -546,6 +546,32 @@
         "link": ""
     },
     {
+        "name": "Priti",
+        "status": "volunteer",
+        "twitter": "@Pritichahal000",
+        "github": "priti-chahal",
+        "affiliation": "National Institute of Plant Genome Research, New Delhi",
+        "interests": "I am currently involved in the curation of extensive datasets related to phytochemical dynamics. Proficient in data management, mining and statistical analysis with a strong background in programming.",
+        "start": 1662026412000.0,
+        "end": 1675184412000.0,
+        "image": "Priti_Chahal.jpg",
+        "email": "Priti@nipgr.ac.in",
+        "link": ""
+    },
+    {
+        "name": "Mandeep",
+        "status": "volunteer",
+        "twitter": "@UmraMandeep",
+        "github": "Mandeepumra",
+        "affiliation": "National Institute of Plant Genome Research, New Delhi",
+        "interests": "Invasion Genomics",
+        "start": 1662026412000.0,
+        "end": 1672506012000.0,
+        "image": "Mandeep.jpeg",
+        "email": "mandeepumra@nipgr.ac.in",
+        "link": ""
+    },
+    {
         "name": "Utkarsha N Pande",
         "status": "intern",
         "twitter": "@UtkarshaPande",
@@ -647,6 +673,32 @@
         "end": 1717152774000.0,
         "image": "Neeraj_Kumari.jpg",
         "email": "oneeraj6@gmail.com",
+        "link": ""
+    },
+    {
+        "name": "Parijat Bhadra",
+        "status": "intern",
+        "twitter": "@Asphodel_18",
+        "github": "Parijat-03",
+        "affiliation": "Garden City University, Bengaluru",
+        "interests": "Pursuing a bachelor degree in Biotechnology, with an emphasis on utilizing biotechnology and informatics to address intricate scientific problems. Passionate about promoting open-source initiatives and harnessing technology for the advancement of scientific research and societal benefit.",
+        "start": 1715162412000.0,
+        "end": 1734714012000.0,
+        "image": "parijat.jpg",
+        "email": "parijatbhadra123@gmail.com",
+        "link": ""
+    },
+    {
+        "name": "Muralitharan M",
+        "status": "intern",
+        "twitter": "@muralitharan03",
+        "github": "Gowshikdharani",
+        "affiliation": "Sri Sivasubramaniyanadar College of Engineering",
+        "interests": "I am pursuing a BTech in Chemical Engineering with interests in data analysis, the energy sector, energy production, and working with natural energy production.",
+        "start": 1721037612000.0,
+        "end": 1726419612000.0,
+        "image": "Muralitharan.jpeg",
+        "email": "muralitharan2210924@ssn.edu.in",
         "link": ""
     },
     {
