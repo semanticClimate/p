@@ -24,27 +24,29 @@ This is a free online event open to all.
 
 The technology professionals, developers, engineers, and programming language experts are encouraged to register and share their technology and softwares with the world.
 
-#### semanticClimate team will present their tools and software in the summit.
+**#semanticClimate team will present their tools and software in the summit.**
 
-## Date of the Summit
+### Date of the Summit
 
 **17 October, 2024**
 
-## Mode 
+### Mode 
 
 #### Online 
 
-## Registration Form for attending the summit
+### Registration Form for attending the summit
 
-- [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSdfWR6N0QwAfkZYtIMysU66qAuoJkyqDl0X1DrL9UchoQtHEA/viewform)
-- Last Date: **October 16th, 2024**
+#### [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSdfWR6N0QwAfkZYtIMysU66qAuoJkyqDl0X1DrL9UchoQtHEA/viewform)
 
-## Registration form for Tech Demos
+Last Date: **October 16th, 2024**
 
-- [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSfn5nm4sT6MJAl8OHL_ixOxPKUhFGoD2kYC3FHy8wbjfH8mcw/viewform)
-- Last Date: **September 27th, 2024**
+### Registration form for Tech Demos
 
-## Programme 
+#### [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSfn5nm4sT6MJAl8OHL_ixOxPKUhFGoD2kYC3FHy8wbjfH8mcw/viewform)
+
+Last Date: **September 27th, 2024**
+
+### Programme 
 
 #### Morning – 10 am to 1:30 pm UTC (3:30 pm to 7:00 pm IST)
 
