@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[**The Tech We Want Online Summit**](https://okfn.org/en/events/the-tech-we-want-online-summit/), hosted by the Open Knowledge Foundation (OKFN), is a one-day online event where experts in public interest technologies come together to discuss practical ways to create software that is helpful, easy to use, durable, and solves real-world problems.
+[**The Tech We Want Online Summit**](https://okfn.org/en/events/the-tech-we-want-online-summit/), hosted by the Open Knowledge Foundation (OKFN), is a two day online event where experts in public interest technologies come together to discuss practical ways to create software that is helpful, easy to use, durable, and solves real-world problems.
 
 This is a free online event open to all. 
 
