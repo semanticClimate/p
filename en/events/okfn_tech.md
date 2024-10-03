@@ -17,7 +17,7 @@ This is a free online event open to all.
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/OKFevent.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/okf_event.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ The technology professionals, developers, engineers, and programming language ex
 
 ### Date of the Summit
 
-**17 October, 2024**
+**17-18 October, 2024**
 
 ### Mode 
 
@@ -46,22 +46,28 @@ Last Date: **October 16th, 2024**
 
 Last Date: **September 27th, 2024**
 
-### Programme 
+### Programme
 
-#### Morning – 10 am to 1:30 pm UTC (3:30 pm to 7:00 pm IST)
+#### Thursday, October 17
+
+##### Morning – 10 am to 1:30 pm UTC (3:30 pm to 7:00 pm IST)
 
 - Why Do We Want Another Tech?
 - The Tech We Want is From and For Communities
 - The Tech We Want Needs Care
 - The Tech We Want is in the Public Interest
 
-#### Afternoon – 1:30 pm to 6:30 pm UTC (7:00 pm to 12:00 am IST)
+##### Afternoon – 1:30 pm to 6:30 pm UTC (7:00 pm to 12:00 am IST)
 
-- (**Demos**) The Tech We Want is Happening Now
 - The Tech We Want is Simple and Open
 - The Tech We Want is Sustainable
 - (**Community Hangout**) Co-Creating The Tech We Want Manifesto
 
+#### Friday, October 18
+
+##### Afternoon – 12 pm to 4 pm UTC (5:30 pm - 9:30 pm IST)
+
+- (**Demos**) The Tech We Want is Happening Now
 
 
 
