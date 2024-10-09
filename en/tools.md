@@ -33,7 +33,7 @@ Check the successful installation with command : `amilib --help`. You should see
 
 - **Code Repository** - [github](https://github.com/petermr/amilib)
 
-- **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+- **Tutorial for creating dictionary from wordlist** - [google colab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
  
 
 ### ```amiclimate```
@@ -93,7 +93,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
   - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
-  - [Google collab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
+  - [literature search: Google colab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
 ### ```docanalysis```
 
@@ -117,4 +117,4 @@ Check the successful installation with command : `docanalysis --help`. You shoul
 
 - **README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
 
-- **Tutorial** - [google collab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
+- **Tutorial** - [google colab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
