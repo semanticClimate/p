@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-10T07:28:10Z</updated>
+	<updated>2024-10-10T11:21:46Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -251,6 +251,9 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv&quot;&gt;Search for specific terms using dictionaries&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
