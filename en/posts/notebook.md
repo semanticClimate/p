@@ -34,3 +34,5 @@ This contains the links for all the colab notebooks that has been created to do 
   
 - #### [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
 
+- #### [Search for specific terms using dictionaries](https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv)
+
