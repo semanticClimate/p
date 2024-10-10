@@ -93,7 +93,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 - **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
 
-- **Tutorials (Jupyter Notebook)**
+- **Tutorials (Jupyter Notebook and video demo)**
 
   - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
