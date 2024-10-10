@@ -30,3 +30,7 @@ This contains the links for all the colab notebooks that has been created to do 
 
 - #### [Introduction to SemanticClimate tools in Berlin Barcamp](https://semanticclimate.github.io/p/en/posts/barcamp_post3/)
 
+- #### [Creating Wikimedia enhanced dictionary with amilib](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi)
+  
+- #### [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+

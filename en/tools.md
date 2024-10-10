@@ -33,7 +33,11 @@ Check the successful installation with command : `amilib --help`. You should see
 
 - **Code Repository** - [github](https://github.com/petermr/amilib)
 
-- **Tutorial for creating dictionary from wordlist** - [google colab notebook](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+- **Tutorials** 
+  
+  - [Creating Wikimedia enhanced dictionary with amilib from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+  
+  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
  
 
 ### ```amiclimate```
@@ -89,11 +93,13 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 - **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
 
-- **Tutorial** 
+- **Tutorials** 
 
   - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
   - [literature search: Google colab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
+
+  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
 
 ### ```docanalysis```
 
