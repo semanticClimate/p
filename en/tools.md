@@ -27,7 +27,7 @@ It is a Python library designed for document processing, and dictionary creation
 We can create dctionaries using ```amilib``` from existing set of words.
 The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.
 
-- **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib==0.2.7` to install amilib version 0.2.7
+- **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib` to install latest amilib version.
 
 Check the successful installation with command : `amilib --help`. You should see a help message come up.
 
