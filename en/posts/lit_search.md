@@ -15,6 +15,8 @@ Github repository: [pygetpapers](https://github.com/petermr/pygetpapers)
 
 Here is the tutorial to use the tool to search literature on any query.
 
-- #### [pygetpapers tutorial](https://drive.google.com/file/d/1RccvoeRP9wO_5zq7Iwj7htbIYGZqMD9m/view?usp=sharing)
+- #### [video demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
-- #### [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
+- #### [literature search: Google colab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
+
+- #### [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
