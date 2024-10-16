@@ -26,6 +26,46 @@ The technology professionals, developers, engineers, and programming language ex
 
 **#semanticClimate team will present their tools and software in the summit.**
 
+### semanticClimate in The Tech We Want Summit
+
+##### Thursday, 17 October
+
+**12:30 UTC (6:00 PM)**
+**[Panel 3] The Tech We Want is Sustainable for People and the Planet**
+
+Shweata Hegde – Developer at #semanticClimate will be in panel discussion.
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/Panel_TTWW.jpg" | url }}' width="300" height="100">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/Panel_TTWW1.jpg" | url }}' width="300" height="100">
+    </td>
+  </tr>
+</table>
+
+##### Friday, 18 October
+
+**11:00 UTC (4:30 PM)**
+**Demo Session 1**
+
+Prarijat Bhadra, an Intern with #semanticClimate will be presenting the Demos of semantiClimate tools in the event.
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/Parijat_TTWW.jpg" | url }}' width="300" height="100">
+    </td>
+  </tr>
+</table>
+
+
 ### Date of the Summit
 
 **17-18 October, 2024**
@@ -50,24 +90,30 @@ Last Date: **September 27th, 2024**
 
 #### Thursday, October 17
 
-##### Morning – 10 am to 1:30 pm UTC (3:30 pm to 7:00 pm IST)
-
-- Why Do We Want Another Tech?
-- The Tech We Want is From and For Communities
-- The Tech We Want Needs Care
-- The Tech We Want is in the Public Interest
-
-##### Afternoon – 1:30 pm to 6:30 pm UTC (7:00 pm to 12:00 am IST)
-
-- The Tech We Want is Simple and Open
-- The Tech We Want is Sustainable
-- (**Community Hangout**) Co-Creating The Tech We Want Manifesto
+- 10:00 UTC, [Opening Remarks] Why Do We Want Another Tech?
+- 10:30 UTC, [Panel 1] The Tech We Want is Political
+- 11:30 UTC, [Panel 2] The Tech We Want is Built and Maintained with Care
+- **12:30 UTC, [Panel 3] The Tech We Want is Sustainable for People and the Planet**
+- 13:30 UTC, [Panel 4] We are Making the Tech We Want
+- 14:30 UTC, [Panel 5 in Spanish] La tecnología que queremos es un bien público
+- 15:30 UTC, [Keynote] The Role of Openness and Software Freedom to Build the Tech We Want
+- 16:00 UTC, [Closing Keynote with Cory Doctorow] Disenshittify or die!
 
 #### Friday, October 18
 
-##### Afternoon – 12 pm to 4 pm UTC (5:30 pm - 9:30 pm IST)
+##### Afternoon – 11:00 UTC - 16:00 UTC (4:30 pm - 9:30 pm IST)
 
-- (**Demos**) The Tech We Want is Happening Now
+- **11:00 UTC, Demo Session 1** 
+
+- 12:00 UTC, Demo Session 2
+
+- 13:00 UTC, Demo Session 3
+
+- 14:00 UTC, Demo Session 4
+
+- 15:00 UTC, Demo Session 5
+
+- 16:00 UTC, [Community Hangout] The Tech We Want Manifesto
 
 
 
