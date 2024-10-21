@@ -79,17 +79,6 @@ tags:
   </tr>
 </table>
 
-<table style="border-spacing: 25px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/outreach/">
-        <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
-      </a>
-    </td>    
-  </tr>
-</table>
-
 ### Resources from various Datathons/Hackathons
 
 - #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
