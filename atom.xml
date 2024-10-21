@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-21T06:49:05Z</updated>
+	<updated>2024-10-21T08:28:59Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -31,12 +31,20 @@
 &lt;li&gt;Paz Peña – Independent consultant and activist, author of &#39;Technologies for a Burning Planet&#39;&lt;/li&gt;
 &lt;li&gt;Lucas Pretti – Communications &amp;amp; Advocacy Director, Open Knowledge Foundation [moderator]&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Recordings of the first day including Panel Discussion on YouTube!&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=o50Jd1w6xKw&amp;amp;t=2s&quot;&gt;YouTube Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Panel discussion session can be viewed from 4:40:42 to 4:47:08.&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;Demo Session 1 (18 October, 2024)&lt;/h3&gt;
 &lt;p&gt;Demo was given by &lt;strong&gt;Parijat Bhadra&lt;/strong&gt; – Intern and Team member, #semanticClimate&lt;/p&gt;
 &lt;h4&gt;COLAB NOTEBOOK&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The tools were demonstrated via Google Colab to show real-time code execution and results, highlighting their importance in climate data management.&lt;/p&gt;
-&lt;p&gt;The colab notebook emphasizes on the team&#39;s work in converting climate-related scientific literature into semantic formats. The goal is to make such data accessible for everyone, overcoming the limitations of PDF formats for machine readability and data extraction.&lt;/p&gt;
+&lt;p&gt;The tools were demonstrated via Colab notebook to show real-time code execution and results, highlighting their importance in making climate report semantic.&lt;/p&gt;
+&lt;p&gt;The colab notebook emphasizes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;creating scientific literature corpus from the query term and making JQuery Datatables&lt;/li&gt;
+&lt;li&gt;making wikimedia enhanced dictionary for the list of climate words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is to make such data accessible for everyone, overcoming the limitations of PDF formats for machine readability and data extraction.&lt;/p&gt;
 &lt;h4&gt;Key points include:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -57,6 +65,17 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Recordings for the Demo session on YouTube!&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=V7Sxo0IXe8g&amp;amp;t=4s&quot;&gt;YouTube Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Demo session available from 2:00:41 to 2:20:19.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/orgs/semanticClimate/discussions&quot;&gt;Github Discussion&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/orgs/semanticClimate/discussions/14&quot;&gt;Discussion14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/orgs/semanticClimate/discussions/17&quot;&gt;Discussion17&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Presentations&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/presentations/blob/main/the-tech-we-want-v2.pptx&quot;&gt;Presentation For Day1&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/presentations/blob/main/TheTechWeWant2024.pptx&quot;&gt;Presentation for Day2&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Event Highlights&lt;/h3&gt;
 &lt;h4&gt;Panel Discussion&lt;/h4&gt;
 &lt;table&gt;
@@ -71,7 +90,7 @@
 &lt;td&gt;&lt;img src=&quot;/p/static/img/TTWW_pic5.png&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;
-&lt;h4&gt;DEMO SESSION&lt;/h4&gt;
+&lt;h4&gt;DEMO Session&lt;/h4&gt;
 &lt;table&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;img src=&quot;/p/static/img/Parijat_session_3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
