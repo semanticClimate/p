@@ -11,6 +11,7 @@ tags:
 
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
+- #### [DEMO: The Tech We Want Summit 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle)
 
 - #### [pygetpapers_literature_search_demo](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
