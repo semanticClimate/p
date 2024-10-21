@@ -115,7 +115,9 @@ Last Date: **September 27th, 2024**
 
 - 16:00 UTC, [Community Hangout] The Tech We Want Manifesto
 
+### Event Report
 
+#### Read the full report for The Tech We Want Online Summit 2024 event from [here](https://semanticclimate.github.io/p/en/posts/ttww2024/)
 
 
 
