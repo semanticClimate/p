@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-21T11:27:12Z</updated>
+	<updated>2024-10-21T11:48:31Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -117,6 +117,17 @@
 &lt;td&gt;&lt;img src=&quot;/p/static/img/Parijat_session_8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;/table&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Presentations by semanticClimate Team</title>
+		<link href="/p/en/posts/outreach/"/>
+		<updated>2024-10-21T00:00:00Z</updated>
+		<id>/p/en/posts/outreach/</id>
+		<content type="html">&lt;h4&gt;Explore the repository for all the presentations given by team members at various hackathons, datathons and outreach programmes.&lt;/h4&gt;
+&lt;p&gt;It is updated regularly to include the latest content.&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/presentations/tree/main&quot;&gt;Team Presentations&lt;/a&gt;&lt;/h3&gt;
+</content>
 	</entry>
 	
 	<entry>
