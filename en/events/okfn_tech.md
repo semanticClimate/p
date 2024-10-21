@@ -1,5 +1,5 @@
 ---
-title:  The Tech We Want Online Summit
+title: The Tech We Want Online Summit 2024
 date: 2024-10-17
 featured: true
 description: Introduction of tech and software that is open, easy and durable.
