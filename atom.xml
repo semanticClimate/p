@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-21T06:18:12Z</updated>
+	<updated>2024-10-21T06:41:54Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,9 +17,10 @@
 		<link href="/p/en/posts/ttww2024/"/>
 		<updated>2024-10-21T00:00:00Z</updated>
 		<id>/p/en/posts/ttww2024/</id>
-		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://okfn.org/en/events/the-tech-we-want-online-summit/#&quot;&gt;The Tech We Want Online Summit 2024&lt;/a&gt;&lt;/strong&gt; , organized by the &lt;strong&gt;Open Knowledge Foundation (OKFN)&lt;/strong&gt; took place on on 17-18 October, 2024.&lt;/p&gt;
-&lt;p&gt;The event has included panel discussion, keynote session on the first day (17 October) followed by Tech Demo sesion on 18 October. There were more than 50 participants across the world.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;#semanticClimate has participated in panel discussion alongwith the Demo session.&lt;/strong&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://okfn.org/en/events/the-tech-we-want-online-summit/#&quot;&gt;The Tech We Want Online Summit 2024&lt;/a&gt;&lt;/strong&gt; , organized by the &lt;strong&gt;Open Knowledge Foundation (OKFN)&lt;/strong&gt; took place on 17-18 October, 2024.&lt;/p&gt;
+&lt;p&gt;The event has included panel discussion, keynote session on the first day (17 October) followed by Tech Demo session on 18 October. There were more than 50 participants across the world.&lt;/p&gt;
+&lt;p&gt;Here are the description about the &lt;strong&gt;#semanticClimate participation in the Tech We Want Summit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shweata Hegde&lt;/strong&gt; has briefly described about the #semanticClimate tools during panel discussion.&lt;/p&gt;
 &lt;h3&gt;[Panel 3] The Tech We Want is Sustainable for People and the Planet (17 October, 2024)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Christoph Becker – Professor, University of Toronto, author of &#39;Insolvent: How to Reorient Computing for Just Sustainability&#39;&lt;/li&gt;
@@ -34,6 +35,16 @@
 &lt;p&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt; – Intern and Team member, #semanticClimate&lt;/p&gt;
 &lt;h4&gt;COLAB NOTEBOOK&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The tools were demonstrated via Google Colab to show real-time code execution and results, highlighting their importance in climate data management.&lt;/p&gt;
+&lt;p&gt;The colab notebook emphasizes on the team&#39;s work in converting climate-related scientific literature into semantic formats. The goal is to make such data accessible for everyone, overcoming the limitations of PDF formats for machine readability and data extraction.&lt;/p&gt;
+&lt;h4&gt;Key points include:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introduction of semanticClimate:&lt;/strong&gt; A global citizen science movement using open notebook science to &amp;quot;FAIRify&amp;quot; climate data (Findable, Accessible, Interoperable, and Reusable).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools showcased:&lt;/strong&gt;
+- &lt;code&gt;pygetpapers&lt;/code&gt;: A tool to search for scientific articles on EPMC (European PubMed Central) and organize metadata into datatables.
+- &lt;code&gt;docanalysis&lt;/code&gt;: Extracts specific entities, such as countries mentioned in scientific literature.
+- &lt;code&gt;amilib&lt;/code&gt;: Creates Wikimedia-enhanced dictionaries from scientific terms, linked to Wikimedia pages.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Event Highlights&lt;/h3&gt;
 &lt;h4&gt;Panel Discussion&lt;/h4&gt;
 &lt;table&gt;
