@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-21T06:41:54Z</updated>
+	<updated>2024-10-21T06:49:05Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -32,18 +32,30 @@
 &lt;li&gt;Lucas Pretti – Communications &amp;amp; Advocacy Director, Open Knowledge Foundation [moderator]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Demo Session 1 (18 October, 2024)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt; – Intern and Team member, #semanticClimate&lt;/p&gt;
+&lt;p&gt;Demo was given by &lt;strong&gt;Parijat Bhadra&lt;/strong&gt; – Intern and Team member, #semanticClimate&lt;/p&gt;
 &lt;h4&gt;COLAB NOTEBOOK&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The tools were demonstrated via Google Colab to show real-time code execution and results, highlighting their importance in climate data management.&lt;/p&gt;
 &lt;p&gt;The colab notebook emphasizes on the team&#39;s work in converting climate-related scientific literature into semantic formats. The goal is to make such data accessible for everyone, overcoming the limitations of PDF formats for machine readability and data extraction.&lt;/p&gt;
 &lt;h4&gt;Key points include:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introduction of semanticClimate:&lt;/strong&gt; A global citizen science movement using open notebook science to &amp;quot;FAIRify&amp;quot; climate data (Findable, Accessible, Interoperable, and Reusable).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tools showcased:&lt;/strong&gt;
-- &lt;code&gt;pygetpapers&lt;/code&gt;: A tool to search for scientific articles on EPMC (European PubMed Central) and organize metadata into datatables.
-- &lt;code&gt;docanalysis&lt;/code&gt;: Extracts specific entities, such as countries mentioned in scientific literature.
-- &lt;code&gt;amilib&lt;/code&gt;: Creates Wikimedia-enhanced dictionaries from scientific terms, linked to Wikimedia pages.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction of semanticClimate:&lt;/strong&gt; A global citizen science movement using open notebook science to &amp;quot;FAIRify&amp;quot; climate data (Findable, Accessible, Interoperable, and Reusable).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tools showcased:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt;: A tool to search for scientific articles on EPMC (European PubMed Central) and organize metadata into datatables.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt;: Extracts specific entities, such as countries mentioned in scientific literature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt;: Creates Wikimedia-enhanced dictionaries from scientific terms, linked to Wikimedia pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Event Highlights&lt;/h3&gt;
 &lt;h4&gt;Panel Discussion&lt;/h4&gt;
