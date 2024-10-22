@@ -17,20 +17,19 @@ It uses custom code along with Python tools like NLTK, and it can use spaCy or s
 
 ### **Installation**  
 
-**Use the code `pip install docanalysis` to install `docanalysis`**
+- #### Use the code `pip install docanalysis` to install `docanalysis`
 
-Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
+- Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
 
-#### **Code Repository** - [github](https://github.com/petermr/docanalysis)
-
-#### **README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
+#### Code Repository - [github](https://github.com/petermr/docanalysis)
 
 ### **Tutorials (Jupyter Notebook/ Colab Notebook)** 
   
-  - [google colab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
+- #### [google colab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
   
-  - [Search for specific terms using dictionaries](https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv)
+- #### [Search for specific terms using dictionaries](https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv)
 
 ### **Tutorials 
 
-- [docanalysis documentation](https://github.com/petermr/docanalysis/wiki/docanalysis-Tutorial)
+- #### [docanalysis documentation](https://github.com/petermr/docanalysis/wiki/docanalysis-Tutorial)
+- #### README file of ```docanalysis ```: [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)

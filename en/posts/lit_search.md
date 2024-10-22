@@ -17,9 +17,9 @@ tags:
 
 ### **Installation**  
 
-**Use the code `pip install pygetpapers` to install `pygetpapers`**
+- #### Use the code `pip install pygetpapers` to install `pygetpapers`
 
-Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
+- Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
 
 ### **Tutorials (Jupyter Notebook/ Colab Notebook)** 
 
