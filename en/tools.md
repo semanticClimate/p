@@ -20,11 +20,13 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
 
 **Release Category**: `Beta`
 
+**Develoved By:** Peter Murray-Rust
+
 ```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
 
 It is a Python library designed for document processing, and dictionary creation.
 
-We can create dctionaries using ```amilib``` from existing set of words.
+We can create dictionaries using ```amilib``` from existing set of words.
 The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.
 
 - **Installation** - Use `pip` to install the tool/package. Use this code `pip install amilib` to install latest amilib version.
@@ -33,7 +35,7 @@ Check the successful installation with command : `amilib --help`. You should see
 
 - **Code Repository** - [github](https://github.com/petermr/amilib)
 
-- **Tutorials (Jupyter Notebook)**
+- **Tutorials (Jupyter Notebook/ Colab Notebook)**
   
   - [Creating Wikimedia enhanced dictionary with amilib from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
   
@@ -43,6 +45,8 @@ Check the successful installation with command : `amilib --help`. You should see
 ### ```amiclimate```
 
 **Release Category**: `Alpha`
+
+**Develoved By:** Peter Murray-Rust
 
 ```amiclimate``` is a NLP and semantic software and material for managing climate knowledge.
 
@@ -62,6 +66,8 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 
 **Release Category**: `Alpha`
 
+**Develoved By:** Peter Murray-Rust
+
 ```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
 
 The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes.
@@ -76,6 +82,8 @@ The output of ```pyamiimage``` is an image with annotations of substrate, produc
 ### ```pygetpapers```
 
 **Release Category**: `Production`
+
+**Develoved By:** Ayush Garg
 
 ```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
@@ -93,7 +101,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 - **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
 
-- **Tutorials (Jupyter Notebook and video demo)**
+- **Tutorials (Jupyter Notebook/ Colab Notebook and video demo)**
 
   - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
@@ -104,6 +112,8 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 ### ```docanalysis```
 
 **Release Category**: `Production`
+
+**Develoved By:** Shweata N. Hegde
 
 **```docanalysis```** is a command-line tool that processes document collections (CProjects) and performs text analysis. 
 
@@ -123,7 +133,7 @@ Check the successful installation with command : `docanalysis --help`. You shoul
 
 - **README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
 
-- **Tutorials (Jupyter Notebook)** 
+- **Tutorials (Jupyter Notebook/ Colab Notebook)** 
   
   - [google colab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
   

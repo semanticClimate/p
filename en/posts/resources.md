@@ -79,6 +79,29 @@ tags:
   </tr>
 </table>
 
+<table style="border-spacing: 25px;">
+  <tr>
+    <!-- First clickable image linked to pos/test.md -->
+    <td>
+      <a href="../../posts/ami_tutorial/">
+        <img src='{{ "/static/img/resource11.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Second clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/doc_tutorial/">
+        <img src='{{ "/static/img/resource12.jpg" | url }}' width="300" height="200" alt="colab" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Third clickable image linked to another page (optional) -->
+    <td>
+      <a href="../../posts/outreach/">
+        <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### Resources from various Datathons/Hackathons
 
 - #### [UN Datathon 2023](https://github.com/semanticClimate/un-datathon-2023/tree/main)
