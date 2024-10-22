@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-22T07:01:24Z</updated>
+	<updated>2024-10-22T07:31:17Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -144,13 +144,13 @@
 &lt;p&gt;&lt;strong&gt;Tools showcased:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt;: A tool to search for scientific articles on EPMC (European PubMed Central) and organize metadata into datatables.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/lit_search/&quot;&gt;pygetpapers&lt;/a&gt;: A tool to search for scientific articles on EPMC (European PubMed Central) and organize metadata into datatables.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;docanalysis&lt;/code&gt;: Extracts specific entities, such as countries mentioned in scientific literature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/doc_tutorial/&quot;&gt;docanalysis&lt;/a&gt;: Extracts specific entities, such as countries mentioned in scientific literature.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt;: Creates Wikimedia-enhanced dictionaries from scientific terms, linked to Wikimedia pages.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ami_tutorial/&quot;&gt;amilib&lt;/a&gt;: Creates Wikimedia-enhanced dictionaries from scientific terms, linked to Wikimedia pages.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -370,13 +370,16 @@
 &lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;video demo of the literature search with pygetpapers&lt;/a&gt;&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing&quot;&gt;literature search: Google colab notebook&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Tutorials (Video)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;literature search with pygetpapers&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
