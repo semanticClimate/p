@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-22T06:47:48Z</updated>
+	<updated>2024-10-22T06:54:03Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -41,7 +41,7 @@
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv&quot;&gt;Search for specific terms using dictionaries&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;**Tutorials&lt;/h3&gt;
+&lt;h3&gt;Tutorials&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis/wiki/docanalysis-Tutorial&quot;&gt;docanalysis documentation&lt;/a&gt;&lt;/h4&gt;
@@ -58,13 +58,13 @@
 		<link href="/p/en/posts/ami_tutorial/"/>
 		<updated>2024-10-22T00:00:00Z</updated>
 		<id>/p/en/posts/ami_tutorial/</id>
-		<content type="html">&lt;h4&gt;&lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt; has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.). It is a Python library designed for document processing, and dictionary creation.&lt;/h4&gt;
+		<content type="html">&lt;h4&gt;&lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt; is a tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.). It is a Python library designed for document processing, and dictionary creation.&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Developed by &lt;strong&gt;Peter Murray-Rust&lt;/strong&gt;, #semanticClimate Co-Founder&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;We can create:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; can create:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Wikimedia enhanced dictionaries using amilib from existing set of words.&lt;/li&gt;
 &lt;li&gt;JQuery Datatables from the scientific literature corpus&lt;/li&gt;
@@ -77,15 +77,21 @@
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;Use the code &lt;code&gt;pip install amilib&lt;/code&gt; to install &lt;code&gt;amilib&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Use the code &lt;code&gt;pip install amilib&lt;/code&gt; to install &lt;code&gt;amilib&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi&quot;&gt;Creating Wikimedia enhanced dictionary from wordlist&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx&quot;&gt;Creating JQuery Datatables from the scientific literature corpus&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 	</entry>
 	
