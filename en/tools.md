@@ -20,7 +20,7 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
 
 **Release Category**: `Beta`
 
-**Develoved By:** Peter Murray-Rust
+**Developed By:** Peter Murray-Rust
 
 ```amilib``` has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).
 
@@ -46,7 +46,7 @@ Check the successful installation with command : `amilib --help`. You should see
 
 **Release Category**: `Alpha`
 
-**Develoved By:** Peter Murray-Rust
+**Developed By:** Peter Murray-Rust
 
 ```amiclimate``` is a NLP and semantic software and material for managing climate knowledge.
 
@@ -66,7 +66,7 @@ This repository will NOT have the complete IPCC or UNFCCC corpus , but will have
 
 **Release Category**: `Alpha`
 
-**Develoved By:** Peter Murray-Rust
+**Developed By:** Peter Murray-Rust
 
 ```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
 
@@ -83,7 +83,7 @@ The output of ```pyamiimage``` is an image with annotations of substrate, produc
 
 **Release Category**: `Production`
 
-**Develoved By:** Ayush Garg
+**Developed By:** Ayush Garg
 
 ```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
@@ -113,7 +113,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 **Release Category**: `Production`
 
-**Develoved By:** Shweata N. Hegde
+**Developed By:** Shweata N. Hegde
 
 **```docanalysis```** is a command-line tool that processes document collections (CProjects) and performs text analysis. 
 
