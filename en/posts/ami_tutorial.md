@@ -15,7 +15,7 @@ tags:
 
 - `amilib` can create: 
 
-    - Wikimedia enhanced dictionaries using amilib from existing set of words.
+    - Wikimedia enhanced dictionaries from existing set of words.
     - JQuery Datatables from the scientific literature corpus
 
 - **Code Repository** - [github](https://github.com/petermr/amilib)

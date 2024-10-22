@@ -9,15 +9,15 @@ tags:
   - hackathon
 ---
 
-**`pygetpapers`** is an open access semanticClimate tool, developed by Ayush Garg. This is used to do literature search from the scientific text repositories. It analyses the hits, and systematically downloads the articles.
+**`pygetpapers`** is an open access semanticClimate tool. This is used to do literature search from the scientific text repositories. It analyses the hits, and systematically downloads the articles.
 
 **Developed By:** Ayush Garg
 
-#### Github repository: [pygetpapers](https://github.com/petermr/pygetpapers)
+**Github repository: [pygetpapers](https://github.com/petermr/pygetpapers)**
 
 ### **Installation**  
 
-- #### Use the code `pip install pygetpapers` to install `pygetpapers`
+- Use the code `pip install pygetpapers` to install `pygetpapers`
 
 - Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
 
