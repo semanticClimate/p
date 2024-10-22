@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-22T06:54:03Z</updated>
+	<updated>2024-10-22T07:01:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -25,13 +25,13 @@
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;code&gt;docanalysis&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;code&gt;docanalysis&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;docanalysis --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Code Repository - &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;github&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Code Repository - &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -66,7 +66,7 @@
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; can create:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Wikimedia enhanced dictionaries using amilib from existing set of words.&lt;/li&gt;
+&lt;li&gt;Wikimedia enhanced dictionaries from existing set of words.&lt;/li&gt;
 &lt;li&gt;JQuery Datatables from the scientific literature corpus&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -355,13 +355,13 @@
 		<link href="/p/en/posts/lit_search/"/>
 		<updated>2024-09-10T00:00:00Z</updated>
 		<id>/p/en/posts/lit_search/</id>
-		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; is an open access semanticClimate tool, developed by Ayush Garg. This is used to do literature search from the scientific text repositories. It analyses the hits, and systematically downloads the articles.&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; is an open access semanticClimate tool. This is used to do literature search from the scientific text repositories. It analyses the hits, and systematically downloads the articles.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
-&lt;h4&gt;Github repository: &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Github repository: &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;pygetpapers --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
