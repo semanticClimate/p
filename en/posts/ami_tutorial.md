@@ -9,11 +9,11 @@ tags:
   - hackathon
 ---
 
-#### **`amilib`** has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.). It is a Python library designed for document processing, and dictionary creation.
+#### **`amilib`** is a tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.). It is a Python library designed for document processing, and dictionary creation.
 
 - Developed by **Peter Murray-Rust**, #semanticClimate Co-Founder
 
-- We can create: 
+- `amilib` can create: 
 
     - Wikimedia enhanced dictionaries using amilib from existing set of words.
     - JQuery Datatables from the scientific literature corpus
@@ -23,12 +23,12 @@ tags:
 
 ### **Installation**  
 
-- #### Use the code `pip install amilib` to install `amilib`
+- Use the code `pip install amilib` to install `amilib`
 
 - Check the successful installation with command : `amilib --help`. You should see a help message come up.
 
 ### **Tutorials (Jupyter Notebook/Colab Notebook)**
   
-#### [Creating Wikimedia enhanced dictionary from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+- #### [Creating Wikimedia enhanced dictionary from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
   
-#### [Creating JQuery Datatables from the scientific literature corpus](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+- #### [Creating JQuery Datatables from the scientific literature corpus](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)

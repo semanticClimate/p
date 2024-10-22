@@ -29,7 +29,7 @@ It uses custom code along with Python tools like NLTK, and it can use spaCy or s
   
 - #### [Search for specific terms using dictionaries](https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv)
 
-### **Tutorials 
+### Tutorials 
 
 - #### [docanalysis documentation](https://github.com/petermr/docanalysis/wiki/docanalysis-Tutorial)
 - #### README file of ```docanalysis ```: [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
