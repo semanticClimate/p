@@ -23,8 +23,12 @@ tags:
 
 ### **Tutorials (Jupyter Notebook/ Colab Notebook)** 
 
-- #### [video demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
-
 - #### [literature search: Google colab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
 - #### [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+
+
+### **Tutorials (Video)**
+
+- #### [literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
+
