@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-10-22T06:31:46Z</updated>
+	<updated>2024-10-22T06:39:16Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -23,7 +23,7 @@
 &lt;li&gt;Developed by &lt;strong&gt;Shweata N. Hegde&lt;/strong&gt;, #semanticClimate Volunteer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;**Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;docanalysis --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;h4&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;github&lt;/a&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;strong&gt;README file of &lt;code&gt;docanalysis &lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/docanalysis/blob/main/README.md&quot;&gt;docanalysis/README.md&lt;/a&gt;&lt;/h4&gt;
@@ -65,7 +65,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;**Use the code &lt;code&gt;pip install amilib&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use the code &lt;code&gt;pip install amilib&lt;/code&gt; to install &lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi&quot;&gt;Creating Wikimedia enhanced dictionary from wordlist&lt;/a&gt;&lt;/h4&gt;
@@ -334,10 +334,10 @@
 		<updated>2024-09-10T00:00:00Z</updated>
 		<id>/p/en/posts/lit_search/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; is an open access semanticClimate tool, developed by Ayush Garg. This is used to do literature search from the scientific text repositories. It analyses the hits, and systematically downloads the articles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Develoved By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
 &lt;h4&gt;Github repository: &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;**Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;pygetpapers --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
