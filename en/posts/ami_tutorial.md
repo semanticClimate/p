@@ -23,7 +23,7 @@ tags:
 
 ### **Installation**  
 
-**Use the code `pip install amilib` to install **`amilib`**
+**Use the code `pip install amilib` to install `amilib`**
 
 Check the successful installation with command : `amilib --help`. You should see a help message come up.
 

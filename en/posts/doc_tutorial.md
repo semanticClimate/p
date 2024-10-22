@@ -17,7 +17,7 @@ It uses custom code along with Python tools like NLTK, and it can use spaCy or s
 
 ### **Installation**  
 
-**Use the code `pip install docanalysis` to install **`docanalysis`**
+**Use the code `pip install docanalysis` to install `docanalysis`**
 
 Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
 
