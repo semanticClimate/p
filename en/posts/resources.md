@@ -112,7 +112,7 @@ tags:
 
 ### A Glimpse of video presentations from different climate events and hackathons
 
-#### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
+#### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://www.youtube.com/watch?v=ljyyc8xzIak&t=97s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak?start=93" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
