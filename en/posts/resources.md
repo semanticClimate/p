@@ -108,6 +108,8 @@ tags:
 
 - #### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
+#### [Click here to view the entire video playlist](https://semanticclimate.github.io/p/en/posts/demotutorial/)
+
 ### A Glimpse of video presentations from different climate events and hackathons
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
@@ -134,6 +136,24 @@ tags:
   <iframe width="250" height="200" src="https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Tech Demo Session</h5>
+  </div>
+</div>
+
+#### [ISOSC CODATA China 2023 | IPCC WG3 Chapter 08](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish</h5>
+  </div>
+</div>
+
+#### [ISOSC CODATA China 2023 | IPCC AR6 Overview](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/Pz3ne1JnOt8?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi</h5>
   </div>
 </div>
 

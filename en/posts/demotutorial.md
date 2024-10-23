@@ -11,7 +11,7 @@ tags:
 
 These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.
 
-### [#semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
+### [CLICK HERE to see #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
@@ -22,7 +22,7 @@ These are the video presentations for software tutorial and the work presented i
   </div>
 </div>
 
-#### [The Tech We Want Summit: Panel Discussion](https://www.youtube.com/watch?v=o50Jd1w6xKw&t=2s)
+#### [The Tech We Want Summit 2024 | Panel Discussion](https://www.youtube.com/watch?v=o50Jd1w6xKw&t=2s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/o50Jd1w6xKw?start=16842" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,12 +31,30 @@ These are the video presentations for software tutorial and the work presented i
   </div>
 </div>
 
-#### [The Tech We Want Summit: semanticClimate Tools Demo session!](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+#### [The Tech We Want Summit 2024 | semanticClimate Tools Demo session!](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Tech Demo Session</h5>
+  </div>
+</div>
+
+#### [ISOSC CODATA China 2023 | IPCC WG3 Chapter 08](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish</h5>
+  </div>
+</div>
+
+#### [ISOSC CODATA China 2023 | IPCC AR6 Overview](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/Pz3ne1JnOt8?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi</h5>
   </div>
 </div>
 
