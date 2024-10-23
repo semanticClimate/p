@@ -121,7 +121,7 @@ tags:
   </div>
 </div>
 
-#### [The Tech We Want Summit 2024 | Panel Discussion](https://www.youtube.com/watch?v=o50Jd1w6xKw&t=2s)
+#### [The Tech We Want Summit 2024 | Panel Discussion](https://www.youtube.com/watch?v=o50Jd1w6xKw&t=16843s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/o50Jd1w6xKw?start=16842" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,7 +130,7 @@ tags:
   </div>
 </div>
 
-#### [The Tech We Want Summit 2024 | semanticClimate Tools Demo session!](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+#### [The Tech We Want Summit 2024 | semanticClimate Tools Demo session!](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=7604s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
