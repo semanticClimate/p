@@ -18,7 +18,7 @@ These are the video presentations for software tutorial and the work presented i
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
-  <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/ljyyc8xzIak?start=93" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of #semantic Climate</h5>
   </div>
