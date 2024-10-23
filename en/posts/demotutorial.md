@@ -22,6 +22,24 @@ These are the video presentations for software tutorial and the work presented i
   </div>
 </div>
 
+#### [The Tech We Want Summit: Panel Discussion](https://www.youtube.com/watch?v=o50Jd1w6xKw&t=2s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/o50Jd1w6xKw?start=16842" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Panel Discussion</h5>
+  </div>
+</div>
+
+#### [The Tech We Want Summit: semanticClimate Tools Demo session!](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Tech Demo Session</h5>
+  </div>
+</div>
+
 #### [MRIIRS Hackathon 2024 Winning Team Presentations Playlist](https://www.youtube.com/watch?v=xuzRHDPZKjs&list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
