@@ -11,7 +11,9 @@ tags:
 
 These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.
 
-### [CLICK HERE to see #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
+### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
+
+#### Here is a glimpse of video presentations
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://youtu.be/ljyyc8xzIak)
 
