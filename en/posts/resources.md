@@ -139,7 +139,7 @@ tags:
   </div>
 </div>
 
-#### [ISOSC CODATA China 2023 | IPCC WG3 Chapter 08](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+#### [ISOSC CODATA China 2023 | IPCC WG3 Chapter 08](https://www.youtube.com/watch?v=zKs-qEggg7Y)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/zKs-qEggg7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -148,7 +148,7 @@ tags:
   </div>
 </div>
 
-#### [ISOSC CODATA China 2023 | IPCC AR6 Overview](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=4s)
+#### [ISOSC CODATA China 2023 | IPCC AR6 Overview](https://www.youtube.com/watch?v=Pz3ne1JnOt8&list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&t=1s)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/Pz3ne1JnOt8?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
