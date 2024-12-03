@@ -16,15 +16,15 @@ The program is highly interactive and filled with fun. The students will be doin
 
 #semanticClimate has been associating with the BASF to make students aware of the climate knowledge. 
 
-## Event Details
+## Informations about Event
 
 ### Event Name
 
-**BASF KID'S LAB**
+#### BASF KID'S LAB
 
 ### Date
 
-**17-30 January, 2025**
+#### 17-30 January, 2025
 
 ### Location
 
@@ -38,7 +38,7 @@ The program is highly interactive and filled with fun. The students will be doin
 
 - Total number of Volunteers/mentors required : 35-45
 - 2/3 Mentors per batch of 10 students
-- Volunteer Mentor Task: Explain/Describe/Run five very basic climate experiments (on water fire air earth and waste) 
+- **Volunteer Mentor Task:** Explain/Describe/Run five very basic climate experiments (on water fire air earth and waste) 
 
 #### BASF (Organizer) will provide to each volunteer
 
