@@ -40,13 +40,13 @@ The program is highly interactive and filled with fun. The students will be doin
 - 2/3 Mentors per batch of 10 students
 - **Volunteer Mentor Task:** Explain/Describe/Run five very basic climate experiments (on water fire air earth and waste) 
 
-#### BASF (Organizer) will provide to each volunteer
+### BASF (Organizer) will provide to each volunteer
 
 - Prior training
 - Daily snacks (Morning and Evening)
 - Lunch
 - Certificate 
-- Small stipend of 12K INR for participation
+- **Stipend of 12K INR for participation**
 - Bus transport to/from Venue if all volunteers can assemble in one or two specific locations
 
 ### Sign Up to Volunteer
