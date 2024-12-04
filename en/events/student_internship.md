@@ -47,7 +47,7 @@ This is a 6-Week rolling online internship program where the students can join i
 
 2. **Who is eligible to apply?**
 
-- Students from grades 9-12 from any school. 
+- Students from grades/classes 9-12 from any school. 
 
 3. **How many students in one batch?**
 
@@ -59,11 +59,11 @@ This is a 6-Week rolling online internship program where the students can join i
 
 5. **Do I need laptop/desktop for this internship?**
 
-- Yes, As it is online program, so it does require laptop or desktop machine with good internet connection.
+- Yes, as it is online program, it does require laptop or desktop machine with good internet connection.
 
 6. **Is this a paid internship?**
 
-- No, this internship is for valuable learning experiences only.
+- No, this internship is for valuable learning experiences.
 
 7. **Is there any fee for doing this internship?**
 
@@ -71,13 +71,13 @@ This is a 6-Week rolling online internship program where the students can join i
 
 8. **Do I need any prior experience?**
 
-- No, But you should have prior experience of working online on computer.
+- No, but you should have prior experience of working online on computer.
 
 9. **Who can I contact for more information?**
 
 - You can send email to **semanticclimate@gmail.com**
 
-10. ***Do I have to submit report?**
+10. **Do I have to submit report?**
 
 - Yes, the documentation is required and you have to submit short report at the end of the internship.
 
