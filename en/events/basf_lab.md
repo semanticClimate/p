@@ -51,7 +51,7 @@ The program is highly interactive and filled with fun. The students will be doin
 
 ### Sign Up to Volunteer
 
-#### to be updated soon
+#### [CLICK HERE](https://bit.ly/SignUp4KidsLab)
 
 
 
