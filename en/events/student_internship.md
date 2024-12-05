@@ -21,6 +21,8 @@ This is a 6-Week rolling online internship program where the students can join i
 
 - **Starting from January, 2025**
 
+#### Time: 1-2 hr session from Monday to Friday (Working Days)
+
 #### Mode of Internship
 - **Online**
 
