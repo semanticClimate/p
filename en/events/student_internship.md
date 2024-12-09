@@ -1,8 +1,8 @@
 ---
 title: AI for Climate | Igniting High Schoolers for a Sustainable Future
-date: 2025-01-01
+date: 2025-04-01
 featured: true
-description: A 6-Week Rolling Online Internship Program for School Students 
+description: An Online Internship Program for School Students 
 tags:
   - semanticclimate
   - outreach
@@ -11,7 +11,7 @@ tags:
 
 The Internship program has been designed for high school students to explore various technology used to understand climate knowledge and AI over climate literature.
 
-This is a 6-Week rolling online internship program where the students can join internship throughout the year.
+This is a 6-Week online internship program where the students can join internship throughout the year.
 
 ### Program Highlights
 
@@ -19,11 +19,11 @@ This is a 6-Week rolling online internship program where the students can join i
 
 #### Date
 
-- **Starting from January, 2025**
+- **to be updated**
 
 #### Time 
 
-- **1-2 hr session from Monday to Friday (Working Days)**
+- **1-2 hr session (Working Days)**
 
 #### Mode of Internship
 - **Online**
