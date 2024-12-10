@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-09T07:21:02Z</updated>
+	<updated>2024-12-10T06:55:12Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -577,6 +577,10 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<id>/p/en/posts/Interns_project/</id>
 		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.&lt;/p&gt;
+&lt;h3&gt;Active Interns&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;semantic Dictionary (xml / html) from the wordlists for different IPCC/ar6/chapters&lt;/h2&gt;
 &lt;h3&gt;wg2, Chapter 08: Poverty, livelihoods and sustainable development&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Nitika Baghel&lt;/strong&gt;&lt;/p&gt;
@@ -585,6 +589,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/test/resources/wordlists/wg2_chap8.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/xml/wg2_chap8.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1jnk2S9N3fbZEYK2JMXlotNFYo8KYvqB7/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg1, Chapter 08: Water Cycle Changes&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Sravya Sattisetti&lt;/strong&gt;&lt;/p&gt;
@@ -612,12 +617,14 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/test/resources/wordlists/food_ecosystem.txt&quot;&gt;Wordlists&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/xml/food_ecosystem.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1N6TOFxkBc-znoZw_le9ri4h_PVAfT8Eg/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg1, Chapter 03: Human Influence on the Climate System&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Smriti&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/&quot;&gt;wg1, Chapter 03: Human Influence on the Climate System&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vGTCPxO6l7xLBhNPr8ACge0IgteTiA1q/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
@@ -746,7 +753,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;See the &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;resource page&lt;/a&gt; of &lt;a href=&quot;https://semanticclimate.github.io/p/en/&quot;&gt;#semanticClimate&lt;/a&gt; website.&lt;/li&gt;
 &lt;li&gt;Attend daily Zoom meetings.&lt;/li&gt;
 &lt;li&gt;Report problems to the specific &lt;code&gt;github repositories&lt;/code&gt; as an issue with full description.&lt;/li&gt;
-&lt;li&gt;Update &lt;code&gt;daily progress sheet&lt;/code&gt; (&lt;strong&gt;what I DID, what I WILL do, What&#39;s BLOCKING me&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Update &lt;code&gt;daily progress sheet&lt;/code&gt; (&lt;strong&gt;what I DID, what I WILL do, What&#39;s BLOCKING me&lt;/strong&gt;): &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1q7LCvplWFlZERCv791IGcEEwjJzmy7fp/edit?usp=sharing&amp;amp;ouid=103728494708026978305&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Share weekly reports on every Friday.&lt;/li&gt;
 &lt;li&gt;Join our &lt;strong&gt;Slack&lt;/strong&gt; workspace that’s where we coordinate with team members and others.&lt;/li&gt;
 &lt;li&gt;Update your unavailability for meeting in #coordination channel of Slack.&lt;/li&gt;
