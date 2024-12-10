@@ -118,7 +118,7 @@ Here are some essential `git` commands along with descriptions of their function
 * See the [resource page](https://semanticclimate.github.io/p/en/posts/resources/) of [#semanticClimate](https://semanticclimate.github.io/p/en/) website.
 * Attend daily Zoom meetings.
 * Report problems to the specific `github repositories` as an issue with full description.
-* Update `daily progress sheet` (**what I DID, what I WILL do, What's BLOCKING me**)
+* Update `daily progress sheet` (**what I DID, what I WILL do, What's BLOCKING me**): [CLICK HERE](https://docs.google.com/spreadsheets/d/1q7LCvplWFlZERCv791IGcEEwjJzmy7fp/edit?usp=sharing&ouid=103728494708026978305&rtpof=true&sd=true)
 * Share weekly reports on every Friday.
 * Join our **Slack** workspace that’s where we coordinate with team members and others.
 * Update your unavailability for meeting in #coordination channel of Slack.

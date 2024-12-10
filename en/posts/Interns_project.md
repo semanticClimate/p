@@ -13,6 +13,10 @@ tags:
 
 This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.
 
+### Active Interns
+
+- **Parijat Bhadra**
+
 
 ## semantic Dictionary (xml / html) from the wordlists for different IPCC/ar6/chapters 
 
@@ -24,6 +28,7 @@ analysed by **Nitika Baghel**
  - [list of words](https://github.com/petermr/amilib/blob/nitika_test/test/resources/wordlists/wg2_chap8.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/nitika_test/temp/words/xml/wg2_chap8.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html)
+ - [**Completion Report**](https://drive.google.com/file/d/1jnk2S9N3fbZEYK2JMXlotNFYo8KYvqB7/view?usp=sharing)
 
 ### wg1, Chapter 08: Water Cycle Changes
 
@@ -54,11 +59,13 @@ analysed by **Anmol Negi**
  - [Wordlists](https://github.com/petermr/amilib/blob/anmol_test/test/resources/wordlists/food_ecosystem.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/anmol_test/temp/words/xml/food_ecosystem.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html)
+ - [**Completion Report**](https://drive.google.com/file/d/1N6TOFxkBc-znoZw_le9ri4h_PVAfT8Eg/view?usp=sharing)
   
 ### wg1, Chapter 03: Human Influence on the Climate System
 
 analysed by **Smriti**
 
  - [wg1, Chapter 03: Human Influence on the Climate System](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/)
- - [list of words](https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt) 
+ - [list of words](https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt)
+ - [**Completion Report**](https://drive.google.com/file/d/1vGTCPxO6l7xLBhNPr8ACge0IgteTiA1q/view?usp=sharing) 
   
