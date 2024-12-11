@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-11T08:16:51Z</updated>
+	<updated>2024-12-11T09:17:37Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,9 +13,9 @@
 	</author>
 	
 	<entry>
-		<title>Analysis of Climate Reports</title>
+		<title>Overview of the Dictionary</title>
 		<link href="/p/en/posts/dict_climate/"/>
-		<updated>2024-12-10T00:00:00Z</updated>
+		<updated>2024-12-11T00:00:00Z</updated>
 		<id>/p/en/posts/dict_climate/</id>
 		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 </content>
@@ -1800,17 +1800,17 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;table style=&quot;border-spacing: 25px;&quot;&gt;
+&lt;!-- &lt;table style=&quot;border-spacing: 25px;&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
-    &lt;td&gt;
-      &lt;a href=&quot;../../posts/outreach/&quot;&gt;
-        &lt;img src=&quot;/p/static/img/resource10.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/td&gt;
-    &lt;!-- Second clickable image linked to another page (optional) --&gt;  
-  &lt;/tr&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;td&gt;
+&lt;a href=&quot;../../posts/outreach/&quot;&gt;
+&lt;img src=&quot;/p/static/img/resource10.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;!-- Second clickable image linked to another page (optional) --&gt;&lt;/p&gt;
+  
+ --&gt;
 &lt;h3&gt;Resources from various Datathons/Hackathons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
