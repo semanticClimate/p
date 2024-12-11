@@ -102,7 +102,7 @@ tags:
   </tr>
 </table>
 
-<table style="border-spacing: 25px;">
+<!-- <table style="border-spacing: 25px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
     <td>
@@ -112,7 +112,7 @@ tags:
     </td>
     <!-- Second clickable image linked to another page (optional) -->  
   </tr>
-</table>
+</table> -->
 
 ### Resources from various Datathons/Hackathons
 

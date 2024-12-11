@@ -31,7 +31,7 @@ Following are the different categories of sessions and activities in the event:
 - Stands (connect with developers or project members)
 - BOFs (Birds Of a Feather): Networking Opportunities
 
-**Peter Murray-Rust**, a co-founder of **#semanticClimate** will be participating in this event and will give a talk about open source softwares.
+**Peter Murray-Rust**, a co-founder of **#semanticClimate** will be participating in this event and will give a talk on open source softwares. He will also showcase the open source semanticClimate tools (`pygetpapers`, `amilib`, `docanalysis`).
 
 
 ### Date

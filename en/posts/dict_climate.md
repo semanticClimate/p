@@ -1,9 +1,9 @@
 ---
-title: Analysis of Climate Reports 
-date: 2024-12-10
-description: All the projects with semanticClimate
+title: Overview of the Dictionary
+date: 2024-12-11
+description: Collection of Wikidata-based dictionaries for scientific annotation and searching
 author: RK 
-summary: What we do at semanticClimate
+summary: To promote climate literacy
 hide: true
 tags:
   - hackathon
