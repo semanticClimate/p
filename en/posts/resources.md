@@ -96,7 +96,7 @@ tags:
     <!-- Third clickable image linked to another page (optional) -->
     <td>
       <a href="../../posts/lit_search/">
-        <img src='{{ "/static/img/rresource3.jpg" | url }}' width="300" height="200" alt="pygetpapers" style="border-radius: 15px;">
+        <img src='{{ "/static/img/resource3.jpg" | url }}' width="300" height="200" alt="pygetpapers" style="border-radius: 15px;">
       </a>
     </td>
   </tr>
