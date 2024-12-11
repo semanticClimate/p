@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>tutorial for amilib usage | #semanticClimate</title>
-  <meta name="description" content="Python library designed for document processing, and dictionary creation">
+  <title>Analysis of Climate Reports | #semanticClimate</title>
+  <meta name="description" content="All the projects with semanticClimate">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/p/static/css/main.css" media="all">
@@ -92,11 +92,11 @@
 
   
 <div class="container">
-  <h1>tutorial for amilib usage</h1>
+  <h1>Analysis of Climate Reports</h1>
   
     
       <div class="post-meta">
-        <time>22 Oct, 2024</time>
+        <time>10 Dec, 2024</time>
         <span class="post-author">by RK</span>
       </div>
     
@@ -104,46 +104,46 @@
     
   
 
-  <h4><strong><code>amilib</code></strong> is a tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.). It is a Python library designed for document processing, and dictionary creation.</h4>
+  <h2>Introduction</h2>
+<p>This is the summary of the projects semanticClimate is doing.</p>
+<p>This will give the idea about how to start with any climate report published in pdf that is not machine readable and also not in semantic form.</p>
+<h3>Wikimedia Enhanced Dictionary</h3>
+<h4>Selecting/Choosing a chapter of IPCC report</h4>
 <ul>
 <li>
-<p>Developed by <strong>Peter Murray-Rust</strong>, #semanticClimate Co-Founder</p>
+<p><a href="https://github.com/petermr/amilib/tree/main/test/resources/ipcc/cleaned_content">All the chapters in semantic HTML</a></p>
 </li>
 <li>
-<p><code>amilib</code> can create:</p>
+<p>Use html_with_ids.html for all the chapters in different working groups.</p>
+</li>
+</ul>
+<h4>Extracting Keywords from the Chapter</h4>
 <ul>
-<li>Wikimedia enhanced dictionaries from existing set of words.</li>
-<li>JQuery Datatables from the scientific literature corpus</li>
+<li>The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor.</li>
 </ul>
-</li>
-<li>
-<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/amilib">github</a></p>
-</li>
-</ul>
-<h3><strong>Installation</strong></h3>
+<h4>Creating Wikimedia enhanced dictionary from the wordlist</h4>
+<p>Here are the steps to create dictionary from the words.</p>
 <ul>
 <li>
-<p>Use the code <code>pip install amilib</code> to install <code>amilib</code></p>
+<p>Step 1: Use the code <strong>pip install amilib</strong> to install amilib in the terminal.
+<code>pip install amilib</code></p>
 </li>
 <li>
-<p>Check the successful installation with command : <code>amilib --help</code>. You should see a help message come up.</p>
+<p>Step 2: Use the following code for creating dictionary.</p>
 </li>
 </ul>
-<h3><strong>Tutorials (Jupyter Notebook/Colab Notebook)</strong></h3>
+<p><code>amilib DICT --words list_of_words.txt --description wikipedia --dict output_dict.html --figures --operation create</code></p>
 <ul>
-<li>
-<h4><a href="https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi">Creating Wikimedia enhanced dictionary from wordlist</a></h4>
-</li>
-<li>
-<h4><a href="https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF">Creating Dictionary having figures from Wikipedia</a></h4>
-</li>
-<li>
-<h4><a href="https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx">Creating JQuery Datatables from the scientific literature corpus</a></h4>
-</li>
-<li>
-<h4><a href="https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9">Climate report annotated with dictionary</a></h4>
-</li>
+<li>input file : list_of_words.txt</li>
+<li>output file : output_dict.html</li>
 </ul>
+<p>This will create dictionary in html enriched with information from Wikipedia with figures related to the term.</p>
+<h4>Colab notebook for creating dictionary</h4>
+<p><a href="https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF">CLICK HERE</a></p>
+<p>In the Colab notebook, the wordlist in txt file is uploaded from the local system and then the dictionary is created from code mentioned in the code cell of the note book. All the steps were given in the Colab notebook for easy usage of the tool <code>amilib</code></p>
+<h3>Climate Report Annotated with Dictionary</h3>
+<p>The different chapters from the IPCC contains nmany words that are difficult to understand while reading the report. So, the dictionary has been created for those words that are enriched with Wikipedia information alongwith the figures. This dictionary has been used to annotate chapters. Annotated report makes it easily understandable to any group of the people.</p>
+<p>The steps has been demonstrated in the colab notebook. <a href="https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9">CLICK HERE</a></p>
 
 
   
