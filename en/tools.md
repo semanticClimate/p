@@ -40,6 +40,8 @@ Check the successful installation with command : `amilib --help`. You should see
   - [Creating Wikimedia enhanced dictionary with amilib from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
   
   - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+
+#### [CLICK HERE for more tutorials](https://semanticclimate.github.io/p/en/posts/ami_tutorial/)
  
 
 ### ```amiclimate```
