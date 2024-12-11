@@ -27,8 +27,8 @@ tags:
     </td>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
-      <a href="../../posts/lit_search/">
-        <img src='{{ "/static/img/resource3.jpg" | url }}' width="300" height="200" alt="pygetpapers" style="border-radius: 15px;">
+      <a href="../../posts/climate_project/">
+        <img src='{{ "/static/img/resource13.jpg" | url }}' width="300" height="200" alt="analysis" style="border-radius: 15px;">
       </a>
     </td>
   </tr>
@@ -95,10 +95,22 @@ tags:
     </td>
     <!-- Third clickable image linked to another page (optional) -->
     <td>
-      <a href="../../posts/outreach/">
-        <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
+      <a href="../../posts/lit_search/">
+        <img src='{{ "/static/img/rresource3.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
       </a>
     </td>
+  </tr>
+</table>
+
+<table style="border-spacing: 25px;">
+  <tr>
+    <!-- First clickable image linked to pos/test.md -->
+    <td>
+      <a href="../../posts/outreach/">
+        <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="presentations" style="border-radius: 15px;">
+      </a>
+    </td>
+    <!-- Second clickable image linked to another page (optional) -->  
   </tr>
 </table>
 
