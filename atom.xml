@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-11T09:17:37Z</updated>
+	<updated>2024-12-11T09:34:47Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1803,14 +1803,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;!-- &lt;table style=&quot;border-spacing: 25px;&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
-&lt;p&gt;&lt;td&gt;
-&lt;a href=&quot;../../posts/outreach/&quot;&gt;
-&lt;img src=&quot;/p/static/img/resource10.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot; /&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;!-- Second clickable image linked to another page (optional) --&gt;&lt;/p&gt;
-  
- --&gt;
+&lt;p&gt;&lt;!-- &lt;td&gt; --&gt;
+&lt;!-- &lt;a href=&quot;../../posts/outreach/&quot;&gt; --&gt;
+&lt;!-- &lt;img src=&#39;/p/static/img/resource10.jpg&#39; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot;&gt; --&gt;
+&lt;!-- &lt;/a&gt; --&gt;
+&lt;!-- &lt;/td&gt; --&gt;&lt;/p&gt;
+  &lt;!-- &lt;/tr&gt; --&gt;
+&lt;!-- &lt;/table&gt; --&gt; --&gt;
 &lt;h3&gt;Resources from various Datathons/Hackathons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
