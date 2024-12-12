@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-12T10:51:38Z</updated>
+	<updated>2024-12-12T11:03:03Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -38,24 +38,18 @@
 		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Dictionary is a collection of terms and their corresponding definitions or explanations.&lt;/p&gt;
 &lt;p&gt;The words/terms are enriched with definition and description from Wikipedia alongwith the figures.&lt;/p&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/petermr/dictionary&quot;&gt;Github Repository&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;The dictionary must have unique &lt;strong&gt;&lt;code&gt;id&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/petermr/dictionary&quot;&gt;Github Repository for Dictionary&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;How to create dictionary from the list of words&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Tool used to create: &lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Colab Notebook: &lt;a href=&quot;https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4&gt;Tool used to create: &lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Colab Notebook:&lt;/strong&gt; &lt;a href=&quot;https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Dictionaries for different Chapters from IPCC&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/xml/climate_words_dict.xml&quot;&gt;Dictionary for AR6_WG1_Chapter05&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;AR6_WG2_Chapter08&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;AR6_WG1_Chap08&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;AR6_WG2_Chap05&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/blob/main/dictionary_wg1chap03.html&quot;&gt;AR6_WG2_Chap03&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/xml/climate_words_dict.xml&quot;&gt;AR6_WG1_Chapter05:Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;AR6_WG2_Chapter08: Poverty, livelihoods and sustainable development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;AR6_WG1_Chap08: Water Cycle Changes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;AR6_WG2_Chap05: Food, Fibre and Other Ecosystem Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://html-preview.github.io/?url=https://github.com/semanticClimate/ipcc/blob/main/dictionary_wg1chap03.html&quot;&gt;AR6_WG1_Chap03: Human Influence on the Climate System&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Dictionary enriched with information and figures from Wikipedia&lt;/h3&gt;
 &lt;table&gt;
