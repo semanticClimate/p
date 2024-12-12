@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-12T04:57:19Z</updated>
+	<updated>2024-12-12T08:54:21Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -39,7 +39,14 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;AR6_WG1_Chap08&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;AR6_WG2_Chap05&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
+&lt;h3&gt;Dictionary enriched with information and figures from Wikipedia&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/dict_pic1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content>
 	</entry>
 	
 	<entry>
@@ -1843,7 +1850,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;!-- &lt;/a&gt; --&gt;
 &lt;!-- &lt;/td&gt; --&gt;&lt;/p&gt;
   &lt;!-- &lt;/tr&gt; --&gt;
-&lt;!-- &lt;/table&gt; --&gt; --&gt;
+&lt;!-- &lt;/table&gt; --&gt; 
 &lt;h3&gt;Resources from various Datathons/Hackathons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -3146,7 +3153,7 @@ And that&#39;s where &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com
 &lt;br /&gt;&lt;/p&gt;
 &lt;h1&gt;Looking for a meaningful challenge?&lt;/h1&gt;
 &lt;h2&gt;Join our coding crew!&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;We&#39;re looking for smart-thinking, enthusiastic volunteers&lt;/strong&gt; keen on helping us transform climate science and policy information into action. Are &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;you or someone you know&lt;/a&gt; one of them?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We&#39;re looking for smart-thinking, enthusiastic volunteers&lt;/strong&gt; keen on helping us transform climate science and policy information into action.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We&#39;re looking for:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;&lt;strong&gt;CODERS&lt;/strong&gt;&lt;/a&gt; skilled in python, HTML&lt;/li&gt;
@@ -3158,8 +3165,13 @@ And that&#39;s where &lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com
 &lt;li&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;&lt;strong&gt;COMMUNICATIONS PLATFORM ARCHITECTS/MANAGERS&lt;/strong&gt;&lt;/a&gt; to help develop and attract people to interrelated networks of communities and facilitate participation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Contact us!&lt;/h2&gt;
+&lt;h3&gt;Join as Volunteer!&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;Introduce yourself&lt;/a&gt; to us, and we&#39;ll introduce you to the world of difference you can make — given the right opportunity!&lt;/p&gt;
-&lt;h1&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;&lt;strong&gt;Just click here to begin.&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;a href=&quot;mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&amp;body=I want to volunteer for the #semanticClimate task force!&quot;&gt;&lt;strong&gt;Just click here to begin as Volunteer.&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Join as an Intern!&lt;/h3&gt;
+&lt;h4&gt;&lt;strong&gt;The internship requires a minimum duration of 12 weeks, with daily sessions lasting 1-2 hours on weekdays.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&amp;body=I want to do internship and contribute to the climate knowledge!&quot;&gt;Introduce yourself&lt;/a&gt; to us, and we&#39;ll introduce you to the world of difference you can make — given the right opportunity!&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&amp;body=I want to do internship and contribute to the climate knowledge!&quot;&gt;&lt;strong&gt;Just click here to begin as an Intern.&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
 </content>
 	</entry>
 	
