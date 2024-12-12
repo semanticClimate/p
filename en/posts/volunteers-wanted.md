@@ -28,7 +28,7 @@ And that's where <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I w
 
 # The _#semanticClimate_ task force needs YOU!!
 
-[#semanticClimate](https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](http://www.semantictoolkit.org) that releases climate-related knowledge from PDF prison.
+[#semanticClimate](https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](https://semanticclimate.github.io/p/en/tools/) that releases climate-related knowledge from PDF prison.
 
 ## **OUR** MISSION
 
@@ -53,7 +53,7 @@ We transform and enrich climate-related documents to make them understandable, u
 
 ## Join our coding crew!
 
-**We're looking for smart-thinking, enthusiastic volunteers** keen on helping us transform climate science and policy information into action.
+**We're looking for smart-thinking, enthusiastic interns/volunteers** keen on helping us transform climate science and policy information into action.
 
 **We're looking for:**
 
