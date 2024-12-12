@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-11T09:34:47Z</updated>
+	<updated>2024-12-12T04:57:19Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -18,6 +18,27 @@
 		<updated>2024-12-11T00:00:00Z</updated>
 		<id>/p/en/posts/dict_climate/</id>
 		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Dictionary is a collection of terms and their corresponding definitions or explanations.&lt;/p&gt;
+&lt;p&gt;The words/terms are enriched with definition and description from Wikipedia alongwith the figures.&lt;/p&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/petermr/dictionary&quot;&gt;Github Repository&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The dictionary must have unique &lt;strong&gt;&lt;code&gt;id&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;How to create dictionary from the list of words&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tool used to create: &lt;strong&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Colab Notebook: &lt;a href=&quot;https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Examples of Dictionaries&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/plant/eoplant_part.xml&quot;&gt;Dictionary for plant parts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/xml/climate_words_dict.xml&quot;&gt;Dictionary for AR6_WG1_Chapter05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;AR6_WG2_Chapter08&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;AR6_WG1_Chap08&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;AR6_WG2_Chap05&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 	</entry>
 	
@@ -43,16 +64,14 @@
 &lt;ul&gt;
 &lt;li&gt;The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Creating Wikimedia enhanced dictionary from the wordlist&lt;/h4&gt;
+&lt;h3&gt;Creating Wikimedia enhanced dictionary from the wordlist&lt;/h3&gt;
 &lt;p&gt;Here are the steps to create dictionary from the words.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Step 1: Use the code &lt;strong&gt;pip install amilib&lt;/strong&gt; to install amilib in the terminal.
-&lt;code&gt;pip install amilib&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Step 2: Use the following code for creating dictionary.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Step 1: Use the code &lt;strong&gt;pip install amilib&lt;/strong&gt; to install amilib in the terminal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;pip install amilib&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 2: Use the following code for creating dictionary.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;code&gt;amilib DICT --words list_of_words.txt --description wikipedia --dict output_dict.html --figures --operation create&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -60,12 +79,27 @@
 &lt;li&gt;output file : output_dict.html&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This will create dictionary in html enriched with information from Wikipedia with figures related to the term.&lt;/p&gt;
-&lt;h4&gt;Colab notebook for creating dictionary&lt;/h4&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/dict_pic1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Colab notebook for creating dictionary&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In the Colab notebook, the wordlist in txt file is uploaded from the local system and then the dictionary is created from code mentioned in the code cell of the note book. All the steps were given in the Colab notebook for easy usage of the tool &lt;code&gt;amilib&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Climate Report Annotated with Dictionary&lt;/h3&gt;
-&lt;p&gt;The different chapters from the IPCC contains nmany words that are difficult to understand while reading the report. So, the dictionary has been created for those words that are enriched with Wikipedia information alongwith the figures. This dictionary has been used to annotate chapters. Annotated report makes it easily understandable to any group of the people.&lt;/p&gt;
-&lt;p&gt;The steps has been demonstrated in the colab notebook. &lt;a href=&quot;https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The different chapters from the IPCC contains many words that are difficult to understand while reading the report. So, the dictionary has been created for those words that are enriched with Wikipedia information alongwith the figures. This dictionary has been used to annotate chapters. Annotated report makes it easily understandable to any group of the people.&lt;/p&gt;
+&lt;p&gt;The steps has been demonstrated in the colab notebook.&lt;/p&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/markup_chap03.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 </content>
 	</entry>
 	
