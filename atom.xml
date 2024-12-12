@@ -5,12 +5,30 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-12T09:41:33Z</updated>
+	<updated>2024-12-12T10:51:38Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Team Publications | Showcasing Our Achievements</title>
+		<link href="/p/en/posts/sc_publ/"/>
+		<updated>2024-12-12T00:00:00Z</updated>
+		<id>/p/en/posts/sc_publ/</id>
+		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This page highlights the contributions and achievements of our interns, volunteers, and team members.&lt;/p&gt;
+&lt;p&gt;This includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;journal publications&lt;/li&gt;
+&lt;li&gt;Presentations and Workshops&lt;/li&gt;
+&lt;li&gt;work on climate reports etc......&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Journal Publications&lt;/h3&gt;
+&lt;h5&gt;- &lt;a href=&quot;https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641&quot;&gt;The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation&lt;/a&gt;&lt;/h5&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Overview of the Dictionary</title>
@@ -31,13 +49,13 @@
 &lt;p&gt;Colab Notebook: &lt;a href=&quot;https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Examples of Dictionaries&lt;/h3&gt;
+&lt;h3&gt;Dictionaries for different Chapters from IPCC&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/plant/eoplant_part.xml&quot;&gt;Dictionary for plant parts&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/xml/climate_words_dict.xml&quot;&gt;Dictionary for AR6_WG1_Chapter05&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;AR6_WG2_Chapter08&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;AR6_WG1_Chap08&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;AR6_WG2_Chap05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/ipcc/blob/main/dictionary_wg1chap03.html&quot;&gt;AR6_WG2_Chap03&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Dictionary enriched with information and figures from Wikipedia&lt;/h3&gt;
 &lt;table&gt;
@@ -46,7 +64,8 @@
       &lt;img src=&quot;/p/static/img/dict_pic1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+</content>
 	</entry>
 	
 	<entry>
@@ -1841,16 +1860,26 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;!-- &lt;table style=&quot;border-spacing: 25px;&quot;&gt;
+&lt;table style=&quot;border-spacing: 25px;&quot;&gt;
   &lt;tr&gt;
     &lt;!-- First clickable image linked to pos/test.md --&gt;
-&lt;p&gt;&lt;!-- &lt;td&gt; --&gt;
-&lt;!-- &lt;a href=&quot;../../posts/outreach/&quot;&gt; --&gt;
-&lt;!-- &lt;img src=&#39;/p/static/img/resource10.jpg&#39; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot;&gt; --&gt;
-&lt;!-- &lt;/a&gt; --&gt;
-&lt;!-- &lt;/td&gt; --&gt;&lt;/p&gt;
-  &lt;!-- &lt;/tr&gt; --&gt;
-&lt;!-- &lt;/table&gt; --&gt; 
+    &lt;td&gt;
+      &lt;a href=&quot;../../posts/outreach/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource10.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;presentations&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;a href=&quot;../../posts/dict_climate/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource14.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;dictionary&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;a href=&quot;../../posts/sc_publ/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource15.jpg&quot; width=&quot;300&quot; height=&quot;200&quot; alt=&quot;publications&quot; style=&quot;border-radius: 15px;&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt; 
+&lt;/table&gt;
 &lt;h3&gt;Resources from various Datathons/Hackathons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
