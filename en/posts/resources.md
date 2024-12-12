@@ -102,16 +102,26 @@ tags:
   </tr>
 </table>
 
-<!-- <table style="border-spacing: 25px;">
+<table style="border-spacing: 25px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
-    <!-- <td> -->
-      <!-- <a href="../../posts/outreach/"> -->
-        <!-- <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="presentations" style="border-radius: 15px;"> -->
-      <!-- </a> -->
-    <!-- </td> -->
-  <!-- </tr> -->
-<!-- </table> --> 
+    <td>
+      <a href="../../posts/outreach/">
+      <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="presentations" style="border-radius: 15px;">
+      </a>
+    </td>
+    <td>
+      <a href="../../posts/dict_climate/">
+      <img src='{{ "/static/img/resource14.jpg" | url }}' width="300" height="200" alt="dictionary" style="border-radius: 15px;">
+      </a>
+    </td>
+    <td>
+      <a href="../../posts/sc_publ/">
+      <img src='{{ "/static/img/resource15.jpg" | url }}' width="300" height="200" alt="publications" style="border-radius: 15px;">
+      </a>
+    </td>
+  </tr> 
+</table>
 
 ### Resources from various Datathons/Hackathons
 

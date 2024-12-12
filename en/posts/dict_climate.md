@@ -25,13 +25,13 @@ The dictionary must have unique **`id`**.
   
 - Colab Notebook: [CLICK HERE](https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF)
 
-### Examples of Dictionaries
+### Dictionaries for different Chapters from IPCC 
 
-- [Dictionary for plant parts](https://github.com/petermr/amilib/blob/parijat_test/test/resources/plant/eoplant_part.xml)
 - [Dictionary for AR6_WG1_Chapter05](https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/xml/climate_words_dict.xml)
 - [AR6_WG2_Chapter08](https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html)
 - [AR6_WG1_Chap08](https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html)
 - [AR6_WG2_Chap05](https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html)
+- [AR6_WG2_Chap03](https://github.com/semanticClimate/ipcc/blob/main/dictionary_wg1chap03.html)
 
 
 ### Dictionary enriched with information and figures from Wikipedia
@@ -43,3 +43,4 @@ The dictionary must have unique **`id`**.
     </td>
   </tr>
 </table>
+
