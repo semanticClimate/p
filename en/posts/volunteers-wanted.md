@@ -22,7 +22,7 @@ As if the sheer volume and complexity of the information weren't enough, the [PD
 2. **An untapped wealth of knowledge remains buried in the document's rich text, charts, graphs and images**. It must therefore be made machine-readable so that it can be mined, extracted, and exported to new and potentially planet-saving uses.
 
 We need to not only remove these obstacles, we need to create entirely new possibilities! 
-And that's where <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">**_YOU_**</a> come into the picture!
+And that's where **YOU** come into the picture!
 <br>
 <br>
 
@@ -34,7 +34,7 @@ And that's where <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I w
 
 We transform and enrich climate-related documents to make them understandable, useful, and accessible to anyone and everyone— be they citizens, scientists, or policy-makers.
 
-## **YOUR** <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">MISSION</a> _(should you choose to accept it...)_
+## **YOUR** MISSION _(should you choose to accept it...)_
 
 **Join us! Apply your skills!** Be a part of building and enhancing powerful new tools that take information and transforms it into new, structured, filtered, and actionable knowledge!
 
@@ -45,7 +45,7 @@ We transform and enrich climate-related documents to make them understandable, u
 - **creating specialized dictionaries and glossaries** linking those terms to wikidata entries containing their definition; and,
 - **semantically enriching the converted HTML with annotations linked to the wikidata** so that anyone can simply click on, or mouse-over an unknown term to learn their meaning, thus making comprehension of these critically important documents available to everyone — even machines!
 
-**_And this is just the beginning!_** Imagine what will be possible with <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">**_YOU_**</a> on our team!
+**_And this is just the beginning!_** Imagine what will be possible with **YOU** on our team!
 <br>
 <br>
 
