@@ -53,7 +53,7 @@ We transform and enrich climate-related documents to make them understandable, u
 
 ## Join our coding crew!
 
-**We're looking for smart-thinking, enthusiastic volunteers** keen on helping us transform climate science and policy information into action. Are <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">you or someone you know</a> one of them?
+**We're looking for smart-thinking, enthusiastic volunteers** keen on helping us transform climate science and policy information into action.
 
 **We're looking for:**
 
@@ -67,6 +67,17 @@ We transform and enrich climate-related documents to make them understandable, u
 
 ## Contact us!
 
+### Join as Volunteer!
+
 <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">Introduce yourself</a> to us, and we'll introduce you to the world of difference you can make — given the right opportunity!
 
-# <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">**Just click here to begin.**</a>
+## <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">**Just click here to begin as Volunteer.**</a>
+
+### Join as an Intern!
+
+#### **The internship requires a minimum duration of 12 weeks, with daily sessions lasting 1-2 hours on weekdays.**
+
+<a href="mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&body=I want to do internship and contribute to the climate knowledge!">Introduce yourself</a> to us, and we'll introduce you to the world of difference you can make — given the right opportunity!
+
+## <a href="mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&body=I want to do internship and contribute to the climate knowledge!">**Just click here to begin as an Intern.**</a>
+

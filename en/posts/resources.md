@@ -111,7 +111,7 @@ tags:
       <!-- </a> -->
     <!-- </td> -->
   <!-- </tr> -->
-<!-- </table> --> -->
+<!-- </table> --> 
 
 ### Resources from various Datathons/Hackathons
 

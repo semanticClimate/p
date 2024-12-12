@@ -32,3 +32,14 @@ The dictionary must have unique **`id`**.
 - [AR6_WG2_Chapter08](https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html)
 - [AR6_WG1_Chap08](https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html)
 - [AR6_WG2_Chap05](https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html)
+
+
+### Dictionary enriched with information and figures from Wikipedia
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/dict_pic1.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
