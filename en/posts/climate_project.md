@@ -27,12 +27,13 @@ This will give the idea about how to start with any climate report published in 
 
 - The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor. 
 
-#### Creating Wikimedia enhanced dictionary from the wordlist
+### Creating Wikimedia enhanced dictionary from the wordlist
 
 Here are the steps to create dictionary from the words.
 
 - Step 1: Use the code **pip install amilib** to install amilib in the terminal.
-  ```pip install amilib```
+
+```pip install amilib```
 
 - Step 2: Use the following code for creating dictionary.
 
@@ -43,7 +44,15 @@ Here are the steps to create dictionary from the words.
 
 This will create dictionary in html enriched with information from Wikipedia with figures related to the term.
 
-#### Colab notebook for creating dictionary
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/dict_pic1.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### Colab notebook for creating dictionary
 
 [CLICK HERE](https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF)
 
@@ -51,9 +60,19 @@ In the Colab notebook, the wordlist in txt file is uploaded from the local syste
 
 ### Climate Report Annotated with Dictionary
 
-The different chapters from the IPCC contains nmany words that are difficult to understand while reading the report. So, the dictionary has been created for those words that are enriched with Wikipedia information alongwith the figures. This dictionary has been used to annotate chapters. Annotated report makes it easily understandable to any group of the people.
+The different chapters from the IPCC contains many words that are difficult to understand while reading the report. So, the dictionary has been created for those words that are enriched with Wikipedia information alongwith the figures. This dictionary has been used to annotate chapters. Annotated report makes it easily understandable to any group of the people.
 
-The steps has been demonstrated in the colab notebook. [CLICK HERE](https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9)
+The steps has been demonstrated in the colab notebook. 
+
+#### [CLICK HERE](https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9)
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/markup_chap03.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 
  
