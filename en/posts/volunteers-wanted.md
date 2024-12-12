@@ -28,7 +28,7 @@ And that's where **YOU** come into the picture!
 
 # The _#semanticClimate_ task force needs YOU!!
 
-[#semanticClimate](https://semanticclimate.github.io/p/en/posts/oaweek_getting_started/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](https://semanticclimate.github.io/p/en/tools/) that releases climate-related knowledge from PDF prison.
+[#semanticClimate](https://semanticclimate.github.io/p/en/) is an industrious, international, multi-talented group of young scientists of diverse fields. Together, we are developing a FREE open-access [toolkit](https://semanticclimate.github.io/p/en/tools/) that releases climate-related knowledge from PDF prison.
 
 ## **OUR** MISSION
 
