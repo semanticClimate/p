@@ -17,7 +17,7 @@ which are labeled. So the nodes are labeled and the edge is labled.
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/kgraph_1.png" | url }}' width="300" height="100">
+      <img src='{{ "/static/img/kgraph_1.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ So, here is linked open data:
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/kgraph_2.png" | url }}' width="300" height="100">
+      <img src='{{ "/static/img/kgraph_2.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
