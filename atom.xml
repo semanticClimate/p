@@ -5,12 +5,55 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-12T11:03:03Z</updated>
+	<updated>2024-12-13T07:06:45Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>What is Knowledge Graph?</title>
+		<link href="/p/en/posts/knowledge_graph/"/>
+		<updated>2024-12-13T00:00:00Z</updated>
+		<id>/p/en/posts/knowledge_graph/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Knowledge graphs&lt;/strong&gt; is a data store that uses the term graph to mean a network where a network nodes are connected by edges.&lt;/p&gt;
+&lt;p&gt;So in this particular example from Wikipedia we&#39;ve got a number of nodes which represent subjects and we&#39;ve got connections or links or edges between them
+which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/kgraph_1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;(Picture Source: Wikipedia)&lt;/p&gt;
+&lt;p&gt;Here we&#39;ve got something that says a dog is an animal and that&#39;s a very common relationship.&lt;/p&gt;
+&lt;p&gt;A dog is an animal.&lt;/p&gt;
+&lt;p&gt;A cow is an animal&lt;/p&gt;
+&lt;p&gt;An animal is a living thing.&lt;/p&gt;
+&lt;p&gt;A plant is a living thing.&lt;/p&gt;
+&lt;p&gt;A herb is a plant.&lt;/p&gt;
+&lt;p&gt;So those are all &lt;strong&gt;is&lt;/strong&gt; relationships.&lt;/p&gt;
+&lt;p&gt;And then we have other links. &lt;strong&gt;You can have anything on the link, but it needs to be something which will be computable.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So here we&#39;ve got an additional type of link. cows &lt;em&gt;eat&lt;/em&gt; herbs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Knowledge graphs&lt;/code&gt;&lt;/strong&gt; have been associated with linked open data.&lt;/p&gt;
+&lt;p&gt;So, here is linked open data:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/kgraph_2.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;(Picture Source: Wikipedia)&lt;/p&gt;
+&lt;p&gt;And what we have here is an indication of how widespread this concept is.&lt;/p&gt;
+&lt;p&gt;So each of these dots here is essentially a collection of related nodes with links in.&lt;/p&gt;
+&lt;p&gt;One of these might be plants but one might be genes. One might be proteins and so on. So all of the biological components are very well represented.&lt;/p&gt;
+&lt;p&gt;It can be presented in any other way that is in a computer readable form, a semantic form.&lt;/p&gt;
+&lt;p&gt;So the machine has to be able to ingest it to give output.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Team Publications | Showcasing Our Achievements</title>
