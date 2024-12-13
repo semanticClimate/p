@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-13T07:06:45Z</updated>
+	<updated>2024-12-13T07:32:13Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -23,11 +23,11 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/p/static/img/kgraph_1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/kgraph_1.png&quot; width=&quot;300&quot; height=&quot;100&quot; /&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;(Picture Source: Wikipedia)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(Picture Source: Wikipedia)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Here we&#39;ve got something that says a dog is an animal and that&#39;s a very common relationship.&lt;/p&gt;
 &lt;p&gt;A dog is an animal.&lt;/p&gt;
 &lt;p&gt;A cow is an animal&lt;/p&gt;
@@ -42,11 +42,11 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/p/static/img/kgraph_2.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/kgraph_2.png&quot; width=&quot;300&quot; height=&quot;100&quot; /&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;(Picture Source: Wikipedia)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(Picture Source: Wikipedia)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;And what we have here is an indication of how widespread this concept is.&lt;/p&gt;
 &lt;p&gt;So each of these dots here is essentially a collection of related nodes with links in.&lt;/p&gt;
 &lt;p&gt;One of these might be plants but one might be genes. One might be proteins and so on. So all of the biological components are very well represented.&lt;/p&gt;
