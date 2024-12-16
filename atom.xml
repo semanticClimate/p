@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-16T04:50:29Z</updated>
+	<updated>2024-12-16T05:57:58Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -237,7 +237,13 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;Documentation (Tutorial)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md&quot;&gt;Introduction to amilib&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Demo Tutorials (Jupyter Notebook/Colab Notebook)&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi&quot;&gt;Creating Wikimedia enhanced dictionary from wordlist&lt;/a&gt;&lt;/h4&gt;
@@ -745,9 +751,9 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;p&gt;This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.&lt;/p&gt;
 &lt;h3&gt;Active Interns&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt; (June to December 2024)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;semantic Dictionary (xml / html) from the wordlists for different IPCC/ar6/chapters&lt;/h2&gt;
+&lt;h2&gt;Intens (2024)&lt;/h2&gt;
 &lt;h3&gt;wg2, Chapter 08: Poverty, livelihoods and sustainable development&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Nitika Baghel&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -774,6 +780,11 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt&quot;&gt;wordlists&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md&quot;&gt;Introduction to amilib: Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md&quot;&gt;Documentation for creating branch in github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md&quot;&gt;Documentation of semanticClimate tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html&quot;&gt;Annoated chapter wg1chap05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing&quot;&gt;Colab presented in DEMO session TTWW 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg2, Chapter 05: Food, Fibre and Other Ecosystem Products&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Anmol Negi&lt;/strong&gt;&lt;/p&gt;
