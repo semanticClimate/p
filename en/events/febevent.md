@@ -35,6 +35,13 @@ Following are the different categories of sessions and activities in the event:
 
 #### [CLICK HERE](https://fosdem.org/2025/schedule/event/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate/) to read more
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/fosdem_abs.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 ### Date
 
