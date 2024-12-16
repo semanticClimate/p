@@ -17,7 +17,22 @@ This contains the highlights of the work completed by the interns during their 2
 
 - **Parijat Bhadra** (June to December 2024)
 
-## Intens (2024)
+## Interns (2024)
+
+### wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks
+
+analysed by **Parijat**
+
+ - [**Title: Global Carbon and other Biogeochemical Cycles and Feedbacks**](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
+ - [Summary of the chapter](https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md)
+ - [wordlists](https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt)
+ - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml)
+ - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html)
+ - [Introduction to amilib: Tutorial](https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md)
+ - [Documentation for creating branch in github](https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md)
+ - [Documentation of semanticClimate tools](https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md)
+ - [Annoated chapter wg1chap05](https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html)
+ - [Colab presented in DEMO session TTWW 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing)
 
 ### wg2, Chapter 08: Poverty, livelihoods and sustainable development
 
@@ -38,22 +53,7 @@ analysed by **Sravya Sattisetti**
  - [list of words/terms](https://github.com/petermr/amilib/blob/sravya_test/test/resources/wordlists/water_cycle.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/sravya_test/temp/words/water_cycle_wikipedia.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html)
-  
-### wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks
-
-analysed by **Parijat**
-
- - [**Title: Global Carbon and other Biogeochemical Cycles and Feedbacks**](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
- - [Summary of the chapter](https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md)
- - [wordlists](https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt)
- - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml)
- - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html)
- - [Introduction to amilib: Tutorial](https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md)
- - [Documentation for creating branch in github](https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md)
- - [Documentation of semanticClimate tools](https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md)
- - [Annoated chapter wg1chap05](https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html)
- - [Colab presented in DEMO session TTWW 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing)
-      
+        
 ### wg2, Chapter 05: Food, Fibre and Other Ecosystem Products
 
 analysed by **Anmol Negi**
