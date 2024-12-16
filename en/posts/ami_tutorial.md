@@ -27,7 +27,11 @@ tags:
 
 - Check the successful installation with command : `amilib --help`. You should see a help message come up.
 
-### **Tutorials (Jupyter Notebook/Colab Notebook)**
+### Documentation (Tutorial)
+
+- #### [Introduction to amilib](https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md)
+
+### **Demo Tutorials (Jupyter Notebook/Colab Notebook)**
   
 - #### [Creating Wikimedia enhanced dictionary from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi)
 

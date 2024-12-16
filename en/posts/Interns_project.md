@@ -15,10 +15,9 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### Active Interns
 
-- **Parijat Bhadra**
+- **Parijat Bhadra** (June to December 2024)
 
-
-## semantic Dictionary (xml / html) from the wordlists for different IPCC/ar6/chapters 
+## Intens (2024)
 
 ### wg2, Chapter 08: Poverty, livelihoods and sustainable development
 
@@ -49,6 +48,11 @@ analysed by **Parijat**
  - [wordlists](https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html)
+ - [Introduction to amilib: Tutorial](https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md)
+ - [Documentation for creating branch in github](https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md)
+ - [Documentation of semanticClimate tools](https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md)
+ - [Annoated chapter wg1chap05](https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html)
+ - [Colab presented in DEMO session TTWW 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing)
       
 ### wg2, Chapter 05: Food, Fibre and Other Ecosystem Products
 
