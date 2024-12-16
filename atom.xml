@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-16T05:57:58Z</updated>
+	<updated>2024-12-16T06:09:13Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -753,7 +753,21 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt; (June to December 2024)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Intens (2024)&lt;/h2&gt;
+&lt;h2&gt;Interns (2024)&lt;/h2&gt;
+&lt;h3&gt;wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/h3&gt;
+&lt;p&gt;analysed by &lt;strong&gt;Parijat&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/&quot;&gt;&lt;strong&gt;Title: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md&quot;&gt;Summary of the chapter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt&quot;&gt;wordlists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md&quot;&gt;Introduction to amilib: Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md&quot;&gt;Documentation for creating branch in github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md&quot;&gt;Documentation of semanticClimate tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html&quot;&gt;Annoated chapter wg1chap05&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing&quot;&gt;Colab presented in DEMO session TTWW 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;wg2, Chapter 08: Poverty, livelihoods and sustainable development&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Nitika Baghel&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -771,20 +785,6 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/test/resources/wordlists/water_cycle.txt&quot;&gt;list of words/terms&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/water_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/sravya_test/temp/words/html/water_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/h3&gt;
-&lt;p&gt;analysed by &lt;strong&gt;Parijat&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/&quot;&gt;&lt;strong&gt;Title: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md&quot;&gt;Summary of the chapter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/test/resources/wordlists/carbon_cycle.txt&quot;&gt;wordlists&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/xml/carbon_cycle_wikipedia.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/words/carbon_cycle_wikipedia.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md&quot;&gt;Introduction to amilib: Tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md&quot;&gt;Documentation for creating branch in github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/semanticClimate_tools.md&quot;&gt;Documentation of semanticClimate tools&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/temp/ipcc/wg1/Chapter05/marked_up.html&quot;&gt;Annoated chapter wg1chap05&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk?usp=sharing&quot;&gt;Colab presented in DEMO session TTWW 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg2, Chapter 05: Food, Fibre and Other Ecosystem Products&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Anmol Negi&lt;/strong&gt;&lt;/p&gt;
