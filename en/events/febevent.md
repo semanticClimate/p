@@ -31,7 +31,9 @@ Following are the different categories of sessions and activities in the event:
 - Stands (connect with developers or project members)
 - BOFs (Birds Of a Feather): Networking Opportunities
 
-**Peter Murray-Rust**, a co-founder of **#semanticClimate** will be participating in this event and will give a talk on open source softwares. He will also showcase the open source semanticClimate tools (`pygetpapers`, `amilib`, `docanalysis`).
+**Peter Murray-Rust**, a co-founder of **#semanticClimate** will be participating in this event and will give a talk entitled "**Creating an Open Knowledge Graph for Climate**" (2025-02-01). He will also showcase the open source semanticClimate tools (`pygetpapers`, `amilib`, `docanalysis`).
+
+#### [CLICK HERE](https://fosdem.org/2025/schedule/event/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate/) to read more
 
 
 ### Date
