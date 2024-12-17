@@ -11,6 +11,8 @@ tags:
 
 Regular Expressions (Regex) are patterns which are widely used in many programming languages and softwares to search, match, and manipulate text. 
 
+Following are the examples of softwares that uses regex
+
 - Notepad++
 - VS Code
 - Sublime Text
@@ -18,14 +20,16 @@ Regular Expressions (Regex) are patterns which are widely used in many programmi
 
 ### Basic steps 
 
-#### Open Find/Replace dialog in txt file:
+#### Step 1: Open Find/Replace dialog in txt file
 
 - Press `Ctrl + F` to **Find**.
 - Press `Ctrl + H` to **Replace**.
 
-####  At the bottom of the dialog, under **Search Mode**, select:
+####  Step 2: At the bottom of the dialog, under **Search Mode**, select
 
 - **Regular Expression** to enable regex.
+
+#### Step 3: Apply the following regex syntax to search, match or manipulate text
 
 
 ### Basic Regex Syntax
