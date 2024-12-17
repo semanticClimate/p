@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-17T09:15:22Z</updated>
+	<updated>2024-12-17T10:00:13Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -959,6 +959,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;p&gt;This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.&lt;/p&gt;
 &lt;h3&gt;Active Interns&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sharon Nayak&lt;/strong&gt; (December 2024 to March 2025)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Parijat Bhadra&lt;/strong&gt; (June to December 2024)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Interns (2024)&lt;/h2&gt;
@@ -1118,9 +1119,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;How to create new branch of a repository&lt;/h4&gt;
+&lt;h3&gt;How to create new branch of a repository&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md&quot;&gt;CLICK HERE&lt;/a&gt; to Read the steps&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Learn to use Regular expression (regex)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/tut_regex/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 4: Climate Report Selection&lt;/h3&gt;
 &lt;ul&gt;
