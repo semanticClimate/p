@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-17T10:00:13Z</updated>
+	<updated>2024-12-17T10:25:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1136,6 +1136,8 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;Download and convert it to semantic form using &lt;code&gt;amilib&lt;/code&gt; and &lt;code&gt;amiclimate&lt;/code&gt; tool.&lt;/li&gt;
 &lt;li&gt;Create a &lt;strong&gt;dictionary&lt;/strong&gt; specific to the selected chapter and annotating the chapter with dictionary terms.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Read about the projects done by Interns&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/Interns_project/&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Resources for climate knowledge&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;../../posts/new_resources/&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;&lt;strong&gt;HIGH-PRIORITY:&lt;/strong&gt;&lt;/h3&gt;
