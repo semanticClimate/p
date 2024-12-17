@@ -1,5 +1,5 @@
 ---
-title: Regex Search
+title: Regular Expressions (Regex)
 date: 2024-12-17
 description: Tutorial for using Regular Expressions (Regex) in Notepad++ 
 author: RK
@@ -50,51 +50,51 @@ Regular Expressions (Regex) are patterns which are widely used in many programmi
 
 ### Examples to show the use of regex syntax
 
-#### for removing two spaces before any word
+##### 1. for removing two spaces before any word
 
 - **Find**: `^\s{2,}`  
 - **Replace**: *(leave empty)*   
 
-#### to remove timestamp in txt file
+##### 2. to remove timestamp in txt file
 
 - **Find**: `\b\d{2}:\d{2}:\d{2}\b`  
 - **Replace**: *(leave empty)* 
 
-#### to remove two spaces between two lines
+##### 3. to remove two spaces between two lines
 
 - **Find**: `\n\n`  
 - **Replace**: *(leave empty)* 
 
-#### to remove text with square brackets
+##### 4. to remove text with square brackets
 
 - **Find**: `\[[^\]]+\]`  
 - **Replace**: *(leave empty)* 
 
-#### Add Text at the Start of Each Line
+##### 5. Add Text at the Start of Each Line
 - **Find**: `^`  
 - **Replace**: `YourTextHere`  
 - **Example**: Adding `- ` to create a bullet list.
 
-#### Add Text at the End of Each Line
+##### 6. Add Text at the End of Each Line
 - **Find**: `$`  
 - **Replace**: `YourTextHere`  
 - **Example**: Appending `;` at the end of every line.
 
-#### Remove Blank Lines
+##### 7. Remove Blank Lines
 - **Find**: `^\s*$`  
 - **Replace**: *(leave empty)*  
 - **Explanation**: Matches empty lines or lines with spaces.
 
-#### Remove Numbers from Text
+##### 8. Remove Numbers from Text
 - **Find**: `\d+`  
 - **Replace**: *(leave empty)*  
 - **Explanation**: Matches any number (0–9).
 
-#### Match Emails in Text
+##### 9. Match Emails in Text
 - **Find**: `\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b`  
 - **Explanation**: Matches valid email addresses.
 
-#### Find and Replace Trailing Spaces
+##### 10. Find and Replace Trailing Spaces
 - **Find**: `\s+$`  
 - **Replace**: *(leave empty)*  
 - **Explanation**: Matches spaces at the end of each line.
