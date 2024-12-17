@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Regex Search | #semanticClimate</title>
+  <title>Regular Expressions (Regex) | #semanticClimate</title>
   <meta name="description" content="Tutorial for using Regular Expressions (Regex) in Notepad++">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
@@ -92,7 +92,7 @@
 
   
 <div class="container">
-  <h1>Regex Search</h1>
+  <h1>Regular Expressions (Regex)</h1>
   
     
       <div class="post-meta">
@@ -208,56 +208,56 @@
 </tbody>
 </table>
 <h3>Examples to show the use of regex syntax</h3>
-<h4>for removing two spaces before any word</h4>
+<h5>1. for removing two spaces before any word</h5>
 <ul>
 <li><strong>Find</strong>: <code>^\s{2,}</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 </ul>
-<h4>to remove timestamp in txt file</h4>
+<h5>2. to remove timestamp in txt file</h5>
 <ul>
 <li><strong>Find</strong>: <code>\b\d{2}:\d{2}:\d{2}\b</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 </ul>
-<h4>to remove two spaces between two lines</h4>
+<h5>3. to remove two spaces between two lines</h5>
 <ul>
 <li><strong>Find</strong>: <code>\n\n</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 </ul>
-<h4>to remove text with square brackets</h4>
+<h5>4. to remove text with square brackets</h5>
 <ul>
 <li><strong>Find</strong>: <code>\[[^\]]+\]</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 </ul>
-<h4>Add Text at the Start of Each Line</h4>
+<h5>5. Add Text at the Start of Each Line</h5>
 <ul>
 <li><strong>Find</strong>: <code>^</code></li>
 <li><strong>Replace</strong>: <code>YourTextHere</code></li>
 <li><strong>Example</strong>: Adding <code>- </code> to create a bullet list.</li>
 </ul>
-<h4>Add Text at the End of Each Line</h4>
+<h5>6. Add Text at the End of Each Line</h5>
 <ul>
 <li><strong>Find</strong>: <code>$</code></li>
 <li><strong>Replace</strong>: <code>YourTextHere</code></li>
 <li><strong>Example</strong>: Appending <code>;</code> at the end of every line.</li>
 </ul>
-<h4>Remove Blank Lines</h4>
+<h5>7. Remove Blank Lines</h5>
 <ul>
 <li><strong>Find</strong>: <code>^\s*$</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 <li><strong>Explanation</strong>: Matches empty lines or lines with spaces.</li>
 </ul>
-<h4>Remove Numbers from Text</h4>
+<h5>8. Remove Numbers from Text</h5>
 <ul>
 <li><strong>Find</strong>: <code>\d+</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>
 <li><strong>Explanation</strong>: Matches any number (0–9).</li>
 </ul>
-<h4>Match Emails in Text</h4>
+<h5>9. Match Emails in Text</h5>
 <ul>
 <li><strong>Find</strong>: <code>\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b</code></li>
 <li><strong>Explanation</strong>: Matches valid email addresses.</li>
 </ul>
-<h4>Find and Replace Trailing Spaces</h4>
+<h5>10. Find and Replace Trailing Spaces</h5>
 <ul>
 <li><strong>Find</strong>: <code>\s+$</code></li>
 <li><strong>Replace</strong>: <em>(leave empty)</em></li>

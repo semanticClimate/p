@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-12-17T08:49:44Z</updated>
+	<updated>2024-12-17T09:02:06Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,7 +13,7 @@
 	</author>
 	
 	<entry>
-		<title>Regex Search</title>
+		<title>Regular Expressions (Regex)</title>
 		<link href="/p/en/posts/tut_regex/"/>
 		<updated>2024-12-17T00:00:00Z</updated>
 		<id>/p/en/posts/tut_regex/</id>
@@ -117,56 +117,56 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;Examples to show the use of regex syntax&lt;/h3&gt;
-&lt;h4&gt;for removing two spaces before any word&lt;/h4&gt;
+&lt;h5&gt;1. for removing two spaces before any word&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;^&#92;s{2,}&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;to remove timestamp in txt file&lt;/h4&gt;
+&lt;h5&gt;2. to remove timestamp in txt file&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;b&#92;d{2}:&#92;d{2}:&#92;d{2}&#92;b&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;to remove two spaces between two lines&lt;/h4&gt;
+&lt;h5&gt;3. to remove two spaces between two lines&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;n&#92;n&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;to remove text with square brackets&lt;/h4&gt;
+&lt;h5&gt;4. to remove text with square brackets&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;[[^&#92;]]+&#92;]&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Add Text at the Start of Each Line&lt;/h4&gt;
+&lt;h5&gt;5. Add Text at the Start of Each Line&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;^&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;code&gt;YourTextHere&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;: Adding &lt;code&gt;- &lt;/code&gt; to create a bullet list.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Add Text at the End of Each Line&lt;/h4&gt;
+&lt;h5&gt;6. Add Text at the End of Each Line&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;$&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;code&gt;YourTextHere&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;: Appending &lt;code&gt;;&lt;/code&gt; at the end of every line.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Remove Blank Lines&lt;/h4&gt;
+&lt;h5&gt;7. Remove Blank Lines&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;^&#92;s*$&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Explanation&lt;/strong&gt;: Matches empty lines or lines with spaces.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Remove Numbers from Text&lt;/h4&gt;
+&lt;h5&gt;8. Remove Numbers from Text&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;d+&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Explanation&lt;/strong&gt;: Matches any number (0–9).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Match Emails in Text&lt;/h4&gt;
+&lt;h5&gt;9. Match Emails in Text&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+&#92;.[A-Z|a-z]{2,}&#92;b&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Explanation&lt;/strong&gt;: Matches valid email addresses.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Find and Replace Trailing Spaces&lt;/h4&gt;
+&lt;h5&gt;10. Find and Replace Trailing Spaces&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Find&lt;/strong&gt;: &lt;code&gt;&#92;s+$&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt;: &lt;em&gt;(leave empty)&lt;/em&gt;&lt;/li&gt;
