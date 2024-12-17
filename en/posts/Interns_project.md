@@ -15,6 +15,7 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### Active Interns
 
+- **Sharon Nayak** (December 2024 to March 2025)
 - **Parijat Bhadra** (June to December 2024)
 
 ## Interns (2024)
