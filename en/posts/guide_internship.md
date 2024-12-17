@@ -113,6 +113,10 @@ Here are some essential `git` commands along with descriptions of their function
 * Download and convert it to semantic form using `amilib` and `amiclimate` tool.
 * Create a **dictionary** specific to the selected chapter and annotating the chapter with dictionary terms.
 
+### Read about the projects done by Interns
+
+#### [Click Here](https://semanticclimate.github.io/p/en/posts/Interns_project/)
+
 ### Resources for climate knowledge
 
 #### [Click Here](../../posts/new_resources/)
