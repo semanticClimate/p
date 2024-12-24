@@ -1,5 +1,5 @@
 ---
-title: BioAI for Research | Hands-on Workshop
+title: Hands-on Workshop on BioAI for Research | NIPGR, New Delhi
 date: 2025-01-21
 featured: true
 description: A Three-day Workshop at NIPGR, New Delhi 
@@ -11,9 +11,9 @@ tags:
 
 ## About This Event
 
-The three day hands-on workshop is designed to train and raise awareness among students and researchers about an open-source tool that enhances their research by leveraging various aspects of AI in science.
+The three day hands-on workshop is designed to give insight and raise awareness among students and researchers about an open-source tool that enhances their research by leveraging various aspects of AI in science.
 
-The workshop will include keynote lecture by experts alongwith the hands-on session.
+The workshop will include keynote lectures by experts alongwith the hands-on session.
 
 The main contents are:
 
@@ -27,6 +27,11 @@ The main contents are:
 - NIPGR NPCBBF 
 - #semanticClimate
 
+## Date & Time
+
+#### **21-23 January, 2025**
+
+
 <table>
   <tr>
     <td>
@@ -34,10 +39,6 @@ The main contents are:
     </td>
   </tr>
 </table>
-
-## Date & Time
-
-#### **21-23 January, 2025**
 
 ## Mode 
 
@@ -55,7 +56,7 @@ You will need to **bring your own Laptop**, we will provide Cloud Logins for the
 
 **Registration will be closed by January 02, 2025**
 
-#### Registration Fee
+## Registration Fee
 
 The Registration Fee for the event includes  e-materials, Registration Kit, Toolkits, Meals, snacks, Wi-Fi and working space during the event.
 
