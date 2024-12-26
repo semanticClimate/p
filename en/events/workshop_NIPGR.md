@@ -11,15 +11,21 @@ tags:
 
 ## About This Event
 
+This event is in pursuance of the National Education Policy (NEP 2020), Science and Technology Innovation Policy (STIP 2020), as well as the recently launched BioE3 policy of DBT. 
+
+It will be run by the Computational Biology and Bioinformatics Facility (CBBF) of National Institute of Plant Genome Research (NIPGR).
+
+The event will showcase our Data Science Research in AI/ML and newly developed Open Source Tools to the wider science community.
+
+There will be a maximum of 25 participants with the following Event Goals:
+- Beginner's AI-101 (Python, R, HuggingFace, Julyter/Colab)
+- Learning and Developing Human-Machine knowledge systems 
+- Hands-On Training and Testing of Transformer based AI Models 
+- Feedback knowledge and Technology to #BioAI 
+
 The three day hands-on workshop is designed to give insight and raise awareness among students and researchers about an open-source tool that enhances their research by leveraging various aspects of AI in science.
 
 The workshop will include keynote lectures by experts alongwith the hands-on session.
-
-The main contents are:
-
-- Day 1: Learn Data Mining using AI over NLP Toolkit. Make Teams
-- Day 2: Build your first AI/ML Model using our in-house Cloud Workspace
-- Day 3: Run the Toolkit on your own Data. Present your Results
 
 ## Organized by
 
