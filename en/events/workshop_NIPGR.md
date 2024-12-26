@@ -35,7 +35,7 @@ The main contents are:
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/workshop_NIPGR.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/workshop_NIPGR2.jpeg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
