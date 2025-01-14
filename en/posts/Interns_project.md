@@ -16,13 +16,15 @@ This contains the highlights of the work completed by the interns during their 2
 ### Active Interns
 
 - **Sharon Nayak** (December 2024 to March 2025)
-- **Parijat Bhadra** (June to December 2024)
+- **Shabnam Barbhuiya** (January - May 2025)
+- **Anudev Suresh** (January - May 2025)
+- **Moobashara Jawed** (January - May 2025)
 
 ## Interns (2024)
 
 ### wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks
 
-analysed by **Parijat**
+analysed by **Parijat** (June to December 2024)
 
  - [**Title: Global Carbon and other Biogeochemical Cycles and Feedbacks**](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
  - [Summary of the chapter](https://github.com/petermr/amilib/blob/parijat_test/SUMMARY%20OF%20IPCC_AR6_WGI_Chapter05%20_%20Global%20Carbon%20and%20Other%20Biogeochemical%20Cycles%20and%20Feedbacks.md)
