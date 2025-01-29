@@ -19,6 +19,7 @@ This contains the highlights of the work completed by the interns during their 2
 - **Shabnam Barbhuiya** (January - May 2025)
 - **Anudev Suresh** (January - May 2025)
 - **Moobashara Jawed** (January - May 2025)
+- **Suman Bharti** (January -May 2025)
 
 ## Interns (2024)
 

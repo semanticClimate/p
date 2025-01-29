@@ -12,6 +12,23 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Hands-on workshop on BioAI for Research, 21-23 January 2025 at NIPGR | [see more](../../posts/bioai_research/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/bioai_pic5.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/bioai_pic6.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/photo/bioai_pic8.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/photo/bioai_pic9.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+
 ### Swedish-India Center of Excellence for Sustainable Society/City | [see more](../../posts/meet_IndoSW/)
 
 <table>
