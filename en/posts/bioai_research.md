@@ -71,10 +71,3 @@ tags:
 <td><img src='{{ "/static/img/photo/bioai_pic4.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
-
-<table>
-<tr>
-<td><img src='{{ "/static/img/photo/bioai_pic3.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/photo/bioai_pic16.JPG" | url }}' width="500" height="300"></td>
-</tr>   
-</table>
