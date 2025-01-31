@@ -37,7 +37,7 @@ These are the video presentations for software tutorial and the work presented i
 
 #### [The Tech We Want Summit 2024 | semanticClimate Tools Demo session](https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=7602s)
 
-##### The demonstration of semanticClimate tools by **Parijat Bhadra** in TTWW 2024
+##### The demonstration of semanticClimate tools `pygetpapers`, `docanalysis` and `amilib` by **Parijat Bhadra** in TTWW 2024
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
