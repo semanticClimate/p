@@ -59,3 +59,25 @@ Following are the different categories of sessions and activities in the event:
 
 The complete programme schedule is available [HERE](https://fosdem.org/2025/schedule/).
 
+### Event Highlights
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/FOSDEM_1.png" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/FOSDEM_2.png" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/FOSDEM_3.png" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/FOSDEM_4.png" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/FOSDEM_5.png" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/FOSDEM_6.png" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
