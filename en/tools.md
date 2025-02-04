@@ -37,9 +37,9 @@ Check the successful installation with command : `amilib --help`. You should see
 
 - **Tutorials (Jupyter Notebook/ Colab Notebook)**
   
-  - [Creating Wikimedia enhanced dictionary with amilib from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi) 
+  - [Creating Wikimedia enhanced dictionary with amilib from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi?usp=sharing) 
   
-  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing)
 
 #### [CLICK HERE for more tutorials](https://semanticclimate.github.io/p/en/posts/ami_tutorial/)
  
@@ -109,7 +109,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
   - [literature search: Google colab notebook](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
-  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+  - [Creating JQuery Datatables from the retrieved articles](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing)
 
 ### ```docanalysis```
 

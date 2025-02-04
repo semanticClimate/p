@@ -33,11 +33,11 @@ tags:
 
 ### **Demo Tutorials (Jupyter Notebook/Colab Notebook)**
   
-- #### [Creating Wikimedia enhanced dictionary from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi)
+- #### [Creating Wikimedia enhanced dictionary from wordlist](https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi?usp=sharing)
 
-- #### [Creating Dictionary having figures from Wikipedia](https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE#scrollTo=IijmJ5rgF0jF) 
+- #### [Creating Dictionary having figures from Wikipedia](https://colab.research.google.com/drive/1mDJcNLGcsP8XM-fzGP6n6A7ozLlq09bE?usp=sharing) 
   
-- #### [Creating JQuery Datatables from the scientific literature corpus](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1#scrollTo=6KLi8nSQhfIx)
+- #### [Creating JQuery Datatables from the scientific literature corpus](https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing)
 
-- #### [Climate report annotated with dictionary](https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd#scrollTo=roxFApmqb4E9)
+- #### [Climate report annotated with dictionary](https://colab.research.google.com/drive/1Rsf7BtGM5v9LAkKvEcEWbK7fHFDiB0Pd?usp=sharing)
   
