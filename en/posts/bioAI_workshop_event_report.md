@@ -143,11 +143,11 @@ New Delhi-110067
 
 ### LIST OF PRESENTATIONS
 
-#### DAY 1
+- #### [DAY 1](https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day1)
 
-#### DAY 2
+- #### [DAY 2](https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day2)
 
-#### DAY 3
+- #### [DAY 3](https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day3)
 
 ### Event Highlights
 
