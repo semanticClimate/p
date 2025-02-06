@@ -5,12 +5,136 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-02-04T08:01:42Z</updated>
+	<updated>2025-02-06T10:04:27Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Event Report | Hands-on workshop on BioAI for Research, NIPGR</title>
+		<link href="/p/en/posts/bioAI_workshop_event_report/"/>
+		<updated>2025-02-04T00:00:00Z</updated>
+		<id>/p/en/posts/bioAI_workshop_event_report/</id>
+		<content type="html">&lt;p&gt;A three days in person “&lt;strong&gt;Hands-on Workshop on BioAI for Research&lt;/strong&gt;” has been organised by the Computational Biology and Bioinformatics Facility (CBBF) of iBRIC- National Institute of Plant Genome Research (iBRIC-NIPGR) and semanticClimate.&lt;/p&gt;
+&lt;p&gt;The event has been organised in pursuance of the &lt;a href=&quot;https://www.education.gov.in/nep/about-nep&quot;&gt;National Education Policy&lt;/a&gt; (NEP 2020), &lt;a href=&quot;https://www.mygov.in/campaigns/stip-2020/&quot;&gt;Science and Technology Innovation Policy&lt;/a&gt; (STIP 2020), as well as the recently launched &lt;a href=&quot;https://dbtindia.gov.in/news-features/cabinet-approves-bioe3-biotechnology-economy-environment-and-employment-policy&quot;&gt;BioE3 policy of DBT&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Event Goals&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Beginner&#39;s AI-101 (Python, R, HuggingFace, Julyter/Colab)&lt;/li&gt;
+&lt;li&gt;Learning and Developing Human-Machine knowledge systems&lt;/li&gt;
+&lt;li&gt;Hands-On Training and Testing of Transformer based AI Models&lt;/li&gt;
+&lt;li&gt;Feedback knowledge and Technology to #BioAI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Date &amp;amp; Time&lt;/h2&gt;
+&lt;h4&gt;&lt;strong&gt;21-23 January, 2025&lt;/strong&gt;&lt;/h4&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;National Institute of Plant Genome Research (NIPGR)&lt;/p&gt;
+&lt;p&gt;Aruna Asaf Ali Marg&lt;/p&gt;
+&lt;p&gt;New Delhi-110067&lt;/p&gt;
+&lt;h3&gt;ORGANISING TEAM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Gitanjali Yadav, NIPGR, New Delhi&lt;/li&gt;
+&lt;li&gt;Prof. Peter Murray-Rust, University of Cambridge, UK&lt;/li&gt;
+&lt;li&gt;Dr. Shailesh Kumar, NIPGR, New Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Renu Kumari, NIPGR, New Delhi&lt;/li&gt;
+&lt;li&gt;Mr. Subhasish Mondal, NIPGR, New Delhi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/org_1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;LIST OF INVITED SPEAKERS&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/speaker_1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/speaker_2.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/speaker_3.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/speaker_4.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;LIST OF VOLUNTEERS &amp;amp; ASSISTANT INSTRUCTORS&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/instructor1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/instructor2.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;LIST OF DELEGATES&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/partcipant_1.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/partcipant_2.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/partcipant_3.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/partcipant_4.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/partcipant_5.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;LIST OF PRESENTATIONS&lt;/h3&gt;
+&lt;h4&gt;DAY 1&lt;/h4&gt;
+&lt;h4&gt;DAY 2&lt;/h4&gt;
+&lt;h4&gt;DAY 3&lt;/h4&gt;
+&lt;h3&gt;Event Highlights&lt;/h3&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/bioai_research/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Hands-on Workshop on BioAI for Research | NIPGR, New Delhi</title>
