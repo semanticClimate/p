@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-02-06T10:04:27Z</updated>
+	<updated>2025-02-06T10:21:06Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -128,9 +128,17 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;LIST OF PRESENTATIONS&lt;/h3&gt;
-&lt;h4&gt;DAY 1&lt;/h4&gt;
-&lt;h4&gt;DAY 2&lt;/h4&gt;
-&lt;h4&gt;DAY 3&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day1&quot;&gt;DAY 1&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day2&quot;&gt;DAY 2&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/main/presentations_BioAI_for_Research/Day3&quot;&gt;DAY 3&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Event Highlights&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/bioai_research/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h4&gt;
 </content>
