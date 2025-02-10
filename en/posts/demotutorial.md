@@ -13,6 +13,8 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
+- #### FOSDEM 2025 [Creating an Open Knowledge Graph for Climate | Peter Murray-Rust](https://video.fosdem.org/2025/aw1126/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate.av1.webm)
+
 #### Here is a glimpse of video presentations
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://www.youtube.com/watch?v=ljyyc8xzIak&t=97s)
