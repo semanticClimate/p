@@ -682,12 +682,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/docs/</loc>
     <lastmod>2025-02-10</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/semanticclimate/</loc>
+    <lastmod>2025-02-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
+    <lastmod>2025-02-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2025-02-10</lastmod>
   </url>
   
@@ -698,16 +708,6 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
-    <lastmod>2025-02-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/docs/</loc>
-    <lastmod>2025-02-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2025-02-10</lastmod>
   </url>
   
@@ -747,22 +747,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2025-02-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
-    <lastmod>2025-02-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2025-02-10</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2025-02-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2025-02-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2025-02-10</lastmod>
   </url>
   
@@ -799,6 +799,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/</loc>
     <lastmod>2025-02-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/ordem_feb2025/</loc>
+    <lastmod>2025-02-15</lastmod>
   </url>
   
   <url>
