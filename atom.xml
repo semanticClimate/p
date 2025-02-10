@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-02-06T10:21:06Z</updated>
+	<updated>2025-02-10T05:41:51Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -782,6 +782,11 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<id>/p/en/posts/demotutorial/</id>
 		<content type="html">&lt;p&gt;These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;CLICK HERE to see all #semanticclimate video playlist&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;FOSDEM 2025 &lt;a href=&quot;https://video.fosdem.org/2025/aw1126/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate.av1.webm&quot;&gt;Creating an Open Knowledge Graph for Climate | Peter Murray-Rust&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4&gt;Here is a glimpse of video presentations&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ljyyc8xzIak&amp;amp;t=97s&quot;&gt;Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR&lt;/a&gt;&lt;/h4&gt;
 &lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
