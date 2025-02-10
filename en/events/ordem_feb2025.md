@@ -13,7 +13,7 @@ tags:
 
 [ORDEM 2025](https://research-fosdem.github.io/2025-online-schedule) is an online meeting where the developers from different countries will come together to discuss about the tools and technologies developed by them for research. This allows them to dicuss the issues related with the creation of the open research technologies and also help in networking with the broader community of the developers.
 
-#### Shweata Hegde, a semanticClimate volunteer and developer (`docanalysis`), will talk about Creating Open Knowledge Graph for Climate in this meeting.
+**Shweata Hegde**, a #semanticClimate volunteer and developer (`docanalysis`), will talk about `Creating Open Knowledge Graph for Climate` in this meeting.
 
 <table>
   <tr>
@@ -23,15 +23,17 @@ tags:
   </tr>
 </table>
 
+Source: https://research-fosdem.github.io/2025-online-schedule
+
 ### Mode
 
-**Online**
+- **Online**
 
 ### Date and Time
 
-**SATURDAY 2025-02-15**
+- **SATURDAY 2025-02-15**
 
-**13:00 CET (17:30 IST)**
+- **13:00 CET (17:30 IST)**
 
 <table>
   <tr>
@@ -40,6 +42,8 @@ tags:
     </td>
   </tr>
 </table>
+
+Source: https://research-fosdem.github.io/2025-online-schedule
 
 #### [Read More](https://research-fosdem.github.io/2025-online-schedule)
 
