@@ -36,7 +36,18 @@ This will give the idea about how to start with any climate report published in 
 
 ### Creating Wikimedia enhanced dictionary from the wordlist
 
-Here are the steps to create dictionary from the words.
+- Dictionary created from the wordlists extracted from different chapters of the IPCC report
+  - [AR6/WG1/Chapter10_Linking Global to Regional Climate Change](https://github.com/semanticClimate/internship_sC/blob/shabnam/IPCC_Chapter10/wg1chap10_dictionary.html)
+  - [AR6/WG1/Chapter02_Changing State of the Climate System](https://github.com/semanticClimate/internship_sC/blob/moobashara/IPCC_Chapter/dictionary.html)
+  - AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product
+  - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/sharon/ccpforest.html)
+  - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/Anudev/wordlist_dictionary/polar_dict.html)
+  - AR6/WG2/Chapter04_Water
+  - AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities
+
+
+
+#### Here are the steps to create dictionary from the words.
 
 - Step 1: Use the code **pip install amilib** to install amilib in the terminal.
 
