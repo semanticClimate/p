@@ -47,7 +47,9 @@ Source: https://research-fosdem.github.io/2025-online-schedule
 
 #### [Read More](https://research-fosdem.github.io/2025-online-schedule)
 
-### 
+### Presentation Slides
+
+#### [CLICK HERE](https://github.com/petermr/semanticClimate/blob/main/presentations/ordem-2025.pdf)
 
 
 
