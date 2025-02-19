@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-02-19T09:36:26Z</updated>
+	<updated>2025-02-19T11:19:29Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -515,7 +515,17 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Extracting Keywords from the Chapter&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor.&lt;/li&gt;
+&lt;li&gt;The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/shabnam/IPCC_Chapter10/wordlist.txt&quot;&gt;AR6/WG1/Chapter10_Linking Global to Regional Climate Change&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/moobashara/IPCC_Chapter/wordlist.txt&quot;&gt;AR6/WG1/Chapter02_Changing State of the Climate System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/MEBIN/Wg2Ch5/Wg2Ch5Wordlist.txt&quot;&gt;AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/sharon/Wordlist/Wordlist/wordlist.txt&quot;&gt;AR6/WG2/Cross-ChapterPaper07_Tropical Forests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Anudev/wordlist_dictionary/wordlist_output.txt&quot;&gt;AR6/WG2/Cross-ChapterPaper06_Polar regions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Madhan/IPCC_AR6_WG2_Chap04_Specific&quot;&gt;AR6/WG2/Chapter04_Water&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/suman/Word_lists.txt&quot;&gt;AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Creating Wikimedia enhanced dictionary from the wordlist&lt;/h3&gt;
 &lt;p&gt;Here are the steps to create dictionary from the words.&lt;/p&gt;
