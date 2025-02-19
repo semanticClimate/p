@@ -81,3 +81,11 @@ The complete programme schedule is available [HERE](https://fosdem.org/2025/sche
 <td><img src='{{ "/static/img/events_all/FOSDEM_6.png" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
+
+### Presentation Slides
+
+#### [CLICK HERE](https://github.com/petermr/semanticClimate/blob/main/presentations/fosdem2025.pdf)
+
+### Presentation Video
+
+#### [CLICK HERE](https://ftp.fau.de/fosdem/2025/aw1126/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate.av1.webm)
