@@ -24,22 +24,22 @@ This will give the idea about how to start with any climate report published in 
 ### Extracting Keywords from the Chapter
 
 - The wordlist is created for all the words/phrases which are not easy to understand. This can be created manually or with some keyword extractor.
-  - [AR6/WG1/Chapter10_Linking Global to Regional Climate Change](https://github.com/semanticClimate/internship_sC/blob/shabnam/IPCC_Chapter10/wordlist.txt)
-  - [AR6/WG1/Chapter02_Changing State of the Climate System](https://github.com/semanticClimate/internship_sC/blob/moobashara/IPCC_Chapter/wordlist.txt)
-  - [AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product](https://github.com/semanticClimate/internship_sC/blob/MEBIN/Wg2Ch5/Wg2Ch5Wordlist.txt)
-  - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/sharon/Wordlist/Wordlist/wordlist.txt)
-  - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/Anudev/wordlist_dictionary/wordlist_output.txt)
+  - [AR6/WG1/Chapter10_Linking Global to Regional Climate Change](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wg1ch10.txt)
+  - [AR6/WG1/Chapter02_Changing State of the Climate System](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wgIchap02.txt)
+  - [AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/foodfibre_wordlist.txt)
+  - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/forest_wordlist.txt)
+  - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wordlist_polar.txt)
   - [AR6/WG2/Chapter04_Water](https://github.com/semanticClimate/internship_sC/blob/Madhan/IPCC_AR6_WG2_Chap04_Specific)
   - [AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities](https://github.com/semanticClimate/internship_sC/blob/suman/Word_lists.txt)
 
 ### Creating Wikimedia enhanced dictionary from the wordlist
 
 - Dictionary created from the wordlists extracted from different chapters of the IPCC report
-  - [AR6/WG1/Chapter10_Linking Global to Regional Climate Change](https://github.com/semanticClimate/internship_sC/blob/shabnam/IPCC_Chapter10/wg1chap10_dictionary.html)
-  - [AR6/WG1/Chapter02_Changing State of the Climate System](https://github.com/semanticClimate/internship_sC/blob/moobashara/IPCC_Chapter/dictionary.html)
-  - [AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product](https://github.com/semanticClimate/internship_sC/blob/MEBIN/Wg2Ch5/foodfibre.html)
-  - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/sharon/ccpforest.html)
-  - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/Anudev/wordlist_dictionary/polar_dict.html)
+  - [AR6/WG1/Chapter10_Linking Global to Regional Climate Change](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap10_dictionary.html)
+  - [AR6/WG1/Chapter02_Changing State of the Climate System](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap02_dict.html)
+  - [AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/foodfibre_dict.html)
+  - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/ccpforest_dict.html)
+  - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/polar_dict.html)
   - AR6/WG2/Chapter04_Water
   - AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities
 
