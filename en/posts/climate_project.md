@@ -30,7 +30,7 @@ This will give the idea about how to start with any climate report published in 
   - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/forest_wordlist.txt)
   - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wordlist_polar.txt)
   - [AR6/WG2/Chapter04_Water](https://github.com/semanticClimate/internship_sC/blob/Madhan/IPCC_AR6_WG2_Chap04_Specific)
-  - [AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities](https://github.com/semanticClimate/internship_sC/blob/suman/Word_lists.txt)
+  - [AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wg02chapt07_wordlist.txt)
 
 ### Creating Wikimedia enhanced dictionary from the wordlist
 
@@ -41,7 +41,7 @@ This will give the idea about how to start with any climate report published in 
   - [AR6/WG2/Cross-ChapterPaper07_Tropical Forests](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/ccpforest_dict.html)
   - [AR6/WG2/Cross-ChapterPaper06_Polar regions](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/polar_dict.html)
   - AR6/WG2/Chapter04_Water
-  - AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities
+  - [AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg02chapt07_dict.html)
 
 
 
