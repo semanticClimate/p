@@ -20,6 +20,7 @@ This contains the highlights of the work completed by the interns during their 2
 - **Anudev Suresh** (January - May 2025)
 - **Moobashara Jawed** (January - May 2025)
 - **Suman Bharti** (January -May 2025)
+- **Mebin Joseph** (February - April 2025)
 
 ## Interns (2024)
 
@@ -46,7 +47,7 @@ analysed by **Nitika Baghel**
  - [list of words](https://github.com/petermr/amilib/blob/nitika_test/test/resources/wordlists/wg2_chap8.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/nitika_test/temp/words/xml/wg2_chap8.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html)
- - [**Completion Report**](https://drive.google.com/file/d/1jnk2S9N3fbZEYK2JMXlotNFYo8KYvqB7/view?usp=sharing)
+ - [**Completion Report**](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Nitika_report_two_months.pdf)
 
 ### wg1, Chapter 08: Water Cycle Changes
 
@@ -67,7 +68,7 @@ analysed by **Anmol Negi**
  - [Wordlists](https://github.com/petermr/amilib/blob/anmol_test/test/resources/wordlists/food_ecosystem.txt)
  - [Dictionary created from wordlists in xml format](https://github.com/petermr/amilib/blob/anmol_test/temp/words/xml/food_ecosystem.xml)
  - [Dictionary in semantic HTML](https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html)
- - [**Completion Report**](https://drive.google.com/file/d/1N6TOFxkBc-znoZw_le9ri4h_PVAfT8Eg/view?usp=sharing)
+ - [**Completion Report**](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Anmol_Negi_report_two_months.pdf)
   
 ### wg1, Chapter 03: Human Influence on the Climate System
 
@@ -75,5 +76,5 @@ analysed by **Smriti**
 
  - [wg1, Chapter 03: Human Influence on the Climate System](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/)
  - [list of words](https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt)
- - [**Completion Report**](https://drive.google.com/file/d/1vGTCPxO6l7xLBhNPr8ACge0IgteTiA1q/view?usp=sharing) 
+ - [**Completion Report**](https://github.com/semanticClimate/internship_sC/blob/main/project_report/final_report_smriti.pdf) 
   

@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Computational Biology Conference 2025, 19-21 February 2025 at RCB | [see more](../../posts/cbcevent2025/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/cbc_pic3.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/cbc_pic6.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Hands-on workshop on BioAI for Research, 21-23 January 2025 at NIPGR | [see more](../../posts/bioai_research/)
 
 <table>
