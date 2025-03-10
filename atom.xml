@@ -5,12 +5,31 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-02-27T11:25:06Z</updated>
+	<updated>2025-03-10T10:41:16Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Computational Biology Conference 2025 | Faridabad, India</title>
+		<link href="/p/en/posts/cbcevent2025/"/>
+		<updated>2025-03-10T00:00:00Z</updated>
+		<id>/p/en/posts/cbcevent2025/</id>
+		<content type="html">&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic2.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic7.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic4.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic5.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Event Report | Hands-on workshop on BioAI for Research, NIPGR</title>
@@ -1181,6 +1200,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;strong&gt;Anudev Suresh&lt;/strong&gt; (January - May 2025)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January - May 2025)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Suman Bharti&lt;/strong&gt; (January -May 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mebin Joseph&lt;/strong&gt; (February - April 2025)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Interns (2024)&lt;/h2&gt;
 &lt;h3&gt;wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks&lt;/h3&gt;
@@ -1204,7 +1224,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/test/resources/wordlists/wg2_chap8.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/xml/wg2_chap8.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/nitika_test/temp/words/html/wg2_chap8.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1jnk2S9N3fbZEYK2JMXlotNFYo8KYvqB7/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Nitika_report_two_months.pdf&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg1, Chapter 08: Water Cycle Changes&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Sravya Sattisetti&lt;/strong&gt;&lt;/p&gt;
@@ -1223,14 +1243,14 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/test/resources/wordlists/food_ecosystem.txt&quot;&gt;Wordlists&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/xml/food_ecosystem.xml&quot;&gt;Dictionary created from wordlists in xml format&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/anmol_test/temp/words/html/food_ecosystem.html&quot;&gt;Dictionary in semantic HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1N6TOFxkBc-znoZw_le9ri4h_PVAfT8Eg/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Anmol_Negi_report_two_months.pdf&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;wg1, Chapter 03: Human Influence on the Climate System&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Smriti&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/&quot;&gt;wg1, Chapter 03: Human Influence on the Climate System&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/main/test/resources/misc/human_influence.txt&quot;&gt;list of words&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1vGTCPxO6l7xLBhNPr8ACge0IgteTiA1q/view?usp=sharing&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/final_report_smriti.pdf&quot;&gt;&lt;strong&gt;Completion Report&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
@@ -2450,6 +2470,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<updated>2024-02-29T00:00:00Z</updated>
 		<id>/p/en/posts/event_photo/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;This page showcases images from various events in which Semantic Climate has either participated or organized.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Computational Biology Conference 2025, 19-21 February 2025 at RCB | &lt;a href=&quot;../../posts/cbcevent2025/&quot;&gt;see more&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic3.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/cbc_pic6.JPG&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
 &lt;h3&gt;Hands-on workshop on BioAI for Research, 21-23 January 2025 at NIPGR | &lt;a href=&quot;../../posts/bioai_research/&quot;&gt;see more&lt;/a&gt;&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
