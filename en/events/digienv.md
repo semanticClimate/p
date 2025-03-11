@@ -24,7 +24,7 @@ The discussion is required to maintain good research practices in the era of AI 
 ### [Read more](https://ethicaldatainitiative.org/2025/02/09/research-assessment-in-the-digital-environment/)
 
 **The Panellist are:** 
-- Dr. Gitanjali Yadav, Scientist VI, NNational Institute of Plant Genome Research (NIPGR), New Delhi, India
+- Dr. Gitanjali Yadav, Scientist VI, National Institute of Plant Genome Research (NIPGR), New Delhi, India, co-founder #semanticClimate
 - Professor Evelyn Chiyevo Garwe, Associate Dean at the Mahommed VI Polytechnic University (UM6P), Morocco
 - Dr. Thandiwe Hara, Regional Innovation and Research Policy Manager, University of Oxford 
 - Moderator: Kathryn Bailey,  Professor of Research Governance Partnerships, University of Exeter and Operations Director of the Ethical Data Initiative.
