@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### International Day of Women and Girls in Science, 11 February 2025 at NIPGR | [see more](../../posts/wisDay/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/UKRI_pic3.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/UKRI_pic4.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Computational Biology Conference 2025, 19-21 February 2025 at RCB | [see more](../../posts/cbcevent2025/)
 
 <table>
