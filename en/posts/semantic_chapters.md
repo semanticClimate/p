@@ -18,7 +18,11 @@ These are IPCC chapters converted into semantic form and are presented as
 
 #### [CLICK HERE](https://github.com/semanticClimate/ipcc/tree/main/cleaned_content)
 
-## Acronyms from IPCC Chapters 
+### Structure of the IPCC Report
+
+#### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
+
+### Acronyms from IPCC Chapters 
 
 These are the list of climate related abbreviations (more than 1600) present in the different IPCC Chapters alongwith their wikidata ID (qid).
 For example: **AMOC - Atlantic Meridional Overturning Circulation** qid : Q56679219
