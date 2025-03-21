@@ -2,7 +2,7 @@
 title: BHL Day 2025 | Biodiversity Heritage Library
 date: 2025-04-09
 featured: true
-description: Bridging Data and Nature | public symposium and workshops  
+description: Bridging Data and Nature | Connecting Information, Technology, and Biodiversity  
 tags:
   - semanticclimate
   - outreach
@@ -25,7 +25,7 @@ tags:
   </tr>
 </table>
 
-#### **Dr. Gitanjali Yadav**, Staff Scientist VI, NIPGR, India and co-founder of **#semanticClimate** will present the work entitled *Mapping the Phytochemical Landscape using Machine Intelligence on Literature Metadata* in the Session 1 on 9 April 2025.
+**Dr. Gitanjali Yadav**, Staff Scientist VI, NIPGR, India and co-founder of **#semanticClimate** will present the work entitled *Mapping the Phytochemical Landscape using Machine Intelligence on Literature Metadata* in the Session 1 on 9 April 2025.
 
 ### Date and Time
 
