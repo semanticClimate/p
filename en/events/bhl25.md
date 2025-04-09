@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-**BHL Day 2025**, the two days hybrid symposium and workshop has been organized by [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/). This event will bring together the Information Scientists, Data Professional, Developers, Researchers, Academician acrosss the world to share their knowledge and discuss the challenges. 
+**BHL Day 2025**, One day public symposium has been organized by [Biodiversity Heritage Library](https://about.biodiversitylibrary.org/). This event will bring together the Information Scientists, Data Professional, Developers, Researchers, Academician acrosss the world to share their knowledge and discuss the challenges. 
 
 [Click here to read more](https://about.biodiversitylibrary.org/get-involved/events/bhl-day-2025/)
 
@@ -30,7 +30,6 @@ tags:
 ### Date and Time
 
 - **9 April 2025**, 12:00-18:00 CEST **(15:30 - 21:30 IST)**
-- **10 April 2025**, 09:30-13:00 CEST (13:00 - 16:30 IST)
 
 ### Registration
 
@@ -39,9 +38,8 @@ tags:
 ### Mode
 
 - **Hybrid** : Symposium
-- **Workshop** : In-person
 
-### Program Details for the Day 1 | 09 April, 2025
+### Program Details for Wednesday 9 April, 2025
 
 <table>
   <tr>
