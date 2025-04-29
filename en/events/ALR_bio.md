@@ -52,5 +52,23 @@ Dehradun, Uttarakhand
 
 India
 
+### e-Resources for the workshop 
+
+## Link to Colab Notebooks for the demonstration
+
+- [Review of Literature part 1](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
+
+- [Review of Literature part 2](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
+
+- [Review of Literature part 3](https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing)
+
+## Link to the presentations
+
+- [ALR Demo Session 1](https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf)
+- [NER Demo Session 2](https://github.com/semanticClimate/WII_workshop/blob/main/WII_NER_part3.pdf)
+
+
+#### [Click Here to Read More](https://github.com/semanticClimate/WII_workshop)
+
 
 
