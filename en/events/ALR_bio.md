@@ -70,5 +70,9 @@ India
 
 #### [Click Here to Read More](https://github.com/semanticClimate/WII_workshop)
 
+### Event Pictures
+
+### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/wii_ALR/)
+
 
 
