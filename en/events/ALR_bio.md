@@ -54,7 +54,7 @@ India
 
 ### e-Resources for the workshop 
 
-## Link to Colab Notebooks for the demonstration
+#### Link to Colab Notebooks for the demonstration
 
 - [Review of Literature part 1](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
 
@@ -62,17 +62,16 @@ India
 
 - [Review of Literature part 3](https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing)
 
-## Link to the presentations
+#### Link to the presentations
 
 - [ALR Demo Session 1](https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf)
 - [NER Demo Session 2](https://github.com/semanticClimate/WII_workshop/blob/main/WII_NER_part3.pdf)
 
 
-#### [Click Here to Read More](https://github.com/semanticClimate/WII_workshop)
+- #### [Click Here to Read More](https://github.com/semanticClimate/WII_workshop)
 
-### Event Pictures
+### Event Pictures | [CLICK HERE](https://semanticclimate.github.io/p/en/posts/wii_ALR/)
 
-### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/wii_ALR/)
 
 
 
