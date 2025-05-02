@@ -13,5 +13,10 @@ tags:
 
 It is updated regularly to include the latest content.
 
+### Link to the presentations | WII Workshop
+
+- [ALR Demo Session 1](https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf)
+- [NER Demo Session 2](https://github.com/semanticClimate/WII_workshop/blob/main/WII_NER_part3.pdf)
+
 ### [Team Presentations](https://github.com/semanticClimate/presentations/tree/main)
 

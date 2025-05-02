@@ -11,6 +11,12 @@ tags:
 
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
+- #### [DEMO: WII Workshop_NER](https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing)
+  
+- #### [DEMO: WII Workshop_RAG_LLM](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
+  
+- #### [DEMO: WII Workshop_Summarization](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
+  
 - #### [DEMO: The Tech We Want Summit 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle)
 
 - #### [pygetpapers_literature_search_demo](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
