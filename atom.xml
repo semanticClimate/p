@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-02T07:50:50Z</updated>
+	<updated>2025-05-02T11:17:33Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1152,15 +1152,45 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing&quot;&gt;DEMO: WII Workshop_NER&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Moobashara Jawed, Priti, Anudev, Shabnam Barbhuiya, Gitanjali Yadav&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing&quot;&gt;DEMO: WII Workshop_RAG_LLM&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Shabnam Barbhuiya, Kamran, Moobashara Jawed, Anudev&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing&quot;&gt;DEMO: WII Workshop_Summarization&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1KIbH-0ow2U6wiewNxF1PZNS5Ge4N_s6N?usp=sharing&quot;&gt;Summarization of multiple pdf&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/12tKE1UBCulINTVqxRxxIw-Q8xgPcE4J0?usp=sharing&quot;&gt;Summarization using cleaned code&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1Bv4sd-BvpVnv1HWUt7O76s6Dg1wDzWaS?usp=sharing&quot;&gt;graphviz tutorial&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Author: Renu Kumari&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing&quot;&gt;pygetpapers_literature_search_demo&lt;/a&gt;&lt;/h4&gt;
