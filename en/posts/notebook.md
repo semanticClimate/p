@@ -12,12 +12,29 @@ tags:
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
 - #### [DEMO: WII Workshop_NER](https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing)
+  - Authors: Moobashara Jawed, Priti, Anudev, Shabnam Barbhuiya, Gitanjali Yadav
   
 - #### [DEMO: WII Workshop_RAG_LLM](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
+  - Authors: Shabnam Barbhuiya, Kamran, Moobashara Jawed, Anudev 
   
 - #### [DEMO: WII Workshop_Summarization](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
+  - Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev
+
+- #### [Summarization of multiple pdf](https://colab.research.google.com/drive/1KIbH-0ow2U6wiewNxF1PZNS5Ge4N_s6N?usp=sharing)
+
+  - Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev
+
+- #### [Summarization using cleaned code](https://colab.research.google.com/drive/12tKE1UBCulINTVqxRxxIw-Q8xgPcE4J0?usp=sharing)
+
+  - Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev
   
 - #### [DEMO: The Tech We Want Summit 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle)
+
+  - Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust
+
+- #### [graphviz tutorial](https://colab.research.google.com/drive/1Bv4sd-BvpVnv1HWUt7O76s6Dg1wDzWaS?usp=sharing)
+
+  - Author: Renu Kumari
 
 - #### [pygetpapers_literature_search_demo](https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing)
 
