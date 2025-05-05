@@ -59,9 +59,9 @@ tags:
 
 ### Recordings of the Presentations 
 
-#### [Link to all presentation recordings](https://www.youtube.com/watch?v=R4i0y3p5aEM)
+- #### [Click Here to see all presentation](https://www.youtube.com/watch?v=R4i0y3p5aEM)
 
-#### Presentation by Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR)
+- #### Session 1: Presentation by Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR)
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/R4i0y3p5aEM?si=67lZx0F-JYLprK05&t=3335" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -69,3 +69,5 @@ tags:
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Mapping the Phytochemical Landscape using Machine Intelligence on Literature Metadata | Dr. Gitanjali Yadav</h5>
   </div>
 </div>
+
+- ### [Click Here to read all the presentations](https://about.biodiversitylibrary.org/get-involved/events/bhl-day-2025/#Recordings)
