@@ -57,10 +57,15 @@ tags:
   </tr>
 </table>
 
-### Location for the in-person workshop
+### Recordings of the Presentations 
 
-Museum für Naturkunde Berlin
+#### [Link to all presentation recordings](https://www.youtube.com/watch?v=R4i0y3p5aEM)
 
-Invalidenstraße 43
+#### Presentation by Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR)
 
-10115 Berlin, Germany
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/R4i0y3p5aEM?si=67lZx0F-JYLprK05&t=3335" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Mapping the Phytochemical Landscape using Machine Intelligence on Literature Metadata | Dr. Gitanjali Yadav</h5>
+  </div>
+</div>
