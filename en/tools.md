@@ -33,6 +33,8 @@ The library simplifies data extraction and manipulation, offering a user-friendl
 
 Check the successful installation with command : `amilib --help`. You should see a help message come up.
 
+- #### [Installation Guide](../../posts/ami_install/)
+
 - **Code Repository** - [github](https://github.com/petermr/amilib)
 
 - **Tutorials (Jupyter Notebook/ Colab Notebook)**
