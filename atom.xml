@@ -5,12 +5,82 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-09T06:44:26Z</updated>
+	<updated>2025-05-09T11:31:49Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>amilib installation instructions</title>
+		<link href="/p/en/posts/ami_install/"/>
+		<updated>2025-05-09T00:00:00Z</updated>
+		<id>/p/en/posts/ami_install/</id>
+		<content type="html">&lt;h4&gt;Introduction to &lt;code&gt;amilib&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; is a python library to support downloading and analysis of documents.&lt;/p&gt;
+&lt;h5&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/pmr_aug/README.md&quot;&gt;Click Here&lt;/a&gt; to read more about &lt;code&gt;amilib&lt;/code&gt;&lt;/h5&gt;
+&lt;h3&gt;Steps to install &lt;code&gt;amilib&lt;/code&gt; in virtual environment in Windows&lt;/h3&gt;
+&lt;h4&gt;Create virtual env&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Open cmd/terminal&lt;/li&gt;
+&lt;li&gt;Use the code &lt;code&gt;py -3.12 -m venv anyname&lt;/code&gt; to create virtual env. Replace anyname with your name of the environment. python==3.12 has been added to this venv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Activate virtual env&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Use the code to activate the venv created.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;source&#92;activate&#92;newami&lt;/code&gt;&lt;/p&gt;
+&lt;h4&gt;Install &lt;code&gt;amilib&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code: &lt;code&gt;pip install amilib==0.5.3&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Verify the installation of the tool with showing help page&lt;/h3&gt;
+&lt;h4&gt;&lt;code&gt;amilib help&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code: &lt;code&gt;amilib -h&lt;/code&gt; or &lt;code&gt;amilib --help&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/amilib_help.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;&lt;code&gt;amilib DICT&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code : &lt;code&gt;amilib DICT -h&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/DICT_help.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;&lt;code&gt;amilib HTML&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code : &lt;code&gt;amilib HTML -h&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/HTML_help.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;&lt;code&gt;amilib PDF&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code : &lt;code&gt;amilib PDF -h&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/PDF_help.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h4&gt;&lt;code&gt;amilib SEARCH&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;Code: &lt;code&gt;amilib SEARCH -h&lt;/code&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/SEARCH_help.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>AI assisted ALR Workshop at WII, Dehradun</title>
