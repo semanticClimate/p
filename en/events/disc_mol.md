@@ -50,3 +50,10 @@ Key points of learning:
     </td>
   </tr>
 </table>
+
+### Important Notes
+
+- To calculate **deltaG** from MD simulations, MMGBSA/MMPBSA can also be used. For these methods, this [review article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4487606/) is a must read  to understand the pros and cons of the method.
+- **FEP** is the most robust method for calculating **deltaG** values that can match with the experiment. To know more about FEP+, read [this paper](https://www.nature.com/articles/s42004-023-01019-9) published in Nature that describes the current accuracy of FEP+ 
+- List of tutorials and webinars: [Click Here](https://www.schrodinger.com/life-science/resources/?type=tutorial). 
+  - These tutorials have example files and step by step instructions for performing various tasks. All it requires is an account on the Schrödinger website which takes a day or two to get activated. Please create an account with your institute ID. 
