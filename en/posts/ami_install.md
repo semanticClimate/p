@@ -26,7 +26,7 @@ tags:
 
 - Use the code to activate the venv created.
 
-`source\activate\newami`
+`newami\Scripts\activate`
 
 #### Install `amilib` 
 
