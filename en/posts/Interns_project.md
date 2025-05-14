@@ -21,19 +21,39 @@ This contains the highlights of the work completed by the interns during their 2
 - **Moobashara Jawed** (January 2025 - May 2025)
 - **Suman Bharti** (January 2025 -May 2025)
 
-## Interns (2024)
+## Interns (2025)
+
+### AR6/WG1/Chapter02_Changing State of the Climate System
+
+analysed by **Moobashara Jawed** (January 2025 - May 2025)
+
+[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/moobashara)
+
+### AR6/WG2/Cross-ChapterPaper06_Polar regions
+
+analysed by **Anudev Suresh** (January 2025 - May 2025)
+
+[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/Anudev)
+
+### AR6/WG1/Chapter10_Linking Global to Regional Climate Change
+
+analysed by **Shabnam Barbhuiya** (January 2025 - May 2025)
+
+[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/shabnam)
 
 ### AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product
 
 analysed by **Mebin Joseph** (February 2025 - April 2025)
 
-[Click here to read the project](https://github.com/semanticClimate/internship_sC/tree/MEBIN)
+[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/MEBIN)
 
 ### AR6/WG2/Cross-ChapterPaper07_Tropical Forests
 
 analysed by **Sharon Nayak** (December 2024 to March 2025)
 
 [Click Here to Read the full report](https://github.com/semanticClimate/internship_sC/tree/sharon) 
+
+## Interns (2024)
 
 ### wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks
 
