@@ -105,9 +105,9 @@ Here are some essential `git` commands along with descriptions of their function
 
 - **[CLICK HERE](https://semanticclimate.github.io/p/en/posts/tut_regex/)**
 
-### PHASE 4: Climate Report Selection
+### PHASE 4: Climate Report Selection [Click Here to read the structure of IPCC/AR6 reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
 * Go to either [IPCC](https://www.ipcc.ch/) official website or see the **structure of the IPCC Reports** from [HERE](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
-* Navigate through the different working groups from [here](https://semanticclimate.github.io/p/en/posts/ipcc_resources/).
+* Navigate through the different working groups.
 * Watch the presentation **[video](https://www.youtube.com/watch?v=3DDhtrAmzsc&list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&index=1)** for the overview of IPCC/AR6 report.
 * Select a chapter from the IPCC/AR6 report that you find interesting.
 * Download and convert it to semantic form using `amilib` and `amiclimate` tool.

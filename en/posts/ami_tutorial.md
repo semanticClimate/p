@@ -27,6 +27,8 @@ tags:
 
 - Check the successful installation with command : `amilib --help`. You should see a help message come up.
 
+#### [Read full documentation to install amilib in virtual environment in Windows](https://semanticclimate.github.io/p/en/posts/ami_install/)
+
 ### Documentation (Tutorial)
 
 - #### [Introduction to amilib](https://github.com/petermr/amilib/blob/parijat_test/Introduction%20to%20amilib.md)
