@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-14T09:51:13Z</updated>
+	<updated>2025-05-14T10:03:27Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -818,6 +818,7 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ami_install/&quot;&gt;Read full documentation to install amilib in virtual environment in Windows&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Documentation (Tutorial)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1562,10 +1563,10 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/tut_regex/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;PHASE 4: Climate Report Selection&lt;/h3&gt;
+&lt;h3&gt;PHASE 4: Climate Report Selection &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;Click Here to read the structure of IPCC/AR6 reports&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Go to either &lt;a href=&quot;https://www.ipcc.ch/&quot;&gt;IPCC&lt;/a&gt; official website or see the &lt;strong&gt;structure of the IPCC Reports&lt;/strong&gt; from &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;HERE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Navigate through the different working groups from &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Navigate through the different working groups.&lt;/li&gt;
 &lt;li&gt;Watch the presentation &lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3DDhtrAmzsc&amp;amp;list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&amp;amp;index=1&quot;&gt;video&lt;/a&gt;&lt;/strong&gt; for the overview of IPCC/AR6 report.&lt;/li&gt;
 &lt;li&gt;Select a chapter from the IPCC/AR6 report that you find interesting.&lt;/li&gt;
 &lt;li&gt;Download and convert it to semantic form using &lt;code&gt;amilib&lt;/code&gt; and &lt;code&gt;amiclimate&lt;/code&gt; tool.&lt;/li&gt;
