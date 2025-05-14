@@ -15,15 +15,25 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### Active Interns
 
-- **Sharon Nayak** (December 2024 to March 2025)
+- **Sarth Santosh Shah** SRF (09 May 2025 - 05 July 2025)
 - **Shabnam Barbhuiya** (January 2025 - May 2025)
 - **Anudev Suresh** (January 2025 - May 2025)
 - **Moobashara Jawed** (January 2025 - May 2025)
 - **Suman Bharti** (January 2025 -May 2025)
-- **Mebin Joseph** (February 2025 - April 2025)
-- **Madhanakumar MP** (January 2025 - July 2025)
 
 ## Interns (2024)
+
+### AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product
+
+analysed by **Mebin Joseph** (February 2025 - April 2025)
+
+[Click here to read the project](https://github.com/semanticClimate/internship_sC/tree/MEBIN)
+
+### AR6/WG2/Cross-ChapterPaper07_Tropical Forests
+
+analysed by **Sharon Nayak** (December 2024 to March 2025)
+
+[Click Here to Read the full report](https://github.com/semanticClimate/internship_sC/tree/sharon) 
 
 ### wg1, Chapter 05: Global Carbon and other Biogeochemical Cycles and Feedbacks
 
