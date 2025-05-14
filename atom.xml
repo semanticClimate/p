@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-09T11:38:44Z</updated>
+	<updated>2025-05-14T05:25:03Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -30,7 +30,7 @@
 &lt;ul&gt;
 &lt;li&gt;Use the code to activate the venv created.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;source&#92;activate&#92;newami&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;newami&#92;Scripts&#92;activate&lt;/code&gt;&lt;/p&gt;
 &lt;h4&gt;Install &lt;code&gt;amilib&lt;/code&gt;&lt;/h4&gt;
 &lt;p&gt;Code: &lt;code&gt;pip install amilib==0.5.3&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Verify the installation of the tool with showing help page&lt;/h3&gt;
