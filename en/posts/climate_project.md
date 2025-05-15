@@ -15,6 +15,10 @@ This is the summary of the projects semanticClimate is doing.
 
 This will give the idea about how to start with any climate report published in pdf that is not machine readable and also not in semantic form.
 
+### Structure of the IPCC/AR6 Report 
+
+### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
+
 ### Selecting/Choosing a chapter of IPCC report
 
 - [All the chapters in semantic HTML](https://github.com/petermr/amilib/tree/main/test/resources/ipcc/cleaned_content)
