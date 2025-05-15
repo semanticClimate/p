@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-14T10:13:36Z</updated>
+	<updated>2025-05-15T05:20:20Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -666,6 +666,8 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<content type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is the summary of the projects semanticClimate is doing.&lt;/p&gt;
 &lt;p&gt;This will give the idea about how to start with any climate report published in pdf that is not machine readable and also not in semantic form.&lt;/p&gt;
+&lt;h3&gt;Structure of the IPCC/AR6 Report&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;Selecting/Choosing a chapter of IPCC report&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
