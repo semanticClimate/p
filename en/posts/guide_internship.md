@@ -113,13 +113,17 @@ Here are some essential `git` commands along with descriptions of their function
 * Download and convert it to semantic form using `amilib` and `amiclimate` tool.
 * Create a **dictionary** specific to the selected chapter and annotating the chapter with dictionary terms.
 
+### How to use `graphviz` tool to make flowcharts, diagram etc.
+
+#### [Colab Notebook to learn the tool](https://colab.research.google.com/drive/1WxD8-RK5zTBOMIJLH3UDNQ8CvTDzH9q7?usp=sharing)
+
 ### Read about the projects done by Interns
 
 #### [Click Here](https://semanticclimate.github.io/p/en/posts/Interns_project/)
 
 ### Resources for climate knowledge
 
-#### [Click Here](../../posts/new_resources/)
+#### [Click Here](https://semanticclimate.github.io/p/en/posts/resources/)
 
 ### **HIGH-PRIORITY:**
 
