@@ -115,15 +115,15 @@ Here are some essential `git` commands along with descriptions of their function
 
 ### How to use `graphviz` tool to make flowcharts, diagram etc.
 
-#### [Colab Notebook to learn the tool](https://colab.research.google.com/drive/1WxD8-RK5zTBOMIJLH3UDNQ8CvTDzH9q7?usp=sharing)
+- #### [Colab Notebook to learn the tool](https://colab.research.google.com/drive/1WxD8-RK5zTBOMIJLH3UDNQ8CvTDzH9q7?usp=sharing)
 
 ### Read about the projects done by Interns
 
-#### [Click Here](https://semanticclimate.github.io/p/en/posts/Interns_project/)
+- #### [Click Here](https://semanticclimate.github.io/p/en/posts/Interns_project/)
 
 ### Resources for climate knowledge
 
-#### [Click Here](https://semanticclimate.github.io/p/en/posts/resources/)
+- #### [Click Here](https://semanticclimate.github.io/p/en/posts/resources/)
 
 ### **HIGH-PRIORITY:**
 

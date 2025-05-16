@@ -32,7 +32,11 @@ This contains the links for all the colab notebooks that has been created to do 
 
   - Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust
 
-- #### [graphviz tutorial](https://colab.research.google.com/drive/1Bv4sd-BvpVnv1HWUt7O76s6Dg1wDzWaS?usp=sharing)
+- #### [graphviz tutorial_notebook 1](https://colab.research.google.com/drive/1Bv4sd-BvpVnv1HWUt7O76s6Dg1wDzWaS?usp=sharing)
+
+  - Author: Renu Kumari
+
+- #### [graphviz tutorial_notebook 2](https://colab.research.google.com/drive/1WxD8-RK5zTBOMIJLH3UDNQ8CvTDzH9q7?usp=sharing)
 
   - Author: Renu Kumari
 
