@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-05-27T05:19:53Z</updated>
+	<updated>2025-05-30T05:30:11Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -874,7 +874,7 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;h3&gt;Demo Session (18 October, 2024)&lt;/h3&gt;
 &lt;p&gt;Demo was given by &lt;strong&gt;Parijat Bhadra&lt;/strong&gt; – Intern and Team member, #semanticClimate&lt;/p&gt;
 &lt;h4&gt;COLAB NOTEBOOK&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1507XycTMIljFxY1FZHDoEa_WSExiR9HT?usp=sharing&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The tools were demonstrated via Colab notebook to show real-time code execution and results, highlighting their importance in making climate report semantic.&lt;/p&gt;
 &lt;p&gt;The colab notebook emphasizes:&lt;/p&gt;
 &lt;ul&gt;
@@ -1254,9 +1254,9 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1507XycTMIljFxY1FZHDoEa_WSExiR9HT?usp=sharing&quot;&gt;DEMO: The Tech We Want Summit 2024&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust&lt;/li&gt;
+&lt;li&gt;Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust, Simon Worthington, Gitanjali Yadav&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
