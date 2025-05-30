@@ -1,5 +1,5 @@
 ---
-title: A Global Conclave and Hackathon | AI Assisted Literature Reviews and Research Assessment
+title: A Global Conclave and Hackathon | AI Powered Literature Review and Research Assessment
 date: 2025-06-09
 featured: true
 description: Two Days Hackathon at NIPGR, New Delhi

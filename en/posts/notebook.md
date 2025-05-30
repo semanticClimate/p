@@ -28,9 +28,9 @@ This contains the links for all the colab notebooks that has been created to do 
 
   - Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev
   
-- #### [DEMO: The Tech We Want Summit 2024](https://colab.research.google.com/drive/1WUP8IUKvMV14LiOGSvrDMk9k0Oknd9rk#scrollTo=oNK1JLBW-Cle)
+- #### [DEMO: The Tech We Want Summit 2024](https://colab.research.google.com/drive/1507XycTMIljFxY1FZHDoEa_WSExiR9HT?usp=sharing)
 
-  - Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust
+  - Authors: Parijat Bhadra, Renu Kumari, Peter Murray-Rust, Simon Worthington, Gitanjali Yadav
 
 - #### [graphviz tutorial_notebook 1](https://colab.research.google.com/drive/1Bv4sd-BvpVnv1HWUt7O76s6Dg1wDzWaS?usp=sharing)
 
