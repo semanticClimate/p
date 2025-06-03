@@ -27,12 +27,12 @@ The unique summit comprises lectures, interactive panel discussions as well as H
 
 The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. 
 
-The workflow followed are:
+Our "HACK THE LIBRARY!" Session workflow:
 
-- **Search the literatures:** Downloading relevant research articles on any query using `pygetpapers`
-- **Summary of the Retrieved articles:** `amilib` is used to create datatables having informations about the title, abstract and year of publications etc. in a table format.
-- **Summarization:** The text in the PDF can be summarized to get overview and summary of the content. 
-- **Named Entity Recognition (NER):** This analysis involves the extraction of Plant species, chemicals, diseases, location etc. from the research articles.
+- **Search Literature:** Download relevant research articles from public repositories using our toolkit `pygetpapers`
+- **Extract Metadata:** Use `amilib` to create tabular metadata (title, abstract and year of publications etc.).
+- **Summarization:** Use AI for 'Precision Research': Text Summarization of relevant content. 
+- **Named Entity Recognition (NER):** Use AI for Academic Discovery on Literature (Species/ Chemistry/ Health / Geography) etc.
 
 
 ### Day & Date
@@ -42,11 +42,15 @@ The workflow followed are:
 
 ### Mode
 
-- **In-Person (Offline)**
+- **HYBRID**
 
-### Organized by
+### Organizing Partners 
 
+- CODATA India
 - National Institute of Plant Genome Research (NIPGR), New Delhi
+- CoARA ERIP Working Group
+- National Institute of Immunology (NII), New Delhi
+- IIIT Una
 - #semanticClimate
 
 ### Location
@@ -59,4 +63,15 @@ New Delhi- 110067
 
 India
 
+### LINK TO REGISTER
 
+Register Here: https://docs.google.com/forms/d/e/1FAIpQLSdyZkV_RJcOyobgLN35nFPGuImaZhqfYAZymU0rZeyhPgivlg/viewform?usp=sharing&ouid=105960749957859136825
+
+### Organizing Committee 
+
+- Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi
+- Dr. Francis Crawley, CoARA ERIP Working Group, Belgium
+- Dr. Debasisa Mohanty, Director, National Institute of Immunology (NII), New Delhi
+- Dr. Narinder Mehra, Chairman, CODATA India National Committee
+- Dr.Manish Gaur, Director, IIIT Una
+- Dr. Peter Murray-Rust, Co-Founder #semanticClimate
