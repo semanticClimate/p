@@ -43,7 +43,7 @@ The Summit is Open to all, with no barrier to entry, and no registration fee. It
 
 ### PROGRAM SCHEDULE 
 
-#### DAY 01: Lectures, Panels and Interactive RoundTables ** 
+#### DAY 01: Lectures, Panels and Interactive RoundTables** 
 
 
 #### Day 02: Hands-on DIY Session **AI Assisted Literature Review** 
