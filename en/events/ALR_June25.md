@@ -84,5 +84,5 @@ India
 - Dr. Francis Crawley, CoARA ERIP Working Group, Belgium
 - Dr. Debasisa Mohanty, Director, National Institute of Immunology (NII), New Delhi
 - Dr. Narinder Mehra, Chairman, CODATA India National Committee
-- Dr.Manish Gaur, Director, IIIT Una
+- Dr. Manish Gaur, Director, IIIT Una
 - Dr. Peter Murray-Rust, Co-Founder #semanticClimate
