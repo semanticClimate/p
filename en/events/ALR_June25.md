@@ -8,15 +8,15 @@ tags:
   - outreach
   - hackathon
 ---
-We are pleased to announce “The Research AI Summit: Bridging Innovation & Open Science” to be held at National Institute of Plant Genome Research (NIPGR), New Delhi, India on June 9-10, 2025, in collaboration with CODATA India, BRIC-NII, CoARA-ERIP and IIIT Una. 
+We are pleased to announce “The Research AI Summit: Bridging Innovation & Open Science” to be held at [National Institute of Plant Genome Research (NIPGR), New Delhi](https://nipgr.ac.in/nipgrv2/index.html), India on June 9-10, 2025, in collaboration with [CODATA India](https://codata.org/india/), [BRIC-NII](https://www.nii.res.in/), [CoARA-ERIP](https://coara.eu/working-groups/working-groups/wg-erip/) and [IIIT Una](https://iiitu.ac.in/). 
 
-We aim to bring together National data custodians, funders and global AI experts towards new collaborations in BioAI from academia the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s BioE3 Policy and India's NEP 2020 priorities. 
+We aim to bring together National data custodians, funders and global AI experts towards new collaborations in BioAI from academia the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s [BioE3 Policy](https://bmi.dbtindia.gov.in/) and India's [NEP 2020](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf) priorities. 
 
 The program comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
 
-The Summit is Open to all, with no barrier to entry, and no registration fee. It will be held in online as well as offline mode, as we wish to have maximum participation from academia and students 
+The Summit is Open to all, with no barrier to entry, and no registration fee. It will be held in online as well as offline mode, as we wish to have maximum participation from academia and students. 
 
-We specially invite students, researchers and data enthusiasts who wish to engage with AI. We will have representatives of Global and Indian Academia and Science governance ecosystem, including CODATA, CoARA, CSIR, DBT, DST, Niti Aayog, National Skills Mission and the Corporate Sector. 
+We specially invite students, researchers and data enthusiasts who wish to engage with AI. We will have representatives of Global and Indian Academia and Science governance ecosystem, including [CODATA](https://codata.org/), [CoARA](https://coara.eu/), [CSIR](https://www.csir.res.in/), [DBT](https://dbtindia.gov.in/), [DST](https://dst.gov.in/), [Niti Aayog](https://niti.gov.in/), National Skills Mission and the Corporate Sector. 
 
 
 <table>
@@ -62,12 +62,12 @@ Our "HACK THE LIBRARY!" Session workflow:
 
 ### Organizing Partners 
 
-- CODATA India
-- National Institute of Plant Genome Research (NIPGR), New Delhi
-- CoARA ERIP Working Group
-- National Institute of Immunology (NII), New Delhi
-- IIIT Una
-- #semanticClimate
+- [CODATA India](https://codata.org/india/)
+- [National Institute of Plant Genome Research (NIPGR), New Delhi](https://nipgr.ac.in/nipgrv2/index.html)
+- [CoARA ERIP Working Group](https://coara.eu/working-groups/working-groups/wg-erip/)
+- [National Institute of Immunology (NII), New Delhi](https://www.nii.res.in/)
+- [IIIT Una](https://iiitu.ac.in/)
+- [#semanticClimate](https://semanticclimate.github.io/p/en/)
 
 ### Location
 
@@ -80,9 +80,9 @@ New Delhi- 110067
 India
 ### Organizing Committee 
 
-- Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi
-- Dr. Francis Crawley, CoARA ERIP Working Group, Belgium
-- Dr. Debasisa Mohanty, Director, National Institute of Immunology (NII), New Delhi
-- Dr. Narinder Mehra, Chairman, CODATA India National Committee
-- Dr. Manish Gaur, Director, IIIT Una
-- Dr. Peter Murray-Rust, Co-Founder #semanticClimate
+- [Dr. Gitanjali Yadav](https://nipgr.ac.in/nipgrv2/dr_gyadav.html), National Institute of Plant Genome Research (NIPGR), New Delhi
+- [Dr. Francis Crawley](https://knowledge4policy.ec.europa.eu/profile/francis-p-crawley-1745_en), CoARA ERIP Working Group, Belgium
+- [Dr. Debasisa Mohanty](https://www.nii.res.in/en/directors-page), Director, National Institute of Immunology (NII), New Delhi
+- [Dr. Narinder Mehra](https://council.science/profile/narinder-mehra/), Chairman, CODATA India National Committee
+- [Dr. Manish Gaur](https://iiitu.ac.in/schools/SOC/faculty/66bbc33dbf272288f00f287b), Director, IIIT Una
+- [Dr. Peter Murray-Rust](https://www.ch.cam.ac.uk/person/pm286), Co-Founder #semanticClimate
