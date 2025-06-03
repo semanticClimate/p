@@ -39,7 +39,7 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 
 ### LINK TO REGISTER
 
-- [Register Here][https://docs.google.com/forms/d/e/1FAIpQLSdyZkV_RJcOyobgLN35nFPGuImaZhqfYAZymU0rZeyhPgivlg/viewform?usp=sharing&ouid=105960749957859136825]
+- [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSdyZkV_RJcOyobgLN35nFPGuImaZhqfYAZymU0rZeyhPgivlg/viewform?usp=sharing&ouid=105960749957859136825)
 
 ### PROGRAM SCHEDULE 
 
