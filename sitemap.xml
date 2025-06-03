@@ -817,16 +817,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
-    <lastmod>2025-06-03</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
-    <lastmod>2025-06-03</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
     <lastmod>2025-06-03</lastmod>
   </url>
@@ -843,6 +833,16 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2025-06-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
+    <lastmod>2025-06-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
     <lastmod>2025-06-03</lastmod>
   </url>
   
