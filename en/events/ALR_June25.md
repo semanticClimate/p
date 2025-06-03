@@ -10,13 +10,13 @@ tags:
 ---
 We are pleased to announce “The Research AI Summit: Bridging Innovation & Open Science” to be held at National Institute of Plant Genome Research (NIPGR), New Delhi, India on June 9-10, 2025, in collaboration with CODATA India, BRIC-NII, CoARA-ERIP and IIIT Una. 
 
-We specially invite members of all CoARA Working groups to join this event, along with representatives of Indian Academia and Science governance ecosystem, including CSIR, DBT, DST, Niti Aayog, National Skills Mission and the Corporate Sector. 
+We aim to bring together National data custodians, funders and global AI experts towards new collaborations in BioAI from academia the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s BioE3 Policy and India's NEP 2020 priorities. 
 
-The summit will focus on bringing together National data custodians, funders and global AI experts, towards new collaborations in BioAI from the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s BioE3 Policy and India's NEP 2020 priorities. 
-
-The unique summit comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
+The program comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
 
 The Summit is Open to all, with no barrier to entry, and no registration fee. It will be held in online as well as offline mode, as we wish to have maximum participation from academia and students 
+
+We specially invite students, researchers and data enthusiasts who wish to engage with AI. We will have representatives of Global and Indian Academia and Science governance ecosystem, including CODATA, CoARA, CSIR, DBT, DST, Niti Aayog, National Skills Mission and the Corporate Sector. 
 
 
 <table>
