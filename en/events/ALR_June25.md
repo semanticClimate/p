@@ -2,16 +2,14 @@
 title: The Research AI Summit | Bridging Innovation & Open Science
 date: 2025-06-09
 featured: true
-description: Two Days research summit including Hands-On DIY Sessions for scholars at NIPGR, New Delhi
+description: Two Days research summit including Hands-On DIY Sessions at NIPGR, New Delhi
 tags:
   - semanticclimate
   - outreach
   - hackathon
 ---
 
-The unique summit comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s 
-
-for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
+The unique summit comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
 
 <table>
   <tr>
@@ -21,7 +19,11 @@ for performing Precision Reviews, followed by writing and (open) publishing the 
   </tr>
 </table>
 
-#### Hands-on session include the **AI Assisted Literature Review** 
+#### DAY 01: Lectures, Panels and Interactive RoundTables ** 
+
+
+#### Day 02: Hands-on DIY Session **AI Assisted Literature Review** 
+
 
 The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. 
 
