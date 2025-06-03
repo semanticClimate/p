@@ -8,8 +8,16 @@ tags:
   - outreach
   - hackathon
 ---
+We are pleased to announce “The Research AI Summit: Bridging Innovation & Open Science” to be held at National Institute of Plant Genome Research (NIPGR), New Delhi, India on June 9-10, 2025, in collaboration with CODATA India, BRIC-NII, CoARA-ERIP and IIIT Una. 
+
+We specially invite members of all CoARA Working groups to join this event, along with representatives of Indian Academia and Science governance ecosystem, including CSIR, DBT, DST, Niti Aayog, National Skills Mission and the Corporate Sector. 
+
+The summit will focus on bringing together National data custodians, funders and global AI experts, towards new collaborations in BioAI from the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s BioE3 Policy and India's NEP 2020 priorities. 
 
 The unique summit comprises lectures, interactive panel discussions as well as Hands-On DIY Sessions for scholars where they use our AI based toolkit/s for performing Precision Reviews, followed by writing and (open) publishing the insights gained on their chosen topics, at the end of the Summit.
+
+The Summit is Open to all, with no barrier to entry, and no registration fee. It will be held in online as well as offline mode, as we wish to have maximum participation from academia and students 
+
 
 <table>
   <tr>
@@ -18,6 +26,22 @@ The unique summit comprises lectures, interactive panel discussions as well as H
     </td>
   </tr>
 </table>
+
+### Day & Date
+
+- **Day 01: Monday, 09 JUNE 2025**
+- **Day 02: Tuesday, 10 JUNE 2025**
+
+### Mode
+
+- **HYBRID**
+
+
+### LINK TO REGISTER
+
+Register Here: https://docs.google.com/forms/d/e/1FAIpQLSdyZkV_RJcOyobgLN35nFPGuImaZhqfYAZymU0rZeyhPgivlg/viewform?usp=sharing&ouid=105960749957859136825
+
+### PROGRAM SCHEDULE 
 
 #### DAY 01: Lectures, Panels and Interactive RoundTables ** 
 
@@ -35,14 +59,6 @@ Our "HACK THE LIBRARY!" Session workflow:
 - **Named Entity Recognition (NER):** Use AI for Academic Discovery on Literature (Species/ Chemistry/ Health / Geography) etc.
 
 
-### Day & Date
-
-- **Day 01: Monday, 09 JUNE 2025**
-- **Day 02: Tuesday, 10 JUNE 2025**
-
-### Mode
-
-- **HYBRID**
 
 ### Organizing Partners 
 
@@ -62,11 +78,6 @@ Aruna Asaf Ali Marg
 New Delhi- 110067
 
 India
-
-### LINK TO REGISTER
-
-Register Here: https://docs.google.com/forms/d/e/1FAIpQLSdyZkV_RJcOyobgLN35nFPGuImaZhqfYAZymU0rZeyhPgivlg/viewform?usp=sharing&ouid=105960749957859136825
-
 ### Organizing Committee 
 
 - Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi
