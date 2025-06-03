@@ -84,5 +84,5 @@ India
 - [Dr. Francis Crawley](https://knowledge4policy.ec.europa.eu/profile/francis-p-crawley-1745_en), CoARA ERIP Working Group, Belgium
 - [Dr. Debasisa Mohanty](https://www.nii.res.in/en/directors-page), Director, National Institute of Immunology (NII), New Delhi
 - [Dr. Narinder Mehra](https://council.science/profile/narinder-mehra/), Chairman, CODATA India National Committee
-- [Dr. Manish Gaur](https://iiitu.ac.in/schools/SOC/faculty/66bbc33dbf272288f00f287b), Director, IIIT Una
+- [Dr. Manish Gaur](https://iiitu.ac.in/director), Director, IIIT Una
 - [Dr. Peter Murray-Rust](https://www.ch.cam.ac.uk/person/pm286), Co-Founder #semanticClimate
