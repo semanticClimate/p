@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-03T07:23:03Z</updated>
+	<updated>2025-06-06T05:52:19Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1224,19 +1224,19 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<content type="html">&lt;p&gt;This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing&quot;&gt;DEMO: WII Workshop_NER&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1oPgnTC4UrBJF-8W2t508voWEsu8_z4ac?usp=sharing&quot;&gt;DEMO: Named Entity Recognition_NER&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Moobashara Jawed, Priti, Anudev, Shabnam Barbhuiya, Gitanjali Yadav&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing&quot;&gt;DEMO: WII Workshop_RAG_LLM&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing&quot;&gt;DEMO: RAG_LLM&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Shabnam Barbhuiya, Kamran, Moobashara Jawed, Anudev&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing&quot;&gt;DEMO: WII Workshop_Summarization&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing&quot;&gt;DEMO: Summarization&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev&lt;/li&gt;
 &lt;/ul&gt;
