@@ -78,6 +78,7 @@ Aruna Asaf Ali Marg
 New Delhi- 110067
 
 India
+
 ### Organizing Committee 
 
 - [Dr. Gitanjali Yadav](https://nipgr.ac.in/nipgrv2/dr_gyadav.html), National Institute of Plant Genome Research (NIPGR), New Delhi
@@ -87,15 +88,7 @@ India
 - [Dr. Manish Gaur](https://iiitu.ac.in/director), Director, IIIT Una
 - [Dr. Peter Murray-Rust](https://www.ch.cam.ac.uk/person/pm286), Co-Founder #semanticClimate
 
-### e-Resources for the workshop 
 
-#### Link to Colab Notebooks for the demonstration
-
-- #### [DEMO: Summarization](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
-
-- #### [DEMO: RAG_LLM](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
-  
-- #### [DEMO: Named Entity Recognition_NER](https://colab.research.google.com/drive/1oPgnTC4UrBJF-8W2t508voWEsu8_z4ac?usp=sharing)
  
 
 
