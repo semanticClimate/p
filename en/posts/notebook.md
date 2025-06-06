@@ -11,13 +11,13 @@ tags:
 
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
-- #### [DEMO: WII Workshop_NER](https://colab.research.google.com/drive/1HUGt_bnunXIoVJXPoE1ZQ-idcqR-_RXe?usp=sharing)
+- #### [DEMO: Named Entity Recognition_NER](https://colab.research.google.com/drive/1oPgnTC4UrBJF-8W2t508voWEsu8_z4ac?usp=sharing)
   - Authors: Moobashara Jawed, Priti, Anudev, Shabnam Barbhuiya, Gitanjali Yadav
   
-- #### [DEMO: WII Workshop_RAG_LLM](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
+- #### [DEMO: RAG_LLM](https://colab.research.google.com/drive/1RteHNh-ZROSSxja7tYRaKVCwT5wWOeVP?usp=sharing)
   - Authors: Shabnam Barbhuiya, Kamran, Moobashara Jawed, Anudev 
   
-- #### [DEMO: WII Workshop_Summarization](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
+- #### [DEMO: Summarization](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
   - Authors: Shabnam Barbhuiya, Moobashara Jawed, Anudev
 
 - #### [Summarization of multiple pdf](https://colab.research.google.com/drive/1KIbH-0ow2U6wiewNxF1PZNS5Ge4N_s6N?usp=sharing)
