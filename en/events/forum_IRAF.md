@@ -9,17 +9,17 @@ tags:
   - hackathon
 ---
 
-#### Current Members
+#### People in Advisory Board
 
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events_all/forum_pic1.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events_all/forum_pic1.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
 
-#### People Who Have Joined the Forum
+### People Who Have Joined the Forum
 
 <table>
   <tr>
