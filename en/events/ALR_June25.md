@@ -88,6 +88,25 @@ India
 - [Dr. Manish Gaur](https://iiitu.ac.in/director), Director, IIIT Una
 - [Dr. Peter Murray-Rust](https://www.ch.cam.ac.uk/person/pm286), Co-Founder #semanticClimate
 
+### Instructors
+
+- **Dr. Renu Kumari**
+- **Ms. Priti Chahal**
+- **Ms. Moobashara Jawed**
+- **Ms. Shabnam Bharbuiya**
+
+### Volunteers
+
+- **Mr. Mandeep**
+- **Ms. Neeraj Kumari**
+- **Mr. Anudev**
+- **Ms. Avika Joshi**
+- **semanticClimate Interns**
+
+### Program Schedule
+
+#### [CLICK HERE](https://github.com/semanticClimate/internship_sC/blob/main/CODATA_NIPGR_IRAF_Launch_program_2025_Final.pdf)
+
 
  
 
