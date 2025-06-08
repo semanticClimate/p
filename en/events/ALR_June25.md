@@ -59,17 +59,23 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 
 #### Day 02: Hands-on DIY Session **AI Assisted Literature Review** 
 
-
-The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. 
-
-Our "HACK THE LIBRARY!" Session workflow:
-
+- **FORENOON SESSION : HACK THE LIBRARY!**:
+The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. Session workflow:
 - **Search Literature:** Download relevant research articles from public repositories using our toolkit `pygetpapers`
 - **Extract Metadata:** Use `amilib` to create tabular metadata (title, abstract and year of publications etc.).
 - **Summarization:** Use AI for 'Precision Research': Text Summarization of relevant content. 
 - **Named Entity Recognition (NER):** Use AI for Academic Discovery on Literature (Species/ Chemistry/ Health / Geography) etc.
 
-
+- **AFTERNOON SESSIONS**:
+  
+- **6: AI-Assisted Precision Reviews**
+        1130hrs IST == 0600 UTC == 0800 CEST 
+- **7: Open Innovations for Academic Discovery & Research Assessment**
+        1400hrs IST == 0830 UTC == 1030 CEST 
+- **8: LAUNCH OF THE INDIAN RESEARCH ASSESSMENTS FORUM (IRAF)**
+     1515hrs IST == 0945 UTC == 1145 CEST
+- **VALEDICTORY SESSION**:
+    16300hrs IST == 1130 UTC == 1300 CEST 
 
 ### Organizing Partners 
 
