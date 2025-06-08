@@ -44,7 +44,12 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 ### PROGRAM SCHEDULE 
 
 #### DAY 01: **Lectures, Panels and Interactive RoundTables** 
-
+- **INAUGURAL SESSION**:  0930hrs IST == 0400hrs UTC == 0600hrs CEST
+- **1: Learning w/ Algorithms: India’s NEP Policy and the Future of Data Literacy** : 1100hrs IST == 0530 UTC == 0730 CEST 
+- **2: Rethinking Data and AI in Science and Higher Education**
+- **3: Data without Borders: FAIR Journeys with Trains and Visitors**
+- **4: Uniting India’s Data Landscape: The Strategic Role of CODATA**
+- **5: AI-Driven Open Innovations for Precision Research**
 
 #### Day 02: Hands-on DIY Session **AI Assisted Literature Review** 
 
