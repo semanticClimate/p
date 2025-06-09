@@ -70,7 +70,7 @@ The Indian Research Assessments Forum (IRAF) is being proposed as a national pla
 
 ### Next Steps
 
-- Formal launch of IRAF during the [National Summit on Data, AI, and Research Assessment].
+- Formal launch of IRAF during the [National Summit on Data, AI, and Research Assessment](https://semanticclimate.github.io/p/en/events/ALR_June25/).
 - Establishment of a secretariat with working groups on key themes (AI & Ethics, Open Science, Discipline-Specific Frameworks, Capacity Building).
-- Development of an Indian Declaration on Responsible Research Assessment.
+- Development of an **Indian Declaration on Responsible Research Assessment**.
 
