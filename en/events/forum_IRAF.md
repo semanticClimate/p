@@ -1,8 +1,8 @@
 ---
-title: Indian Research Assessments Forum | IRAF
+title: India Research Assessments Forum | IRAF
 date: 2025-06-10
 featured: true
-description: Launch of the Indian Research Assessments Forum (IRAF)
+description: Launch of the India Research Assessments Forum (IRAF)
 tags:
   - semanticclimate
   - outreach
