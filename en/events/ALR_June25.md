@@ -59,23 +59,22 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 
 #### Day 02 FORENOON: Hands-on DIY Session **AI Assisted Literature Review** 
 
-- **FORENOON SESSION : HACK THE LIBRARY!**:
-The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. Session workflow:
-- **Search Literature:** Download relevant research articles from public repositories using our toolkit `pygetpapers`
-- **Extract Metadata:** Use `amilib` to create tabular metadata (title, abstract and year of publications etc.).
-- **Summarization:** Use AI for 'Precision Research': Text Summarization of relevant content. 
-- **Named Entity Recognition (NER):** Use AI for Academic Discovery on Literature (Species/ Chemistry/ Health / Geography) etc.
+- The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. Session workflow:
+- *Search Literature:* Download relevant research articles from public repositories using our toolkit `pygetpapers`
+- *Extract Metadata:* Use `amilib` to create tabular metadata (title, abstract and year of publications etc.).
+- *Summarization:* Use AI for 'Precision Research': Text Summarization of relevant content. 
+- *Named Entity Recognition (NER):* Use AI for Academic Discovery on Literature (Species/ Chemistry/ Health / Geography) etc.
 
 - **AFTERNOON SESSIONS**:
   
 - **6: AI-Assisted Precision Reviews**
-        1130hrs IST == 0600 UTC == 0800 CEST 
+-   (1130hrs IST == 0600 UTC == 0800 CEST)
 - **7: Open Innovations for Academic Discovery & Research Assessment**
-        1400hrs IST == 0830 UTC == 1030 CEST 
+-   (1400hrs IST == 0830 UTC == 1030 CEST)
 - **8: LAUNCH OF THE INDIAN RESEARCH ASSESSMENTS FORUM (IRAF)**
-     1515hrs IST == 0945 UTC == 1145 CEST
-- **VALEDICTORY SESSION**:
-    16300hrs IST == 1130 UTC == 1300 CEST
+-   (1515hrs IST == 0945 UTC == 1145 CEST)
+- **VALEDICTORY SESSION**
+-   (16300hrs IST == 1130 UTC == 1300 CEST)
 
 #### Day 02 AFTERNOON: LAUNCH OF THE INDIAN RESEARCH ASSESSMENTS FORUM (IRAF)** 
 - This summit is the birthplace of something new: The Indian Research Assessments Forum (IRAF) will be formally launched on JUne 10, 2025. IRAF will serve as a national platform to reimagine research assessment for the 21st century—moving beyond impact factors and toward values that reflect diversity, collaboration, and societal relevance.
