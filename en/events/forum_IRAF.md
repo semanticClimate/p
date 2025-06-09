@@ -59,3 +59,18 @@ The Indian Research Assessments Forum (IRAF) is being proposed as a national pla
     </td>
   </tr>
 </table>
+
+### Objectives of the IRAF
+
+- To align Indian research assessment practices with global responsible assessment frameworks (e.g., COARA, OpenAIRE).
+- To recognize the full diversity of research outputs—including datasets, software, community impact, and interdisciplinary work.
+- To incorporate AI explainability, provenance tracking, and ethics into research evaluation.
+- To enable multilingual and culturally inclusive assessment systems reflective of India’s research landscape.
+- To support training programs on AI literacy and open science practices for researchers, funders, and peer reviewers.
+
+### Next Steps
+
+- Formal launch of IRAF during the [National Summit on Data, AI, and Research Assessment].
+- Establishment of a secretariat with working groups on key themes (AI & Ethics, Open Science, Discipline-Specific Frameworks, Capacity Building).
+- Development of an Indian Declaration on Responsible Research Assessment.
+
