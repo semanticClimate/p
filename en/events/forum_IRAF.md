@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-#### People in Advisory Board
+#### The IRAF Advisory Board
 
 <table>
   <tr>
@@ -19,7 +19,7 @@ tags:
   </tr>
 </table>
 
-### People Who Have Joined the Forum
+### Current Members of the Forum 
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ tags:
 </table>
 
 
-### Scan  QR code to join the IRAF
+### Become a Member of the Forum! Scan  QR Code
 
 <table>
   <tr>
