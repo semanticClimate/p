@@ -57,7 +57,7 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 - **5: AI-Driven Open Innovations for Precision Research**
       16300hrs IST == 1130 UTC == 1300 CEST 
 
-#### Day 02: Hands-on DIY Session **AI Assisted Literature Review** 
+#### Day 02 FORENOON: Hands-on DIY Session **AI Assisted Literature Review** 
 
 - **FORENOON SESSION : HACK THE LIBRARY!**:
 The use of AI tools to do scientific literature review for extracting comphensive and meaningful informations from the large volume of scholarly articles. Session workflow:
@@ -75,7 +75,11 @@ The use of AI tools to do scientific literature review for extracting comphensiv
 - **8: LAUNCH OF THE INDIAN RESEARCH ASSESSMENTS FORUM (IRAF)**
      1515hrs IST == 0945 UTC == 1145 CEST
 - **VALEDICTORY SESSION**:
-    16300hrs IST == 1130 UTC == 1300 CEST 
+    16300hrs IST == 1130 UTC == 1300 CEST
+
+#### Day 02 AFTERNOON: LAUNCH OF THE INDIAN RESEARCH ASSESSMENTS FORUM (IRAF)** 
+- This summit is the birthplace of something new: The Indian Research Assessments Forum (IRAF) will be formally launched on JUne 10, 2025. IRAF will serve as a national platform to reimagine research assessment for the 21st century—moving beyond impact factors and toward values that reflect diversity, collaboration, and societal relevance.
+- [Click here for more information on the IRAF](https://semanticclimate.github.io/p/en/events/forum_IRAF/)
 
 ### Organizing Partners 
 
