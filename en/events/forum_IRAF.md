@@ -25,6 +25,20 @@ As India rapidly advances in science, technology, and higher education, there is
 
 The Indian Research Assessments Forum (IRAF) is being proposed as a national platform to catalyze, coordinate, and institutionalize the transformation of research assessment practices in India. It will support policy coherence, enable capacity building, and promote ethical, context-sensitive, and inclusive assessment models.
 
+**Strategic Importance of this Forum For India**
+
+- **Global Alignment:** IRAF can align India with international best practices in research assessment, ensuring we are part of global reform conversations (e.g., COARA, DORA)
+
+- **National Framework:** It offers a structured, indigenous platform to rethink how academic merit, impact, and innovation are assessed across diverse Indian institutions and disciplines
+
+- **Inclusivity & Diversity:** India’s linguistic, disciplinary, and institutional diversity demands context-sensitive assessment models—IRAF can foster these, including support for multilingualism and epistemic diversity
+
+- **AI & Digital Integration:** With NEP 2020 introducing AI into curricula and research, IRAF can provide ethical and explainable AI assessment guidelines to safeguard scientific integrity
+
+- **Capacity Building:** IRAF could drive training and literacy programs on open science, data governance, and AI tools—empowering reviewers, researchers, and policy-makers
+
+- **Policy Synergy:** It can serve as a nodal body to coordinate between ministries (Education, Science & Tech, AI governance) and funding agencies to harmonize reforms
+
 ### Current Members of the Forum 
 
 <table>
@@ -36,7 +50,7 @@ The Indian Research Assessments Forum (IRAF) is being proposed as a national pla
 </table>
 
 
-### Become a Member of the Forum! Scan  QR Code
+### Join the Forum Today! Scan  QR Code Below
 
 <table>
   <tr>
