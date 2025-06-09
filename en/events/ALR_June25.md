@@ -45,17 +45,17 @@ We specially invite students, researchers and data enthusiasts who wish to engag
 
 #### DAY 01: **Lectures, Panels and Interactive RoundTables** 
 - **INAUGURAL SESSION**:
-      0930hrs IST == 0400hrs UTC == 0600hrs CEST
+     - 0930hrs IST == 0400hrs UTC == 0600hrs CEST
 - **1: Learning w/ Algorithms: India’s NEP Policy and the Future of Data Literacy**
-      1100hrs IST == 0530 UTC == 0730 CEST 
+     - 1100hrs IST == 0530 UTC == 0730 CEST 
 - **2: Rethinking Data and AI in Science and Higher Education**
-      1200hrs IST == 0630 UTC == 0830 CEST 
+     - 1200hrs IST == 0630 UTC == 0830 CEST 
 - **3: Data without Borders: FAIR Journeys with Trains and Visitors**
-      1400hrs IST == 0830 UTC == 1030 CEST 
+     - 1400hrs IST == 0830 UTC == 1030 CEST 
 - **4: Uniting India’s Data Landscape: The Strategic Role of CODATA**
-      1515hrs IST == 0945 UTC == 1145 CEST 
+    -  1515hrs IST == 0945 UTC == 1145 CEST 
 - **5: AI-Driven Open Innovations for Precision Research**
-      16300hrs IST == 1130 UTC == 1300 CEST 
+     - 16300hrs IST == 1130 UTC == 1300 CEST 
 
 #### Day 02 FORENOON: Hands-on DIY Session **AI Assisted Literature Review** 
 
