@@ -39,6 +39,36 @@ The Indian Research Assessments Forum (IRAF) is being proposed as a national pla
 
 - **Policy Synergy:** It can serve as a nodal body to coordinate between ministries (Education, Science & Tech, AI governance) and funding agencies to harmonize reforms
 
+### The IRAF Principles 
+🇮🇳 For Responsible and Inclusive Research Assessment in India
+
+🔹**1. Value Diverse Research Contributions**
+We recognize that research excellence takes many forms. IRAF supports the evaluation of a broad spectrum of outputs beyond traditional journal articles—including datasets, software, community engagement, policy contributions, interdisciplinary work, and public communication.
+
+🔹 **2. Promote Equity, Inclusion, and Diversity**
+Assessment systems must reflect India’s social, linguistic, institutional, and regional diversity. We advocate for evaluation frameworks that are fair to early-career researchers, underrepresented communities, and non-elite institutions.
+
+🔹 **3. Advance Open Science and FAIR Data**
+Openness is a foundation of integrity and collaboration. IRAF promotes open access, open data, and the adoption of FAIR (Findable, Accessible, Interoperable, Reusable) principles across research disciplines.
+
+🔹 **4. Enable Ethical Use of AI and Digital Tools**
+As AI becomes integral to research, IRAF supports responsible integration that ensures transparency, explainability, and human oversight. We commit to developing ethical guardrails for AI-enabled research and its evaluation.
+
+🔹 **5. Respect Local Contexts and Epistemologies**
+India’s pluralistic research landscape includes Indigenous knowledge systems, local languages, and region-specific priorities. IRAF upholds respect for contextual knowledge and diverse ways of knowing.
+
+🔹 **6. Foster Transparency and Accountability**
+Research assessment processes should be transparent, participatory, and auditable. IRAF calls for clearly defined criteria, accessible methodologies, and continuous feedback mechanisms in evaluation practices.
+
+🔹 **7. Support Capacity Building and Co-learning**
+IRAF commits to building a culture of learning among all stakeholders—researchers, reviewers, institutions, and funders—through workshops, training, and tools that promote responsible metrics and AI literacy.
+
+🔹 **8. Encourage Mission-Oriented and Collaborative Research**
+We encourage systems that reward research aligned with national priorities (e.g., climate, health, education), and that support team science, transdisciplinary collaborations, and long-term social impact.
+
+🔹 **9. Commit to Continuous Improvement**
+IRAF believes research assessment is not static. We advocate for iterative, evidence-based reforms that evolve with scientific practices, societal needs, and technological change.
+
 ### Current Members of the Forum 
 
 <table>
