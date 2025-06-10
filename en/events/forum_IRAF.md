@@ -79,17 +79,6 @@ IRAF believes research assessment is not static. We advocate for iterative, evid
   </tr>
 </table>
 
-
-### Join the Forum Today! Scan  QR Code Below
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events_all/forum_pic4.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
 ### Objectives of the IRAF
 
 - To align Indian research assessment practices with global responsible assessment frameworks (e.g., COARA, OpenAIRE).
@@ -117,4 +106,14 @@ IRAF believes research assessment is not static. We advocate for iterative, evid
 - Establishment of a secretariat with working groups on key themes (AI & Ethics, Open Science, Discipline-Specific Frameworks, Capacity Building).
 - Creation of a **"Draft Charter for IRAF Membership"** to include structured guidelines for categories, eligibility, responsibilities, and governance, ensuring transparency and inclusivity.
 - Development of an **Indian Declaration on Responsible Research Assessment**.
+
+### Join the Forum Today! Scan  QR Code Below
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/forum_pic4.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
