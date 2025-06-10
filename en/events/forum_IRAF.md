@@ -68,9 +68,23 @@ The Indian Research Assessments Forum (IRAF) is being proposed as a national pla
 - To enable multilingual and culturally inclusive assessment systems reflective of India’s research landscape.
 - To support training programs on AI literacy and open science practices for researchers, funders, and peer reviewers.
 
+### Types of Forum Membership
+
+- **Institutional Members:** Universities, colleges, research institutions, funding bodies, regulatory agencies.
+- **Associate Members:** NGOs, libraries, data platforms, publishers, think tanks, or start-ups aligned with IRAF’s principles.
+- **Individual Members:** Academics, researchers, policymakers, students, and professionals with an interest in research assessment reform.
+- **Observers / Partners:** International organizations or bodies working in alignment (e.g., CoARA, CODATA, DORA).
+
+### IRAF Membership Eligibility Criteria
+
+- Agreement with IRAF’s mission and principles, including openness, responsible metrics, inclusivity, and AI ethics.
+- Commitment to actively contribute to IRAF goals (e.g., workshops, policy inputs, community engagement).
+- For institutions: Demonstrated interest in reforming or experimenting with research assessment practices.
+  
 ### Next Steps
 
 - Formal launch of IRAF during the [National Summit on Data, AI, and Research Assessment](https://semanticclimate.github.io/p/en/events/ALR_June25/).
 - Establishment of a secretariat with working groups on key themes (AI & Ethics, Open Science, Discipline-Specific Frameworks, Capacity Building).
+- Creation of a **"Draft Charter for IRAF Membership"** to include structured guidelines for categories, eligibility, responsibilities, and governance, ensuring transparency and inclusivity.
 - Development of an **Indian Declaration on Responsible Research Assessment**.
 
