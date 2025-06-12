@@ -127,6 +127,24 @@ India
 
 #### [CLICK HERE](https://github.com/semanticClimate/internship_sC/blob/main/CODATA_NIPGR_IRAF_Launch_program_2025_Final.pdf)
 
+### Event Highlights in Pictures
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/AI_summit1.JPG" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/AI_summit2.JPG" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
  
 
 
