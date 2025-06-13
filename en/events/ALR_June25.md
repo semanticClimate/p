@@ -145,6 +145,8 @@ India
   </tr>
 </table>
 
+### [Moments from the Inaugural Session](../../posts/ResAISummit_session1/)
+
  
 
 
