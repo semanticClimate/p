@@ -34,15 +34,17 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/inaug1.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events_all/inaug2.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug1.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug2.JPG" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/inaug5.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events_all/inaug6.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug5.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug6.JPG" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
+
+
 
