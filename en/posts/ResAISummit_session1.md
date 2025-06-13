@@ -46,5 +46,19 @@ tags:
 </tr>   
 </table>
 
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/inaug7.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug8.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/inaug9.JPG" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/inaug10.JPG" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 
 
