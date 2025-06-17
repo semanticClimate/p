@@ -15,11 +15,11 @@ The aim is to provide a shared understanding of the event’s goals, manage expe
 
 The DRR stakeholder engagement will seek to promote:
 
-- Global collaboration that can lead to more comprehensive and effective strategies that address global disaster risks;
+- Global collaboration that can lead to more comprehensive and effective strategies;
 
-- Disaster Resilience that can be built or enhanced through a multi-faceted approach to building resilience, ensuring that various perspectives and needs are addressed;
+- Disaster Resilience that can be built or enhanced through a multi-faceted approach to building resilience; 
 
-- Data information and exchange to enhance early warning systems and improve the quality of information available for decision-making;
+- Data information and exchange for decision-making;
 
 - Contribution of valuable data and insights into disaster risks and vulnerabilities;
 
