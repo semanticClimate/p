@@ -43,6 +43,8 @@ The DRR stakeholder engagement will seek to promote:
 
 **Dr. Gitanjali Yadav**, Staff Scientist VI, NIPGR, India and co-founder of **#semanticClimate** will present the work entitled **#SemanticClimate: A Decade of Learning-by-Doing to Unlock Climate Knowledge** on 17 June, 2025 at 17:30 -17:45 IST
 
+### Day 1: June 17, 2025
+
 <table>
   <tr>
     <td>
@@ -58,6 +60,8 @@ The DRR stakeholder engagement will seek to promote:
     </td>
   </tr>
 </table>
+
+### Day 2: June 18, 2025
 
 <table>
   <tr>
