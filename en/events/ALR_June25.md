@@ -8,6 +8,7 @@ tags:
   - outreach
   - hackathon
 ---
+
 We are pleased to announce “The Research AI Summit: Bridging Innovation & Open Science” to be held at [National Institute of Plant Genome Research (NIPGR), New Delhi](https://nipgr.ac.in/nipgrv2/index.html), India on June 9-10, 2025, in collaboration with [CODATA India](https://codata.org/india/), [BRIC-NII](https://www.nii.res.in/), [CoARA-ERIP](https://coara.eu/working-groups/working-groups/wg-erip/) and [IIIT Una](https://iiitu.ac.in/). 
 
 We aim to bring together National data custodians, funders and global AI experts towards new collaborations in BioAI from academia the Industry, apart from imparting skills to research scholars on AI-Assisted Precision Research, as envisaged under DBT’s [BioE3 Policy](https://bmi.dbtindia.gov.in/) and India's [NEP 2020](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf) priorities. 
