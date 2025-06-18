@@ -1,5 +1,5 @@
 ---
-title: RESEARCH AI SUMMIT 2025 | SESSION 1
+title: SESSION 1_Learning with Algorithms | India’s NEP Policy and the Future of Data Literacy
 date: 2025-06-12
 description: Highlights from Session 1
 author: RK

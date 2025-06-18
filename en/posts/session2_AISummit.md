@@ -1,5 +1,5 @@
 ---
-title: RESEARCH AI SUMMIT 2025 | SESSION 2
+title: SESSION 2 | RESEARCH AI SUMMIT 2025
 date: 2025-06-17
 description: Highlights from Session 2
 author: RK

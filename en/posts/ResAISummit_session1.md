@@ -1,5 +1,5 @@
 ---
-title: RESEARCH AI SUMMIT 2025 | INAUGURAL SESSION
+title: INAUGURAL SESSION | RESEARCH AI SUMMIT 2025 
 date: 2025-06-12
 description: Key Moments from the Inaugural Session
 author: RK
