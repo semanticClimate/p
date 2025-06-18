@@ -1,5 +1,5 @@
 ---
-title: SESSION 2 | RESEARCH AI SUMMIT 2025
+title: SESSION 2_Research Evaluation | Rethinking Data and AI in Science and Higher Education
 date: 2025-06-17
 description: Highlights from Session 2
 author: RK
@@ -30,6 +30,8 @@ tags:
 [Dr. Angeliki Tzouganatou](https://www.linkedin.com/in/angeliki-tzouganatou-phd-7b246812a/), CoARA-OI4RRA & OpenAIRE, Greece
 
 [Mihalis Kritikos](https://www.linkedin.com/in/mihalis-kritikos-43243087/), Secretary, European Group on Ethics in Science and New Technologies (EGE) Ethicsand Integrity Sector, Directorate-General for Research and Innovation(DG-RTD), European Commission
+
+### Recordings of the session : To be updated
 
 ### Photo Highlights
 

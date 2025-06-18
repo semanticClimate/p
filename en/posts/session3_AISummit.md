@@ -31,6 +31,8 @@ tags:
 
 [Mr. Mainak Chakraborty](https://www.linkedin.com/in/mainakchakraborty07/?originalSubdomain=in), Senior Solutions Architect · Amazon Web Services (AWS)
 
+### Recordings of the session : To be updated
+
 ### Photo Highlights
 
 <table>

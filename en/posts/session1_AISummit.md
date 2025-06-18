@@ -29,6 +29,8 @@ tags:
 
 [Prof. Saurabh Raghuvanshi](https://www.linkedin.com/in/saurabh-raghuvanshi-a1222216/?originalSubdomain=in), University of Delhi South Campus (UDSC)
 
+### Recordings of the session : To be updated
+
 ### Photo Highlights
 
 <table>
