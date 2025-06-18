@@ -152,6 +152,8 @@ India
 
 - ### [SESSION 2](../../posts/session2_AISummit/)
 
+- ### [SESSION 3](../../posts/session3_AISummit/)
+
  
 
 
