@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-17T11:22:18Z</updated>
+	<updated>2025-06-18T11:16:10Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,7 +13,78 @@
 	</author>
 	
 	<entry>
-		<title>RESEARCH AI SUMMIT 2025 | SESSION 2</title>
+		<title>SESSION 3_Data without Borders | FAIR Journeys with Trains and Visitors</title>
+		<link href="/p/en/posts/session3_AISummit/"/>
+		<updated>2025-06-18T00:00:00Z</updated>
+		<id>/p/en/posts/session3_AISummit/</id>
+		<content type="html">&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/session3_AI_summit.JPG&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Distinguished Speakers and Panel Members&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/eluvathingal-jemmis-511061194/?originalSubdomain=in&quot;&gt;Prof. E. Jemmis&lt;/a&gt;, Indian Institute of Science, Bangalore&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/ameen-jauhar-5ab9a838/?originalSubdomain=uk&quot;&gt;Mr. Ameen Jauhar&lt;/a&gt;, Data Governance Lead, (CABI), London&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/shandar-ahmad-152b5610b/?originalSubdomain=in&quot;&gt;Prof. Shandar Ahmed&lt;/a&gt;, School of Computation &amp;amp; Information Science, Jawaharlal Nehru University&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/debasisa-mohanty-24916a97/?originalSubdomain=in&quot;&gt;Dr. Debasisa Mohanty&lt;/a&gt;, Director National Institute of Immunology (NII)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/patricia-buendia-healthscience/&quot;&gt;Patricia Buendia&lt;/a&gt;, Lifetime Omics, DV4RDA&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/mainakchakraborty07/?originalSubdomain=in&quot;&gt;Mr. Mainak Chakraborty&lt;/a&gt;, Senior Solutions Architect · Amazon Web Services (AWS)&lt;/p&gt;
+&lt;h3&gt;Photo Highlights&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic7.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic10.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic11.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic12.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic13.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic14.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic15.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/session3_pic16.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>SESSION 2 | RESEARCH AI SUMMIT 2025</title>
 		<link href="/p/en/posts/session2_AISummit/"/>
 		<updated>2025-06-17T00:00:00Z</updated>
 		<id>/p/en/posts/session2_AISummit/</id>
@@ -66,7 +137,7 @@
 	</entry>
 	
 	<entry>
-		<title>RESEARCH AI SUMMIT 2025 | SESSION 1</title>
+		<title>SESSION 1_Learning with Algorithms | India’s NEP Policy and the Future of Data Literacy</title>
 		<link href="/p/en/posts/session1_AISummit/"/>
 		<updated>2025-06-12T00:00:00Z</updated>
 		<id>/p/en/posts/session1_AISummit/</id>
@@ -118,7 +189,7 @@
 	</entry>
 	
 	<entry>
-		<title>RESEARCH AI SUMMIT 2025 | INAUGURAL SESSION</title>
+		<title>INAUGURAL SESSION | RESEARCH AI SUMMIT 2025</title>
 		<link href="/p/en/posts/ResAISummit_session1/"/>
 		<updated>2025-06-12T00:00:00Z</updated>
 		<id>/p/en/posts/ResAISummit_session1/</id>
