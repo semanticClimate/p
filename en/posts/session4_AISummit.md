@@ -30,3 +30,68 @@ tags:
 [Dr. Simon Hodson](https://www.linkedin.com/in/simon-hodson-b3711a11/?originalSubdomain=fr), Executive Director, CODATA
 
 ### Recordings of the session : To be updated
+
+### Photo Highlights
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic2.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic4.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic6.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic7.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic8.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic9.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic10.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic11.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic12.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic13.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic14.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic15.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic16.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/session4_pic17.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/session4_pic18.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
