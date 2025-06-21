@@ -161,7 +161,7 @@ India
 - ### [SESSION 6](../../posts/session6_AISummit/)
 
 - ### [SESSION 7](../../posts/session7_AISummit/)
+
+- ### [SESSION 8_Launch of IRAF](../../posts/session8_AISummit/)
  
-
-
-
+- ### [SESSION 9](../../posts/session9_AISummit/)
