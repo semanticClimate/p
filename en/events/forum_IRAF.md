@@ -127,5 +127,37 @@ IRAF believes research assessment is not static. We advocate for iterative, evid
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/session8_pic1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/session8_pic2.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/session8_pic3.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/session8_pic4.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 
 
