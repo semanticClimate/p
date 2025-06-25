@@ -707,11 +707,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/posts/AIsummit_photo/</loc>
-    <lastmod>2025-05-25</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/events/ALR_June25/</loc>
     <lastmod>2025-06-09</lastmod>
   </url>
@@ -774,6 +769,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/posts/session9_AISummit/</loc>
     <lastmod>2025-06-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/AIsummit_photo/</loc>
+    <lastmod>2025-06-25</lastmod>
   </url>
   
   <url>
@@ -842,6 +842,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
+    <lastmod>2025-06-25</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
@@ -853,11 +858,6 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
-    <lastmod>2025-06-25</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
   
@@ -917,12 +917,12 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/cop27/</loc>
+    <loc>https://semanticclimate.github.io/p/en/tags/test/</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
   
