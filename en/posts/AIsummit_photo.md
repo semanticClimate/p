@@ -1,8 +1,8 @@
 ---
 title: Research AI Summit 2025 | Bridging Innovation & Open Science
-date: 2025-05-25
+date: 2025-06-25
 description: Picture Highlights from two days research AI summit 2025 at NIPGR
-author: RK 
+author: RK and Team
 summary: Event pictures
 hide: true
 tags:
