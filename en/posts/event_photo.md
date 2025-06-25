@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Research AI Summit 2025 at NIPGR, India | [see more](../../posts/AIsummit_photo/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/researchAIHack_pic8.png" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/researchAIHack_pic9.png" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### AI-Assisted Literature Review at Wildlife Institute of India, Dehradun, India | [see more](../../posts/wii_ALR/)
 
 <table>
