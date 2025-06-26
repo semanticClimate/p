@@ -38,6 +38,17 @@ tags:
   </div>
 </div>
 
+### Keynote : Research Assessment in India: Making the World's knowledge Truly Open
+- Prof. Subbiah Arunachalam, Scholar, Philosopher & Thinker, Chennai
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/mE-jurTWRpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction to Research Assessment in India</h5>
+  </div>
+</div>
+
+
 ### Photo Highlights
 
 <table>
