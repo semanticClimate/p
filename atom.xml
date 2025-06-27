@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-27T05:05:51Z</updated>
+	<updated>2025-06-27T06:37:47Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -297,6 +297,16 @@
   &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/6lQL6PQ9FP4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;div&gt;
     &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Overview of semanticClimate toolkit&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;How to Use &lt;code&gt;pygetpapers&lt;/code&gt; | An Overview&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ms. Priti, Ph.D. Student, NIPGR, New Delhi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/RI-H60mFNSA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of pygetpapers&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
@@ -2017,6 +2027,45 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;&lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January 2025 - May 2025)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Suman Bharti&lt;/strong&gt; (January 2025 -May 2025)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;IPCC reports selected by the interns for their work&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Intern&lt;/th&gt;
+&lt;th&gt;IPCC Report&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Anudev&lt;/td&gt;
+&lt;td&gt;wg2/Cross-ChapterPaper06_Polar regions, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wordlist_polar.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/polar_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shabnam&lt;/td&gt;
+&lt;td&gt;wg1/Chapter10_Linking Global to Regional Climate Change, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wg1ch10.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap10_dictionary.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Moobashara&lt;/td&gt;
+&lt;td&gt;wg1/Chapter02_Changing State of the Climate System, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wgIchap02.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap02_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sharon&lt;/td&gt;
+&lt;td&gt;wg2/Cross-ChapterPaper07_Tropical Forests, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/forest_wordlist.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/ccpforest_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mebin&lt;/td&gt;
+&lt;td&gt;wg2/Chapter05_Food, Fibre and Other Ecosystem Product, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/foodfibre_wordlist.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/foodfibre_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Madhan&lt;/td&gt;
+&lt;td&gt;wg2/Chapter04_Water, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Madhan/IPCC_AR6_WG2_Chap04_Specific&quot;&gt;wordlist&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Suman&lt;/td&gt;
+&lt;td&gt;wg2/Chapter07_Health, wellbeing and the changing structure of communities, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wg02chapt07_wordlist.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg02chapt07_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2&gt;Interns (2025)&lt;/h2&gt;
 &lt;h3&gt;AR6/WG1/Chapter02_Changing State of the Climate System&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January 2025 - May 2025)&lt;/p&gt;
