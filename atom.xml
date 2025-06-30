@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-27T06:37:47Z</updated>
+	<updated>2025-06-30T10:15:44Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -2022,10 +2022,14 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;h3&gt;Active Interns&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Sarth Santosh Shah&lt;/strong&gt; SRF (09 May 2025 - 05 July 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shabnam Barbhuiya&lt;/strong&gt; (January 2025 - May 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Anudev Suresh&lt;/strong&gt; (January 2025 - May 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January 2025 - May 2025)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Suman Bharti&lt;/strong&gt; (January 2025 -May 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mandakala Sai Deepika&lt;/strong&gt; SRF (01 June - 01August 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vallabhaneni Haarthi&lt;/strong&gt; SRF (19 May -14 July 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malavika Balachandran&lt;/strong&gt; (26 May - 21 July 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anushka Kushwaha&lt;/strong&gt; (26 may - 30 July 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Saurav Mishra&lt;/strong&gt; (20 June - 20 August 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shaik Zainab&lt;/strong&gt; (01 July - 01 September 2025)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Harshita Mahawar&lt;/strong&gt; (27 june - 31 December 2015)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avika Joshi&lt;/strong&gt; (20 May - 20 August)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;IPCC reports selected by the interns for their work&lt;/h3&gt;
 &lt;table&gt;
@@ -2036,6 +2040,34 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sarth Shah&lt;/td&gt;
+&lt;td&gt;wg2/Chapter17_Decision-making options for managing risk, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/sarth/Daily_report.md&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Haarthi&lt;/td&gt;
+&lt;td&gt;wg2/Chapter04_Water, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/Keyword_Extraction/IPCC-Ch04-Wordlist&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/wg2chap04_dict.html&quot;&gt;dictionary&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/Haarthi&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deepika&lt;/td&gt;
+&lt;td&gt;wg1/Chapter04_Future Global Climate: Scenario-based Projections and Near-term Information, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Deepika/Keyword_Extraction/WG1_CH04_wordlist.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Deepika/daily_progress.md&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anushka&lt;/td&gt;
+&lt;td&gt;wg1/Chapter08_Water Cycle Changes, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Anushka/Keyword_Extraction/IPCC-Ch08-Wordlist&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Anushka/Daily_progress.md&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Malavika&lt;/td&gt;
+&lt;td&gt;wg2/Chapter08_Poverty, livelihoods and sustainable development, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/malavika/daily%20progress&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Harshita&lt;/td&gt;
+&lt;td&gt;wg2/Chapter06_Cities, settlements and key infrastructure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Saurav&lt;/td&gt;
+&lt;td&gt;wg3/Chapter06_Energy systems, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Saurav/wordlist_chp6.txt&quot;&gt;wordlist&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Anudev&lt;/td&gt;
 &lt;td&gt;wg2/Cross-ChapterPaper06_Polar regions, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wordlist_polar.txt&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/polar_dict.html&quot;&gt;dictionary&lt;/a&gt;&lt;/td&gt;
@@ -2068,14 +2100,37 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/table&gt;
 &lt;h2&gt;Interns (2025)&lt;/h2&gt;
 &lt;h3&gt;AR6/WG1/Chapter02_Changing State of the Climate System&lt;/h3&gt;
-&lt;p&gt;analysed by &lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January 2025 - May 2025)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;analysed by &lt;strong&gt;Moobashara Jawed&lt;/strong&gt; (January 2025 - June 2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/moobashara&quot;&gt;Click Here To Read The Project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;AR6/WG2/Cross-ChapterPaper06_Polar regions&lt;/h3&gt;
-&lt;p&gt;analysed by &lt;strong&gt;Anudev Suresh&lt;/strong&gt; (January 2025 - May 2025)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;analysed by &lt;strong&gt;Anudev Suresh&lt;/strong&gt; (January 2025 - June 2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/Anudev&quot;&gt;Click Here To Read The Project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;AR6/WG1/Chapter10_Linking Global to Regional Climate Change&lt;/h3&gt;
-&lt;p&gt;analysed by &lt;strong&gt;Shabnam Barbhuiya&lt;/strong&gt; (January 2025 - May 2025)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;analysed by &lt;strong&gt;Shabnam Barbhuiya&lt;/strong&gt; (January 2025 - June 2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/shabnam&quot;&gt;Click Here To Read The Project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Suman Bharti&lt;/strong&gt; (January 2025 -May 2025)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/suman&quot;&gt;Read The Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product&lt;/h3&gt;
 &lt;p&gt;analysed by &lt;strong&gt;Mebin Joseph&lt;/strong&gt; (February 2025 - April 2025)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/MEBIN&quot;&gt;Click Here To Read The Project&lt;/a&gt;&lt;/p&gt;
