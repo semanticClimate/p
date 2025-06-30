@@ -16,15 +16,27 @@ This contains the highlights of the work completed by the interns during their 2
 ### Active Interns
 
 - **Sarth Santosh Shah** SRF (09 May 2025 - 05 July 2025)
-- **Shabnam Barbhuiya** (January 2025 - May 2025)
-- **Anudev Suresh** (January 2025 - May 2025)
-- **Moobashara Jawed** (January 2025 - May 2025)
-- **Suman Bharti** (January 2025 -May 2025)
+- **Mandakala Sai Deepika** SRF (01 June - 01August 2025)
+- **Vallabhaneni Haarthi** SRF (19 May -14 July 2025)
+- **Malavika Balachandran** (26 May - 21 July 2025)
+- **Anushka Kushwaha** (26 may - 30 July 2025)
+- **Saurav Mishra** (20 June - 20 August 2025)
+- **Shaik Zainab** (01 July - 01 September 2025)
+- **Harshita Mahawar** (27 june - 31 December 2015)
+- **Avika Joshi** (20 May - 20 August)
+
 
 ### IPCC reports selected by the interns for their work
 
 | Intern  | IPCC Report  |
 |-----------|-----------|
+| Sarth Shah     | wg2/Chapter17_Decision-making options for managing risk, [Read more](https://github.com/semanticClimate/internship_sC/blob/sarth/Daily_report.md)    |
+| Haarthi    | wg2/Chapter04_Water, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Haarthi/Keyword_Extraction/IPCC-Ch04-Wordlist), [dictionary](https://github.com/semanticClimate/internship_sC/blob/Haarthi/wg2chap04_dict.html), [Read more](https://github.com/semanticClimate/internship_sC/tree/Haarthi)    |
+| Deepika    | wg1/Chapter04_Future Global Climate: Scenario-based Projections and Near-term Information, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Deepika/Keyword_Extraction/WG1_CH04_wordlist.txt), [Read more](https://github.com/semanticClimate/internship_sC/blob/Deepika/daily_progress.md)    |
+| Anushka     | wg1/Chapter08_Water Cycle Changes, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Anushka/Keyword_Extraction/IPCC-Ch08-Wordlist), [Read more](https://github.com/semanticClimate/internship_sC/blob/Anushka/Daily_progress.md)    |
+| Malavika     | wg2/Chapter08_Poverty, livelihoods and sustainable development, [Read more](https://github.com/semanticClimate/internship_sC/blob/malavika/daily%20progress)    |
+| Harshita     | wg2/Chapter06_Cities, settlements and key infrastructure    |
+| Saurav     | wg3/Chapter06_Energy systems, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Saurav/wordlist_chp6.txt)    |
 | Anudev     | wg2/Cross-ChapterPaper06_Polar regions, [wordlist](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wordlist_polar.txt), [dictionary](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/polar_dict.html)    |
 | Shabnam     | wg1/Chapter10_Linking Global to Regional Climate Change, [wordlist](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wg1ch10.txt), [dictionary](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap10_dictionary.html)    |
 | Moobashara     | wg1/Chapter02_Changing State of the Climate System, [wordlist](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/wordlist/wgIchap02.txt), [dictionary](https://github.com/semanticClimate/internship_sC/blob/main/ipcc/dictionary/wg1chap02_dict.html)    |
@@ -38,21 +50,26 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### AR6/WG1/Chapter02_Changing State of the Climate System
 
-analysed by **Moobashara Jawed** (January 2025 - May 2025)
+- analysed by **Moobashara Jawed** (January 2025 - June 2025)
 
-[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/moobashara)
+- [Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/moobashara)
 
 ### AR6/WG2/Cross-ChapterPaper06_Polar regions
 
-analysed by **Anudev Suresh** (January 2025 - May 2025)
+- analysed by **Anudev Suresh** (January 2025 - June 2025)
 
-[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/Anudev)
+- [Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/Anudev)
 
 ### AR6/WG1/Chapter10_Linking Global to Regional Climate Change
 
-analysed by **Shabnam Barbhuiya** (January 2025 - May 2025)
+- analysed by **Shabnam Barbhuiya** (January 2025 - June 2025)
 
-[Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/shabnam)
+- [Click Here To Read The Project](https://github.com/semanticClimate/internship_sC/tree/shabnam)
+
+### AR6/WG2/Chapter07_Health, wellbeing and the changing structure of communities
+
+- **Suman Bharti** (January 2025 -May 2025)
+- [Read The Project](https://github.com/semanticClimate/internship_sC/tree/suman)
 
 ### AR6/WG2/Chapter05_Food, Fibre and Other Ecosystem Product
 
