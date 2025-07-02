@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-06-30T10:15:44Z</updated>
+	<updated>2025-07-02T11:18:58Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -83,7 +83,13 @@
 &lt;/table&gt;
 &lt;h3&gt;Keynote Address&lt;/h3&gt;
 &lt;h4&gt;Empowering Data Custodians: CODATA National Committee’s Vision for India&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/dr-narinder-mehra-9a8029a/?originalSubdomain=in&quot;&gt;Narinder Mehra&lt;/a&gt;, CODATA India&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/dr-narinder-mehra-9a8029a/?originalSubdomain=in&quot;&gt;Dr. Narinder Mehra&lt;/a&gt;, Chair, INSA National Cte for CODATA&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/qDUKlYduH_Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Empowering Data Custodians&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Moments&lt;/h3&gt;
 &lt;table&gt;
   &lt;tr&gt;
@@ -139,7 +145,7 @@
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/francispcrawley/&quot;&gt;Francis P. Crawley&lt;/a&gt;, IDPC CODATA, CoARA-ERIP; Leuven Belgium&lt;/p&gt;
 &lt;h3&gt;Introduction to the India Research Assessments Forum (IRAF)&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/gilienv/?originalSubdomain=uk&quot;&gt;Gitanjali Yadav&lt;/a&gt;, NIPGR New Delhi&lt;/p&gt;
-&lt;h3&gt;Kenote : Genesis of an Indian Forum For Research Assessment&lt;/h3&gt;
+&lt;h3&gt;Keyote : Genesis of an Indian Forum For Research Assessment&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;By Dr. Gitanjali Yadav, Scientist, NIPGR; Co-Founder #semanticClimate&lt;/li&gt;
 &lt;/ul&gt;
@@ -147,6 +153,16 @@
   &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/3wQMYdUmJ40&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;div&gt;
     &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of IRAF&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;The Need for a Forum like IRAF&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;By Dr. Usha Munshi, India International Center (Former Member, India CODATA National Cte)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/Nsp486xGxro&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Why IRAF is important&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3&gt;Keynote : Research Assessment in India: Making the World&#39;s knowledge Truly Open&lt;/h3&gt;
@@ -309,6 +325,26 @@
     &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of pygetpapers&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;h3&gt;Summarization of the PDF content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ms. Shabnam Bharbuiya, NIPGR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/co8Zy0ZPgDE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;An overview of summarization workflow&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;AI for Named Entity Retrieval&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ms. Moobashara Jawed, NIPGR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/ICAKvmHYomM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Extracting informations from the PDF&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -343,7 +379,14 @@
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/gautam-talukdar-8305171/?originalSubdomain=in&quot;&gt;Dr. Gautam Talukdar&lt;/a&gt;, Senior Scientist, Wildlife Institute of India (WII)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/deepak-nair-03b993118/?originalSubdomain=in&quot;&gt;Prof. Deepak Nair&lt;/a&gt;, Regional Center for Biotechnology (RCB)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/simon-hodson-b3711a11/?originalSubdomain=fr&quot;&gt;Dr. Simon Hodson&lt;/a&gt;, Executive Director, CODATA&lt;/p&gt;
-&lt;h3&gt;Recordings of the session : To be updated&lt;/h3&gt;
+&lt;h3&gt;Keynote talk by Dr. Debasisa Mohanty, Director NII&lt;/h3&gt;
+&lt;h4&gt;Data Stewardship in India: Catalyzing Collaboration through CODATA&lt;/h4&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/KB7w_2xUelU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Data Stewardship in India&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
