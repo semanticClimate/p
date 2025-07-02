@@ -148,20 +148,20 @@ India
 
 - ### [INAUGURAL SESSION](../../posts/ResAISummit_session1/)
 
-- ### [SESSION 1](../../posts/session1_AISummit/)
+- ### [SESSION 1_Learning with Algorithms: India’s NEP Policy and the Future of Data Literacy](../../posts/session1_AISummit/)
 
-- ### [SESSION 2](../../posts/session2_AISummit/)
+- ### [SESSION 2_Research Evaluation: Rethinking Data and AI in Science and Higher Education](../../posts/session2_AISummit/)
 
-- ### [SESSION 3](../../posts/session3_AISummit/)
+- ### [SESSION 3_Data without Borders: FAIR Journeys with Trains and Visitors](../../posts/session3_AISummit/)
 
-- ### [SESSION 4](../../posts/session4_AISummit/)
+- ### [SESSION 4_Uniting India’s Data Landscape: The Strategic Role of CODATA National Committee](../../posts/session4_AISummit/)
 
-- ### [SESSION 5](../../posts/session5_AISummit/)
+- ### [SESSION 5_AI-Driven Open Innovations for Precision Research & Knowledge Discovery](../../posts/session5_AISummit/)
 
-- ### [SESSION 6](../../posts/session6_AISummit/)
+- ### [SESSION 6_EDUCATING IN THE AGE OF AI: AI ASSISTED LITERATURE REVIEW](../../posts/session6_AISummit/)
 
-- ### [SESSION 7](../../posts/session7_AISummit/)
+- ### [SESSION 7_Open Innovations for Academic Discovery & Research Assessment](../../posts/session7_AISummit/)
 
-- ### [SESSION 8_Launch of IRAF](../../posts/session8_AISummit/)
+- ### [SESSION 8_LAUNCH OF THE INDIA RESEARCH ASSESSMENTS FORUM](../../posts/session8_AISummit/)
  
-- ### [SESSION 9](../../posts/session9_AISummit/)
+- ### [SESSION 9_Valedictory Session](../../posts/session9_AISummit/)
