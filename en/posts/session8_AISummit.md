@@ -28,7 +28,7 @@ tags:
 ### Introduction to the India Research Assessments Forum (IRAF)
 [Gitanjali Yadav](https://www.linkedin.com/in/gilienv/?originalSubdomain=uk), NIPGR New Delhi
 
-### Keyote : Genesis of an Indian Forum For Research Assessment
+### Keynote : Genesis of an Indian Forum For Research Assessment
 - By Dr. Gitanjali Yadav, Scientist, NIPGR; Co-Founder #semanticClimate
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">

@@ -117,7 +117,7 @@ IRAF believes research assessment is not static. We advocate for iterative, evid
   </tr>
 </table>
 
-### Keyote : Genesis of an Indian Forum For Research Assessment
+### Keynote : Genesis of an Indian Forum For Research Assessment
 - By Dr. Gitanjali Yadav, Scientist, NIPGR; Co-Founder #semanticClimate
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
