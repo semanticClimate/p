@@ -28,13 +28,23 @@ tags:
 ### Introduction to the India Research Assessments Forum (IRAF)
 [Gitanjali Yadav](https://www.linkedin.com/in/gilienv/?originalSubdomain=uk), NIPGR New Delhi
 
-### Kenote : Genesis of an Indian Forum For Research Assessment
+### Keyote : Genesis of an Indian Forum For Research Assessment
 - By Dr. Gitanjali Yadav, Scientist, NIPGR; Co-Founder #semanticClimate
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/3wQMYdUmJ40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div>
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of IRAF</h5>
+  </div>
+</div>
+
+### The Need for a Forum like IRAF
+- By Dr. Usha Munshi, India International Center (Former Member, India CODATA National Cte)
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/Nsp486xGxro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Why IRAF is important</h5>
   </div>
 </div>
 
