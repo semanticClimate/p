@@ -29,9 +29,17 @@ tags:
 
 [Dr. Angeliki Tzouganatou](https://www.linkedin.com/in/angeliki-tzouganatou-phd-7b246812a/), CoARA-OI4RRA & OpenAIRE, Greece
 
-[Mihalis Kritikos](https://www.linkedin.com/in/mihalis-kritikos-43243087/), Secretary, European Group on Ethics in Science and New Technologies (EGE) Ethicsand Integrity Sector, Directorate-General for Research and Innovation(DG-RTD), European Commission
+[Mr. Mihalis Kritikos](https://www.linkedin.com/in/mihalis-kritikos-43243087/), Secretary, European Group on Ethics in Science and New Technologies (EGE) Ethicsand Integrity Sector, Directorate-General for Research and Innovation(DG-RTD), European Commission
 
-### Recordings of the session : To be updated
+### Keynote Talk : Transforming Research Assessment Reforming Practices for Science and the University
+- By Mr. Mihalis Kritikos
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/GCauB-ke1T0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Transforming Research Assessment Reforming Practices</h5>
+  </div>
+</div>
 
 ### Photo Highlights
 
