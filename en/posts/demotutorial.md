@@ -13,6 +13,9 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
+- ### The Research AI Summit 2025 | Bridging Innovation & Open Science
+  - [CLICK to see the Recordings of the Summit](https://www.youtube.com/playlist?list=PLtKHReMoCMwnhlhN1v8fV8NnaQS426-c8)
+
 - #### FOSDEM 2025 [Creating an Open Knowledge Graph for Climate | Peter Murray-Rust](https://video.fosdem.org/2025/aw1126/fosdem-2025-6006-creating-an-open-knowledge-graph-for-climate.av1.webm)
 
 #### Here is a glimpse of video presentations
