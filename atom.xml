@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-07-03T10:11:06Z</updated>
+	<updated>2025-07-07T10:00:20Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -271,7 +271,16 @@
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;h3&gt;Recordings of the session : To be updated&lt;/h3&gt;
+&lt;h3&gt;VISUALISING WIKIPEDIA FOR CLIMATE&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;By Dr. Giovanni Profeta, Dipartimento ambiente costruzioni e design (SUPSI), Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/3qgWgYpOgGQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;VISUALISING WIKIPEDIA FOR CLIMATE&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -396,6 +405,13 @@
     &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Data Stewardship in India&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;h3&gt;Panel Discussion : Diverse Datasets in India&lt;/h3&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/MVt447_021I&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Critical role of the CODATA National Committees in fostering data custodianship&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -472,7 +488,13 @@
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/debasisa-mohanty-24916a97/?originalSubdomain=in&quot;&gt;Dr. Debasisa Mohanty&lt;/a&gt;, Director National Institute of Immunology (NII)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/patricia-buendia-healthscience/&quot;&gt;Patricia Buendia&lt;/a&gt;, Lifetime Omics, DV4RDA&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/mainakchakraborty07/?originalSubdomain=in&quot;&gt;Mr. Mainak Chakraborty&lt;/a&gt;, Senior Solutions Architect · Amazon Web Services (AWS)&lt;/p&gt;
-&lt;h3&gt;Recordings of the session : To be updated&lt;/h3&gt;
+&lt;h3&gt;Panel Discussion : FAIR Data Applications; Climate Resilience &amp;amp; Agriculture&lt;/h3&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/NcUAicv8Edg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Discuss on technical, legal, and policy innovations&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Photo Highlights&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
