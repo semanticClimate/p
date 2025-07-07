@@ -17,7 +17,15 @@ tags:
   </tr>
 </table>
 
-### Recordings of the session : To be updated
+### VISUALISING WIKIPEDIA FOR CLIMATE
+- By Dr. Giovanni Profeta, Dipartimento ambiente costruzioni e design (SUPSI), Switzerland 
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/3qgWgYpOgGQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>VISUALISING WIKIPEDIA FOR CLIMATE</h5>
+  </div>
+</div>
 
 ### Photo Highlights
 

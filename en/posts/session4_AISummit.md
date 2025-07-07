@@ -40,6 +40,14 @@ tags:
   </div>
 </div>
 
+### Panel Discussion : Diverse Datasets in India
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/MVt447_021I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Critical role of the CODATA National Committees in fostering data custodianship</h5>
+  </div>
+</div>
 
 ### Photo Highlights
 
