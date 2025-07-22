@@ -777,6 +777,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/events/DEST_hack/</loc>
+    <lastmod>2025-07-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/events/FSCI2025/</loc>
     <lastmod>2025-07-21</lastmod>
   </url>
@@ -847,11 +852,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2025-07-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2025-07-22</lastmod>
   </url>
@@ -863,6 +863,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2025-07-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2025-07-22</lastmod>
   </url>
   
