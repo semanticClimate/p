@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-Genomics India Conference 2025, fifth edition, will bring together scientific leaders, researchers, clinicians, policy makers and various industry leaders in genomics across the world to discuss their technology and research in medicine, agriculture, and biodiversity. 
+**[Genomics India Conference 2025](https://genomicsindia.co.in/)**, fifth edition, will bring together scientific leaders, researchers, clinicians, policy makers and various industry leaders in genomics across the world to discuss their technology and research in medicine, agriculture, and biodiversity. 
 
 The event includes lectures and discussion on diverse research areas by eminent speakers. 
 
