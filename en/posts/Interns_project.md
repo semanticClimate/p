@@ -15,15 +15,17 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### Active Interns
 
+- **Shaik Zainab** (01 July - 01 September 2025)
+
+### Interns (May to July 2025)
+
 - **Sarth Santosh Shah** SRF (09 May 2025 - 05 July 2025)
-- **Mandakala Sai Deepika** SRF (01 June - 01August 2025)
+- **Mandakala Sai Deepika** SRF (01 June - 31 July 2025)
 - **Vallabhaneni Haarthi** SRF (19 May -14 July 2025)
 - **Malavika Balachandran** (26 May - 21 July 2025)
-- **Anushka Kushwaha** (26 may - 30 July 2025)
-- **Saurav Mishra** (20 June - 20 August 2025)
-- **Shaik Zainab** (01 July - 01 September 2025)
-- **Harshita Mahawar** (27 june - 31 December 2015)
-- **Avika Joshi** (20 May - 20 August)
+- **Anushka Kushwaha** (26 May - 30 July 2025)
+- **Harshita Mahawar** (27 June - 30 July 2025)
+- **Avika Joshi** (20 May - 31 July 2025)
 
 
 ### IPCC reports selected by the interns for their work
