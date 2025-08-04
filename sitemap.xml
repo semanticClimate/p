@@ -782,13 +782,13 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/E03_FSCI2025/</loc>
+    <loc>https://semanticclimate.github.io/p/en/events/FSCI2025/</loc>
     <lastmod>2025-07-21</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/FSCI2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <loc>https://semanticclimate.github.io/p/en/events/E03_FSCI2025/</loc>
+    <lastmod>2025-07-22</lastmod>
   </url>
   
   <url>
@@ -857,6 +857,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
+    <lastmod>2025-08-04</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2025-08-04</lastmod>
   </url>
@@ -868,11 +873,6 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
-    <lastmod>2025-08-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2025-08-04</lastmod>
   </url>
   
