@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-08-04T09:27:26Z</updated>
+	<updated>2025-08-07T04:35:36Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1339,7 +1339,31 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;li&gt;work on climate reports etc......&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Journal Publications&lt;/h3&gt;
-&lt;h5&gt;- &lt;a href=&quot;https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641&quot;&gt;The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation&lt;/a&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641&quot;&gt;The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Zenodo Publications&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Citations&lt;/strong&gt; for all the work presented in FSCI 2025 Course work as an course instructors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Kumari, R., Priti, Mandeep, Murray-Rust, P., Simon, W., &amp;amp; Yadav, G. (2025). Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. https://doi.org/10.5281/zenodo.16418987&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Barbhuiya, S., Alwi, K. K., Kumari, R., S., A., Jawed, M., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File (0.2). Zenodo. https://doi.org/10.5281/zenodo.16675979&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jawed, M., Priti, Mandeep, S, A., Barbhuiya, S., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Named Entity Recognition (NER) from Scholarly Literatures. Zenodo. https://doi.org/10.5281/zenodo.16559426&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Barbhuiya, S., S, A., Jawed, M., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Demonstration of PDF Summarization (0.1a). Zenodo. https://doi.org/10.5281/zenodo.16526790&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hamadani, A., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Exploring Vision Transformers in Practice (0.1). Zenodo. https://doi.org/10.5281/zenodo.16734915&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Joshi, A., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). FigSense (1.0). semanticClimate. https://doi.org/10.5281/zenodo.16752114&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 	</entry>
 	
@@ -2144,7 +2168,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Haarthi&lt;/td&gt;
-&lt;td&gt;wg2/Chapter04_Water, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/Keyword_Extraction/IPCC-Ch04-Wordlist&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/wg2chap04_dict.html&quot;&gt;dictionary&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/Haarthi&quot;&gt;Read more&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;wg2/Chapter04_Water, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/Keyword_Extraction/IPCC-Ch04-Wordlist&quot;&gt;wordlist&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Haarthi/wg2chap04_dict.html&quot;&gt;dictionary&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/tree/Haarthi&quot;&gt;Read more&lt;/a&gt;, &lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Haarthi_Report.pdf&quot;&gt;Final Report&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Deepika&lt;/td&gt;
