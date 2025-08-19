@@ -27,6 +27,8 @@ This includes:
 
 **Citations** for all the work presented in FSCI 2025 Course work as an course instructors.
 
+- Worthington, S., Kumari, R., Murray-Rust, P., Yadav, G., Barbhuiya, S., Hamadani, A., Jawed, M., Rahr, A. S. K. C., Avika, J., Mandakala, D., Suresh, A., Vallabhaneni, H., Mishra, S., Kushwaha, A., Balachandran, M., Mahawar, H., & Zainab, S. (2025, July 22). AI Assisted Literature Reviews Course. semanticClimate. https://doi.org/10.5281/zenodo.16754743
+
 - Kumari, R., Priti, Mandeep, Murray-Rust, P., Simon, W., & Yadav, G. (2025). Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. https://doi.org/10.5281/zenodo.16418987
 
 - Barbhuiya, S., Alwi, K. K., Kumari, R., S., A., Jawed, M., Simon, W., Yadav, G., & Murray-Rust, P. (2025). RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File (0.2). Zenodo. https://doi.org/10.5281/zenodo.16675979
