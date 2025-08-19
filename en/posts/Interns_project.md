@@ -16,6 +16,7 @@ This contains the highlights of the work completed by the interns during their 2
 ### Active Interns
 
 - **Shaik Zainab** (01 July - 01 September 2025)
+- **Udita Agarwal** (August 2025 - January 2026)
 
 ### Interns (May to July 2025)
 
