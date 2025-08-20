@@ -13,6 +13,16 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
+- ### Introduction of IPCC AR6 Chapters by semanticClimate Interns for FSCI 2025 
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/videoseries?list=PLtKHReMoCMwkB-UGsN0c3ZF4PR3O7KQEe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Overview of IPCC AR6 Chapters</h5>
+  </div>
+</div>
+
+
 - ### The Research AI Summit 2025 | Bridging Innovation & Open Science
   - [CLICK to see the Recordings of the Summit](https://www.youtube.com/playlist?list=PLtKHReMoCMwnhlhN1v8fV8NnaQS426-c8)
   
