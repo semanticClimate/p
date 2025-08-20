@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-08-20T10:55:07Z</updated>
+	<updated>2025-08-20T11:31:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1713,6 +1713,17 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<id>/p/en/posts/demotutorial/</id>
 		<content type="html">&lt;p&gt;These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;CLICK HERE to see all #semanticclimate video playlist&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Introduction of IPCC AR6 Chapters by semanticClimate Interns for FSCI 2025&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLtKHReMoCMwkB-UGsN0c3ZF4PR3O7KQEe&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Overview of IPCC AR6 Chapters&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;The Research AI Summit 2025 | Bridging Innovation &amp;amp; Open Science&lt;/h3&gt;
