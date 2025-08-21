@@ -11,6 +11,21 @@ tags:
 
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
+- #### [Corpus creation: OA repository retrieval and analysis](https://colab.research.google.com/github/rkclimate20/corpus-creation-demo/blob/main/corpus_creation_pygetpapers_demo.ipynb)
+  - Kumari, R., Priti, Mandeep, Murray-Rust, P., Simon, W., & Yadav, G. (2025). Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. https://doi.org/10.5281/zenodo.16418987
+
+- #### [Named Entity Recognition from Scholarly Literatures](https://colab.research.google.com/github/semanticClimate/named-entity-recognition/blob/main/Named_Entity_Extraction.ipynb)
+  - Jawed, M., Priti, Mandeep, S, A., Barbhuiya, S., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Named Entity Recognition (NER) from Scholarly Literatures. Zenodo. https://doi.org/10.5281/zenodo.16559426
+
+- #### [LLM and RAG for PDF and HTML](https://colab.research.google.com/github/semanticClimate/RAG-LLM-with-PDF-XML/blob/main/FSCI2025_RAG_LLM_PDF.ipynb)
+  - Barbhuiya, S., Alwi, K. K., Kumari, R., S., A., Jawed, M., Simon, W., Yadav, G., & Murray-Rust, P. (2025). RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File (0.2). Zenodo. https://doi.org/10.5281/zenodo.16675979
+
+- #### [Understanding Computer vision](https://colab.research.google.com/github/semanticClimate/image_classification/blob/main/Vision_Transformer_AH.ipynb)
+  - Hamadani, A., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Exploring Vision Transformers in Practice (0.1). Zenodo. https://doi.org/10.5281/zenodo.16734915
+
+- #### [PDF Summarization Demo](https://colab.research.google.com/github/semanticClimate/PDF_Summarization_demo/blob/main/RevLit_PDF_Summarization.ipynb)
+  - Barbhuiya, S., S, A., Jawed, M., Kumari, R., Simon, W., Yadav, G., & Murray-Rust, P. (2025). Demonstration of PDF Summarization (0.1a). Zenodo. https://doi.org/10.5281/zenodo.16526790
+
 - #### [DEMO: Named Entity Recognition_NER](https://colab.research.google.com/drive/1oPgnTC4UrBJF-8W2t508voWEsu8_z4ac?usp=sharing)
   - Authors: Moobashara Jawed, Priti, Anudev, Shabnam Barbhuiya, Gitanjali Yadav
   
