@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-08-21T06:10:11Z</updated>
+	<updated>2025-08-21T06:53:28Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1992,6 +1992,36 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<id>/p/en/posts/notebook/</id>
 		<content type="html">&lt;p&gt;This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/rkclimate20/corpus-creation-demo/blob/main/corpus_creation_pygetpapers_demo.ipynb&quot;&gt;Corpus creation: OA repository retrieval and analysis&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Kumari, R., Priti, Mandeep, Murray-Rust, P., Simon, W., &amp;amp; Yadav, G. (2025). Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. https://doi.org/10.5281/zenodo.16418987&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/semanticClimate/named-entity-recognition/blob/main/Named_Entity_Extraction.ipynb&quot;&gt;Named Entity Recognition from Scholarly Literatures&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Jawed, M., Priti, Mandeep, S, A., Barbhuiya, S., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Named Entity Recognition (NER) from Scholarly Literatures. Zenodo. https://doi.org/10.5281/zenodo.16559426&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/semanticClimate/RAG-LLM-with-PDF-XML/blob/main/FSCI2025_RAG_LLM_PDF.ipynb&quot;&gt;LLM and RAG for PDF and HTML&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Barbhuiya, S., Alwi, K. K., Kumari, R., S., A., Jawed, M., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File (0.2). Zenodo. https://doi.org/10.5281/zenodo.16675979&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/semanticClimate/image_classification/blob/main/Vision_Transformer_AH.ipynb&quot;&gt;Understanding Computer vision&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hamadani, A., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Exploring Vision Transformers in Practice (0.1). Zenodo. https://doi.org/10.5281/zenodo.16734915&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/semanticClimate/PDF_Summarization_demo/blob/main/RevLit_PDF_Summarization.ipynb&quot;&gt;PDF Summarization Demo&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Barbhuiya, S., S, A., Jawed, M., Kumari, R., Simon, W., Yadav, G., &amp;amp; Murray-Rust, P. (2025). Demonstration of PDF Summarization (0.1a). Zenodo. https://doi.org/10.5281/zenodo.16526790&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1oPgnTC4UrBJF-8W2t508voWEsu8_z4ac?usp=sharing&quot;&gt;DEMO: Named Entity Recognition_NER&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
