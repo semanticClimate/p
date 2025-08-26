@@ -9,7 +9,7 @@ tags:
   - hackathon
 ---
 
-Biodiversity run is a 2-4 player board game designed for kids aged 7 and above, where you race your opponent through an ecosystem! The first player to finish the journey wins on this knowledge adventure. Collect Species or Habitat Tokens along the way to help you overcome obstacles and win rewards! Watch out and avoid landing upon Bombs that harm biodiversity, or you might lose the race to Conservation!
+**Biodiversity run** is a 2-4 player board game designed for kids aged 7 yrs and above, where you race your opponent through an ecosystem! The first player to finish the journey wins on this knowledge adventure. Collect Species or Habitat Tokens along the way to help you overcome obstacles and win rewards! Watch out and avoid landing upon Bombs that harm biodiversity, or you might lose the race to Conservation!
 
 ### About the Game
 The background of the game is to introduce children to the concepts of biodiversity and conservation in a fun and interactive way. Through play, students learn about the importance of protecting species, habitats, and ecosystems while enjoying a friendly competition with their friends.
@@ -23,7 +23,9 @@ The background of the game is to introduce children to the concepts of biodivers
 </table>
 
 ### How to Play
+
 Players race along the ecosystem path. The first to finish the journey wins this knowledge adventure!
+
 - Collect Species Tokens and Habitat Tokens to overcome obstacles and earn rewards.
 - Watch out for Bombs that harm biodiversity landing on them can set you back and slow down your race.
 - The ultimate challenge: don’t let Conservation win before you do!
@@ -53,6 +55,7 @@ Unlike many board games, **Biodiversity Run** is card-based and educational, ble
 
 ### For Teachers & Parents
 **Biodiversity Run** is a great teaching tool to:
+
 - Introduce environmental science concepts.
 - Spark discussions about ecosystems, conservation, and human impact.
 - Encourage teamwork, competition, and curiosity in young learners.
