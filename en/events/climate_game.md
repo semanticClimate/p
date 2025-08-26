@@ -1,5 +1,5 @@
 ---
-title: Biversity Run | An awesome biodiversity Adventure  
+title: Biodiversity Run | An Awesome Biodiversity Adventure  
 date: 2025-08-28
 featured: true
 description: Board Game to Introduce the Concept of Biodiversity and Conservation 
