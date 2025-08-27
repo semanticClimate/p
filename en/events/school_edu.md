@@ -34,7 +34,40 @@ A two-day event for school students at NIPGR, where they will explore the plant 
 ### Location
 
 - **National Institute of Plant Genome Research (NIPGR), New Delhi, India**
+
+### Event Highlights | [See More](../../posts/school_outreach/)
+
+#### Day 1 
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E9.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E4.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E7.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
  
+#### Day 2 
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E12.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E16.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E29.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E31.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
 
 
 
