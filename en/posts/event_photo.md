@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Science Demonstration to School Students | [See More](../../posts/school_outreach/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E32.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Research AI Summit 2025 at NIPGR, India | [see more](../../posts/AIsummit_photo/)
 
 <table>
