@@ -41,7 +41,7 @@ A two-day event for school students at NIPGR, where they will explore the plant 
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/school_E1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E10.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/events_all/school_E9.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>

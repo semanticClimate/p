@@ -25,13 +25,6 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/school_E8.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events_all/school_E10.jpg" | url }}' width="500" height="300"></td>
-</tr>   
-</table>
-
-<table>
-<tr>
 <td><img src='{{ "/static/img/events_all/school_E11.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/events_all/school_E15.jpg" | url }}' width="500" height="300"></td>
 </tr>   
@@ -51,9 +44,3 @@ tags:
 </tr>   
 </table>
 
-<table>
-<tr>
-<td><img src='{{ "/static/img/events_all/school_E26.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events_all/school_E30.jpg" | url }}' width="500" height="300"></td>
-</tr>   
-</table>

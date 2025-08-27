@@ -16,7 +16,7 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/school_E1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E30.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/events_all/school_E32.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
