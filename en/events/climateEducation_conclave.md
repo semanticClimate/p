@@ -28,20 +28,25 @@ The event will bring together several global Climate experts representing Academ
 
 **Indian National Science Academy (INSA)**
 
-Bahadur Shah Zafar Marg, 
+MPH, INSA, Bahadur Shah Zafar Marg, 
 
-Mata Sundari Railway Colony, 
-
-Mandi House, New Delhi, Delhi, 110002
+Mandi House, New Delhi-110002
 
 ### Program
 
-- 09:45 AM : Seating and Registration
-- 10:00 AM : Lamp Lighting
+- 10:00 AM : Seating, Registration, Lamp lighting and Guests on Stage
 - 10:10 AM : Welcome Address, **Prof. Narinder Mehra**, Chair, India CODATA
 - 10:20 AM : Keynote Address, **Prof. Ashutosh Sharma**, INSA President
-- 10:30 AM : Public Lecture, **Mr. Matthew Pye**, Climate Academy
-- 11:00 AM : Panel Discussion, Moderated by Dr. Gitanjali Yadav, NIPGR
-- 11:45 AM : Audience Feedback & Interaction
-- 12:00 PM : High Tea & Departure by 12:30 PM
+- 10:30 AM : Panel Discussion, **"Climate Education In STEMM For India"**
+  - Moderator: **Dr. Gitanjali Yadav**, NIPGR, #semanticClimate
+  - Panellists:
+    - **Mr. Matthew Pye**, Founder Climate Academy
+    - **Dr. Susheela Negi**, Head Of Climate Division, DST CEST, Govt. Of India
+    - **Prof. Suresh Babu**, Director, CUES, AUD
+    - **Dr. Monalisa Sen**, Head, ICLEI South Asia
+- 11:30 AM : Students/Teacher Feedback & Interaction With Policy Makers On STEMM and Climate
+- 12:00 PM : High Tea & Departure By 12:30 PM
+
+
+
 
