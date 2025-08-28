@@ -1,5 +1,5 @@
 ---
-title: National Conclave on Climate Education and Data Custodianship
+title: National Conclave on Climate Education in STEMM Under NEP2020
 date: 2025-08-29
 featured: true
 description: Interaction with Global Climate Experts From Industry and Academia
@@ -14,7 +14,7 @@ The event will bring together several global Climate experts representing Academ
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events_all/flyer_INSA.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events_all/flyer_INSA.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
