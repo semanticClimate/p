@@ -1,5 +1,5 @@
 ---
-title: National Conclave on Climate Education in STEMM Under NEP2020
+title: National Conclave on Climate Education and Data Custodianship
 date: 2025-08-29
 featured: true
 description: Interaction with Global Climate Experts From Industry and Academia
@@ -14,7 +14,7 @@ The event will bring together several global Climate experts representing Academ
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events_all/flyer_INSA.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events_all/flyer_INSA.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -34,18 +34,19 @@ Mandi House, New Delhi-110002
 
 ### Program
 
-- 10:00 AM : Seating, Registration, Lamp lighting and Guests on Stage
-- 10:10 AM : Welcome Address, **Prof. Narinder Mehra**, Chair, India CODATA
-- 10:20 AM : Keynote Address, **Prof. Ashutosh Sharma**, INSA President
-- 10:30 AM : Panel Discussion, **"Climate Education In STEMM For India"**
+- 10:00 AM : Lamp Lighting and INTRODUCTION OF Guests
+- 10:05 AM : Welcome address, CHAIR INDIA CODATA
+- 10:15 AM : Introduction to CODATA INDIA National Cte
+- 10:30 AM : Inaugural Address, FOUNDER CLIMATE ACADEMY
+- 11:00 AM : INTERACTIVE PANEL DISCUSSION On **Climate Education in STEMM**
   - Moderator: **Dr. Gitanjali Yadav**, NIPGR, #semanticClimate
   - Panellists:
-    - **Mr. Matthew Pye**, Founder Climate Academy
-    - **Dr. Susheela Negi**, Head Of Climate Division, DST CEST, Govt. Of India
-    - **Prof. Suresh Babu**, Director, CUES, AUD
-    - **Dr. Monalisa Sen**, Head, ICLEI South Asia
-- 11:30 AM : Students/Teacher Feedback & Interaction With Policy Makers On STEMM and Climate
-- 12:00 PM : High Tea & Departure By 12:30 PM
+    - **Mr. Matthew Pye**, Founder Climate Academy (talk about values, ethics, moral education)
+    - **Prof. Suresh Babu**, Director, CUES, AUD (link climate skills into higher ed & STEMM curriculum reform)
+    - **Dr. Susheela Negi**, Former Head CEST DST Govt of India (outline policy and NEP integration at government level)
+    - **Dr. Debasisa Mohanty**, Director, NII, Member of India CODATA
+- 11:45 AM : AUDIENCE FEEDBACK & CLOSING REMARKS
+- 12:00 PM : High Tea 
 
 
 
