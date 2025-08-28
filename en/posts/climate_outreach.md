@@ -36,3 +36,38 @@ tags:
 <td><img src='{{ "/static/img/events_all/school_E38.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E42.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E43.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E44.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E51.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E45.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E47.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E48.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E50.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E46.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E49.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
