@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Climate Quest_Building Balance Together | [See More](../../posts/climate_outreach/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E39.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E40.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Science Demonstration to School Students | [See More](../../posts/school_outreach/)
 
 <table>

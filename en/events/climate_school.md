@@ -51,3 +51,19 @@ This program emphasizes curiosity, creativity, and collaboration—turning clima
     - Station 6: Domino Tipping Points (Cascading Cause & Effect)
 - 12:45 PM: Open Feedback, Interaction Q&A with students (GY and MP)
 - 1:00 PM: Program Closure
+
+### Event Highlights | [See More](../../posts/climate_outreach/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E20.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E35.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/school_E22.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/school_E23.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
