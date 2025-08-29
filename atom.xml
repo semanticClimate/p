@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-08-29T08:03:27Z</updated>
+	<updated>2025-08-29T08:15:23Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -30,10 +30,18 @@
 &lt;/tr&gt;   
 &lt;/table&gt;
 &lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/climate_conclaveP9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/climate_conclaveP12.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
-&lt;/tr&gt;   
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/climate_conclaveP13.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/climate_conclaveP12.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;
 &lt;table&gt;
 &lt;tr&gt;
