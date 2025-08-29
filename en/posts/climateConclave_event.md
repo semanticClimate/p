@@ -24,11 +24,21 @@ tags:
 </tr>   
 </table>
 
+
 <table>
-<tr>
-<td><img src='{{ "/static/img/events_all/climate_conclaveP9.jpg" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events_all/climate_conclaveP12.jpg" | url }}' width="500" height="300"></td>
-</tr>   
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/climate_conclaveP13.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/climate_conclaveP12.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
 </table>
 
 <table>
