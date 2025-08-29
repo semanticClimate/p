@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### National Conclave on Climate Education and Data Custodianship | [See More](../../posts/climateConclave_event/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP11.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Climate Quest_Building Balance Together | [See More](../../posts/climate_outreach/)
 
 <table>

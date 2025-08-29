@@ -50,6 +50,22 @@ Moderated by **Ms. Priti**, Ph.D. student, NIPGR, New Delhi
 - 11:45 AM : AUDIENCE FEEDBACK & CLOSING REMARKS
 - 12:00 PM : High Tea 
 
+### Event Highlights | [See More](../../posts/climateConclave_event/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP6.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP10.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP11.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 
 
 
