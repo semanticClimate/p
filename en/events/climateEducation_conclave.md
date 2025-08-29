@@ -32,12 +32,14 @@ MPH, INSA, Bahadur Shah Zafar Marg,
 
 Mandi House, New Delhi-110002
 
-### Program
+### Program 
+
+Moderated by **Ms. Priti**, Ph.D. student, NIPGR, New Delhi
 
 - 10:00 AM : Lamp Lighting and INTRODUCTION OF Guests
-- 10:05 AM : Welcome address, CHAIR INDIA CODATA
-- 10:15 AM : Introduction to CODATA INDIA National Cte
-- 10:30 AM : Inaugural Address, FOUNDER CLIMATE ACADEMY
+- 10:05 AM : Welcome address by **Prof. Narinder Mehra**, CHAIR INDIA CODATA
+- 10:15 AM : Introduction to CODATA INDIA National Cte by **Dr. Debasisa Mohanty**, Director, NII, Member of India CODATA
+- 10:30 AM : Inaugural Address by **Mr. Matthew Pye**, FOUNDER CLIMATE ACADEMY 
 - 11:00 AM : INTERACTIVE PANEL DISCUSSION On **Climate Education in STEMM**
   - Moderator: **Dr. Gitanjali Yadav**, NIPGR, #semanticClimate
   - Panellists:
