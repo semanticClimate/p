@@ -16,7 +16,7 @@ tags:
 
 <table>
 <tr>
-<td><img src='{{ "/static/img/events_all/climate_conclaveP5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP9.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/events_all/climate_conclaveP11.jpg" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
