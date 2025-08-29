@@ -43,7 +43,7 @@ Mandi House, New Delhi-110002
   - Panellists:
     - **Mr. Matthew Pye**, Founder Climate Academy (talk about values, ethics, moral education)
     - **Prof. Suresh Babu**, Director, CUES, AUD (link climate skills into higher ed & STEMM curriculum reform)
-    - **Dr. Susheela Negi**, Former Head CEST DST Govt of India (outline policy and NEP integration at government level)
+    - **Dr. Susheela Devi Negi**, Associate Head & Scientist-F, DST Govt of India (outline policy and NEP integration at government level)
     - **Dr. Debasisa Mohanty**, Director, NII, Member of India CODATA
 - 11:45 AM : AUDIENCE FEEDBACK & CLOSING REMARKS
 - 12:00 PM : High Tea 
