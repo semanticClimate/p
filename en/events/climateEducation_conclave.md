@@ -66,6 +66,13 @@ Moderated by **Ms. Priti**, Ph.D. student, NIPGR, New Delhi
 </tr>   
 </table>
 
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP20.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP21.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 
 
 
