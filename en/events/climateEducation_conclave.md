@@ -54,6 +54,34 @@ Moderated by **Ms. Priti**, Ph.D. student, NIPGR, New Delhi
 
 <table>
 <tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP52.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP53.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP54.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP56.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP57.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP59.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP58.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/climate_conclaveP60.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
 <td><img src='{{ "/static/img/events_all/climate_conclaveP3.jpg" | url }}' width="500" height="300"></td>
 <td><img src='{{ "/static/img/events_all/climate_conclaveP6.jpg" | url }}' width="500" height="300"></td>
 </tr>   
