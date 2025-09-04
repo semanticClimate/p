@@ -22,6 +22,7 @@ This includes:
 ### Journal Publications
 
 - [The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation](https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641)
+- [Climate Justice in Electronic Publishing: A New Approach Supporting Global South Participation](https://journals.publishing.umich.edu/jep/article/id/7206/)
 
 ### Zenodo Publications
 
