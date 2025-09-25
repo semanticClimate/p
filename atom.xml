@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-09-10T09:04:33Z</updated>
+	<updated>2025-09-25T06:48:18Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1390,32 +1390,41 @@
 	</entry>
 	
 	<entry>
-		<title>What we are doing?</title>
+		<title>semanticClimate | Making knowledge open, machine-readable and actionable</title>
 		<link href="/p/en/posts/sc_worklayout/"/>
 		<updated>2024-12-16T00:00:00Z</updated>
 		<id>/p/en/posts/sc_worklayout/</id>
-		<content type="html">&lt;h2&gt;Our Approach&lt;/h2&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;#SemanticClimate&lt;/strong&gt; focuses on semantifying climate data and resources to make climate knowledge open, machine-readable, and actionable. Our Idea is to help scientists, policymakers, and communities respond more effectively to climate change, but more importantly, our aim is to create Youth Knowledge Champions, so that together, we can take Climate Action to each and every citizen in the world.&lt;/p&gt;
+&lt;h3&gt;Our Approach&lt;/h3&gt;
 &lt;p&gt;We work by creating, distributing and using software.
 We are involved in making climate knowledge semantic and by semantic we mean there&#39;s a
 formal structure to the documents or other informations in which specific terms are linked to definitions particularly in Wikimedia such as Wikidata or Wikipedia. These documents are described as a &lt;a href=&quot;https://en.wikipedia.org/wiki/Linked_data&quot;&gt;five-star document&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/Tim_Berners-Lee&quot;&gt;Tim Berners-Lee&#39;s approach&lt;/a&gt;. That is it&#39;s open, it&#39;s semantic, and it can be embedded in the linked open data graph of the world of which Wikidata is the epitome with about 100 million nodes in that.&lt;/p&gt;
-&lt;h2&gt;The tools we utilize and are actively working on developing.&lt;/h2&gt;
+&lt;h3&gt;How do we work?&lt;/h3&gt;
+&lt;p&gt;We work as an online team with a group of interns probably every 2 or 6 months, with frequent sessions on Zoom, underpinned with Slack and daily commits to repositories on Github following ONS philosophy (commit immediately for the whole world to see, “no insider knowledge”). The primary recording medium is Github repositories for programs, documents, discourse.&lt;/p&gt;
+&lt;p&gt;The interns come in with a lot of different backgrounds, not knowing what Python is, and some people come in with a huge amount of knowledge. We work very much by, communal activity, so people will help each other to do things.&lt;/p&gt;
+&lt;p&gt;We are driven by two main goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To make climate knowledge accessible to as many people as possible&lt;/li&gt;
+&lt;li&gt;To show the semantic approach and how it works&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The complete package (documents, software, learning protocols) is aimed at several demographics (young people, retired people, those with English as Second Language (ESL)).&lt;/p&gt;
+&lt;h3&gt;The tools we utilize and are actively working on developing.&lt;/h3&gt;
 &lt;p&gt;Our work at semanticClimate is mainly around the tool set for the content retrieval, creating what we call a corpus or mini corpus of IPCC reports and then some amplification of that.&lt;/p&gt;
+&lt;p&gt;Our codes are developed in Python and we demonstrate via colab notebook/Jupyter notebook.&lt;/p&gt;
 &lt;p&gt;Here are three programs called:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt; which reads the scientific literature automatically.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt; which reads the scientific literature automatically and it is used to query and analyse the current Open scientific literature in bulk. All material was automatically downloaded as JATS XML which are machine readable.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt; which analyzes it&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And these were written by two of our earliest interns.
+&lt;p&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt; / NER: for analyzing a collection of articles and extracting information like plant species, locations, chemical compounds, drugs, diseases etc. using dictionaries and these were written by two of our earliest interns.
 &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt; from Ayush Garg when he&#39;s still at school.
 &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt; from Shweata Hegde who did this while an undergraduate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;and the third tool a library of utilities called&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; is written by Peter Murray-Rust, which deals with a lot of the integrase
-and conversion and so on.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; is written by Peter Murray-Rust, which deals with a lot of the integrase and conversion and so on. The tool is used for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.) and creating encyclopedia from the keywords.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
@@ -1429,6 +1438,50 @@ and conversion and so on.&lt;/li&gt;
 &lt;p&gt;We build knowledge graphs out of that, start to find patterns in the knowledge graphs using machine learning methods.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;semantic resources&lt;/h3&gt;
+&lt;p&gt;Following resources have been generated by #semanticClimate using in house tools developed by the team to analyze climate reports and data.&lt;/p&gt;
+&lt;h4&gt;IPCC corpus:&lt;/h4&gt;
+&lt;p&gt;Analysis of 75 chapters of the UN Intergovernmental Panel on Climate Change. The raw material was automatically converted to semantic HTML and used to create Wikipedia-enhanced dictionaries (one per chapter). The dictionaries were used to search and index the UN IPCC corpus.&lt;/p&gt;
+&lt;h4&gt;scientific literature corpus:&lt;/h4&gt;
+&lt;p&gt;This is created with &lt;code&gt;pygetpapers&lt;/code&gt; where we use any keywords to search scientific literatures from the open access journals in the machine-readable form.&lt;/p&gt;
+&lt;h4&gt;encyclopedia – IPCC:&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; has a tool for rapidly converting a list of words to a dictionary and looking up the terms in Wikipedia.&lt;/p&gt;
+&lt;h4&gt;encyclopedia Climate Academy:&lt;/h4&gt;
+&lt;p&gt;The encyclopedia has been created from the list of climate words and phrases extracted from the very informative book “Climate Academy”.&lt;/p&gt;
+&lt;h4&gt;Climate Knowledge Graph:&lt;/h4&gt;
+&lt;p&gt;The Climate Knowledge Graph (CKG) is an R&amp;amp;D project to make a knowledge graph of the open access parts of the 10,000 page IPCC Sixth Assessment Report (AR6) corpus.&lt;/p&gt;
+&lt;h3&gt;Courses:&lt;/h3&gt;
+&lt;h4&gt;FSCI 2025:&lt;/h4&gt;
+&lt;p&gt;The three days course has been organized on the topic “AI — Assisted Literature Review on Open Access Repositories: Including Image and Object Detection”.
+&lt;a href=&quot;https://semanticclimate.github.io/p/en/events/FSCI2025/&quot;&gt;CLICK HERE to read in detail&lt;/a&gt;
+&lt;a href=&quot;https://github.com/semanticClimate/assisted-literature-review&quot;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;sC tools and open literature:&lt;/h4&gt;
+&lt;p&gt;The semantic tools have been applied to do automated literature review in &lt;a href=&quot;https://semanticclimate.github.io/p/en/events/&quot;&gt;many hands-on workshops&lt;/a&gt; in India where people from various backgrounds have learned by doing.&lt;/p&gt;
+&lt;h3&gt;Demonstration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;Creating machine readable corpus from open access repositories using semantic tool &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/corpus_workflow.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;Creating encyclopedia&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A comprehensive toolset for extracting and analyzing keywords from scientific documents, with a focus on climate change research and IPCC reports.&lt;/p&gt;
+&lt;p&gt;It consists of two main subprojects that work together to process scientific documents and extract meaningful insights:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Keyword extraction&lt;/li&gt;
+&lt;li&gt;Dictionary&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/h3&gt;
 </content>
 	</entry>
 	
