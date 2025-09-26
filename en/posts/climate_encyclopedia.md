@@ -9,7 +9,7 @@ tags:
   - notebook
 ---
 
-**#### What is an Encyclopedia?**
+#### **What is an Encyclopedia?**
 
 An **Encyclopedia** is a comprehensive reference work that gives us informations about wide range of subjects or on a particular field of knowledge.
 
@@ -23,11 +23,11 @@ That’s it, just a short definition.
 
 But if you check an encyclopedia, it will go much deeper. It might explain: What climate change is, causes, effects, examples, and visuals.
 
-*This is why encyclopedias are more useful when you want to understand a topic instead of just knowing what it means.*
+#### *This is why encyclopedias are more useful when you want to understand a topic instead of just knowing what it means.*
 
 ### Why Use a semantic Encyclopedia?
 
-A semantic encyclopedia helps you quickly understand concepts, summarize research, and find related information. It can be used for academic analysis, literature review, content search, and even smart PDF annotations, making research and learning faster and more efficient.
+A semantic encyclopedia helps you *quickly understand concepts*, *summarize research*, and find related information. It can be used for academic analysis, literature review, content search, and even smart PDF annotations, making research and learning faster and more efficient.
 
 ### Subprojects
 
