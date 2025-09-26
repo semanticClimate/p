@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-09-26T05:52:43Z</updated>
+	<updated>2025-09-26T06:13:36Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,16 +17,16 @@
 		<link href="/p/en/posts/climate_encyclopedia/"/>
 		<updated>2025-09-25T00:00:00Z</updated>
 		<id>/p/en/posts/climate_encyclopedia/</id>
-		<content type="html">&lt;p&gt;&lt;strong&gt;#### What is an Encyclopedia?&lt;/strong&gt;&lt;/p&gt;
+		<content type="html">&lt;h4&gt;&lt;strong&gt;What is an Encyclopedia?&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;An &lt;strong&gt;Encyclopedia&lt;/strong&gt; is a comprehensive reference work that gives us informations about wide range of subjects or on a particular field of knowledge.&lt;/p&gt;
 &lt;p&gt;It’s a book or a website where you can look up almost any topic and get a clear, summarized explanation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;For example:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;If you open a dictionary and search for &lt;em&gt;Climate Change&lt;/em&gt;, it might simply say: “Climate change: a long-term alteration in the average weather patterns of a place.&lt;/p&gt;
 &lt;p&gt;That’s it, just a short definition.&lt;/p&gt;
 &lt;p&gt;But if you check an encyclopedia, it will go much deeper. It might explain: What climate change is, causes, effects, examples, and visuals.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This is why encyclopedias are more useful when you want to understand a topic instead of just knowing what it means.&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;em&gt;This is why encyclopedias are more useful when you want to understand a topic instead of just knowing what it means.&lt;/em&gt;&lt;/h4&gt;
 &lt;h3&gt;Why Use a semantic Encyclopedia?&lt;/h3&gt;
-&lt;p&gt;A semantic encyclopedia helps you quickly understand concepts, summarize research, and find related information. It can be used for academic analysis, literature review, content search, and even smart PDF annotations, making research and learning faster and more efficient.&lt;/p&gt;
+&lt;p&gt;A semantic encyclopedia helps you &lt;em&gt;quickly understand concepts&lt;/em&gt;, &lt;em&gt;summarize research&lt;/em&gt;, and find related information. It can be used for academic analysis, literature review, content search, and even smart PDF annotations, making research and learning faster and more efficient.&lt;/p&gt;
 &lt;h3&gt;Subprojects&lt;/h3&gt;
 &lt;p&gt;This includes two main subprojects that work together to process climate reports, scientific reports and extract meaningful informations.&lt;/p&gt;
 &lt;ol&gt;
