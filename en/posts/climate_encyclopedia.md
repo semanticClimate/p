@@ -33,8 +33,8 @@ A semantic encyclopedia helps you *quickly understand concepts*, *summarize rese
 
 This includes two main subprojects that work together to process climate reports, scientific reports and extract meaningful informations.
 
-1. Keyword_extraction 
-2. Dictionary 
+1. Keyword extraction 
+2. Creating Encyclopedia 
 
 ### Workflow
 
@@ -64,7 +64,7 @@ A Python-based tool that uses state-of-the-art Natural Language Processing (NLP)
   </tr>
 </table>
 
-### Dictionary
+### Encyclopedia
 
 - A structured storage system for organizing extracted keywords, document content, and metadata.
 
@@ -74,7 +74,7 @@ A Python-based tool that uses state-of-the-art Natural Language Processing (NLP)
 
 #### Tool: 
 
-- *amilib is used to create wikimedia enhanced dictionary.*
+- *amilib is used to create wikimedia enhanced encyclopedia.*
 
 <table>
   <tr>

@@ -102,7 +102,7 @@ A comprehensive toolset for extracting and analyzing keywords from scientific do
 It consists of two main subprojects that work together to process scientific documents and extract meaningful insights:
 
 1. Keyword extraction
-2. Dictionary
+2. Encyclopeida
 
 ### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
 
