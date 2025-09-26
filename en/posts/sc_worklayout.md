@@ -47,6 +47,14 @@ Here are three programs called:
 and the third tool a library of utilities called 
 - [amilib](https://github.com/petermr/amilib) is written by Peter Murray-Rust, which deals with a lot of the integrase and conversion and so on. The tool is used for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.) and creating encyclopedia from the keywords.
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/semantic_graph.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ## Objectives
 
 - The ultimate goal is to take the IPCC material and automatically convert it into a standard normalized semantic form. 
