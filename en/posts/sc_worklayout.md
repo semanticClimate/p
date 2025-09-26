@@ -96,7 +96,7 @@ The semantic tools have been applied to do automated literature review in [many 
   </tr>
 </table>
 
-- #### Creating encyclopedia 
+- #### Creating semantic encyclopedia 
 A comprehensive toolset for extracting and analyzing keywords from scientific documents, with a focus on climate change research and IPCC reports.
 
 It consists of two main subprojects that work together to process scientific documents and extract meaningful insights:
@@ -105,3 +105,13 @@ It consists of two main subprojects that work together to process scientific doc
 2. Dictionary
 
 ### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
+
+### Workflow 
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/dict_sC.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
