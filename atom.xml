@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-09-26T07:00:17Z</updated>
+	<updated>2025-09-26T08:34:46Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -118,6 +118,13 @@ formal structure to the documents or other informations in which specific terms 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; is written by Peter Murray-Rust, which deals with a lot of the integrase and conversion and so on. The tool is used for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.) and creating encyclopedia from the keywords.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/semantic_graph.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 &lt;h2&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
