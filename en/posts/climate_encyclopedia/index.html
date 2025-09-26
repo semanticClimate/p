@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Climate Encyclopedia | #semanticClimate</title>
+  <title>semantic Encyclopedia | #semanticClimate</title>
   <meta name="description" content="Structured Collection of informations">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
@@ -92,7 +92,7 @@
 
   
 <div class="container">
-  <h1>Climate Encyclopedia</h1>
+  <h1>semantic Encyclopedia</h1>
   
     
       <div class="post-meta">
@@ -108,7 +108,67 @@
     
   
 
-  <p><strong>Encyclopedia Project</strong></p>
+  <p><strong>#### What is an Encyclopedia?</strong></p>
+<p>An <strong>Encyclopedia</strong> is a comprehensive reference work that gives us informations about wide range of subjects or on a particular field of knowledge.</p>
+<p>It’s a book or a website where you can look up almost any topic and get a clear, summarized explanation.</p>
+<p><strong>For example:</strong></p>
+<p>If you open a dictionary and search for <em>Climate Change</em>, it might simply say: “Climate change: a long-term alteration in the average weather patterns of a place.</p>
+<p>That’s it, just a short definition.</p>
+<p>But if you check an encyclopedia, it will go much deeper. It might explain: What climate change is, causes, effects, examples, and visuals.</p>
+<p><em>This is why encyclopedias are more useful when you want to understand a topic instead of just knowing what it means.</em></p>
+<h3>Why Use a semantic Encyclopedia?</h3>
+<p>A semantic encyclopedia helps you quickly understand concepts, summarize research, and find related information. It can be used for academic analysis, literature review, content search, and even smart PDF annotations, making research and learning faster and more efficient.</p>
+<h3>Subprojects</h3>
+<p>This includes two main subprojects that work together to process climate reports, scientific reports and extract meaningful informations.</p>
+<ol>
+<li>Keyword_extraction</li>
+<li>Dictionary</li>
+</ol>
+<h3>Workflow</h3>
+<p>This diagram illustrates how raw documents are processed using semantic tools to extract key terms, define them, and organize the information into structured encyclopedia entries.</p>
+<table>
+  <tr>
+    <td>
+      <img src='/p/static/img/events_all/dict_sC.png' width="500" height="100">
+    </td>
+  </tr>
+</table>
+<h3>Keyword_extraction</h3>
+<p>A Python-based tool that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents.</p>
+<h4>Tool:</h4>
+<ul>
+<li><em>keyword extractor has been used to get the list of words and phrases from the document.</em></li>
+</ul>
+<table>
+  <tr>
+    <td>
+      <img src='/p/static/img/events_all/words_p1.png' width="500" height="100">
+    </td>
+  </tr>
+</table>
+<h3>Dictionary</h3>
+<ul>
+<li>
+<p>A structured storage system for organizing extracted keywords, document content, and metadata.</p>
+</li>
+<li>
+<p>This is enriched with the information from wikipedia.</p>
+</li>
+<li>
+<p>It enables quick access to key concepts and terminology from scientific literatures, climate reports and any text documents.</p>
+</li>
+</ul>
+<h4>Tool:</h4>
+<ul>
+<li><em>amilib is used to create wikimedia enhanced dictionary.</em></li>
+</ul>
+<table>
+  <tr>
+    <td>
+      <img src='/p/static/img/events_all/dict_p1.png' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 
   
