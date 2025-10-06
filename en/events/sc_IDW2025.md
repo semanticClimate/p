@@ -39,7 +39,7 @@ It is organized by the International Science Council (ISC)'s two data bodies: [C
 - **Matt Mayernik** (Session co-Moderator) - NSF National Center for Atmospheric Research, USA, Editor-in-Chief, Data Science Journal
     - Talk Title: *Data Science Reporting: Beyond Automation and Toward Accountability*
   
-- **Gitanjali Yadav** (Session co-Moderator) - Scientist, National Institute of Plant Genome Research (NIPGR), New Delhi India; Member, CODATA IDPC; Professor of Data Science, IISER Bhopal, India Founder, #semanticClimate; Member Editorial Team, Data Science Journal
+- **Gitanjali Yadav** (Session co-Moderator) - Scientist, National Institute of Plant Genome Research (NIPGR), New Delhi India; Member, CODATA IDPC; Professor of Data Science, IISER Bhopal, India; Founder, #semanticClimate; Member Editorial Team, Data Science Journal
     - Talk Title: *Semantic Data Science: FAIRification, AI-Readiness, and Climate Knowledge*
   
 - **Debasisa Mohanty** - Director, National Institute of Immunology, DBT, Govt of India; Member, CODATA India National Committee; Chairperson,Indian Biologica Data Center
@@ -51,7 +51,7 @@ It is organized by the International Science Council (ISC)'s two data bodies: [C
 - **Dimitris Symeonidis** - University of Tartu, Institute of Computer Science Member, Digital Government Society
     - Talk Title: *The Data Scientist in the Digital State: Ethical Automation in Government Systems*
 
-- **Dr. Lili Zhang** - Executive Director, GOSC IPO, member of CODATA IDPC Senior Research Scientist, CSTCloud, CNIC,CAS; Member Editorial Team, Data Science Journal
+- **Dr. Lili Zhang** - Executive Director, GOSC IPO; member of CODATA IDPC Senior Research Scientist, CSTCloud, CNIC,CAS; Member Editorial Team, Data Science Journal
     - Talk Title: *Toward a Global Data Science Commons: GOSC and the Infrastructure of Intelligence*
 
 ### Location
