@@ -83,3 +83,5 @@ A Python-based tool that uses state-of-the-art Natural Language Processing (NLP)
     </td>
   </tr>
 </table>
+
+### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
