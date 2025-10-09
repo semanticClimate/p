@@ -19,6 +19,10 @@ The series is a joint initiative of the Association of African Universities, the
 
 - **“Decolonising Data: Towards Equitable Data Governance and Knowledge Production in Science and Research”**
 
+### Mode
+
+- **Online**
+
 ### Date
 
 - **Wednesday 8 October, 2025**
