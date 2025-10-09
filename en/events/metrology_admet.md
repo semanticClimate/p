@@ -47,7 +47,7 @@ The International Conference “Advances in Metrology (AdMet)” is a major scie
 
 ### Program 
 
-- **Dr. Gitanjali Yadav**, Co-founder #semanticClimate and Senior Scientist at NIPGR, New Delhi partipated and discussed about Precision & Prediction 
+- **Dr. Gitanjali Yadav**, Co-founder #semanticClimate and Senior Scientist at NIPGR, New Delhi participated in the conference and discussed about Precision & Prediction 
 
 - Title - "*From Metrices to Models: Predicting Biology with Precision*"  
 
