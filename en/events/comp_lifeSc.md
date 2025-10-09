@@ -22,7 +22,7 @@ The workshop features an expert talk and a panel discussion on the National Miss
 
 ### Venue
 
-- **Aryabhatta Hall, Ground Floor, New S&T Building, DST**
+- **Aryabhatta Hall, Ground Floor, New S&T Building, DST, New Delhi, India**
 
 ### Program
 
