@@ -707,7 +707,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/forum_IRAF/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/forum_IRAF/</loc>
     <lastmod>2025-06-10</lastmod>
   </url>
   
@@ -782,7 +782,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/E03_FSCI2025/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/E03_FSCI2025/</loc>
     <lastmod>2025-07-22</lastmod>
   </url>
   
@@ -792,17 +792,17 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/climate_DU/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/climate_DU/</loc>
     <lastmod>2025-08-22</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/school_edu/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/school_edu/</loc>
     <lastmod>2025-08-25</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/climate_school/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/climate_school/</loc>
     <lastmod>2025-08-27</lastmod>
   </url>
   
@@ -822,7 +822,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/events/climateEducation_conclave/</loc>
+    <loc>https://semanticclimate.github.io/p/en/past-events/climateEducation_conclave/</loc>
     <lastmod>2025-08-29</lastmod>
   </url>
   
@@ -957,22 +957,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2025-10-09</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
     <lastmod>2025-10-09</lastmod>
   </url>
   
@@ -1019,6 +1019,11 @@
   <url>
     <loc>https://semanticclimate.github.io/p/</loc>
     <lastmod>2025-10-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/events/res_integrity/</loc>
+    <lastmod>2025-10-10</lastmod>
   </url>
   
   <url>
