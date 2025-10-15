@@ -63,3 +63,52 @@ New Delhi, India
 <td><img src='{{ "/static/img/events_all/resAI_pic6.png" | url }}' width="500" height="300"></td>
 </tr>   
 </table>
+
+### Event Highlights
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p2.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p3.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p4.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p6.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p9.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p12.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p8.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p13.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/res_integ_p15.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/res_integ_p16.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+
+
+
+
