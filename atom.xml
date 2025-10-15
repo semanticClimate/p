@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-15T09:49:35Z</updated>
+	<updated>2025-10-15T10:06:07Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -57,13 +57,17 @@
 &lt;h2&gt;Insights from the Indo-Swiss Workshop: ‘Research Integrity in the Age of AI’&lt;/h2&gt;
 &lt;h3&gt;Benefits of AI for researchers&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Planning of Projects&lt;/li&gt;
+&lt;li&gt;Planning of Projects, hypothesis&lt;/li&gt;
 &lt;li&gt;Planning of experimental design&lt;/li&gt;
 &lt;li&gt;Proposal optimization&lt;/li&gt;
 &lt;li&gt;Data analysis&lt;/li&gt;
 &lt;li&gt;Reports and publication preparation&lt;/li&gt;
 &lt;li&gt;for structuring and cleaning the data&lt;/li&gt;
-&lt;li&gt;review and summarization&lt;/li&gt;
+&lt;li&gt;AI-generated review reports and summarization&lt;/li&gt;
+&lt;li&gt;automated screening&lt;/li&gt;
+&lt;li&gt;AI-assisted reproducibility&lt;/li&gt;
+&lt;li&gt;figure creation&lt;/li&gt;
+&lt;li&gt;workflow augmentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Disadvantages of AI for researchers&lt;/h3&gt;
 &lt;ul&gt;
@@ -71,6 +75,24 @@
 &lt;li&gt;inherent bias in the AI&lt;/li&gt;
 &lt;li&gt;lack of reference AI is using&lt;/li&gt;
 &lt;li&gt;non compliance with regulators&lt;/li&gt;
+&lt;li&gt;synthetic data&lt;/li&gt;
+&lt;li&gt;Authorship confusion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;AI: Opportunities for Publishers and Funders&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To check plagiarism in the manuscript/ project&lt;/li&gt;
+&lt;li&gt;Pre-screening of submission&lt;/li&gt;
+&lt;li&gt;Identification of multiple publication&lt;/li&gt;
+&lt;li&gt;To check language improvement&lt;/li&gt;
+&lt;li&gt;Identification of the referee&lt;/li&gt;
+&lt;li&gt;Checking references in the manuscript/ project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;What is needed? AI (Artificial Intelligence) and RI (Research Integrity)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Self-appraisal checklists for researchers and institutions&lt;/li&gt;
+&lt;li&gt;Clear and dynamic rules and guidelines&lt;/li&gt;
+&lt;li&gt;Implementation and incorporation into good scientific practice documentation&lt;/li&gt;
+&lt;li&gt;Broader awareness of the benefits and the disadvantages&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
