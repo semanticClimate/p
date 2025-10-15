@@ -872,6 +872,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/AI_research/</loc>
+    <lastmod>2025-10-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/CHANGELOG/</loc>
     <lastmod>2025-10-15</lastmod>
   </url>
@@ -982,22 +987,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
-    <lastmod>2025-10-15</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
-    <lastmod>2025-10-15</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2025-10-15</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
+    <lastmod>2025-10-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
+    <lastmod>2025-10-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
     <lastmod>2025-10-15</lastmod>
   </url>
   
