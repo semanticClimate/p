@@ -2,9 +2,7 @@
 title: Responsible Use of Artificial Intelligence to Maintain Research Integrity
 date: 2025-10-15
 description: Keypoints from the Indo-Swiss Workshop on Research Integrity in the Age of AI
-author: Renu Kumari
-summary: keypoints from the discussions and presentations 
-hide: true
+author: Renu Kumari 
 tags:
   - semanticclimate
 ---
@@ -40,19 +38,40 @@ tags:
 ## Insights from the Indo-Swiss Workshop: ‘Research Integrity in the Age of AI’
 
 ### Benefits of AI for researchers
-- Planning of Projects
+- Planning of Projects, hypothesis
 - Planning of experimental design
 - Proposal optimization
 - Data analysis
 - Reports and publication preparation
 - for structuring and cleaning the data
-- review and summarization
+- AI-generated review reports and summarization
+- automated screening
+- AI-assisted reproducibility
+- figure creation
+- workflow augmentation
 
 ### Disadvantages of AI for researchers
 - Inaccurate and incomplete literature knowledge
 - inherent bias in the AI
 - lack of reference AI is using
 - non compliance with regulators
+- synthetic data
+- Authorship confusion
+
+### AI: Opportunities for Publishers and Funders
+- To check plagiarism in the manuscript/ project
+- Pre-screening of submission
+- Identification of multiple publication
+- To check language improvement
+- Identification of the referee
+- Checking references in the manuscript/ project
+
+#### What is needed? AI (Artificial Intelligence) and RI (Research Integrity)
+- Self-appraisal checklists for researchers and institutions
+- Clear and dynamic rules and guidelines
+- Implementation and incorporation into good scientific practice documentation
+- Broader awareness of the benefits and the disadvantages
+
 
 
 
