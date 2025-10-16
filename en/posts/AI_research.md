@@ -95,6 +95,46 @@ It is the institution based system to keep the records of datasets, protocols, a
 
 #### 3. Integrity Scorecard
 
+- A digital dashboard integrated with existing R&D management system.
+- It supports healthy competition.
+- A transparent and quantifiable system for audit success and open access compliance.
+- Builds culture of accountability
+- It provides data-driven insights.
+
+#### 4. Open Lab Notebooks
+
+It is a digital lab notebooks inspired by open science principles which is partially or fully accessible to external collaborators and the public.
+
+The notebooks should include:
+- experimental protocols
+- published data etc.
+
+It promotes open ethical and reproducible science and accelerates collaborations.
+
+#### 5. Research Ombudsman and Rapid Response Team
+
+An Institute should have independent department with dedicated response team for research integrity concerns. It should be dedicated to provide confidential consultation and ensures fair and timely resolution of the concerns.
+
+Important features:
+- A multidisciplinary rapid response team including senior faculty member and trained staff.
+- It should encourage early conflict resolution.
+- Confidential Advisory role to discuss potential issues.
+- It should publish annual reports highlighting trends.
+- It should have standard procedures for registering complaints, mediation and documentation.
+
+Benefits:
+- It strengthens trust and psychological safety across the academic ecosystem.
+- promotes transparency and fairness
+
+### COPE (Committee on Publication Ethics) : Three key policies
+1. AI can not be an author as it is not a legal enity and it also can not take responsibility for the research.
+2. There should no uploading of confidential manuscript and projects by the reviewers and editors to external AI tools. 
+3. The final decisions on the manuscript should not be made by Artificial Intelligence but AI can help in peer review, making recommendation etc.
+
+
+
+
+
 
 
 

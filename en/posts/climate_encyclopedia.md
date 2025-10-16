@@ -76,7 +76,7 @@ A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Pr
 
 - *amilib is used to create wikimedia enhanced encyclopedia.* [GitHub repository](https://github.com/petermr/amilib)
 
-#### [semantic Encyclopedia IPCC/AR6/WG1/Chapter03](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
+##### [semantic Encyclopedia IPCC/AR6/WG1/Chapter03](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
 
 <table>
   <tr>
@@ -86,7 +86,7 @@ A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Pr
   </tr>
 </table>
 
-### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
+### [GitHub Repository for Encyclopedia](https://github.com/semanticClimate/encyclopedia)
 
 ### GitHub repository to publish encyclopedia in book format
 [CLICK HERE](https://github.com/semanticClimate/demo_book)
