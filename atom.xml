@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-15T10:06:07Z</updated>
+	<updated>2025-10-16T06:14:02Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -20,13 +20,13 @@
 		<content type="html">&lt;h4&gt;Indo-Swiss Workshop: Research Integrity in the Age of AI&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h4&gt;Date: October 10, 2025&lt;/h4&gt;
+&lt;h5&gt;Date: October 10, 2025&lt;/h5&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h4&gt;Location: Bharat Mandapam Convention Centre, New Delhi, India&lt;/h4&gt;
+&lt;h5&gt;Location: Bharat Mandapam Convention Centre, New Delhi, India&lt;/h5&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h4&gt;Organized By: Swissnex in India, Frontiers and the Indian National Young Academy of Sciences (INYAS)&lt;/h4&gt;
+&lt;h5&gt;Organized By: Swissnex in India, Frontiers and the Indian National Young Academy of Sciences (INYAS)&lt;/h5&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;Speakers:&lt;/h4&gt;
@@ -94,6 +94,31 @@
 &lt;li&gt;Implementation and incorporation into good scientific practice documentation&lt;/li&gt;
 &lt;li&gt;Broader awareness of the benefits and the disadvantages&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Some Propositions for responsible and ethical use of AI&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Keypoints taken from the presentation by Prof. Suman Chakraborty, Director, IIT Kharagpur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;1. Trusted Research Ledger&lt;/h4&gt;
+&lt;p&gt;It is the institution based system to keep the records of datasets, protocols, approvals and authorship information. Each project transcation and experimental details should be logged transparently.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ensures auditability&lt;/li&gt;
+&lt;li&gt;foster reproducibility&lt;/li&gt;
+&lt;li&gt;builds inter-lab trust&lt;/li&gt;
+&lt;li&gt;prevents data-tempering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;2. AI Integrity Sandbox&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A dedicated system where AI tools used in research analysis are evaluated periodically for reproducibility, bias and transparency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There should be independent validation of AI-assisted workflow used by researchers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;All the AI outputs should be reliably verified and reproduced.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;3. Integrity Scorecard&lt;/h4&gt;
 </content>
 	</entry>
 	
@@ -128,10 +153,10 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;Keyword_extraction&lt;/h3&gt;
-&lt;p&gt;A Python-based tool that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents.&lt;/p&gt;
+&lt;p&gt;A Python-based tool &lt;code&gt;txt2phrases&lt;/code&gt; that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents. &lt;a href=&quot;https://pypi.org/project/txt2phrases/&quot;&gt;Read about the installation and usage of the tool&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;Tool:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;keyword extractor has been used to get the list of words and phrases from the document.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;txt2phrases has been used to get the list of words and phrases from the document.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
   &lt;tr&gt;
@@ -154,8 +179,9 @@
 &lt;/ul&gt;
 &lt;h4&gt;Tool:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;amilib is used to create wikimedia enhanced encyclopedia.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;amilib is used to create wikimedia enhanced encyclopedia.&lt;/em&gt; &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld&quot;&gt;semantic Encyclopedia IPCC/AR6/WG1/Chapter03&lt;/a&gt;&lt;/h4&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -164,6 +190,8 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;GitHub repository to publish encyclopedia in book format&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/demo_book&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
