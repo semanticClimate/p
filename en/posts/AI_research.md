@@ -9,9 +9,9 @@ tags:
 
 #### Indo-Swiss Workshop: Research Integrity in the Age of AI
 
-- #### Date: October 10, 2025
-- #### Location: Bharat Mandapam Convention Centre, New Delhi, India
-- #### Organized By: Swissnex in India, Frontiers and the Indian National Young Academy of Sciences (INYAS)
+- ##### Date: October 10, 2025
+- ##### Location: Bharat Mandapam Convention Centre, New Delhi, India
+- ##### Organized By: Swissnex in India, Frontiers and the Indian National Young Academy of Sciences (INYAS)
 - #### Speakers:
     - Dr. Lena Robra, Head of Academic Engagement, Swissnex India
     - Dr. Frederick Fenter, Chief Executive Editor, Frontiers
@@ -71,6 +71,31 @@ tags:
 - Clear and dynamic rules and guidelines
 - Implementation and incorporation into good scientific practice documentation
 - Broader awareness of the benefits and the disadvantages
+
+### Some Propositions for responsible and ethical use of AI 
+- Keypoints taken from the presentation by Prof. Suman Chakraborty, Director, IIT Kharagpur
+
+#### 1. Trusted Research Ledger
+
+It is the institution based system to keep the records of datasets, protocols, approvals and authorship information. Each project transcation and experimental details should be logged transparently.
+
+  - ensures auditability
+  - foster reproducibility
+  - builds inter-lab trust
+  - prevents data-tempering
+
+#### 2. AI Integrity Sandbox
+  
+- A dedicated system where AI tools used in research analysis are evaluated periodically for reproducibility, bias and transparency.
+
+- There should be independent validation of AI-assisted workflow used by researchers. 
+
+- All the AI outputs should be reliably verified and reproduced.
+
+
+#### 3. Integrity Scorecard
+
+
 
 
 

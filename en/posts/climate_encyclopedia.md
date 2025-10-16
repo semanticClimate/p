@@ -50,11 +50,11 @@ This diagram illustrates how raw documents are processed using semantic tools to
 
 ### Keyword_extraction
 
-A Python-based tool that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents.
+A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents. [Read about the installation and usage of the tool](https://pypi.org/project/txt2phrases/)
 
 #### Tool: 
 
-- *keyword extractor has been used to get the list of words and phrases from the document.*
+- *txt2phrases has been used to get the list of words and phrases from the document.*
 
 <table>
   <tr>
@@ -74,7 +74,9 @@ A Python-based tool that uses state-of-the-art Natural Language Processing (NLP)
 
 #### Tool: 
 
-- *amilib is used to create wikimedia enhanced encyclopedia.*
+- *amilib is used to create wikimedia enhanced encyclopedia.* [GitHub repository](https://github.com/petermr/amilib)
+
+#### [semantic Encyclopedia IPCC/AR6/WG1/Chapter03](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
 
 <table>
   <tr>
@@ -85,3 +87,6 @@ A Python-based tool that uses state-of-the-art Natural Language Processing (NLP)
 </table>
 
 ### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
+
+### GitHub repository to publish encyclopedia in book format
+[CLICK HERE](https://github.com/semanticClimate/demo_book)
