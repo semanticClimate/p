@@ -64,6 +64,8 @@ New Delhi, India
 </tr>   
 </table>
 
+### Highlights and Learnings from the Event [CLICK HERE](https://semanticclimate.github.io/p/en/posts/AI_research/)
+
 ### Event Highlights
 
 <table>
