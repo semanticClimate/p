@@ -66,7 +66,7 @@ tags:
 - Identification of the referee
 - Checking references in the manuscript/ project
 
-#### What is needed? AI (Artificial Intelligence) and RI (Research Integrity)
+### What is needed? AI (Artificial Intelligence) and RI (Research Integrity)
 - Self-appraisal checklists for researchers and institutions
 - Clear and dynamic rules and guidelines
 - Implementation and incorporation into good scientific practice documentation
@@ -75,7 +75,7 @@ tags:
 ### Some Propositions for responsible and ethical use of AI 
 - Keypoints taken from the presentation by Prof. Suman Chakraborty, Director, IIT Kharagpur
 
-#### 1. Trusted Research Ledger
+### 1. Trusted Research Ledger
 
 It is the institution based system to keep the records of datasets, protocols, approvals and authorship information. Each project transcation and experimental details should be logged transparently.
 
@@ -84,7 +84,7 @@ It is the institution based system to keep the records of datasets, protocols, a
   - builds inter-lab trust
   - prevents data-tempering
 
-#### 2. AI Integrity Sandbox
+### 2. AI Integrity Sandbox
   
 - A dedicated system where AI tools used in research analysis are evaluated periodically for reproducibility, bias and transparency.
 
@@ -93,7 +93,7 @@ It is the institution based system to keep the records of datasets, protocols, a
 - All the AI outputs should be reliably verified and reproduced.
 
 
-#### 3. Integrity Scorecard
+### 3. Integrity Scorecard
 
 - A digital dashboard integrated with existing R&D management system.
 - It supports healthy competition.
@@ -101,7 +101,7 @@ It is the institution based system to keep the records of datasets, protocols, a
 - Builds culture of accountability
 - It provides data-driven insights.
 
-#### 4. Open Lab Notebooks
+### 4. Open Lab Notebooks
 
 It is a digital lab notebooks inspired by open science principles which is partially or fully accessible to external collaborators and the public.
 
@@ -111,7 +111,7 @@ The notebooks should include:
 
 It promotes open ethical and reproducible science and accelerates collaborations.
 
-#### 5. Research Ombudsman and Rapid Response Team
+### 5. Research Ombudsman and Rapid Response Team
 
 An Institute should have independent department with dedicated response team for research integrity concerns. It should be dedicated to provide confidential consultation and ensures fair and timely resolution of the concerns.
 
