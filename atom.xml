@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-16T06:14:02Z</updated>
+	<updated>2025-10-16T08:59:09Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -119,6 +119,42 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;3. Integrity Scorecard&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A digital dashboard integrated with existing R&amp;amp;D management system.&lt;/li&gt;
+&lt;li&gt;It supports healthy competition.&lt;/li&gt;
+&lt;li&gt;A transparent and quantifiable system for audit success and open access compliance.&lt;/li&gt;
+&lt;li&gt;Builds culture of accountability&lt;/li&gt;
+&lt;li&gt;It provides data-driven insights.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4. Open Lab Notebooks&lt;/h4&gt;
+&lt;p&gt;It is a digital lab notebooks inspired by open science principles which is partially or fully accessible to external collaborators and the public.&lt;/p&gt;
+&lt;p&gt;The notebooks should include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;experimental protocols&lt;/li&gt;
+&lt;li&gt;published data etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It promotes open ethical and reproducible science and accelerates collaborations.&lt;/p&gt;
+&lt;h4&gt;5. Research Ombudsman and Rapid Response Team&lt;/h4&gt;
+&lt;p&gt;An Institute should have independent department with dedicated response team for research integrity concerns. It should be dedicated to provide confidential consultation and ensures fair and timely resolution of the concerns.&lt;/p&gt;
+&lt;p&gt;Important features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A multidisciplinary rapid response team including senior faculty member and trained staff.&lt;/li&gt;
+&lt;li&gt;It should encourage early conflict resolution.&lt;/li&gt;
+&lt;li&gt;Confidential Advisory role to discuss potential issues.&lt;/li&gt;
+&lt;li&gt;It should publish annual reports highlighting trends.&lt;/li&gt;
+&lt;li&gt;It should have standard procedures for registering complaints, mediation and documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It strengthens trust and psychological safety across the academic ecosystem.&lt;/li&gt;
+&lt;li&gt;promotes transparency and fairness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;COPE (Committee on Publication Ethics) : Three key policies&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;AI can not be an author as it is not a legal enity and it also can not take responsibility for the research.&lt;/li&gt;
+&lt;li&gt;There should no uploading of confidential manuscript and projects by the reviewers and editors to external AI tools.&lt;/li&gt;
+&lt;li&gt;The final decisions on the manuscript should not be made by Artificial Intelligence but AI can help in peer review, making recommendation etc.&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 	
@@ -181,7 +217,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;amilib is used to create wikimedia enhanced encyclopedia.&lt;/em&gt; &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld&quot;&gt;semantic Encyclopedia IPCC/AR6/WG1/Chapter03&lt;/a&gt;&lt;/h4&gt;
+&lt;h5&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld&quot;&gt;semantic Encyclopedia IPCC/AR6/WG1/Chapter03&lt;/a&gt;&lt;/h5&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -189,7 +225,7 @@
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository for Encyclopedia&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;GitHub repository to publish encyclopedia in book format&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/demo_book&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
 </content>
