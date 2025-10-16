@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-16T08:59:09Z</updated>
+	<updated>2025-10-16T09:50:12Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -87,7 +87,7 @@
 &lt;li&gt;Identification of the referee&lt;/li&gt;
 &lt;li&gt;Checking references in the manuscript/ project&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;What is needed? AI (Artificial Intelligence) and RI (Research Integrity)&lt;/h4&gt;
+&lt;h3&gt;What is needed? AI (Artificial Intelligence) and RI (Research Integrity)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Self-appraisal checklists for researchers and institutions&lt;/li&gt;
 &lt;li&gt;Clear and dynamic rules and guidelines&lt;/li&gt;
@@ -98,7 +98,7 @@
 &lt;ul&gt;
 &lt;li&gt;Keypoints taken from the presentation by Prof. Suman Chakraborty, Director, IIT Kharagpur&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;1. Trusted Research Ledger&lt;/h4&gt;
+&lt;h3&gt;1. Trusted Research Ledger&lt;/h3&gt;
 &lt;p&gt;It is the institution based system to keep the records of datasets, protocols, approvals and authorship information. Each project transcation and experimental details should be logged transparently.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ensures auditability&lt;/li&gt;
@@ -106,7 +106,7 @@
 &lt;li&gt;builds inter-lab trust&lt;/li&gt;
 &lt;li&gt;prevents data-tempering&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;2. AI Integrity Sandbox&lt;/h4&gt;
+&lt;h3&gt;2. AI Integrity Sandbox&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;A dedicated system where AI tools used in research analysis are evaluated periodically for reproducibility, bias and transparency.&lt;/p&gt;
@@ -118,7 +118,7 @@
 &lt;p&gt;All the AI outputs should be reliably verified and reproduced.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. Integrity Scorecard&lt;/h4&gt;
+&lt;h3&gt;3. Integrity Scorecard&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;A digital dashboard integrated with existing R&amp;amp;D management system.&lt;/li&gt;
 &lt;li&gt;It supports healthy competition.&lt;/li&gt;
@@ -126,7 +126,7 @@
 &lt;li&gt;Builds culture of accountability&lt;/li&gt;
 &lt;li&gt;It provides data-driven insights.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;4. Open Lab Notebooks&lt;/h4&gt;
+&lt;h3&gt;4. Open Lab Notebooks&lt;/h3&gt;
 &lt;p&gt;It is a digital lab notebooks inspired by open science principles which is partially or fully accessible to external collaborators and the public.&lt;/p&gt;
 &lt;p&gt;The notebooks should include:&lt;/p&gt;
 &lt;ul&gt;
@@ -134,7 +134,7 @@
 &lt;li&gt;published data etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It promotes open ethical and reproducible science and accelerates collaborations.&lt;/p&gt;
-&lt;h4&gt;5. Research Ombudsman and Rapid Response Team&lt;/h4&gt;
+&lt;h3&gt;5. Research Ombudsman and Rapid Response Team&lt;/h3&gt;
 &lt;p&gt;An Institute should have independent department with dedicated response team for research integrity concerns. It should be dedicated to provide confidential consultation and ensures fair and timely resolution of the concerns.&lt;/p&gt;
 &lt;p&gt;Important features:&lt;/p&gt;
 &lt;ul&gt;
