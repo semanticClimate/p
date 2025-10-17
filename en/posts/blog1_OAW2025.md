@@ -7,7 +7,6 @@ tags:
   - semanticclimate
 ---
 
-# Open Access Week
 (Peter Murray-Rust dictated thoughts introducing our approach to the Invitation from NYIT to partner with them)
 
 ## Climate has driven this
