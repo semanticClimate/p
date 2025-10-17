@@ -5,12 +5,41 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-16T10:00:22Z</updated>
+	<updated>2025-10-17T10:14:20Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Open Access Week 2025 and semanticClimate</title>
+		<link href="/p/en/posts/blog1_OAW2025/"/>
+		<updated>2025-10-16T00:00:00Z</updated>
+		<id>/p/en/posts/blog1_OAW2025/</id>
+		<content type="html">&lt;h1&gt;Open Access Week&lt;/h1&gt;
+&lt;p&gt;(Peter Murray-Rust dictated thoughts introducing our approach to the Invitation from NYIT to partner with them)&lt;/p&gt;
+&lt;h2&gt;Climate has driven this&lt;/h2&gt;
+&lt;p&gt;We believe that instant TRUSTable TRUTHful knowledge is key to understand cllimate change and making good decisions.
+BUT everything we do is usable in other contexts.&lt;/p&gt;
+&lt;h2&gt;Why We&#39;re Doing This During Open Access Week&lt;/h2&gt;
+&lt;p&gt;So, why are we doing this in open access week? Here, because we&#39;re now in the middle of global knowledge wars. Libraries and open access and open source are the front line of this.&lt;/p&gt;
+&lt;h2&gt;The Challenges We Face&lt;/h2&gt;
+&lt;p&gt;We&#39;re faced by a number of huge challenges. On the business front, we have surveillance capitalism and enshittification, which are now endemic. They are threatening the whole basis of knowledge as something which is not absolute, but which is used for promoting commercial interests, and it&#39;s extremely difficult to verify and validate.
+We&#39;re also seeing knowledge neocolonialism, where the Global North is flooding the Global South with its own view of the world. The flow back from the Global South is very small and is resisted by Northern commercial knowledge producers and distributors.
+And then we&#39;ve got the massive rise of AI, which can be used for good, but is increasingly used by megatech companies for promoting their own business without regard to the design of their AI systems or the content.&lt;/p&gt;
+&lt;h2&gt;Our Response: The Semantic Climate Encyclopedia&lt;/h2&gt;
+&lt;p&gt;We believe that we have to resist this, and so the semantic climate encyclopedia is an example of building our own resource. It is free from all of the things I&#39;ve mentioned here, does not use AI, and can be used as a distributable tool for validated, responsible, usable knowledge throughout the world. That&#39;s the motivation.&lt;/p&gt;
+&lt;h2&gt;How We&#39;ve Built It&lt;/h2&gt;
+&lt;p&gt;The way we&#39;ve built it, we hope, is valuable to the world. So, rather than a single institution getting a grant and building it, we&#39;ve built a volunteer community over the world—in India and Europe at the moment—but we are open to anyone who wants to join.
+We run this as a communal project where everything is open, everything is archived, so it can be found and developed and reused. We are brave enough to put all of our work, whether it&#39;s finished or not, on the open web, so people can take it and use it and enhance it.&lt;/p&gt;
+&lt;h2&gt;A Vision for the Future&lt;/h2&gt;
+&lt;p&gt;We think that if this can be grown and other people join in, we would invite the library community around the world to take this idea of building its own knowledge rather than buying it in from suppliers who are not trustable. If we build our own knowledge with the same philosophy as Wikimedia to some extent, then we would have a truly 21st century library which was built for the people of the world and by the people of the world.&lt;/p&gt;
+&lt;h2&gt;How to proceed?&lt;/h2&gt;
+&lt;p&gt;The semanticClimate material is designed to be usable by highschoolers. Therefore NYIT might find fresher projects, or Masters projects and we&#39;d be happy to mentor .&lt;/p&gt;
+&lt;p&gt;(edited)&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Responsible Use of Artificial Intelligence to Maintain Research Integrity</title>
