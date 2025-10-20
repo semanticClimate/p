@@ -5,12 +5,54 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-18T05:32:50Z</updated>
+	<updated>2025-10-20T12:45:05Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Who Owns Our Knowledge?</title>
+		<link href="/p/en/posts/blog4_OAW2025/"/>
+		<updated>2025-10-20T00:00:00Z</updated>
+		<id>/p/en/posts/blog4_OAW2025/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;This transcript is dictated by Peter Murray-Rust and doesn&#39;t represent anyone else&#39;s views.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;The sad answer: not us. That&#39;s if we&#39;re talking about academic publications and much associated with them.&lt;/p&gt;
+&lt;p&gt;About 60 years ago, a decision was taken somewhere, I don&#39;t know where, that academic authors would hand over the copyright of their material to the publisher.&lt;/p&gt;
+&lt;p&gt;Now, I remember this in about 1970. I published my first paper in 1966, and I certainly didn&#39;t hand over copyright then. But by the time of the early 70s, it started to become common that authors were urged or required to hand their copyright over to publishers.&lt;/p&gt;
+&lt;p&gt;And that means that they have, essentially, no control over what happens to that knowledge after the copyright has been handed over.&lt;/p&gt;
+&lt;h2&gt;The Copyright System&lt;/h2&gt;
+&lt;p&gt;There may be some form of contract, I&#39;m not sure as I saw it in the early years, which says that the publisher will publish your material, but by default, the copyright owner owns the material and can do whatever they like with it.&lt;/p&gt;
+&lt;p&gt;Now, that&#39;s a very unsatisfactory situation, because nobody understands exactly what one can do, and what one can&#39;t do. By default, the only thing that the author retains is the right to be known as the author of the material, but not to control the material.&lt;/p&gt;
+&lt;p&gt;So, you cannot take your article and publish bits of it in a book, or publish it in some other way, or rework it, make a film from it, or anything of that sort.&lt;/p&gt;
+&lt;p&gt;And the problem is that the means of controlling this is through a copyright license.&lt;/p&gt;
+&lt;h2&gt;How Copyright Works&lt;/h2&gt;
+&lt;p&gt;Now, copyright is complex, and I don&#39;t intend to go into it all here. But basically, it&#39;s a legal contract, not a law, except in some jurisdictions. But in most jurisdictions, it&#39;s not a law.&lt;/p&gt;
+&lt;p&gt;It allows for the copyright holder to take the copyright breacher, or the alleged breacher, to court and exact recompense for the breach of copyright.&lt;/p&gt;
+&lt;p&gt;That&#39;s not very satisfactory. It makes it very difficult for anything other than the publisher to control the knowledge. And we&#39;re now in a situation some 50 years on, where effectively the control of our knowledge is completely in the hands of publishers.&lt;/p&gt;
+&lt;h2&gt;The Modern Publishing Landscape&lt;/h2&gt;
+&lt;p&gt;Now, these publishers are not the scholarly societies that I grew up with (the Royal Society of Chemistry, the Scandinavian Journal of Science and things of that sort). The major publishers are now megacorporations whose motivation is to maximize their income for the shareholders.&lt;/p&gt;
+&lt;p&gt;And so, this material that we hand over is seen as raw material to the publishers for generating income.&lt;/p&gt;
+&lt;p&gt;They have a moral duty, which some of them fulfill better than others, to make it available to the world. But they have no legal responsibility to do that, except for the contract which the author might have signed and has probably forgotten the details of.&lt;/p&gt;
+&lt;p&gt;So, in practice, a very large amount of today&#39;s material is owned by the publishers.&lt;/p&gt;
+&lt;h2&gt;The Messy Reality&lt;/h2&gt;
+&lt;p&gt;The situation is even more messy because the precise definition of what can and can&#39;t be done is a legal matter and is formally dealt with in a license.&lt;/p&gt;
+&lt;p&gt;Now, many publishers do not give a normal license to the author, and essentially, the publishers have complete control of what they do. They may even forbid the author to reuse their work.&lt;/p&gt;
+&lt;p&gt;The only saving grace here, and it&#39;s a relatively small one, is that Creative Commons, which is a wonderful organization, and which I fully support, and was Paul Chov at one stage, has come up with formal licenses which define what can and what can&#39;t be done with the material that is copyrighted.&lt;/p&gt;
+&lt;p&gt;And I think Creative Commons, having created these licenses, because they&#39;re the only thing that exist, that allows us to preserve our rights in this situation.&lt;/p&gt;
+&lt;h2&gt;Publisher Misconduct&lt;/h2&gt;
+&lt;p&gt;So, when we look at what can and can&#39;t be done with the material, it&#39;s almost always poorly defined as far as the average author is concerned.&lt;/p&gt;
+&lt;p&gt;And also, there are publishers who wish to take advantage of this, even though the copyright forbids them to do it.&lt;/p&gt;
+&lt;p&gt;Many years ago, about 15 years ago, there was a situation where Springer copyrighted all the images that it published, even if these were in open access journals under a Creative Commons license. And they would try and sell these images for up to $50.&lt;/p&gt;
+&lt;p&gt;Now, I pointed that out. I got a number of people on my side, such as Wikimedia, who were also appalled at this situation, and gradually, we pulled that back. But in general, very few authors knew about this, very few authors cared about it.&lt;/p&gt;
+&lt;p&gt;So, there is very little effective defense to the breach of copyright by the publishers. It&#39;s normally on the basis of individual breaches, and the amount of effort that an author has to put in and the reward that they get is not worth it to challenge these breaches of copyright.&lt;/p&gt;
+&lt;p&gt;So, the misuse of scholarly information by publishers is large and continues.&lt;/p&gt;
+&lt;h2&gt;The Future&lt;/h2&gt;
+&lt;p&gt;What is happening now changed about 5 years ago with the advent of large language models, and I&#39;ll come to that in another of these blogs.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>What Semantic Climate Brings to Open Access in 2025</title>
