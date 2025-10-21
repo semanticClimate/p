@@ -5,12 +5,37 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-21T05:02:35Z</updated>
+	<updated>2025-10-21T05:36:02Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Large Language Models and Who Owns Our Knowledge</title>
+		<link href="/p/en/posts/blog6_OAW2025/"/>
+		<updated>2025-10-21T00:00:00Z</updated>
+		<id>/p/en/posts/blog6_OAW2025/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;This transcript is dictated by Peter Murray-Rust and doesn&#39;t represent anyone else&#39;s views.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;The Rise of Large Language Models&lt;/h2&gt;
+&lt;p&gt;This is about the use of large language models and who owns what.&lt;/p&gt;
+&lt;p&gt;In the last 5 years, a new technology has developed, or rather, a fairly old technology has been brought to production, where it&#39;s possible to scrape the whole of published knowledge, if you can get it, and if you&#39;re large enough and have the resources to do it.&lt;/p&gt;
+&lt;p&gt;Then it&#39;s scraped and condensed it into something called Large Language Models, which I won&#39;t go into here. But I&#39;ve had some involvement with these models.&lt;/p&gt;
+&lt;h2&gt;How LLMs Work&lt;/h2&gt;
+&lt;p&gt;These models are a condensation of the material that comes in, so information is lost during this process. Therefore, what comes out of it may include inaccuracies, it may include hallucinations, where the large language model system makes up answers that are linguistically plausible, but make no sense, or are completely untrue.&lt;/p&gt;
+&lt;p&gt;However, these are sufficiently valuable that a very large number of people are using them, and they&#39;re becoming mainstream.&lt;/p&gt;
+&lt;h2&gt;The Copyright Question&lt;/h2&gt;
+&lt;p&gt;Can we do anything about this? Should we do anything about it?&lt;/p&gt;
+&lt;p&gt;In principle, our copyright should prevent the reuse of this material as derivative works. But the only way that we can find out whether they are derivative works is to have it answered in a court, and of course, it depends what jurisdiction you&#39;re in and how far that extends. So, it&#39;s a complex matter and one that very few individuals can become involved with.&lt;/p&gt;
+&lt;h2&gt;The Reality&lt;/h2&gt;
+&lt;p&gt;In practice, the large language model system owners can ride roughshod over our knowledge, and they can do what they like with it.&lt;/p&gt;
+&lt;p&gt;There are many downsides to this. The authorship of the material is often, or usually not referenced. In other words, we can&#39;t say who wrote it. They may take our material and assert our authorship of it when it&#39;s combined with something else, and people have found their voices and their face is associated with material that they did not create.&lt;/p&gt;
+&lt;h2&gt;The Future of Knowledge&lt;/h2&gt;
+&lt;p&gt;Coming back to the largely textual approach of open access, we can expect a large amount of material which is a composite of the scraped material, and may or may not be trustable in detail.&lt;/p&gt;
+&lt;p&gt;So, I don&#39;t see any end to this.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>What Can We Do About Knowledge Ownership?</title>
