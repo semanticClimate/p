@@ -5,12 +5,43 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-21T07:29:39Z</updated>
+	<updated>2025-10-21T10:20:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Day 1 at Open Access Week 2025 | Introduction of Semantic Encyclopedia</title>
+		<link href="/p/en/posts/photo_OAW2025/"/>
+		<updated>2025-10-21T00:00:00Z</updated>
+		<id>/p/en/posts/photo_OAW2025/</id>
+		<content type="html">&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p1_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p2_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p3_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p4_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p5_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p6_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p7_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p8_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Large Language Models and Who Owns Our Knowledge</title>
@@ -4260,6 +4291,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<updated>2024-02-29T00:00:00Z</updated>
 		<id>/p/en/posts/event_photo/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;This page showcases images from various events in which Semantic Climate has either participated or organized.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Open Access Week 2025 | Introduction of Semantic Encyclopedia &lt;a href=&quot;../../posts/photo_OAW2025/&quot;&gt;See More&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p1_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/p2_oaw25.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
 &lt;h3&gt;National Conclave on Climate Education and Data Custodianship | &lt;a href=&quot;../../posts/climateConclave_event/&quot;&gt;See More&lt;/a&gt;&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
