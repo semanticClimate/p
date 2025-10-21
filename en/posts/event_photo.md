@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### Open Access Week 2025 | Introduction of Semantic Encyclopedia [See More](../../posts/photo_OAW2025/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/p1_oaw25.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/p2_oaw25.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### National Conclave on Climate Education and Data Custodianship | [See More](../../posts/climateConclave_event/)
 
 <table>
