@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-22T11:05:25Z</updated>
+	<updated>2025-10-22T11:34:29Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -477,7 +477,13 @@ We run this as a communal project where everything is open, everything is archiv
 &lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository for Encyclopedia&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;GitHub repository to publish encyclopedia in book format&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/demo_book&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
-</content>
+&lt;h3&gt;How to create Semantic Encyclopedia?&lt;/h3&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
+  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/7TgxgHR4fy8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;div&gt;
+    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of Semantic Encyclopedia | Ms. Shaik Zainab&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content>
 	</entry>
 	
 	<entry>
