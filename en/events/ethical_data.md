@@ -44,3 +44,5 @@ The series is a joint initiative of the Association of African Universities, the
 - **Prof. Evelyn Chiyevo Garwe**, a spokesperson for the Association of African Universities and Associate Dean at the Mahommed VI Polytechnic University (UM6P) in Morocco.
 
 She is an expert in education, quality assurance, and strategic planning, and agriculture with 30 years of experience and over 100 publications.
+
+### Session Recording [CLICK HERE](https://events.teams.microsoft.com/event/7486b7ae-48d7-4e3f-8d27-6dafc13f06e7@fc063264-1071-470b-a583-1cc2fa50b8bf?vod&presenterKey=c5d5a3a3-bb72-448c-8cf3-d3ae080f9396)
