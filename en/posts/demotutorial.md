@@ -13,6 +13,43 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
+- ### Open Access Week 2025 | Introduction to the Semantic Encyclopedia
+  - Peter Murray-Rust, Simon Worthington, Shaik Zainab
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/WRIIYuiEfPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction to the Semantic Encyclopedia</h5>
+  </div>
+</div>
+
+- ### Open Access Week 2025 | Introduction to the corpus creation from open access repository 
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/BQPRahpptbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of the semantic tools | Dr. Renu Kumari</h5>
+  </div>
+</div>
+
+- ### Open Access Week 2025 | Demonstration of the tool to create corpus from open access repository and their analysis using semantic tools
+
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/BQPRahpptbM?start=1012" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Demonstration of the semantic tools | Ms. Udita Agarwal</h5>
+  </div>
+</div>
+
+- ### Open Access Week 2025 Session 2 | Who Owns Our Knowledge? An Introduction to the #semanticClimate
+  
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/dXjoea_5mRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction to the #semanticClimate | Dr. Gitanjali Yadav</h5>
+  </div>
+</div>
+
 - ### Introduction of IPCC AR6 Chapters by semanticClimate Interns for FSCI 2025 
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">

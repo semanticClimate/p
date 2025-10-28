@@ -12,7 +12,16 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
-### Open Access Week 2025 | Introduction of Semantic Encyclopedia [See More](../../posts/photo_OAW2025/)
+### Open Access Week Day 2_Introduction and demonstration of tool for corpus creation | [See more](../../posts/photoDay2_OAW25/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/Oct24_p5.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/Oct24_p9.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+### Open Access Week 2025 Day 1_Introduction of Semantic Encyclopedia [See More](../../posts/photo_OAW2025/)
 
 <table>
 <tr>
