@@ -5,12 +5,38 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2025-10-28T11:44:10Z</updated>
+	<updated>2025-10-30T05:58:28Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>When CARE Meets Reality</title>
+		<link href="/p/en/posts/blog1_GY/"/>
+		<updated>2025-10-30T00:00:00Z</updated>
+		<id>/p/en/posts/blog1_GY/</id>
+		<content type="html">&lt;h4&gt;Reflections on Indigenous Data Governance at IDW 2025&lt;/h4&gt;
+&lt;p&gt;(Blog Post by Gitanjali Yadav, BRIC-NIPGR, India)&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/codata_p1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;International Data Week 2025, Brisbane, Australia&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/codata_p2.png&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/codata_p3.png&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;p&gt;The opening plenary on CAREful Indigenous Data Governance at the International Data Week 2025 in Brisbane promised to be one of the most important conversations of the week long biennial data conference, and it delivered! The session opened with a respectful acknowledgement of the Traditional Custodians of the land on which we met; the Thurrbal and Yaagera peoples. For me, on my first visit to the southern hemisphere, this was a particularly heartwarming moment as Prof. Tony Heymet, the Australian chief scientist and Dr. Margaret Sheil, Vice Chancellor of the Queensland University of Technology paid respects to Elders past and present, all Aboriginal and Islander peoples, honouring their enduring connection to knowledge, and to storytelling, the world’s oldest continuous data system, recognising how their wisdom continues to guide how we gather, share, and care for knowledge.&lt;/p&gt;
+&lt;h3&gt;Read more on the &lt;a href=&quot;https://codata.org/blog/2025/10/28/when-care-meets-reality-reflections-on-indigenous-data-governance-at-idw-2025/&quot;&gt;CODATA blog&lt;/a&gt;&lt;/h3&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Day 2 at Open Access Week 2025 | Corpus Creation from Open Access Repository</title>
