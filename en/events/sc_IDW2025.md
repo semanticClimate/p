@@ -60,3 +60,5 @@ Brisbane Convention & Exhibition Centre
 
 Australia/Brisbane 
 
+### Read Blog Post by Dr. Gitanjali Yadav, BRIC-NIPGR, India | [Click Here](https://semanticclimate.github.io/p/en/posts/blog1_GY/)
+
