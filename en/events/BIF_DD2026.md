@@ -34,11 +34,11 @@ The workshop will be conducted in offline mode from 15–17 January 2026 at ACBR
 **Dr. Gitanjali Yadav**, Co-founder #semanticClimate and Scientist at NIPGR, New Delhi will be participating in the workshop as Speaker and the team will conduct a one-hour hands-on training session.
 
 ### Date: 16 January, 2026
-- 2:30-3:30 pm: **Dr. Geetanjali Yadav**, NIPGR, Delhi
+- 2:30-3:30 pm: **Dr. Gitanjali Yadav**, NIPGR, Delhi
 - Expertise: *Bioinformatics, Systems Biology, and Network-based Drug Discovery*
 - Title: *Phytochemical Knowledge Extraction, FAIRification & Reuse of Scientific Literature*
 
-### Hands-on Training Session
+#### Hands-on Training Session
 - 3:30-4:30 pm: **Dr. Renu Kumari, Mandeep and Priti**
 - Title: *AI for Literature Reviews: Case Study: Drug Discovery*
 
