@@ -56,3 +56,19 @@ The workshop will be conducted in offline mode from 15–17 January 2026 at ACBR
   </tr>
 </table>
 
+### Event Highlights | [See more](../../posts/ACBR_event/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-14.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-6.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-5.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+

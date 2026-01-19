@@ -12,6 +12,15 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### 13th Workshop on Bioinformatics and Drug Design | BIF-DD-2026 | [See more](../../posts/ACBR_event/)
+
+<table>
+<tr>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-1.jpg" | url }}' width="500" height="300"></td>
+<td><img src='{{ "/static/img/events_all/ACBR_ALR-2.jpg" | url }}' width="500" height="300"></td>
+</tr>   
+</table>
+
 ### Open Access Week Day 2_Introduction and demonstration of tool for corpus creation | [See more](../../posts/photoDay2_OAW25/)
 
 <table>
