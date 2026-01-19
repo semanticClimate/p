@@ -1,7 +1,7 @@
 ---
 title: 13th Workshop on Bioinformatics and Drug Design
 date: 2026-01-16
-description: images from the events 
+description: images from the talk and hands-on session 
 author: RK
 summary: A glimpse of BIF-DD-2026
 hide: true
