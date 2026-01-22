@@ -13,7 +13,7 @@ tags:
 
 Advances in artificial intelligence (AI) are rapidly transforming structural biology, enabling breakthroughs in protein structure prediction, molecular docking, molecular dynamics, and large-scale simulation-driven discovery. These workflows are increasingly software-intensive, compute-heavy, and data-rich, often producing results that cannot be easily captured, shared, or evaluated using traditional publication-centric models of scientific assessment.
 
-This workshop brings together domain scientists, data experts, and research policy practitioners to explore how AI-enabled structural biology workflows can be made reproducible, FAIR, and responsibly assessed, without requiring unrestricted data sharing or compromising intellectual property and data sovereignty. Convened in connection with the CODATA OT-ViRARe Task Group, the workshop will treat structural biology as a real-world test case for emerging frameworks in data visitation, semantic metadata, AI governance, and research assessment reform.
+This workshop brings together domain scientists, data experts, and research policy practitioners to explore how AI-enabled structural biology workflows can be made reproducible, FAIR, and responsibly assessed, without requiring unrestricted data sharing or compromising intellectual property and data sovereignty. Convened in connection with the **CODATA OT-ViRARe Task Group**, the workshop will treat structural biology as a real-world test case for emerging frameworks in data visitation, semantic metadata, AI governance, and research assessment reform.
 
 ### Objectives
 
@@ -51,7 +51,7 @@ The workshop aims to:
 
 ### Programme
 
-#### DAY 01 : JANUARY 28, 2026
+### DAY 01 : JANUARY 28, 2026
 
 - **Session 1:** AI in Structural Biology – State of the Art
 - **Session 2:** Introduction to Small Molecule Drug Discovery (SMDD) Suite 
@@ -59,7 +59,7 @@ The workshop aims to:
 - **Session 4:** How Do We Assess This Work? Beyond Publications and Impact Factors
 - **Session 5:** Reflections for Policy, Data Governance, and ORAT Development
 
-#### DAY 02 : FEBRUARY 04-05, 2026
+### DAY 02 and DAY 03 : FEBRUARY 04-05, 2026
 - Hands-on Workflows on Protein Ligand Docking, MD
 - Structural Simulation Pipelines
 
