@@ -39,7 +39,7 @@ The workshop aims to:
 
 ### Format
 
-**Full-day, hybrid workshop combining:**
+**Full-day, online workshop combining:**
 
 - Lead talks (scientific + policy perspectives)
 
@@ -54,7 +54,7 @@ The workshop aims to:
 ### DAY 01 : JANUARY 28, 2026
 
 - **Session 1:** AI in Structural Biology – State of the Art
-- **Session 2:** Introduction to Small Molecule Drug Discovery (SMDD) Suite 
+- **Session 2:** Introduction to Small Molecule Drug Discovery (SMDD) Suite, Demo on Ligand Binding 
 - **Session 3:** Reproducibility, Provenance, and Explainability in AI-driven Science 
 - **Session 4:** How Do We Assess This Work? Beyond Publications and Impact Factors
 - **Session 5:** Reflections for Policy, Data Governance, and ORAT Development
@@ -79,5 +79,5 @@ The workshop aims to:
 - Dr. Gitanjali Yadav, BRIC-NIPGR
 - Prof. Peter Murray-Rust, University of Cambridge
 
-#### Full Agenda : To be shared with selected participants 
+#### Full Programme : To be shared with selected participants 
 
