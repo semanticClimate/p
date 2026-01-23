@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-01-23T07:50:13Z</updated>
+	<updated>2026-01-23T08:03:18Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -2518,6 +2518,10 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<id>/p/en/posts/outreach/</id>
 		<content type="html">&lt;h4&gt;Explore the repository for all the presentations given by team members at various hackathons, datathons and outreach programmes.&lt;/h4&gt;
 &lt;p&gt;It is updated regularly to include the latest content.&lt;/p&gt;
+&lt;h3&gt;ACBR,DU workshop January 16, 2026&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/ACBRworkshop/blob/main/workshop_ACBR16Jan.pptx&quot;&gt;Presentation for Hands-on session&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Link to the presentations | WII Workshop&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf&quot;&gt;ALR Demo Session 1&lt;/a&gt;&lt;/li&gt;
@@ -2860,6 +2864,12 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<id>/p/en/posts/notebook/</id>
 		<content type="html">&lt;p&gt;This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/ACBRworkshop/blob/main/lit_review_drugDiscovery.ipynb&quot;&gt;Demo Notebook_Hands-on session at ACBR, DU, January 16, 2026&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Priti, Kumari R, Mandeep&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h4&gt;&lt;a href=&quot;https://colab.research.google.com/github/rkclimate20/corpus-creation-demo/blob/main/corpus_creation_pygetpapers_demo.ipynb&quot;&gt;Corpus creation: OA repository retrieval and analysis&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
