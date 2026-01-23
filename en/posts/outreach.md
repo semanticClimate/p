@@ -13,6 +13,10 @@ tags:
 
 It is updated regularly to include the latest content.
 
+### ACBR,DU workshop January 16, 2026
+
+- [Presentation for Hands-on session](https://github.com/semanticClimate/ACBRworkshop/blob/main/workshop_ACBR16Jan.pptx)
+
 ### Link to the presentations | WII Workshop
 
 - [ALR Demo Session 1](https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf)

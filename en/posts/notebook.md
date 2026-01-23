@@ -11,6 +11,9 @@ tags:
 
 This contains the links for all the colab notebooks that has been created to do analysis of climate reports and literatures.
 
+- #### [Demo Notebook_Hands-on session at ACBR, DU, January 16, 2026](https://github.com/semanticClimate/ACBRworkshop/blob/main/lit_review_drugDiscovery.ipynb)
+  - Priti, Kumari R, Mandeep
+  
 - #### [Corpus creation: OA repository retrieval and analysis](https://colab.research.google.com/github/rkclimate20/corpus-creation-demo/blob/main/corpus_creation_pygetpapers_demo.ipynb)
   - Kumari, R., Priti, Mandeep, Murray-Rust, P., Simon, W., & Yadav, G. (2025). Corpus creation : OA repository retrieval and analysis (0.1). Zenodo. https://doi.org/10.5281/zenodo.16418987
 
