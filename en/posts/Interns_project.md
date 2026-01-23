@@ -13,13 +13,19 @@ tags:
 
 This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.
 
-### Active Interns
+### Active Interns (2026)
+
+- **Udita Agarwal** (August 2025 - March 2026)
+- **Vipparla Pushpa valli** (05 January - 31 May 2026)
+- **Arhaan Azmi** (08 January - 30 June 2026)
+- **Gulam Ajdhani** (08 January - 03 July 2026)
+- **Sakshi Gupta** (01 January - 30 June 2026)
+- **Vaishnavi Sharma** (15 January - 15 June 2026)
+- **Saniya** (12 January - 06 April 2026)
+
+### Interns (2025)
 
 - **Shaik Zainab** (01 July - 01 September 2025)
-- **Udita Agarwal** (August 2025 - January 2026)
-
-### Interns (May to July 2025)
-
 - **Sarth Santosh Shah** SRF (09 May 2025 - 05 July 2025)
 - **Mandakala Sai Deepika** SRF (01 June - 31 July 2025)
 - **Vallabhaneni Haarthi** SRF (19 May -14 July 2025)
@@ -33,6 +39,11 @@ This contains the highlights of the work completed by the interns during their 2
 
 | Intern  | IPCC Report  |
 |-----------|-----------|
+| Saniya  | WG2/Chapter 10: Asia, [wordlist](), [Encyclopedia](), [Read more](), [Daily Report]()    |
+| Gulam Ajdhani   | WG3, Chapter 6 : Energy Systems, [wordlist](), [Encyclopedia](), [Read more](), [Daily Report](https://github.com/semanticClimate/internship_sC/blob/gulamajdhani/daily_progress.md)    |
+| Arhaan Azmi   | WG3, Chapter 3: Mitigation pathways compatible with long-term goals, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Azmi/final_wordslist.xlsx), [Encyclopedia](https://github.com/semanticClimate/encyclopedia/blob/Azmi/WG3CH3_EncyclopediaV1.html), [Read more](https://github.com/semanticClimate/internship_sC/tree/Azmi), [Daily Report](https://github.com/semanticClimate/internship_sC/blob/Azmi/daily_progress.md)    |
+| Sakshi Gupta   | WG2/Chapter 3: Oceans and Coastal Ecosystems and their Services, [wordlist](https://github.com/semanticClimate/internship_sC/blob/sakshi-gupta/chapter3IPCC_keywords.xlsx), [Encyclopedia with description](https://github.com/semanticClimate/encyclopedia/blob/sakshig/encyclopedia_test.html), [Read more](https://github.com/semanticClimate/internship_sC/tree/sakshi-gupta), [Daily Report](https://github.com/semanticClimate/internship_sC/blob/sakshi-gupta/daily_progress.md)    |
+| Vaishnavi Sharma    | WGI, CHAPTER 9: Ocean, Cryosphere and Sea Level Change, [wordlist](https://github.com/semanticClimate/internship_sC/blob/vaishnavi/keywords/html_with_ids_keywords.csv), [Encyclopedia with images](https://github.com/semanticClimate/encyclopedia/blob/main/output_with_images.html), [Read more](https://github.com/semanticClimate/internship_sC/tree/vaishnavi), [Daily Report]()    |
 | Sarth Shah     | wg2/Chapter17_Decision-making options for managing risk, [Read more](https://github.com/semanticClimate/internship_sC/blob/sarth/Daily_report.md)    |
 | Haarthi    | wg2/Chapter04_Water, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Haarthi/Keyword_Extraction/IPCC-Ch04-Wordlist), [dictionary](https://github.com/semanticClimate/internship_sC/blob/Haarthi/wg2chap04_dict.html), [Read more](https://github.com/semanticClimate/internship_sC/tree/Haarthi), [Final Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Haarthi_Report.pdf)    |
 | Deepika    | wg1/Chapter04_Future Global Climate: Scenario-based Projections and Near-term Information, [wordlist](https://github.com/semanticClimate/internship_sC/blob/Deepika/Keyword_Extraction/WG1_CH04_wordlist.txt), [Read more](https://github.com/semanticClimate/internship_sC/blob/Deepika/daily_progress.md)    |
