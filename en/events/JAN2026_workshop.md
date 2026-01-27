@@ -32,7 +32,7 @@ The workshop aims to:
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events_all/workshop_Jan28.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events_all/Flyer_Jan2026.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
