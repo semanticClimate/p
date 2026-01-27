@@ -75,20 +75,4 @@ The workshop aims to:
 
 #### [Click Here to Register](https://docs.google.com/forms/d/e/1FAIpQLSem6JDDAPR_XVxkHUmJVTFQuIq4DEdGTny6Psdoo7cf758Iiw/viewform)
 
-### Full Programme : January 28, 2026
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events_all/Jan28_p1.png" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events_all/Jan28_p2.png" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
+### Full Programme : To be updated
