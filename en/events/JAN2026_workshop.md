@@ -79,5 +79,20 @@ The workshop aims to:
 - Dr. Gitanjali Yadav, BRIC-NIPGR
 - Prof. Peter Murray-Rust, University of Cambridge
 
-#### Full Programme : To be shared with selected participants 
+#### Full Programme : January 28, 2026
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/Jan28_p1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/Jan28_p2.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
