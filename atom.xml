@@ -5,12 +5,54 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-06T04:33:11Z</updated>
+	<updated>2026-02-06T04:47:39Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>FAIR and Reproducible Structural Biology</title>
+		<link href="/p/en/posts/bioAIJan2026_pics/"/>
+		<updated>2026-02-06T00:00:00Z</updated>
+		<id>/p/en/posts/bioAIJan2026_pics/</id>
+		<content type="html">&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w2.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w3.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w4.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w5.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w6.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>Event Report | FAIR and Reproducible Structural Biology</title>
@@ -4629,6 +4671,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<updated>2024-02-29T00:00:00Z</updated>
 		<id>/p/en/posts/event_photo/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;This page showcases images from various events in which Semantic Climate has either participated or organized.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;FAIR and Reproducible Structural Biology | Jan 28, 2026 | &lt;a href=&quot;../../posts/bioAIJan2026_pics/&quot;&gt;See more&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events2026/Jan28_w1.png&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events2026/Jan28_w7.png&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
 &lt;h3&gt;13th Workshop on Bioinformatics and Drug Design | BIF-DD-2026 | &lt;a href=&quot;../../posts/ACBR_event/&quot;&gt;See more&lt;/a&gt;&lt;/h3&gt;
 &lt;table&gt;
 &lt;tr&gt;
