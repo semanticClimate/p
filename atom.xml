@@ -5,12 +5,143 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-01-29T06:13:13Z</updated>
+	<updated>2026-02-06T04:33:11Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Event Report | FAIR and Reproducible Structural Biology</title>
+		<link href="/p/en/posts/structuralBio_AI/"/>
+		<updated>2026-02-05T00:00:00Z</updated>
+		<id>/p/en/posts/structuralBio_AI/</id>
+		<content type="html">&lt;h3&gt;Date: 28 January 2026&lt;/h3&gt;
+&lt;h4&gt;Organized by BRIC-NIPGR, CODATA INDIA and #semanticClimate&lt;/h4&gt;
+&lt;h3&gt;Introduction and Context&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;FAIR and Reproducible Structural Biology&lt;/strong&gt; Workshop was conducted on 28 January 2026 as a full-day online
+event, hosted under the aegis of the #semanticClimate community. The workshop convened researchers, data specialists, domain scientists, and policy practitioners to discuss and explore emerging challenges in structural biology workflows, particularly focusing on reproducibility, data governance, explainability, and FAIR (Findable, Accessible, Interoperable, Reusable) principles in the context of AI-driven science.&lt;/p&gt;
+&lt;p&gt;The rapid integration of artificial intelligence (AI) into structural biology for tasks such as protein structure prediction, molecular docking, and simulation-driven discovery, has brought enormous potential for scientific breakthroughs. However, it has also exposed limitations in traditional scientific outputs and assessment models, which remain publication-centric and often fail to capture reproducibility, provenance, and metadata standards required for future-ready research. This workshop aimed to address these gaps, demonstrating how FAIR principles can be embedded into complex analytical workflows without compromising intellectual property or data sovereignty.&lt;/p&gt;
+&lt;h3&gt;Objectives and Themes&lt;/h3&gt;
+&lt;p&gt;The workshop was structured around four core objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examine AI-driven workflows in structural biology from the viewpoints of provenance, explainability, and reproducibility.&lt;/li&gt;
+&lt;li&gt;Explore FAIR and AI-ready metadata frameworks capable of capturing complex simulation pipelines, models, and parameters.&lt;/li&gt;
+&lt;li&gt;Discuss innovative research assessment models that go beyond traditional journal and impact factor-based evaluation systems.&lt;/li&gt;
+&lt;li&gt;Demonstrate practical use cases of secure, controlled workflow execution and data visitation in real-world structural biology research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inaugural Session (10:00 AM – 11:15 AM IST)&lt;/h3&gt;
+&lt;h4&gt;Intro to AI Impact Pre-Summit&lt;/h4&gt;
+&lt;p&gt;The inaugural session set the scientific and policy context for the workshop, highlighting the transformative role of Artificial Intelligence (AI) in structural biology and drug discovery, while emphasizing the need for reproducibility, FAIR data practices, and responsible research assessment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Gitanjali Yadav&lt;/strong&gt; (BRIC-NIPGR) opened the session by introducing the objectives of the AI Impact Pre-Summit. She highlighted the motivation behind organizing the workshop as a preparatory engagement for the India AI Summit 2026, with a focus on aligning AI-driven scientific research with principles of openness, reproducibility, and global equity. She emphasized the role of semantic frameworks and open infrastructure in enabling trustworthy and reusable science.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Narinder Mehra&lt;/strong&gt; (INSA) presented an overview of CODATA Task Groups, with particular emphasis on the Open Tools and Visitation Frameworks for Global Research Assessment Reform (OT-ViRARe) initiative. He explained how CODATA is working globally to move beyond traditional publication-centric assessment models, advocating for evaluation systems that recognize data, software, workflows, and reproducibility as first-class research outputs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The inaugural session successfully framed the workshop’s interdisciplinary nature, linking cutting-edge science with policy, governance, and research assessment reform.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Session 1 (11:15 AM – 12:00 PM IST)&lt;/h3&gt;
+&lt;h4&gt;How AI/ML and Rational Drug Design are Transforming Drug Discovery&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: &lt;em&gt;Dr. Raghu R., CEO, Molecular Solutions Software Pvt. Ltd&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This session provided an industry-oriented overview of how AI, machine learning, and rational drug design methodologies are reshaping the drug discovery pipeline. Dr. Raghu explained how computational approaches are significantly reducing timelines from target identification to lead optimization while improving prediction accuracy.&lt;/p&gt;
+&lt;p&gt;He has explained about the Gen AI in lead identification and optimization, AI in ADMET, in patent analysis, AI in 100% accurate polymorph prediction etc. The brief overview of the tool ADMET Predictor was also provided to the researchers.&lt;/p&gt;
+&lt;h3&gt;Session 2 (12:00 PM – 01:00 PM IST)&lt;/h3&gt;
+&lt;h4&gt;Fundamentals of Generative AI and Ultra-Large Chemical Space Docking&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: &lt;em&gt;Dr. Faizan Syed, Applications Scientist&lt;/em&gt;
+(Presentation and Live Demonstration)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Session 2 focused on the technical foundations of Generative AI and ultra-large chemical space docking methods. &lt;strong&gt;Dr. Faizan&lt;/strong&gt; explained the fundamentals of structure-based design using SeeSar and Ultra-Large Chemical Space Docking. He talked about FlexX (ligand docking tool) and its core mechanism.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w2.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Session 3 (02:30 PM – 03:30 PM IST)&lt;/h3&gt;
+&lt;h4&gt;How Do We Assess This Work? Beyond Publications and Impact Factors&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Prof. Peter Murray-Rust&lt;/strong&gt; (&lt;em&gt;University of Cambridge&lt;/em&gt;)  delivered a thought-provoking talk on research assessment reform. He argued that conventional metrics such as journal impact factors fail to capture the full value of modern research outputs, especially in data- and software-intensive AI-driven science. He advocated for assessment frameworks that recognize openness, reproducibility, metadata quality, and machine-readable research objects. He talked about the vision of semanticClimate and how it is working to create semantic and frictionless documents.&lt;/p&gt;
+&lt;p&gt;This was followed by an interactive audience Q&amp;amp;A session, where participants raised questions on institutional adoption, incentives for open science, and challenges in evaluating non-traditional outputs.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w3.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w4.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Matti Heikkurinen&lt;/strong&gt;, &lt;em&gt;Project Portfolio Manager, CODATA&lt;/em&gt;, discussed ongoing CODATA initiatives aimed at operationalizing responsible research assessment. He highlighted how tools like ORAT can support institutions and funders in implementing fair and transparent evaluation practices.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w5.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Session 4 (03:30 PM – 04:30 PM IST)&lt;/h3&gt;
+&lt;h4&gt;Accurate Binding Free Energy Predictions and Unbinding Kinetics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: &lt;em&gt;Dr. Viswanadhan, VP, Molecular Solutions&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Demo and Case Studies: &lt;em&gt;Dr. Anbu Dinesh Jayakumar, Molecular Solutions&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This session addressed advanced computational techniques for binding free energy prediction and unbinding kinetics, which are critical for prioritizing drug candidates. Dr. Viswanadhan explained how precise free energy perturbation (FEP) methods improve confidence in ranking ligands across diverse drug targets. He has given an introduction about the workflow for drug design.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w6.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Anbu Dinesh Jayakumar&lt;/strong&gt; presented 11 case studies and success stories demonstrating practical applications of these methods in drug discovery. The session highlighted how rapid prediction of binding affinity and unbinding kinetics supports informed decision-making and reduces experimental uncertainty. Importantly, the discussion linked these techniques to issues of reproducibility, provenance, and explainability in AI-driven scientific workflows.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/Jan28_w7.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Session 5 (04:30 PM – 05:30 PM IST)&lt;/h3&gt;
+&lt;h4&gt;Panel Discussion : Reflections for Policy, Data Governance, and ORAT Development&lt;/h4&gt;
+&lt;p&gt;The concluding session was a panel discussion &lt;strong&gt;moderated by Dr. Gitanjali Yadav&lt;/strong&gt; (BRIC-NIPGR), focusing on policy implications, data governance, and the future development of the Open Research Assessment Toolkit (ORAT).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Panelists included:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Prof. Peter Murray-Rust&lt;/em&gt;, University of Cambridge, UK&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dr. Bolortuya Ulziibat&lt;/em&gt;, Mongolian Academy of Sciences&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dr. Debasisa Mohanty&lt;/em&gt;, Director, BRIC-NII&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The panel reflected on lessons from the workshop, emphasizing the need for internationally harmonized metadata standards, trusted AI workflows, and assessment systems aligned with open science principles. Discussions highlighted the importance of capacity building in the Global South and the role of collaborative, community-driven frameworks in shaping responsible AI-enabled research.&lt;/p&gt;
+&lt;p&gt;Following are the few questions discussed with the panellist.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do we think about reproducibility when models, parameters, and compute environments matter as much as datasets? What should be recorded, and what should be assessed?&lt;/li&gt;
+&lt;li&gt;There is a need to expand AI driven research in Academia, especially in tier2, Tier3 educational institutes in India through shared infrastructure and resources ( including Human Resources).&lt;/li&gt;
+&lt;li&gt;We should develop strategies to build country-wise data accuracy systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>13th Workshop on Bioinformatics and Drug Design</title>
