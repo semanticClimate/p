@@ -15,10 +15,11 @@ tags:
 ### FAIR and Reproducible Structural Biology | Jan 28, 2026 | [See more](../../posts/bioAIJan2026_pics/)
 
 <table>
-<tr>
-<td><img src='{{ "/static/img/events2026/Jan28_w1.png" | url }}' width="500" height="300"></td>
-<td><img src='{{ "/static/img/events2026/Jan28_w7.png" | url }}' width="500" height="300"></td>
-</tr>   
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/Jan28_w1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
 </table>
 
 ### 13th Workshop on Bioinformatics and Drug Design | BIF-DD-2026 | [See more](../../posts/ACBR_event/)

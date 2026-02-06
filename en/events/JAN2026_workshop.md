@@ -97,4 +97,4 @@ The workshop aims to:
 
 #### [Click Here](https://semanticclimate.github.io/p/en/posts/structuralBio_AI/)
 
-#### Event Pictures | [Click here to see]()
+#### Event Pictures | [Click here to see](https://semanticclimate.github.io/p/en/posts/bioAIJan2026_pics/)
