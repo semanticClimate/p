@@ -156,3 +156,7 @@ Following are the few questions discussed with the panellist.
 - We should develop strategies to build country-wise data accuracy systems.
 
 The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.
+
+### Recordings of the different session from Day 1 (Jan 28, 2026)
+
+#### [Click Here](https://semanticclimate.github.io/p/en/posts/demotutorial/)

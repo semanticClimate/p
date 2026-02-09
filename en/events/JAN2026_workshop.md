@@ -98,3 +98,7 @@ The workshop aims to:
 #### [Click Here](https://semanticclimate.github.io/p/en/posts/structuralBio_AI/)
 
 #### Event Pictures | [Click here to see](https://semanticclimate.github.io/p/en/posts/bioAIJan2026_pics/)
+
+### Recordings of the different session from Day 1 (Jan 28, 2026)
+
+#### [Click Here](https://semanticclimate.github.io/p/en/posts/demotutorial/)
