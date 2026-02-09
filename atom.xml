@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-09T06:22:55Z</updated>
+	<updated>2026-02-09T06:52:52Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -2728,32 +2728,29 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
     &lt;iframe width=&quot;100%&quot; height=&quot;180&quot; src=&quot;https://www.youtube.com/embed/57oUQLf85TI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
     &lt;/iframe&gt;
     &lt;p style=&quot;margin-top: 8px; font-size: 0.95rem;&quot;&gt;
-      &lt;strong&gt;Session 2:&lt;/strong&gt; How AI/ML and Rational Drug Design are Transforming Drug Discovery.
+      &lt;strong&gt;Session 1:&lt;/strong&gt; How AI/ML and Rational Drug Design are Transforming Drug Discovery.
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
     &lt;iframe width=&quot;100%&quot; height=&quot;180&quot; src=&quot;https://www.youtube.com/embed/y-WX6gcXlOI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
     &lt;/iframe&gt;
     &lt;p style=&quot;margin-top: 8px; font-size: 0.95rem;&quot;&gt;
-      &lt;strong&gt;Session 3:&lt;/strong&gt; Fundamentals of Generative AI and Ultra-Large Chemical Space Docking.
+      &lt;strong&gt;Session 2:&lt;/strong&gt; Fundamentals of Generative AI and Ultra-Large Chemical Space Docking.
     &lt;/p&gt;
   &lt;/div&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;FAIR and Reproducible Structural Biology&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20px; margin-bottom: 20px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLtKHReMoCMwnXJCsnICAYXDIK0yGmeNSF&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;
-      font-size: 1.2rem;
-      font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;
-      color: #000000;&quot;&gt;
-      Overview of the workshop objectives and structure. Key concepts, tools, and workflows covered in the sessions.
-    &lt;/h5&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;180&quot; src=&quot;https://www.youtube.com/embed/kWvyBPK4eqo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+    &lt;p style=&quot;margin-top: 8px; font-size: 0.95rem;&quot;&gt;
+      &lt;strong&gt;Session 3:&lt;/strong&gt; How Do We Assess This Work? Beyond Publications and Impact Factors.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;180&quot; src=&quot;https://www.youtube.com/embed/iM5aKy138Co&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+    &lt;/iframe&gt;
+    &lt;p style=&quot;margin-top: 8px; font-size: 0.95rem;&quot;&gt;
+      &lt;strong&gt;Session 3:&lt;/strong&gt; Discussion on research assesment framework.
+    &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
