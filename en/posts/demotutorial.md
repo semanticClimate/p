@@ -115,7 +115,24 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>Session 4:</strong> Accurate Binding Free Energy Predictions and Unbinding Kinetics.
+      <strong>Session 4a:</strong> Accurate Binding Free Energy Predictions and Unbinding Kinetics.
+    </p>
+  </div>
+
+  <!-- Session 4 -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=iM5aKy138Co" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg"
+           alt="Session 4 video"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Session 4b:</strong> Demonstration of the software for Accurate Binding Free Energy Predictions and Unbinding Kinetics.
     </p>
   </div>
 
