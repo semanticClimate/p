@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-09T10:24:07Z</updated>
+	<updated>2026-02-11T10:55:42Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -92,6 +92,27 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;!-- Inaugural Session --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=1k3aUUkMxvg&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/1k3aUUkMxvg/hqdefault.jpg&quot; alt=&quot;Inaugural Session video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Inaugural Session:&lt;/strong&gt; Introduction to FAIR principles and reproducible practices in structural biology.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Session 1 (11:15 AM – 12:00 PM IST)&lt;/h3&gt;
 &lt;h4&gt;How AI/ML and Rational Drug Design are Transforming Drug Discovery&lt;/h4&gt;
 &lt;ul&gt;
@@ -99,6 +120,26 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
 &lt;/ul&gt;
 &lt;p&gt;This session provided an industry-oriented overview of how AI, machine learning, and rational drug design methodologies are reshaping the drug discovery pipeline. Dr. Raghu explained how computational approaches are significantly reducing timelines from target identification to lead optimization while improving prediction accuracy.&lt;/p&gt;
 &lt;p&gt;He has explained about the Gen AI in lead identification and optimization, AI in ADMET, in patent analysis, AI in 100% accurate polymorph prediction etc. The brief overview of the tool ADMET Predictor was also provided to the researchers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+      &lt;a href=&quot;https://www.youtube.com/watch?v=57oUQLf85TI&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+        &lt;img src=&quot;https://img.youtube.com/vi/57oUQLf85TI/hqdefault.jpg&quot; alt=&quot;Session 1 video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+        &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                    background:rgba(0,0,0,0.6); border-radius:50%;
+                    width:48px; height:48px; display:flex;
+                    align-items:center; justify-content:center;
+                    color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+      &lt;/a&gt;
+      &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+        &lt;strong&gt;Session 1:&lt;/strong&gt; How AI/ML and Rational Drug Design are Transforming Drug Discovery.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Session 2 (12:00 PM – 01:00 PM IST)&lt;/h3&gt;
 &lt;h4&gt;Fundamentals of Generative AI and Ultra-Large Chemical Space Docking&lt;/h4&gt;
 &lt;ul&gt;
@@ -113,9 +154,23 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;h3&gt;Session 3 (02:30 PM – 03:30 PM IST)&lt;/h3&gt;
 &lt;h4&gt;How Do We Assess This Work? Beyond Publications and Impact Factors&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Prof. Peter Murray-Rust&lt;/strong&gt; (&lt;em&gt;University of Cambridge&lt;/em&gt;)  delivered a thought-provoking talk on research assessment reform. He argued that conventional metrics such as journal impact factors fail to capture the full value of modern research outputs, especially in data- and software-intensive AI-driven science. He advocated for assessment frameworks that recognize openness, reproducibility, metadata quality, and machine-readable research objects. He talked about the vision of semanticClimate and how it is working to create semantic and frictionless documents.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;This was followed by an interactive audience Q&amp;amp;A session, where participants raised questions on institutional adoption, incentives for open science, and challenges in evaluating non-traditional outputs.&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
@@ -132,6 +187,13 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Mr. Matti Heikkurinen&lt;/strong&gt;, &lt;em&gt;Project Portfolio Manager, CODATA&lt;/em&gt;, discussed ongoing CODATA initiatives aimed at operationalizing responsible research assessment. He highlighted how tools like ORAT can support institutions and funders in implementing fair and transparent evaluation practices.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -157,6 +219,13 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Dr. Anbu Dinesh Jayakumar&lt;/strong&gt; presented 11 case studies and success stories demonstrating practical applications of these methods in drug discovery. The session highlighted how rapid prediction of binding affinity and unbinding kinetics supports informed decision-making and reduces experimental uncertainty. Importantly, the discussion linked these techniques to issues of reproducibility, provenance, and explainability in AI-driven scientific workflows.&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
@@ -165,6 +234,13 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;h3&gt;Session 5 (04:30 PM – 05:30 PM IST)&lt;/h3&gt;
 &lt;h4&gt;Panel Discussion : Reflections for Policy, Data Governance, and ORAT Development&lt;/h4&gt;
 &lt;p&gt;The concluding session was a panel discussion &lt;strong&gt;moderated by Dr. Gitanjali Yadav&lt;/strong&gt; (BRIC-NIPGR), focusing on policy implications, data governance, and the future development of the Open Research Assessment Toolkit (ORAT).&lt;/p&gt;
@@ -177,10 +253,21 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
 &lt;p&gt;The panel reflected on lessons from the workshop, emphasizing the need for internationally harmonized metadata standards, trusted AI workflows, and assessment systems aligned with open science principles. Discussions highlighted the importance of capacity building in the Global South and the role of collaborative, community-driven frameworks in shaping responsible AI-enabled research.&lt;/p&gt;
 &lt;p&gt;Following are the few questions discussed with the panellist.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;How do we think about reproducibility when models, parameters, and compute environments matter as much as datasets? What should be recorded, and what should be assessed?&lt;/li&gt;
-&lt;li&gt;There is a need to expand AI driven research in Academia, especially in tier2, Tier3 educational institutes in India through shared infrastructure and resources ( including Human Resources).&lt;/li&gt;
-&lt;li&gt;We should develop strategies to build country-wise data accuracy systems.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do we think about reproducibility when models, parameters, and compute environments matter as much as datasets? What should be recorded, and what should be assessed?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is a need to expand AI driven research in Academia, especially in tier2, Tier3 educational institutes in India through shared infrastructure and resources ( including Human Resources).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We should develop strategies to build country-wise data accuracy systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Recording&lt;/h3&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.&lt;/p&gt;
 &lt;h3&gt;Recordings of the different session from Day 1 (Jan 28, 2026)&lt;/h3&gt;
 &lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/demotutorial/&quot;&gt;Click Here&lt;/a&gt;&lt;/h4&gt;
@@ -2789,9 +2876,9 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
       &lt;strong&gt;Session 3b:&lt;/strong&gt; Discussion on research assessment framework.
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;!-- Session 4 --&gt;
+  &lt;!-- Session 4a --&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
-    &lt;a href=&quot;https://www.youtube.com/watch?v=iM5aKy138Co&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=DFRvF57f_gA&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
       &lt;img src=&quot;https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg&quot; alt=&quot;Session 4 video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
       &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -2803,10 +2890,10 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
       &lt;strong&gt;Session 4a:&lt;/strong&gt; Accurate Binding Free Energy Predictions and Unbinding Kinetics.
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;!-- Session 4 --&gt;
+  &lt;!-- Session 4b --&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
-    &lt;a href=&quot;https://www.youtube.com/watch?v=iM5aKy138Co&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
-      &lt;img src=&quot;https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg&quot; alt=&quot;Session 4 video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=0PpkdvV9mXU&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/0PpkdvV9mXU/hqdefault.jpg&quot; alt=&quot;Session 4 video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
       &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
                    width:48px; height:48px; display:flex;
@@ -2815,6 +2902,20 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
     &lt;/a&gt;
     &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
       &lt;strong&gt;Session 4b:&lt;/strong&gt; Demonstration of the software for Accurate Binding Free Energy Predictions and Unbinding Kinetics.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session 5 --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=DkBoXcXgFUI&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/DkBoXcXgFUI/hqdefault.jpg&quot; alt=&quot;Session 4 video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Session 5:&lt;/strong&gt; Panel Discussion : Reflections for Policy, Data Governance, and ORAT Development.
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
