@@ -102,9 +102,9 @@ These are the video presentations for software tutorial and the work presented i
     </p>
   </div>
 
-  <!-- Session 4 -->
+  <!-- Session 4a -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=iM5aKy138Co" target="_blank" style="position: relative; display: block;">
+    <a href="https://www.youtube.com/watch?v=DFRvF57f_gA" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg"
            alt="Session 4 video"
            style="width: 100%; height: auto; border-radius: 6px;">
@@ -119,10 +119,10 @@ These are the video presentations for software tutorial and the work presented i
     </p>
   </div>
 
-  <!-- Session 4 -->
+  <!-- Session 4b -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=iM5aKy138Co" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg"
+    <a href="https://www.youtube.com/watch?v=0PpkdvV9mXU" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/0PpkdvV9mXU/hqdefault.jpg"
            alt="Session 4 video"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -133,6 +133,23 @@ These are the video presentations for software tutorial and the work presented i
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
       <strong>Session 4b:</strong> Demonstration of the software for Accurate Binding Free Energy Predictions and Unbinding Kinetics.
+    </p>
+  </div>
+
+  <!-- Session 5 -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=DkBoXcXgFUI" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/DkBoXcXgFUI/hqdefault.jpg"
+           alt="Session 4 video"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Session 5:</strong> Panel Discussion : Reflections for Policy, Data Governance, and ORAT Development.
     </p>
   </div>
 

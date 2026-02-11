@@ -49,6 +49,28 @@ The inaugural session successfully framed the workshop’s interdisciplinary nat
   </tr>
 </table>
 
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+  <!-- Inaugural Session -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=1k3aUUkMxvg" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/1k3aUUkMxvg/hqdefault.jpg"
+           alt="Inaugural Session video"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Inaugural Session:</strong> Introduction to FAIR principles and reproducible practices in structural biology.
+    </p>
+  </div>
+</div>
+
 ### Session 1 (11:15 AM – 12:00 PM IST)
 
 #### How AI/ML and Rational Drug Design are Transforming Drug Discovery
@@ -57,6 +79,26 @@ The inaugural session successfully framed the workshop’s interdisciplinary nat
 This session provided an industry-oriented overview of how AI, machine learning, and rational drug design methodologies are reshaping the drug discovery pipeline. Dr. Raghu explained how computational approaches are significantly reducing timelines from target identification to lead optimization while improving prediction accuracy.
 
 He has explained about the Gen AI in lead identification and optimization, AI in ADMET, in patent analysis, AI in 100% accurate polymorph prediction etc. The brief overview of the tool ADMET Predictor was also provided to the researchers.
+
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+      <a href="https://www.youtube.com/watch?v=57oUQLf85TI" target="_blank" style="position: relative; display: block;">
+        <img src="https://img.youtube.com/vi/57oUQLf85TI/hqdefault.jpg"
+            alt="Session 1 video"
+            style="width: 100%; height: auto; border-radius: 6px;">
+        <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                    background:rgba(0,0,0,0.6); border-radius:50%;
+                    width:48px; height:48px; display:flex;
+                    align-items:center; justify-content:center;
+                    color:#fff; font-size:20px;">▶</span>
+      </a>
+      <p style="margin-top:8px; font-size:0.95rem;">
+        <strong>Session 1:</strong> How AI/ML and Rational Drug Design are Transforming Drug Discovery.
+      </p>
+  </div>
+</div>
 
 ### Session 2 (12:00 PM – 01:00 PM IST)
 
@@ -74,11 +116,23 @@ Session 2 focused on the technical foundations of Generative AI and ultra-large 
   </tr>
 </table>
 
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
+
 ### Session 3 (02:30 PM – 03:30 PM IST)
 
 #### How Do We Assess This Work? Beyond Publications and Impact Factors
 
 **Prof. Peter Murray-Rust** (*University of Cambridge*)  delivered a thought-provoking talk on research assessment reform. He argued that conventional metrics such as journal impact factors fail to capture the full value of modern research outputs, especially in data- and software-intensive AI-driven science. He advocated for assessment frameworks that recognize openness, reproducibility, metadata quality, and machine-readable research objects. He talked about the vision of semanticClimate and how it is working to create semantic and frictionless documents.
+
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
 
 This was followed by an interactive audience Q&A session, where participants raised questions on institutional adoption, incentives for open science, and challenges in evaluating non-traditional outputs.
 
@@ -99,6 +153,13 @@ This was followed by an interactive audience Q&A session, where participants rai
 </table>
 
 **Mr. Matti Heikkurinen**, *Project Portfolio Manager, CODATA*, discussed ongoing CODATA initiatives aimed at operationalizing responsible research assessment. He highlighted how tools like ORAT can support institutions and funders in implementing fair and transparent evaluation practices.
+
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
+
 
 <table>
   <tr>
@@ -126,6 +187,12 @@ This session addressed advanced computational techniques for binding free energy
   </tr>
 </table>
 
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
+
 **Dr. Anbu Dinesh Jayakumar** presented 11 case studies and success stories demonstrating practical applications of these methods in drug discovery. The session highlighted how rapid prediction of binding affinity and unbinding kinetics supports informed decision-making and reduces experimental uncertainty. Importantly, the discussion linked these techniques to issues of reproducibility, provenance, and explainability in AI-driven scientific workflows.
 
 <table>
@@ -135,6 +202,12 @@ This session addressed advanced computational techniques for binding free energy
     </td>
   </tr>
 </table>
+
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
 
 ### Session 5 (04:30 PM – 05:30 PM IST)
 
@@ -154,6 +227,12 @@ Following are the few questions discussed with the panellist.
 - How do we think about reproducibility when models, parameters, and compute environments matter as much as datasets? What should be recorded, and what should be assessed?
 - There is a need to expand AI driven research in Academia, especially in tier2, Tier3 educational institutes in India through shared infrastructure and resources ( including Human Resources).
 - We should develop strategies to build country-wise data accuracy systems.
+
+- ### Recording
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+</div>
 
 The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.
 
