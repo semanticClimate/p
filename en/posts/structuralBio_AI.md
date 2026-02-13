@@ -51,23 +51,10 @@ The inaugural session successfully framed the workshop’s interdisciplinary nat
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
-  <!-- Inaugural Session -->
-  <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=1k3aUUkMxvg" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/1k3aUUkMxvg/hqdefault.jpg"
-           alt="Inaugural Session video"
-           style="width: 100%; height: auto; border-radius: 6px;">
-      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-                   background:rgba(0,0,0,0.6); border-radius:50%;
-                   width:48px; height:48px; display:flex;
-                   align-items:center; justify-content:center;
-                   color:#fff; font-size:20px;">▶</span>
-    </a>
-    <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>Inaugural Session:</strong> Introduction to FAIR principles and reproducible practices in structural biology.
-    </p>
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/1k3aUUkMxvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Inaugural Session: Introduction to FAIR principles and reproducible practices in structural biology.</h5>
   </div>
 </div>
 
@@ -82,21 +69,10 @@ He has explained about the Gen AI in lead identification and optimization, AI in
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 240px; max-width: 300px;">
-      <a href="https://www.youtube.com/watch?v=57oUQLf85TI" target="_blank" style="position: relative; display: block;">
-        <img src="https://img.youtube.com/vi/57oUQLf85TI/hqdefault.jpg"
-            alt="Session 1 video"
-            style="width: 100%; height: auto; border-radius: 6px;">
-        <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
-                    background:rgba(0,0,0,0.6); border-radius:50%;
-                    width:48px; height:48px; display:flex;
-                    align-items:center; justify-content:center;
-                    color:#fff; font-size:20px;">▶</span>
-      </a>
-      <p style="margin-top:8px; font-size:0.95rem;">
-        <strong>Session 1:</strong> How AI/ML and Rational Drug Design are Transforming Drug Discovery.
-      </p>
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/57oUQLf85TI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 1: How AI/ML and Rational Drug Design are Transforming Drug Discovery.</h5>
   </div>
 </div>
 
@@ -118,8 +94,11 @@ Session 2 focused on the technical foundations of Generative AI and ultra-large 
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/y-WX6gcXlOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 2: Fundamentals of Generative AI and Ultra-Large Chemical Space Docking.</h5>
+  </div>
 </div>
 
 ### Session 3 (02:30 PM – 03:30 PM IST)
@@ -130,8 +109,11 @@ Session 2 focused on the technical foundations of Generative AI and ultra-large 
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/kWvyBPK4eqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 3a: How Do We Assess This Work? Beyond Publications and Impact Factors.</h5>
+  </div>
 </div>
 
 This was followed by an interactive audience Q&A session, where participants raised questions on institutional adoption, incentives for open science, and challenges in evaluating non-traditional outputs.
@@ -156,10 +138,12 @@ This was followed by an interactive audience Q&A session, where participants rai
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/iM5aKy138Co" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 3b: Discussion on research assessment framework.</h5>
+  </div>
 </div>
-
 
 <table>
   <tr>
@@ -189,8 +173,11 @@ This session addressed advanced computational techniques for binding free energy
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/DFRvF57f_gA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 4a: Accurate Binding Free Energy Predictions and Unbinding Kinetics.</h5>
+  </div>
 </div>
 
 **Dr. Anbu Dinesh Jayakumar** presented 11 case studies and success stories demonstrating practical applications of these methods in drug discovery. The session highlighted how rapid prediction of binding affinity and unbinding kinetics supports informed decision-making and reduces experimental uncertainty. Importantly, the discussion linked these techniques to issues of reproducibility, provenance, and explainability in AI-driven scientific workflows.
@@ -205,8 +192,11 @@ This session addressed advanced computational techniques for binding free energy
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/0PpkdvV9mXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 4b: Demonstration of the software for Accurate Binding Free Energy Predictions and Unbinding Kinetics.</h5>
+  </div>
 </div>
 
 ### Session 5 (04:30 PM – 05:30 PM IST)
@@ -230,8 +220,11 @@ Following are the few questions discussed with the panellist.
 
 - ### Recording
 
-<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
+  <iframe width="250" height="200" src="https://www.youtube.com/embed/DkBoXcXgFUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div>
+    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;> Session 5: Panel Discussion-Reflections for Policy, Data Governance, and ORAT Development.</h5>
+  </div>
 </div>
 
 The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.
