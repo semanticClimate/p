@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-13T05:21:40Z</updated>
+	<updated>2026-02-17T09:00:53Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -2988,10 +2988,46 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLtKHReMoCMwnhlhN1v8fV8NnaQS426-c8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Research AI Summit 2025&lt;/h5&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;!-- Inaugural Session --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=aPiWz_3aBk8&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/aPiWz_3aBk8/hqdefault.jpg&quot; alt=&quot;Inaugural Session video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Inaugural Session:&lt;/strong&gt; Research AI Summit 2025 at NIPGR, New Delhi.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=dvpdMqZjNxE&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/dvpdMqZjNxE/hqdefault.jpg&quot; alt=&quot;Inaugural Session video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;KEYNOTE TALK:&lt;/strong&gt; Handling the Data Deluge: Introduction to the Indian Biological Data Center.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=KB7w_2xUelU&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/KB7w_2xUelU/hqdefault.jpg&quot; alt=&quot;Inaugural Session video&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;KEYNOTE TALK:&lt;/strong&gt; Data Stewardship in India: Catalyzing Collaboration through CODATA.
+    &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
