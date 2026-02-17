@@ -72,7 +72,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=kWvyBPK4eqo" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/kWvyBPK4eqo/hqdefault.jpg"
-           alt="Session 3 video"
+           alt="Session 3a video"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -89,7 +89,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=iM5aKy138Co" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/iM5aKy138Co/hqdefault.jpg"
-           alt="Session 4 video"
+           alt="Session 3b video"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -106,7 +106,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=DFRvF57f_gA" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/DFRvF57f_gA/hqdefault.jpg"
-           alt="Session 4 video"
+           alt="Session 4a video"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -123,7 +123,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=0PpkdvV9mXU" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/0PpkdvV9mXU/hqdefault.jpg"
-           alt="Session 4 video"
+           alt="Demonstration of the software"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -140,7 +140,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=DkBoXcXgFUI" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/DkBoXcXgFUI/hqdefault.jpg"
-           alt="Session 4 video"
+           alt="Panel Discussion"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -211,7 +211,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=aPiWz_3aBk8" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/aPiWz_3aBk8/hqdefault.jpg"
-           alt="Inaugural Session video"
+           alt="Inaugural Session"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -227,7 +227,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=dvpdMqZjNxE" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/dvpdMqZjNxE/hqdefault.jpg"
-           alt="Inaugural Session video"
+           alt="Introduction to the Indian Biological Data Center"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -243,7 +243,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=KB7w_2xUelU" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/KB7w_2xUelU/hqdefault.jpg"
-           alt="Inaugural Session video"
+           alt="Data Stewardship in India"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -256,6 +256,197 @@ These are the video presentations for software tutorial and the work presented i
     </p>
   </div>
 
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=3wQMYdUmJ40" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/3wQMYdUmJ40/hqdefault.jpg"
+           alt="Genesis of an Indian Forum For Research Assessment"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK:</strong> Genesis of an Indian Forum For Research Assessment.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=MVt447_021I" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/MVt447_021I/hqdefault.jpg"
+           alt="Panel discussion"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Panel Discussion:</strong> Diverse Datasets in India.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=mE-jurTWRpk" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/mE-jurTWRpk/hqdefault.jpg"
+           alt="Talk on Research Assessment"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Keynote Address </strong>on Research Assessment.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=wEIcRrAOya0" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/wEIcRrAOya0/hqdefault.jpg"
+           alt="Research Assessment"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK: </strong>RESEARCH ASSESSMENT IN THE AGE OF AI.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=3qgWgYpOgGQ" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/3qgWgYpOgGQ/hqdefault.jpg"
+           alt="Wikipedia for Climate"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK: </strong>Visualising Wikipedia for Climate.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=Nsp486xGxro" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/Nsp486xGxro/hqdefault.jpg"
+           alt="India Research Assessments Forum"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK: </strong>Addressing the need for India Research Assessments Forum (IRAF).
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=GCauB-ke1T0" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/GCauB-ke1T0/hqdefault.jpg"
+           alt="Talk on research assessment"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK: </strong>Transforming Research Assessment Reforming Practices for Science and the University.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=tMDn-w32x-Y" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/tMDn-w32x-Y/hqdefault.jpg"
+           alt="Session 1 Panel Discussion"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Session 1 Panel Discussion: </strong>Navigating the challenges of digital transformation.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=6lQL6PQ9FP4" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/6lQL6PQ9FP4/hqdefault.jpg"
+           alt="Introduction to semantic tools"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>TALK: </strong>Introduction of #semanticClimate Tools for Automated Literature Retrieval.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=ICAKvmHYomM" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/ICAKvmHYomM/hqdefault.jpg"
+           alt="NER workflow"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Demonstration: </strong>Entity extraction framework from the scholarly literature.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=co8Zy0ZPgDE" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/co8Zy0ZPgDE/hqdefault.jpg"
+           alt="Summarization of PDF content"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Demonstration: </strong>Summarization of PDF content.
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=qDUKlYduH_Q" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/qDUKlYduH_Q/hqdefault.jpg"
+           alt="Summarization of PDF content"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>VALEDICTORY SESSION: </strong>Keynote talk.
+    </p>
+  </div>
 
 </div>
 
