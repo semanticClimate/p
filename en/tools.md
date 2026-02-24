@@ -16,6 +16,134 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
   
 - **pip** : `pip` is the package installer for Python. Verify that pip is installed by running: `pip --version` 
 
+<style>
+.tools-section {
+  max-width: 1100px;
+  margin: 60px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.tools-section h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #0a4d68;
+}
+
+.tools-section p.section-subtitle {
+  color: #666;
+  margin-bottom: 40px;
+}
+
+/* GRID: EXACTLY 3 PER ROW */
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 30px;
+}
+
+/* CLICKABLE CARD STYLE */
+.tool-item {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: 25px;
+  border-radius: 14px;
+  transition: all 0.25s ease;
+  background: #ffffff;
+}
+
+.tool-item:hover {
+  background: #f4f9f8;
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.tool-item img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+.tool-item h3 {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  color: #0a4d68;
+}
+
+.tool-item p {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* RESPONSIVE */
+@media (max-width: 992px) {
+  .tools-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .tools-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<section class="tools-section">
+
+<h2>semanticClimate Tools</h2>
+<p class="section-subtitle">
+Tools developed by semanticClimate for literature mining, data extraction, and knowledge graph building.
+</p>
+
+<div class="tools-grid">
+
+  <a href="/tools/amilib_T1/" class="tool-item">
+    <img src="/assets/images/amilib.png" alt="amilib">
+    <h3>amilib</h3>
+    <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.)..</p>
+  </a>
+
+  <a href="/tools/pygetpapers_T2/" class="tool-item">
+    <img src="/assets/images/pygetpapersP1.png" alt="pygetpapers">
+    <h3>pygetpapers</h3>
+    <p>Tool to search and download scientific research articles from open access repository.</p>
+  </a>
+
+  <a href="/tools/docanalysis_T3/" class="tool-item">
+    <img src="/assets/images/docanaP1.png" alt="docanalysis">
+    <h3>docanalysis</h3>
+    <p>It is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
+  </a>
+
+  <a href="/tools/txt2phrases_T4/" class="tool-item">
+    <img src="/assets/images/tool4.png" alt="ClimateNER">
+    <h3>txt2phrases</h3>
+    <p>Python library for converting documents (HTML, PDF) into plain text, extracting keywords.</p>
+  </a>
+
+  <a href="/tools/encyclopedia_T5/" class="tool-item">
+    <img src="/assets/images/tool5.png" alt="GeoClimate">
+    <h3>encyclopedia</h3>
+    <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>
+  </a>
+
+  <a href="/tools/semantic_corpus/" class="tool-item">
+    <img src="/assets/images/tool6.png" alt="KnowledgeGraph Builder">
+    <h3>semantic_corpus</h3>
+    <p>Python tool designed for researchers to create and manage personal scientific corpora.</p>
+  </a>
+
+</div>
+
+</section>
+
+
+
 ### ```amilib```
 
 **Release Category**: `Beta`
