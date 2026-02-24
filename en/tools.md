@@ -28,7 +28,7 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
 .tools-section h2 {
   font-size: 2.2rem;
   margin-bottom: 10px;
-  color: #07232f;
+  color: #701782;
 }
 
 .tools-section p.section-subtitle {
@@ -51,11 +51,11 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
   padding: 25px;
   border-radius: 14px;
   transition: all 0.25s ease;
-  background: #c5e0e5;
+  background: #bdeef8;
 }
 
 .tool-item:hover {
-  background: #e9f5c1;
+  background: #f0f5de;
   transform: translateY(-6px);
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
 }
@@ -70,12 +70,12 @@ The **#semanticClimate tools** provides an innovative approach to manage climate
 .tool-item h3 {
   font-size: 1.8rem;
   margin-bottom: 8px;
-  color: #240723;
+  color: #4b1649;
 }
 
 .tool-item p {
-  font-size: 0.9rem;
-  color: #555;
+  font-size: 1.0rem;
+  color: #000000;
   line-height: 1.5;
 }
 
