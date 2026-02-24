@@ -1007,6 +1007,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/posts/amilib_description/</loc>
+    <lastmod>2026-02-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/docs/</loc>
     <lastmod>2026-02-24</lastmod>
   </url>
@@ -1062,16 +1067,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
-    <lastmod>2026-02-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
-    <lastmod>2026-02-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
     <lastmod>2026-02-24</lastmod>
   </url>
@@ -1088,6 +1083,16 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
+    <lastmod>2026-02-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/introduction/</loc>
+    <lastmod>2026-02-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
     <lastmod>2026-02-24</lastmod>
   </url>
   

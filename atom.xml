@@ -5,12 +5,20 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-24T06:51:12Z</updated>
+	<updated>2026-02-24T09:02:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="/p/en/posts/amilib_description/"/>
+		<updated>2026-02-24T09:02:07Z</updated>
+		<id>/p/en/posts/amilib_description/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>FAIR and Reproducible Structural Biology</title>
