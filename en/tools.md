@@ -102,20 +102,20 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
 
 <div class="tools-grid">
 
-  <a href="/posts/amilib_description/" class="tool-item">
-    <img src="/assets/images/amilib.png" alt="amilib">
+  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+    <img src="{{ '/static/img/events2026/amilib.png' | url }}" alt="amilib">
     <h3>amilib</h3>
-    <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.)..</p>
+    <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
   </a>
 
-  <a href="/tools/pygetpapers_T2/" class="tool-item">
-    <img src="../static/img/events2026/pyget_logo.png" alt="pygetpapers">
+  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+    <img src="{{ '/static/img/events2026/pyget_logo.png' | url }}" alt="pygetpapers">
     <h3>pygetpapers</h3>
     <p>Tool to search and download scientific research articles from open access repository.</p>
   </a>
 
-  <a href="/tools/docanalysis_T3/" class="tool-item">
-    <img src="../static/img/events2026/docana_p1.png" alt="docanalysis">
+  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+    <img src="{{ '/static/img/events2026/docana_p1.png' | url }}" alt="docanalysis">
     <h3>docanalysis</h3>
     <p>It is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
   </a>
