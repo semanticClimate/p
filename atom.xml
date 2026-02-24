@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-24T09:15:55Z</updated>
+	<updated>2026-02-24T09:29:23Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,11 +13,42 @@
 	</author>
 	
 	<entry>
-		<title></title>
+		<title>Overview of semanticClimate tool amilib</title>
 		<link href="/p/en/posts/amilib_description/"/>
-		<updated>2026-02-24T09:15:39Z</updated>
+		<updated>2026-02-24T00:00:00Z</updated>
 		<id>/p/en/posts/amilib_description/</id>
-		<content type="html"></content>
+		<content type="html">&lt;h3&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Beta&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Peter Murray-Rust&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).&lt;/p&gt;
+&lt;p&gt;It is a Python library designed for document processing, and dictionary creation.&lt;/p&gt;
+&lt;p&gt;We can create dictionaries using &lt;code&gt;amilib&lt;/code&gt; from existing set of words.
+The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install amilib&lt;/code&gt; to install latest amilib version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;../posts/ami_install/&quot;&gt;Installation Guide&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi?usp=sharing&quot;&gt;Creating Wikimedia enhanced dictionary with amilib from wordlist&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ami_tutorial/&quot;&gt;CLICK HERE for more tutorials&lt;/a&gt;&lt;/h4&gt;
+</content>
 	</entry>
 	
 	<entry>
