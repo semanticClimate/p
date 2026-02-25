@@ -111,7 +111,7 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
   <a href="{{ '/en/posts/pygetpapers_T2/' | url }}" class="tool-item">
     <img src="{{ '/static/img/events2026/pyget_logo.png' | url }}" alt="pygetpapers">
     <h3>pygetpapers</h3>
-    <p>Tool to search and download scientific research articles from open access repository.</p>
+    <p>Tool to search and download scientific research articles from open access repositories.</p>
   </a>
 
   <a href="{{ '/en/posts/docanalysis_T3/' | url }}" class="tool-item">
@@ -120,13 +120,13 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
     <p>It is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
   </a>
 
-  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+  <a href="{{ '/en/posts/txt2phrases_T4/' | url }}" class="tool-item">
     <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="txt2phrases">
     <h3>txt2phrases</h3>
     <p>Python library for converting documents (HTML, PDF) into plain text, extracting keywords.</p>
   </a>
 
-  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+  <a href="{{ '/en/posts/climate_encyclopedia/' | url }}" class="tool-item">
     <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="encyclopedia">
     <h3>encyclopedia</h3>
     <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>

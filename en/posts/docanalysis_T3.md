@@ -23,7 +23,33 @@ It can:
    
 It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.
 
-- **Installation** - Use the code `pip install docanalysis` to install **`docanalysis`**
+**Primary functionality:**
+
+- **--run_pygetpapers:** Download papers from Europe PMC into a CProject (creates CTree per article with `fulltext.xml`, `eupmc_result.json`).
+- **--make_section:** Section articles from `fulltext.xml` (JATS) into `sections/` directory trees.
+- Entity extraction (spaCy/scispaCy): entities (e.g. ORG, PERSON) from sections.
+- Dictionary search over sections; output CSV/HTML/JSON.
+- **--make_ami_dict:** Build AMI dictionary from extracted entities.
+- **--extract_abb:** Abbreviation/expansion extraction → AMI dictionary.
+- **--search_html:** Search HTML documents (e.g. IPCC).
+
+**Primary inputs:**
+
+- CProject directory (from pygetpapers or pre-existing) containing CTrees with `fulltext.xml` (and optionally `eupmc_result.json`).
+- Dictionary file/URL for annotation or supervised extraction.
+- Flags: section names, entity types, spacy model, output paths.
+
+**Primary outputs:**
+
+- CProject with added `sections/` per CTree (sectioned XML).
+- CSV/HTML/JSON of sentences/terms/entities.
+- AMI dictionary XML (entities, abbreviations).
+
+**Main file types for transfer:** `.xml` (fulltext, sectioned), `.json` (eupmc_result), `.csv`, `.html`, `.json` (output), AMI `.xml` dictionaries.
+
+### Installation
+
+- Use the code `pip install docanalysis` to install **`docanalysis`**
 
 Check the successful installation with command : `docanalysis --help`. You should see a help message come up.
 
@@ -31,7 +57,7 @@ Check the successful installation with command : `docanalysis --help`. You shoul
 
 - **README file of ```docanalysis ```** : [docanalysis/README.md](https://github.com/petermr/docanalysis/blob/main/README.md)
 
-- **Tutorials (Jupyter Notebook/ Colab Notebook)** 
+### Tutorials (Jupyter Notebook/ Colab Notebook)
   
   - [google colab notebook](https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing)
   

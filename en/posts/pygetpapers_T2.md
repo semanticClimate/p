@@ -13,7 +13,7 @@ tags:
 
 **Developed By:** Ayush Garg
 
-```pygetpapers``` is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
+```pygetpapers``` is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
 It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.
 
@@ -21,7 +21,23 @@ It comes with the packages pygetpapers and download tools which provide various 
 
 We use ```pygetpapers``` for querying current and past scholarly literature in bulk.
 
-- **Installation** - Use the code `pip install pygetpapers` to install **`pygetpapers`**
+**Primary functionality:**
+- Query and download from Europe PMC, bioRxiv, medRxiv, Crossref, OpenAlex, Redalyc, SciELO, Upspace.
+- Output: timestamped directories under `~/pygetpapers/` (or custom path) with per-article folders.
+- Optional: XML fulltext, PDF, HTML; CSV of results; DataTables HTML + JSON for interactive browsing.
+
+**Primary inputs:**
+- Query string, API/repository choice, limit, date ranges, flags (e.g. `--xml`, `--pdf`, `--makecsv`, `--datatables`).
+
+**Primary outputs:**
+- **Directories:** `{output_root}/{repo}_{timestamp}/` with `{paper_id}/` subdirs.
+- **Files:** `fulltext.xml`, `fulltext.pdf`, `fulltext.html`, `fulltext.pdf.html` (when requested); `eupmc_result.json` / `*_result.json` per article; `eupmc_results.json` (or repo-specific) at project level; `*_papers_data.json` for DataTables; `datatables.html`; CSV when `--makecsv`.
+
+**Main file types for transfer:** `.xml`, `.pdf`, `.html`, `.json`, `.csv`.
+
+### Installation
+
+- Use the code `pip install pygetpapers` to install **`pygetpapers`**
 
 Check the successful installation with command : `pygetpapers --help`. You should see a help message come up.
 
@@ -29,7 +45,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 - **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
 
-- **Tutorials (Jupyter Notebook/ Colab Notebook and video demo)**
+### Tutorials (Jupyter Notebook/ Colab Notebook and video demo)
 
   - [descriptive demo of the literature search with pygetpapers](https://youtu.be/cOW_NTeqErk)
 
