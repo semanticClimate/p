@@ -95,7 +95,7 @@
   <h1>Introduction about semanticClimate tools</h1>
   
 
-  <p>The <strong>#semanticClimate tools</strong> provides an innovative approach to manage climate data efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and data.</p>
+  <p>The <strong>#semanticClimate tools</strong> provides an innovative approach to manage scholarly publications efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and scientific literatures.</p>
 <p><strong>Requirements for Installing Tools with <code>pip</code></strong> :</p>
 <ul>
 <li>
@@ -150,8 +150,8 @@
 }
 
 .tool-item img {
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   margin-bottom: 15px;
 }
@@ -192,52 +192,33 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
     <h3>amilib</h3>
     <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
   </a>
-  <a href="/p/en/posts/amilib_description/" class="tool-item">
+  <a href="/p/en/posts/pygetpapers_T2/" class="tool-item">
     <img src="/p/static/img/events2026/pyget_logo.png" alt="pygetpapers">
     <h3>pygetpapers</h3>
     <p>Tool to search and download scientific research articles from open access repository.</p>
   </a>
-  <a href="/p/en/posts/amilib_description/" class="tool-item">
+  <a href="/p/en/posts/docanalysis_T3/" class="tool-item">
     <img src="/p/static/img/events2026/docana_p1.png" alt="docanalysis">
     <h3>docanalysis</h3>
     <p>It is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
   </a>
-  <a href="/tools/txt2phrases_T4/" class="tool-item">
-    <img src="../static/img/events2026/keyph_p1.png" alt="txt2phrases">
+  <a href="/p/en/posts/amilib_description/" class="tool-item">
+    <img src="/p/static/img/events2026/keyph_p1.png" alt="txt2phrases">
     <h3>txt2phrases</h3>
     <p>Python library for converting documents (HTML, PDF) into plain text, extracting keywords.</p>
   </a>
-  <a href="/tools/encyclopedia_T5/" class="tool-item">
-    <img src="/assets/images/tool5.png" alt="encyclopedia">
+  <a href="/p/en/posts/amilib_description/" class="tool-item">
+    <img src="/p/static/img/events2026/keyph_p1.png" alt="encyclopedia">
     <h3>encyclopedia</h3>
     <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>
   </a>
-  <a href="/tools/semantic_corpus/" class="tool-item">
-    <img src="/assets/images/tool6.png" alt="semantic_corpus">
+  <a href="/p/en/posts/amilib_description/" class="tool-item">
+    <img src="/p/static/img/events2026/keyph_p1.png" alt="semantic_corpus">
     <h3>semantic_corpus</h3>
     <p>Python tool designed for researchers to create and manage personal scientific corpora.</p>
   </a>
 </div>
 </section>
-<h3><code>amiclimate</code></h3>
-<p><strong>Release Category</strong>: <code>Alpha</code></p>
-<p><strong>Developed By:</strong> Peter Murray-Rust</p>
-<p><code>amiclimate</code> is a NLP and semantic software and material for managing climate knowledge.</p>
-<p>It is a Python code for accessing and transforming key climate documents. A refactoring of the (bloated) <code>pyamihtml</code> repository and has the functionality for downloading and parsing</p>
-<ol>
-<li>IPCC reports</li>
-<li>IPCC glossary</li>
-<li>UNFCCC reports (COP, etc.)</li>
-</ol>
-<p>This repository will NOT have the complete IPCC or UNFCCC corpus , but will have small exemplars.</p>
-<ul>
-<li>
-<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/amiclimate">github</a></p>
-</li>
-<li>
-<p><strong>README file for <code>amiclimate</code></strong> : <a href="https://github.com/petermr/amiclimate/blob/main/README.md">amiclimate/README.md</a></p>
-</li>
-</ul>
 <h3><code>pyamiimage</code></h3>
 <p><strong>Release Category</strong>: <code>Alpha</code></p>
 <p><strong>Developed By:</strong> Peter Murray-Rust</p>
@@ -252,73 +233,6 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
 </li>
 <li>
 <p><strong>README file of <code>pyamiimage</code></strong> : <a href="https://github.com/petermr/pyamiimage/blob/main/README.md">pyamiimage/README.md</a></p>
-</li>
-</ul>
-<h3><code>pygetpapers</code></h3>
-<p><strong>Release Category</strong>: <code>Production</code></p>
-<p><strong>Developed By:</strong> Ayush Garg</p>
-<p><code>pygetpapers</code> is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.</p>
-<p>It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.</p>
-<p>It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.</p>
-<p>We use <code>pygetpapers</code> for querying current and past scholarly literature in bulk.</p>
-<ul>
-<li><strong>Installation</strong> - Use the code <code>pip install pygetpapers</code> to install <strong><code>pygetpapers</code></strong></li>
-</ul>
-<p>Check the successful installation with command : <code>pygetpapers --help</code>. You should see a help message come up.</p>
-<ul>
-<li>
-<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/pygetpapers">github</a></p>
-</li>
-<li>
-<p><strong>README file of <code>pygetpapers</code></strong> : <a href="https://github.com/petermr/pygetpapers/blob/main/README.md">pygetpapers/README.md</a></p>
-</li>
-<li>
-<p><strong>Tutorials (Jupyter Notebook/ Colab Notebook and video demo)</strong></p>
-<ul>
-<li>
-<p><a href="https://youtu.be/cOW_NTeqErk">descriptive demo of the literature search with pygetpapers</a></p>
-</li>
-<li>
-<p><a href="https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing">literature search: Google colab notebook</a></p>
-</li>
-<li>
-<p><a href="https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing">Creating JQuery Datatables from the retrieved articles</a></p>
-</li>
-</ul>
-</li>
-</ul>
-<h3><code>docanalysis</code></h3>
-<p><strong>Release Category</strong>: <code>Production</code></p>
-<p><strong>Developed By:</strong> Shweata N. Hegde</p>
-<p><strong><code>docanalysis</code></strong> is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
-<p>It can:</p>
-<ol>
-<li>Divide documents into sections</li>
-<li>Perform text mining and natural language processing (NLP)</li>
-<li>Generate dictionaries of terms</li>
-</ol>
-<p>It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.</p>
-<ul>
-<li><strong>Installation</strong> - Use the code <code>pip install docanalysis</code> to install <strong><code>docanalysis</code></strong></li>
-</ul>
-<p>Check the successful installation with command : <code>docanalysis --help</code>. You should see a help message come up.</p>
-<ul>
-<li>
-<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/docanalysis">github</a></p>
-</li>
-<li>
-<p><strong>README file of <code>docanalysis </code></strong> : <a href="https://github.com/petermr/docanalysis/blob/main/README.md">docanalysis/README.md</a></p>
-</li>
-<li>
-<p><strong>Tutorials (Jupyter Notebook/ Colab Notebook)</strong></p>
-<ul>
-<li>
-<p><a href="https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing">google colab notebook</a></p>
-</li>
-<li>
-<p><a href="https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv">Search for specific terms using dictionaries</a></p>
-</li>
-</ul>
 </li>
 </ul>
 

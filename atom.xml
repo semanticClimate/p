@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-24T11:18:00Z</updated>
+	<updated>2026-02-25T05:09:23Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,11 +13,94 @@
 	</author>
 	
 	<entry>
+		<title>pygetpapers | Automated Retrieval of Open Access Scientific Literature</title>
+		<link href="/p/en/posts/pygetpapers_T2/"/>
+		<updated>2026-02-25T00:00:00Z</updated>
+		<id>/p/en/posts/pygetpapers_T2/</id>
+		<content type="html">&lt;h2&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt; is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
+&lt;p&gt;It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.&lt;/p&gt;
+&lt;p&gt;It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.&lt;/p&gt;
+&lt;p&gt;We use &lt;code&gt;pygetpapers&lt;/code&gt; for querying current and past scholarly literature in bulk.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check the successful installation with command : &lt;code&gt;pygetpapers --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;README file of &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/pygetpapers/blob/main/README.md&quot;&gt;pygetpapers/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook and video demo)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;descriptive demo of the literature search with pygetpapers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1-vM3BKV7NjvFXAdLGuqyNMh4VhPq6uMa?usp=sharing&quot;&gt;literature search: Google colab notebook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>docanalysis | Corpus Sectioning, Entity extraction and Text Mining</title>
+		<link href="/p/en/posts/docanalysis_T3/"/>
+		<updated>2026-02-25T00:00:00Z</updated>
+		<id>/p/en/posts/docanalysis_T3/</id>
+		<content type="html">&lt;h2&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Shweata N. Hegde and Peter Murray-Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt; is a command-line tool that processes document collections (CProjects) and performs text analysis.&lt;/p&gt;
+&lt;p&gt;It can:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Divide documents into sections&lt;/li&gt;
+&lt;li&gt;Perform text mining and natural language processing (NLP)&lt;/li&gt;
+&lt;li&gt;Generate dictionaries of terms&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check the successful installation with command : &lt;code&gt;docanalysis --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;README file of &lt;code&gt;docanalysis &lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/docanalysis/blob/main/README.md&quot;&gt;docanalysis/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;google colab notebook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv&quot;&gt;Search for specific terms using dictionaries&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Overview of semanticClimate tool amilib</title>
 		<link href="/p/en/posts/amilib_description/"/>
 		<updated>2026-02-24T00:00:00Z</updated>
 		<id>/p/en/posts/amilib_description/</id>
-		<content type="html">&lt;h3&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/h3&gt;
+		<content type="html">&lt;h2&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Beta&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Peter Murray-Rust&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).&lt;/p&gt;
