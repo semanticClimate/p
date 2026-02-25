@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-25T05:09:23Z</updated>
+	<updated>2026-02-25T05:21:40Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -17,8 +17,7 @@
 		<link href="/p/en/posts/pygetpapers_T2/"/>
 		<updated>2026-02-25T00:00:00Z</updated>
 		<id>/p/en/posts/pygetpapers_T2/</id>
-		<content type="html">&lt;h2&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt; is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
 &lt;p&gt;It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.&lt;/p&gt;
@@ -58,8 +57,7 @@
 		<link href="/p/en/posts/docanalysis_T3/"/>
 		<updated>2026-02-25T00:00:00Z</updated>
 		<id>/p/en/posts/docanalysis_T3/</id>
-		<content type="html">&lt;h2&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Shweata N. Hegde and Peter Murray-Rust&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt; is a command-line tool that processes document collections (CProjects) and performs text analysis.&lt;/p&gt;
 &lt;p&gt;It can:&lt;/p&gt;
@@ -100,8 +98,7 @@
 		<link href="/p/en/posts/amilib_description/"/>
 		<updated>2026-02-24T00:00:00Z</updated>
 		<id>/p/en/posts/amilib_description/</id>
-		<content type="html">&lt;h2&gt;&lt;code&gt;amilib&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Beta&lt;/code&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Beta&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Peter Murray-Rust&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;amilib&lt;/code&gt; has tools for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).&lt;/p&gt;
 &lt;p&gt;It is a Python library designed for document processing, and dictionary creation.&lt;/p&gt;
