@@ -9,8 +9,6 @@ tags:
   - hackathon
 ---
 
-## ```pygetpapers```
-
 **Release Category**: `Production`
 
 **Developed By:** Ayush Garg

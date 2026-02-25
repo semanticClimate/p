@@ -9,9 +9,6 @@ tags:
   - hackathon
 ---
 
-
-## ```amilib```
-
 **Release Category**: `Beta`
 
 **Developed By:** Peter Murray-Rust

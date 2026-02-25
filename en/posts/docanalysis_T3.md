@@ -9,8 +9,6 @@ tags:
   - hackathon
 ---
 
-## ```docanalysis```
-
 **Release Category**: `Production`
 
 **Developed By:** Shweata N. Hegde and Peter Murray-Rust
