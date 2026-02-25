@@ -61,8 +61,8 @@ The **#semanticClimate tools** provides an innovative approach to manage scholar
 }
 
 .tool-item img {
-  width: 90px;
-  height: 90px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   margin-bottom: 15px;
 }
