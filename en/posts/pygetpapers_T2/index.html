@@ -106,12 +106,29 @@
 
   <p><strong>Release Category</strong>: <code>Production</code></p>
 <p><strong>Developed By:</strong> Ayush Garg</p>
-<p><code>pygetpapers</code> is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.</p>
+<p><code>pygetpapers</code> is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.</p>
 <p>It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.</p>
 <p>It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.</p>
 <p>We use <code>pygetpapers</code> for querying current and past scholarly literature in bulk.</p>
+<p><strong>Primary functionality:</strong></p>
 <ul>
-<li><strong>Installation</strong> - Use the code <code>pip install pygetpapers</code> to install <strong><code>pygetpapers</code></strong></li>
+<li>Query and download from Europe PMC, bioRxiv, medRxiv, Crossref, OpenAlex, Redalyc, SciELO, Upspace.</li>
+<li>Output: timestamped directories under <code>~/pygetpapers/</code> (or custom path) with per-article folders.</li>
+<li>Optional: XML fulltext, PDF, HTML; CSV of results; DataTables HTML + JSON for interactive browsing.</li>
+</ul>
+<p><strong>Primary inputs:</strong></p>
+<ul>
+<li>Query string, API/repository choice, limit, date ranges, flags (e.g. <code>--xml</code>, <code>--pdf</code>, <code>--makecsv</code>, <code>--datatables</code>).</li>
+</ul>
+<p><strong>Primary outputs:</strong></p>
+<ul>
+<li><strong>Directories:</strong> <code>{output_root}/{repo}_{timestamp}/</code> with <code>{paper_id}/</code> subdirs.</li>
+<li><strong>Files:</strong> <code>fulltext.xml</code>, <code>fulltext.pdf</code>, <code>fulltext.html</code>, <code>fulltext.pdf.html</code> (when requested); <code>eupmc_result.json</code> / <code>*_result.json</code> per article; <code>eupmc_results.json</code> (or repo-specific) at project level; <code>*_papers_data.json</code> for DataTables; <code>datatables.html</code>; CSV when <code>--makecsv</code>.</li>
+</ul>
+<p><strong>Main file types for transfer:</strong> <code>.xml</code>, <code>.pdf</code>, <code>.html</code>, <code>.json</code>, <code>.csv</code>.</p>
+<h3>Installation</h3>
+<ul>
+<li>Use the code <code>pip install pygetpapers</code> to install <strong><code>pygetpapers</code></strong></li>
 </ul>
 <p>Check the successful installation with command : <code>pygetpapers --help</code>. You should see a help message come up.</p>
 <ul>
@@ -121,8 +138,8 @@
 <li>
 <p><strong>README file of <code>pygetpapers</code></strong> : <a href="https://github.com/petermr/pygetpapers/blob/main/README.md">pygetpapers/README.md</a></p>
 </li>
-<li>
-<p><strong>Tutorials (Jupyter Notebook/ Colab Notebook and video demo)</strong></p>
+</ul>
+<h3>Tutorials (Jupyter Notebook/ Colab Notebook and video demo)</h3>
 <ul>
 <li>
 <p><a href="https://youtu.be/cOW_NTeqErk">descriptive demo of the literature search with pygetpapers</a></p>
@@ -132,8 +149,6 @@
 </li>
 <li>
 <p><a href="https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing">Creating JQuery Datatables from the retrieved articles</a></p>
-</li>
-</ul>
 </li>
 </ul>
 

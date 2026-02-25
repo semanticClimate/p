@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-25T06:02:33Z</updated>
+	<updated>2026-02-25T07:14:49Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -14,17 +14,42 @@
 	
 	<entry>
 		<title>pygetpapers | Automated Retrieval of Open Access Scientific Literature</title>
+		<link href="/p/en/posts/txt2phrases_T4/"/>
+		<updated>2026-02-25T00:00:00Z</updated>
+		<id>/p/en/posts/txt2phrases_T4/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>pygetpapers | Automated Retrieval of Open Access Scientific Literature</title>
 		<link href="/p/en/posts/pygetpapers_T2/"/>
 		<updated>2026-02-25T00:00:00Z</updated>
 		<id>/p/en/posts/pygetpapers_T2/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt; is a tool to assist text miners. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt; is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
 &lt;p&gt;It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.&lt;/p&gt;
 &lt;p&gt;It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.&lt;/p&gt;
 &lt;p&gt;We use &lt;code&gt;pygetpapers&lt;/code&gt; for querying current and past scholarly literature in bulk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Query and download from Europe PMC, bioRxiv, medRxiv, Crossref, OpenAlex, Redalyc, SciELO, Upspace.&lt;/li&gt;
+&lt;li&gt;Output: timestamped directories under &lt;code&gt;~/pygetpapers/&lt;/code&gt; (or custom path) with per-article folders.&lt;/li&gt;
+&lt;li&gt;Optional: XML fulltext, PDF, HTML; CSV of results; DataTables HTML + JSON for interactive browsing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Query string, API/repository choice, limit, date ranges, flags (e.g. &lt;code&gt;--xml&lt;/code&gt;, &lt;code&gt;--pdf&lt;/code&gt;, &lt;code&gt;--makecsv&lt;/code&gt;, &lt;code&gt;--datatables&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Directories:&lt;/strong&gt; &lt;code&gt;{output_root}/{repo}_{timestamp}/&lt;/code&gt; with &lt;code&gt;{paper_id}/&lt;/code&gt; subdirs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Files:&lt;/strong&gt; &lt;code&gt;fulltext.xml&lt;/code&gt;, &lt;code&gt;fulltext.pdf&lt;/code&gt;, &lt;code&gt;fulltext.html&lt;/code&gt;, &lt;code&gt;fulltext.pdf.html&lt;/code&gt; (when requested); &lt;code&gt;eupmc_result.json&lt;/code&gt; / &lt;code&gt;*_result.json&lt;/code&gt; per article; &lt;code&gt;eupmc_results.json&lt;/code&gt; (or repo-specific) at project level; &lt;code&gt;*_papers_data.json&lt;/code&gt; for DataTables; &lt;code&gt;datatables.html&lt;/code&gt;; CSV when &lt;code&gt;--makecsv&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.xml&lt;/code&gt;, &lt;code&gt;.pdf&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, &lt;code&gt;.json&lt;/code&gt;, &lt;code&gt;.csv&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use the code &lt;code&gt;pip install pygetpapers&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;pygetpapers --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;ul&gt;
@@ -34,8 +59,8 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;README file of &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/pygetpapers/blob/main/README.md&quot;&gt;pygetpapers/README.md&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook and video demo)&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tutorials (Jupyter Notebook/ Colab Notebook and video demo)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/cOW_NTeqErk&quot;&gt;descriptive demo of the literature search with pygetpapers&lt;/a&gt;&lt;/p&gt;
@@ -45,8 +70,6 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -67,8 +90,32 @@
 &lt;li&gt;Generate dictionaries of terms&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;--run_pygetpapers:&lt;/strong&gt; Download papers from Europe PMC into a CProject (creates CTree per article with &lt;code&gt;fulltext.xml&lt;/code&gt;, &lt;code&gt;eupmc_result.json&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;--make_section:&lt;/strong&gt; Section articles from &lt;code&gt;fulltext.xml&lt;/code&gt; (JATS) into &lt;code&gt;sections/&lt;/code&gt; directory trees.&lt;/li&gt;
+&lt;li&gt;Entity extraction (spaCy/scispaCy): entities (e.g. ORG, PERSON) from sections.&lt;/li&gt;
+&lt;li&gt;Dictionary search over sections; output CSV/HTML/JSON.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;--make_ami_dict:&lt;/strong&gt; Build AMI dictionary from extracted entities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;--extract_abb:&lt;/strong&gt; Abbreviation/expansion extraction → AMI dictionary.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;--search_html:&lt;/strong&gt; Search HTML documents (e.g. IPCC).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CProject directory (from pygetpapers or pre-existing) containing CTrees with &lt;code&gt;fulltext.xml&lt;/code&gt; (and optionally &lt;code&gt;eupmc_result.json&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;Dictionary file/URL for annotation or supervised extraction.&lt;/li&gt;
+&lt;li&gt;Flags: section names, entity types, spacy model, output paths.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CProject with added &lt;code&gt;sections/&lt;/code&gt; per CTree (sectioned XML).&lt;/li&gt;
+&lt;li&gt;CSV/HTML/JSON of sentences/terms/entities.&lt;/li&gt;
+&lt;li&gt;AMI dictionary XML (entities, abbreviations).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.xml&lt;/code&gt; (fulltext, sectioned), &lt;code&gt;.json&lt;/code&gt; (eupmc_result), &lt;code&gt;.csv&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, &lt;code&gt;.json&lt;/code&gt; (output), AMI &lt;code&gt;.xml&lt;/code&gt; dictionaries.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use the code &lt;code&gt;pip install docanalysis&lt;/code&gt; to install &lt;strong&gt;&lt;code&gt;docanalysis&lt;/code&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;docanalysis --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;ul&gt;
@@ -78,16 +125,14 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;README file of &lt;code&gt;docanalysis &lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/docanalysis/blob/main/README.md&quot;&gt;docanalysis/README.md&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing&quot;&gt;google colab notebook&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv&quot;&gt;Search for specific terms using dictionaries&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -104,8 +149,31 @@
 &lt;p&gt;It is a Python library designed for document processing, and dictionary creation.&lt;/p&gt;
 &lt;p&gt;We can create dictionaries using &lt;code&gt;amilib&lt;/code&gt; from existing set of words.
 The library simplifies data extraction and manipulation, offering a user-friendly interface for processing data formats like HTML and XML. It ensures that complex operations like term marking and dictionary building can be performed with minimal coding effort.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Installation&lt;/strong&gt; - Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install amilib&lt;/code&gt; to install latest amilib version.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DICT:&lt;/strong&gt; Create/edit/validate AMI dictionaries (words → dictionary XML/HTML), optional Wikipedia/Wikidata/Wiktionary descriptions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML:&lt;/strong&gt; Create, transform, annotate HTML (e.g. dictionary-based annotation).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PDF:&lt;/strong&gt; Convert PDF → HTML (pdfminer/pdfplumber), optional images, page ranges, clipping.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEARCH:&lt;/strong&gt; Search and annotate HTML, build indexes (annotate, index, no_input_styles).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DICT: word lists, existing dictionary files, description sources.&lt;/li&gt;
+&lt;li&gt;HTML: HTML files, dictionary for annotation.&lt;/li&gt;
+&lt;li&gt;PDF: PDF files or paths.&lt;/li&gt;
+&lt;li&gt;SEARCH: HTML paths, dictionary (for annotate).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DICT: &lt;code&gt;.xml&lt;/code&gt; or &lt;code&gt;.html&lt;/code&gt; dictionaries.&lt;/li&gt;
+&lt;li&gt;HTML: annotated or transformed HTML.&lt;/li&gt;
+&lt;li&gt;PDF: HTML (and optionally images) from PDF.&lt;/li&gt;
+&lt;li&gt;SEARCH: annotated HTML, indexes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.xml&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, &lt;code&gt;.pdf&lt;/code&gt;, dictionary formats (AMI XML/HTML).&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install amilib&lt;/code&gt; to install latest amilib version.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Check the successful installation with command : &lt;code&gt;amilib --help&lt;/code&gt;. You should see a help message come up.&lt;/p&gt;
 &lt;ul&gt;
@@ -113,18 +181,16 @@ The library simplifies data extraction and manipulation, offering a user-friendl
 &lt;h4&gt;&lt;a href=&quot;../posts/ami_install/&quot;&gt;Installation Guide&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tutorials (Jupyter Notebook/ Colab Notebook)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1QNETQ3bZFgOvu2iyZCZ0jM9tjTWuUiPi?usp=sharing&quot;&gt;Creating Wikimedia enhanced dictionary with amilib from wordlist&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1RumRjh0EnKcLDmXhtYvxqMKi39BX_sB1?usp=sharing&quot;&gt;Creating JQuery Datatables from the retrieved articles&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ami_tutorial/&quot;&gt;CLICK HERE for more tutorials&lt;/a&gt;&lt;/h4&gt;

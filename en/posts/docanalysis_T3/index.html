@@ -114,8 +114,32 @@
 <li>Generate dictionaries of terms</li>
 </ol>
 <p>It uses custom code along with Python tools like NLTK, and it can use spaCy or scispaCy for extracting and annotating entities. The tool creates summary data and word lists as output.</p>
+<p><strong>Primary functionality:</strong></p>
 <ul>
-<li><strong>Installation</strong> - Use the code <code>pip install docanalysis</code> to install <strong><code>docanalysis</code></strong></li>
+<li><strong>--run_pygetpapers:</strong> Download papers from Europe PMC into a CProject (creates CTree per article with <code>fulltext.xml</code>, <code>eupmc_result.json</code>).</li>
+<li><strong>--make_section:</strong> Section articles from <code>fulltext.xml</code> (JATS) into <code>sections/</code> directory trees.</li>
+<li>Entity extraction (spaCy/scispaCy): entities (e.g. ORG, PERSON) from sections.</li>
+<li>Dictionary search over sections; output CSV/HTML/JSON.</li>
+<li><strong>--make_ami_dict:</strong> Build AMI dictionary from extracted entities.</li>
+<li><strong>--extract_abb:</strong> Abbreviation/expansion extraction → AMI dictionary.</li>
+<li><strong>--search_html:</strong> Search HTML documents (e.g. IPCC).</li>
+</ul>
+<p><strong>Primary inputs:</strong></p>
+<ul>
+<li>CProject directory (from pygetpapers or pre-existing) containing CTrees with <code>fulltext.xml</code> (and optionally <code>eupmc_result.json</code>).</li>
+<li>Dictionary file/URL for annotation or supervised extraction.</li>
+<li>Flags: section names, entity types, spacy model, output paths.</li>
+</ul>
+<p><strong>Primary outputs:</strong></p>
+<ul>
+<li>CProject with added <code>sections/</code> per CTree (sectioned XML).</li>
+<li>CSV/HTML/JSON of sentences/terms/entities.</li>
+<li>AMI dictionary XML (entities, abbreviations).</li>
+</ul>
+<p><strong>Main file types for transfer:</strong> <code>.xml</code> (fulltext, sectioned), <code>.json</code> (eupmc_result), <code>.csv</code>, <code>.html</code>, <code>.json</code> (output), AMI <code>.xml</code> dictionaries.</p>
+<h3>Installation</h3>
+<ul>
+<li>Use the code <code>pip install docanalysis</code> to install <strong><code>docanalysis</code></strong></li>
 </ul>
 <p>Check the successful installation with command : <code>docanalysis --help</code>. You should see a help message come up.</p>
 <ul>
@@ -125,16 +149,14 @@
 <li>
 <p><strong>README file of <code>docanalysis </code></strong> : <a href="https://github.com/petermr/docanalysis/blob/main/README.md">docanalysis/README.md</a></p>
 </li>
-<li>
-<p><strong>Tutorials (Jupyter Notebook/ Colab Notebook)</strong></p>
+</ul>
+<h3>Tutorials (Jupyter Notebook/ Colab Notebook)</h3>
 <ul>
 <li>
 <p><a href="https://colab.research.google.com/drive/1sT2Die3pV3dLcyHgwZBg3IxS2FJ_8W0-?usp=sharing">google colab notebook</a></p>
 </li>
 <li>
 <p><a href="https://colab.research.google.com/drive/1dbjq89FeIFMgUIzOPJBKg00tqzDe3uvB#scrollTo=jxgMYANusakv">Search for specific terms using dictionaries</a></p>
-</li>
-</ul>
 </li>
 </ul>
 
