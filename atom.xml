@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-25T07:14:49Z</updated>
+	<updated>2026-02-25T07:46:30Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -13,11 +13,35 @@
 	</author>
 	
 	<entry>
-		<title>pygetpapers | Automated Retrieval of Open Access Scientific Literature</title>
+		<title>txt2phrases | Automated Text Processing and Keyphrases Extraction</title>
 		<link href="/p/en/posts/txt2phrases_T4/"/>
 		<updated>2026-02-25T00:00:00Z</updated>
 		<id>/p/en/posts/txt2phrases_T4/</id>
-		<content type="html"></content>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Alpha&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;txt2phrases&lt;/code&gt; is a Python library and command-line tool for processing and analyzing textual data. It offers a streamlined workflow to convert documents (HTML and PDF) into plain text, extract keywords using AI-based models, and classify them into specific and general categories using TF-IDF techniques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Pipeline from documents (PDF/HTML) to plain text and then to keyphrases; can consume pygetpapers output.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;pdf2txt:&lt;/strong&gt; PDF → plain text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;html2txt:&lt;/strong&gt; HTML → plain text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;keyphrases:&lt;/strong&gt; Extract keyphrases from text using NLP models (e.g. Hugging Face); optional TF-IDF classification (specific/general).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;auto:&lt;/strong&gt; Full pipeline on a directory (detects pygetpapers-style layout): PDF/HTML → text → keyphrases; batch processing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Single file or directory (PDF, HTML, or text).&lt;/li&gt;
+&lt;li&gt;For &lt;code&gt;auto&lt;/code&gt;: pygetpapers-style directory (e.g. &lt;code&gt;{paper_id}/fulltext.pdf&lt;/code&gt;, &lt;code&gt;fulltext.html&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plain text files; keyword/keyphrase CSVs (e.g. &lt;code&gt;*_keywords.csv&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.pdf&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, &lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;.csv&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install txt2phrases&lt;/code&gt; to install latest &lt;code&gt;txt2phrases&lt;/code&gt; version.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
 	</entry>
 	
 	<entry>

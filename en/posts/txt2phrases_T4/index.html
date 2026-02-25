@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>pygetpapers | Automated Retrieval of Open Access Scientific Literature | #semanticClimate</title>
+  <title>txt2phrases | Automated Text Processing and Keyphrases Extraction | #semanticClimate</title>
   <meta name="description" content="Introduction and User Guide">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
@@ -92,7 +92,7 @@
 
   
 <div class="container">
-  <h1>pygetpapers | Automated Retrieval of Open Access Scientific Literature</h1>
+  <h1>txt2phrases | Automated Text Processing and Keyphrases Extraction</h1>
   
     
       <div class="post-meta">
@@ -104,7 +104,31 @@
     
   
 
-  
+  <p><strong>Release Category</strong>: <code>Alpha</code></p>
+<p><code>txt2phrases</code> is a Python library and command-line tool for processing and analyzing textual data. It offers a streamlined workflow to convert documents (HTML and PDF) into plain text, extract keywords using AI-based models, and classify them into specific and general categories using TF-IDF techniques.</p>
+<p><strong>Role:</strong> Pipeline from documents (PDF/HTML) to plain text and then to keyphrases; can consume pygetpapers output.</p>
+<p><strong>Primary functionality:</strong></p>
+<ul>
+<li><strong>pdf2txt:</strong> PDF → plain text.</li>
+<li><strong>html2txt:</strong> HTML → plain text.</li>
+<li><strong>keyphrases:</strong> Extract keyphrases from text using NLP models (e.g. Hugging Face); optional TF-IDF classification (specific/general).</li>
+<li><strong>auto:</strong> Full pipeline on a directory (detects pygetpapers-style layout): PDF/HTML → text → keyphrases; batch processing.</li>
+</ul>
+<p><strong>Primary inputs:</strong></p>
+<ul>
+<li>Single file or directory (PDF, HTML, or text).</li>
+<li>For <code>auto</code>: pygetpapers-style directory (e.g. <code>{paper_id}/fulltext.pdf</code>, <code>fulltext.html</code>).</li>
+</ul>
+<p><strong>Primary outputs:</strong></p>
+<ul>
+<li>Plain text files; keyword/keyphrase CSVs (e.g. <code>*_keywords.csv</code>).</li>
+</ul>
+<p><strong>Main file types for transfer:</strong> <code>.pdf</code>, <code>.html</code>, <code>.txt</code>, <code>.csv</code>.</p>
+<h3>Installation</h3>
+<ul>
+<li>Use <code>pip</code> to install the tool/package. Use this code <code>pip install txt2phrases</code> to install latest <code>txt2phrases</code> version.</li>
+</ul>
+
 
   
     <div class="card__tags">
