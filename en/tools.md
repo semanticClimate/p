@@ -132,7 +132,7 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
     <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>
   </a>
 
-  <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
+  <a href="{{ '/en/posts/sc_description/' | url }}" class="tool-item">
     <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="semantic_corpus">
     <h3>semantic_corpus</h3>
     <p>Python tool designed for researchers to create and manage personal scientific corpora.</p>
