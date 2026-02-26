@@ -5,12 +5,39 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-25T07:46:30Z</updated>
+	<updated>2026-02-26T05:48:21Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>semantic_corpus | Create and manage personal scientific corpora</title>
+		<link href="/p/en/posts/sc_description/"/>
+		<updated>2026-02-26T00:00:00Z</updated>
+		<id>/p/en/posts/sc_description/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Alpha&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;semantic_corpus:&lt;/strong&gt; Create and manage personal scientific corpora: search, download, organize; optional BAGIT preservation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;create:&lt;/strong&gt; Initialize corpus directory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;search:&lt;/strong&gt; Search Europe PMC / arXiv; save results to JSON.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;download:&lt;/strong&gt; Search + download in specified formats (e.g. pdf, xml).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ingestion:&lt;/strong&gt; Ingest pygetpapers-style directories (e.g. &lt;code&gt;PMC*/&lt;/code&gt; with &lt;code&gt;eupmc_result.json&lt;/code&gt;, &lt;code&gt;fulltext.xml&lt;/code&gt;) into BAGIT corpus; copies XML/PDF and updates manifest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Query, repository choice, limit, formats, output path; optional YAML config.&lt;/li&gt;
+&lt;li&gt;For ingestion: path to pygetpapers output directory (e.g. from amilib test resources or real runs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Corpus directory (optionally BAGIT); JSON search results; downloaded files (PDF, XML) in corpus structure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.json&lt;/code&gt; (metadata, search results), &lt;code&gt;.xml&lt;/code&gt;, &lt;code&gt;.pdf&lt;/code&gt;; BAGIT manifest and structure.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>txt2phrases | Automated Text Processing and Keyphrases Extraction</title>

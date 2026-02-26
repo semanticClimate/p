@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Introduction about semanticClimate tools | #semanticClimate</title>
-  <meta name="description" content="Information about tools and their tutorial">
+  <title>semantic_corpus | Create and manage personal scientific corpora | #semanticClimate</title>
+  <meta name="description" content="Introduction and User Guide">
 
   <link rel="shortcut icon" href="/p/static/img/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/p/static/css/main.css" media="all">
@@ -52,7 +52,7 @@
         <a class="text-[#0088be] navbar__link " href="/p/en/team/">
           Team
         </a>
-        <a class="text-[#0088be] navbar__link navbar__link--active" href="/p/en/tools/">
+        <a class="text-[#0088be] navbar__link " href="/p/en/tools/">
           Tools
         </a>
       <a class="text-[#0088be] navbar__link" href='/p/en/posts/resources/'>Resources</a>
@@ -80,7 +80,7 @@
       <a class="navbar__mobile-link " href="/p/en/team/">
         Team
       </a>
-      <a class="navbar__mobile-link navbar__mobile-link--active" href="/p/en/tools/">
+      <a class="navbar__mobile-link " href="/p/en/tools/">
         Tools
       </a>
       <a class="navbar__mobile-link" href='/p/en/posts/resources/'>Resources</a>
@@ -92,151 +92,49 @@
 
   
 <div class="container">
-  <h1>Introduction about semanticClimate tools</h1>
+  <h1>semantic_corpus | Create and manage personal scientific corpora</h1>
+  
+    
+      <div class="post-meta">
+        <time>26 Feb, 2026</time>
+        <span class="post-author">by RK</span>
+      </div>
+    
+  
+    
   
 
-  <p>The <strong>#semanticClimate tools</strong> provides an innovative approach to manage scholarly publications efficiently. This page provides an overview of these tools and their practical applications in semantifying the climate reports and scientific literatures.</p>
-<p><strong>Requirements for Installing Tools with <code>pip</code></strong> :</p>
+  <p><strong>Release Category</strong>: <code>Alpha</code></p>
+<p><strong>semantic_corpus:</strong> Create and manage personal scientific corpora: search, download, organize; optional BAGIT preservation.</p>
+<p><strong>Primary functionality:</strong></p>
 <ul>
-<li>
-<p><strong>Python</strong> : Ensure that Python is installed on your system. Download python from <a href="https://www.python.org/downloads/">here</a> and select the option Add Python to Path while installing.</p>
-</li>
-<li>
-<p><strong>pip</strong> : <code>pip</code> is the package installer for Python. Verify that pip is installed by running: <code>pip --version</code></p>
-</li>
+<li><strong>create:</strong> Initialize corpus directory.</li>
+<li><strong>search:</strong> Search Europe PMC / arXiv; save results to JSON.</li>
+<li><strong>download:</strong> Search + download in specified formats (e.g. pdf, xml).</li>
+<li><strong>Ingestion:</strong> Ingest pygetpapers-style directories (e.g. <code>PMC*/</code> with <code>eupmc_result.json</code>, <code>fulltext.xml</code>) into BAGIT corpus; copies XML/PDF and updates manifest.</li>
 </ul>
-<style>
-.tools-section {
-  max-width: 1100px;
-  margin: 60px auto;
-  padding: 20px;
-  text-align: center;
-  font-family: system-ui, -apple-system, sans-serif;
-}
-
-.tools-section h2 {
-  font-size: 2.0rem;
-  margin-bottom: 10px;
-  color: #053539;
-}
-
-.tools-section p.section-subtitle {
-  color: #000000;
-  margin-bottom: 40px;
-}
-
-/* GRID: EXACTLY 3 PER ROW */
-.tools-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 40px 30px;
-}
-
-/* CLICKABLE CARD STYLE */
-.tool-item {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  padding: 25px;
-  border-radius: 14px;
-  transition: all 0.25s ease;
-  background: #cbd7d9;
-}
-
-.tool-item:hover {
-  background: #f0f5de;
-  transform: translateY(-6px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-}
-
-.tool-item img {
-  width: 80px;
-  height: 80px;
-  object-fit: contain;
-  margin-bottom: 15px;
-}
-
-.tool-item h3 {
-  font-size: 1.8rem;
-  margin-bottom: 8px;
-  color: #4b1649;
-}
-
-.tool-item p {
-  font-size: 1.2rem;
-  color: #000000;
-  line-height: 1.5;
-}
-
-/* RESPONSIVE */
-@media (max-width: 992px) {
-  .tools-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .tools-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
-<section class="tools-section">
-<h2>semanticClimate Tools</h2>
-<p class="section-subtitle">
-Tools developed by semanticClimate for literature mining, data extraction, and knowledge graph building.
-</p>
-<div class="tools-grid">
-  <a href="/p/en/posts/amilib_description/" class="tool-item">
-    <img src="/p/static/img/events2026/amilib.png" alt="amilib">
-    <h3>amilib</h3>
-    <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
-  </a>
-  <a href="/p/en/posts/pygetpapers_T2/" class="tool-item">
-    <img src="/p/static/img/events2026/pyget_logo.png" alt="pygetpapers">
-    <h3>pygetpapers</h3>
-    <p>Tool to search and download scientific research articles from open access repositories.</p>
-  </a>
-  <a href="/p/en/posts/docanalysis_T3/" class="tool-item">
-    <img src="/p/static/img/events2026/docana_p1.png" alt="docanalysis">
-    <h3>docanalysis</h3>
-    <p>It is a command-line tool that processes document collections (CProjects) and performs text analysis.</p>
-  </a>
-  <a href="/p/en/posts/txt2phrases_T4/" class="tool-item">
-    <img src="/p/static/img/events2026/keyph_p1.png" alt="txt2phrases">
-    <h3>txt2phrases</h3>
-    <p>Python library for converting documents (HTML, PDF) into plain text, extracting keywords.</p>
-  </a>
-  <a href="/p/en/posts/climate_encyclopedia/" class="tool-item">
-    <img src="/p/static/img/events2026/keyph_p1.png" alt="encyclopedia">
-    <h3>encyclopedia</h3>
-    <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>
-  </a>
-  <a href="/p/en/posts/sc_description/" class="tool-item">
-    <img src="/p/static/img/events2026/keyph_p1.png" alt="semantic_corpus">
-    <h3>semantic_corpus</h3>
-    <p>Python tool designed for researchers to create and manage personal scientific corpora.</p>
-  </a>
-</div>
-</section>
-<h3><code>pyamiimage</code></h3>
-<p><strong>Release Category</strong>: <code>Alpha</code></p>
-<p><strong>Developed By:</strong> Peter Murray-Rust</p>
-<p><code>pyamiimage</code> is a set of tools to extract semantic information from scientific diagrams.</p>
-<p>The output of <code>pyamiimage</code> is an image with annotations of substrate, products and enzymes.</p>
+<p><strong>Primary inputs:</strong></p>
 <ul>
-<li>
-<p><strong>Installation</strong> - Use the code <code>pip install pyamiimage</code> to install <strong><code>pyamiimage</code></strong></p>
-</li>
-<li>
-<p><strong>Code Repository</strong> - <a href="https://github.com/petermr/pyamiimage">github</a></p>
-</li>
-<li>
-<p><strong>README file of <code>pyamiimage</code></strong> : <a href="https://github.com/petermr/pyamiimage/blob/main/README.md">pyamiimage/README.md</a></p>
-</li>
+<li>Query, repository choice, limit, formats, output path; optional YAML config.</li>
+<li>For ingestion: path to pygetpapers output directory (e.g. from amilib test resources or real runs).</li>
 </ul>
+<p><strong>Primary outputs:</strong></p>
+<ul>
+<li>Corpus directory (optionally BAGIT); JSON search results; downloaded files (PDF, XML) in corpus structure.</li>
+</ul>
+<p><strong>Main file types for transfer:</strong> <code>.json</code> (metadata, search results), <code>.xml</code>, <code>.pdf</code>; BAGIT manifest and structure.</p>
 
 
+  
+    <div class="card__tags">
+      
+        
+      
+        
+          <a href="/p/en/tags/hackathon"/>hackathon</a>
+        
+      
+    </div>
   
   <br>
   <a href="javascript:history.back()">&larr; Back</a>
