@@ -103,7 +103,7 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
 <div class="tools-grid">
 
   <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
-    <img src="{{ '/static/img/events2026/amilib.png' | url }}" alt="amilib">
+    <img src="{{ '/static/img/events2026/amilib_pic.png' | url }}" alt="amilib">
     <h3>amilib</h3>
     <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
   </a>
@@ -142,21 +142,15 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
 
 </section>
 
-### ```pyamiimage```
+## Overview of the project
 
-**Release Category**: `Alpha`
-
-**Developed By:** Peter Murray-Rust
-
-```pyamiimage``` is a set of tools to extract semantic information from scientific diagrams.
-
-The output of ```pyamiimage``` is an image with annotations of substrate, products and enzymes.
-
-- **Installation** - Use the code `pip install pyamiimage` to install **`pyamiimage`**
-
-- **Code Repository** - [github](https://github.com/petermr/pyamiimage)
-
-- **README file of ```pyamiimage```** : [pyamiimage/README.md](https://github.com/petermr/pyamiimage/blob/main/README.md)
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/overview_p1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 
 
