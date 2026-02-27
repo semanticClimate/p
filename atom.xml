@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-27T07:05:29Z</updated>
+	<updated>2026-02-27T07:41:08Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -1056,29 +1056,7 @@ We run this as a communal project where everything is open, everything is archiv
 &lt;li&gt;Keyword extraction&lt;/li&gt;
 &lt;li&gt;Creating Encyclopedia&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Workflow&lt;/h3&gt;
-&lt;p&gt;This diagram illustrates how raw documents are processed using semantic tools to extract key terms, define them, and organize the information into structured encyclopedia entries.&lt;/p&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;img src=&quot;/p/static/img/events_all/dict_sC.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;h3&gt;Keyword_extraction&lt;/h3&gt;
-&lt;p&gt;A Python-based tool &lt;code&gt;txt2phrases&lt;/code&gt; that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents. &lt;a href=&quot;https://pypi.org/project/txt2phrases/&quot;&gt;Read about the installation and usage of the tool&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Tool:&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;txt2phrases has been used to get the list of words and phrases from the document.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;img src=&quot;/p/static/img/events_all/words_p1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-&lt;h3&gt;Encyclopedia&lt;/h3&gt;
+&lt;h3&gt;Tool &lt;code&gt;encyclopedia&lt;/code&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Extract and analyse keywords from scientific documents (e.g. climate, IPCC); store in dictionaries; browse via web UI.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1113,6 +1091,29 @@ We run this as a communal project where everything is open, everything is archiv
 &lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia/blob/main/README.md&quot;&gt;Installation Giude&lt;/a&gt;&lt;/h4&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Workflow&lt;/h3&gt;
+&lt;p&gt;This diagram illustrates how raw documents are processed using semantic tools to extract key terms, define them, and organize the information into structured encyclopedia entries.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/dict_sC.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Keyword_extraction&lt;/h3&gt;
+&lt;p&gt;A Python-based tool &lt;code&gt;txt2phrases&lt;/code&gt; that uses state-of-the-art Natural Language Processing (NLP) models to extract the most important keywords and keyphrases from the climate reports and scientific text documents. &lt;a href=&quot;https://pypi.org/project/txt2phrases/&quot;&gt;Read about the installation and usage of the tool&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Tool:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;txt2phrases has been used to get the list of words and phrases from the document.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/words_p1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;h3&gt;Encyclopedia (Example)&lt;/h3&gt;
 &lt;h5&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld&quot;&gt;semantic Encyclopedia IPCC/AR6/WG1/Chapter03&lt;/a&gt;&lt;/h5&gt;
 &lt;table&gt;
   &lt;tr&gt;
