@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-02-26T05:48:21Z</updated>
+	<updated>2026-02-27T07:05:29Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -36,6 +36,7 @@
 &lt;li&gt;Corpus directory (optionally BAGIT); JSON search results; downloaded files (PDF, XML) in corpus structure.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.json&lt;/code&gt; (metadata, search results), &lt;code&gt;.xml&lt;/code&gt;, &lt;code&gt;.pdf&lt;/code&gt;; BAGIT manifest and structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/semanticClimate/semantic_corpus&quot;&gt;semantic_corpus&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -66,7 +67,15 @@
 &lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.pdf&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, &lt;code&gt;.txt&lt;/code&gt;, &lt;code&gt;.csv&lt;/code&gt;.&lt;/p&gt;
 &lt;h3&gt;Installation&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install txt2phrases&lt;/code&gt; to install latest &lt;code&gt;txt2phrases&lt;/code&gt; version.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use &lt;code&gt;pip&lt;/code&gt; to install the tool/package. Use this code &lt;code&gt;pip install txt2phrases&lt;/code&gt; to install latest &lt;code&gt;txt2phrases&lt;/code&gt; version.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/semanticClimate/txt2phrases&quot;&gt;txt2phrases&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/txt2phrases/blob/main/README.md&quot;&gt;Installation Guide&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 	</entry>
@@ -1070,10 +1079,8 @@ We run this as a communal project where everything is open, everything is archiv
   &lt;/tr&gt;
 &lt;/table&gt;
 &lt;h3&gt;Encyclopedia&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Extract and analyse keywords from scientific documents (e.g. climate, IPCC); store in dictionaries; browse via web UI.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;A structured storage system for organizing extracted keywords, document content, and metadata.&lt;/p&gt;
-&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;This is enriched with the information from wikipedia.&lt;/p&gt;
 &lt;/li&gt;
@@ -1081,9 +1088,30 @@ We run this as a communal project where everything is open, everything is archiv
 &lt;p&gt;It enables quick access to key concepts and terminology from scientific literatures, climate reports and any text documents.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Tool:&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;amilib is used to create wikimedia enhanced encyclopedia.&lt;/em&gt; &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keyword_extraction:&lt;/strong&gt; NLP-based keyword extraction from text (e.g. Hugging Face); batch; CSV output.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dictionary:&lt;/strong&gt; Structured storage of chapters, keywords, full text; HTML/text versions; CSV export.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Encyclopedia browser:&lt;/strong&gt; Streamlit app to search/browse entries (Whoosh, NLTK); up to ~5k entries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary inputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text/documents (e.g. IPCC chapters); word lists or existing dictionary content.&lt;/li&gt;
+&lt;li&gt;Depends on &lt;strong&gt;amilib&lt;/strong&gt; for HTML/dictionary/Wikimedia utilities (HtmlLib, AmiDictionary, WikipediaPage, etc.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primary outputs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keyword CSVs; dictionary structures (HTML, text); browser UI (Streamlit).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Main file types for transfer:&lt;/strong&gt; &lt;code&gt;.csv&lt;/code&gt;, &lt;code&gt;.html&lt;/code&gt;, plain text; AMI-style dictionary data; corpus can be built using pygetpapers (see demo notebook).&lt;/p&gt;
+&lt;h3&gt;Project Overview and Installation:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia/blob/main/README.md&quot;&gt;Installation Giude&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5&gt;&lt;a href=&quot;https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld&quot;&gt;semantic Encyclopedia IPCC/AR6/WG1/Chapter03&lt;/a&gt;&lt;/h5&gt;
 &lt;table&gt;
@@ -1093,7 +1121,6 @@ We run this as a communal project where everything is open, everything is archiv
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
-&lt;h3&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;GitHub Repository for Encyclopedia&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;GitHub repository to publish encyclopedia in book format&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/demo_book&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;How to create Semantic Encyclopedia?&lt;/h3&gt;
