@@ -36,6 +36,34 @@ This includes two main subprojects that work together to process climate reports
 1. Keyword extraction 
 2. Creating Encyclopedia 
 
+### Tool `encyclopedia`
+
+**Role:** Extract and analyse keywords from scientific documents (e.g. climate, IPCC); store in dictionaries; browse via web UI.
+
+- This is enriched with the information from wikipedia. 
+
+- It enables quick access to key concepts and terminology from scientific literatures, climate reports and any text documents.
+
+**Primary functionality:**
+- **Keyword_extraction:** NLP-based keyword extraction from text (e.g. Hugging Face); batch; CSV output.
+- **Dictionary:** Structured storage of chapters, keywords, full text; HTML/text versions; CSV export.
+- **Encyclopedia browser:** Streamlit app to search/browse entries (Whoosh, NLTK); up to ~5k entries.
+
+**Primary inputs:**
+- Text/documents (e.g. IPCC chapters); word lists or existing dictionary content.
+- Depends on **amilib** for HTML/dictionary/Wikimedia utilities (HtmlLib, AmiDictionary, WikipediaPage, etc.).
+
+**Primary outputs:**
+- Keyword CSVs; dictionary structures (HTML, text); browser UI (Streamlit).
+
+**Main file types for transfer:** `.csv`, `.html`, plain text; AMI-style dictionary data; corpus can be built using pygetpapers (see demo notebook).
+
+### Project Overview and Installation: 
+
+- #### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
+
+- #### [Installation Giude](https://github.com/semanticClimate/encyclopedia/blob/main/README.md)
+
 ### Workflow
 
 This diagram illustrates how raw documents are processed using semantic tools to extract key terms, define them, and organize the information into structured encyclopedia entries.
@@ -64,33 +92,7 @@ A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Pr
   </tr>
 </table>
 
-### Encyclopedia
-
-**Role:** Extract and analyse keywords from scientific documents (e.g. climate, IPCC); store in dictionaries; browse via web UI.
-
-- This is enriched with the information from wikipedia. 
-
-- It enables quick access to key concepts and terminology from scientific literatures, climate reports and any text documents.
-
-**Primary functionality:**
-- **Keyword_extraction:** NLP-based keyword extraction from text (e.g. Hugging Face); batch; CSV output.
-- **Dictionary:** Structured storage of chapters, keywords, full text; HTML/text versions; CSV export.
-- **Encyclopedia browser:** Streamlit app to search/browse entries (Whoosh, NLTK); up to ~5k entries.
-
-**Primary inputs:**
-- Text/documents (e.g. IPCC chapters); word lists or existing dictionary content.
-- Depends on **amilib** for HTML/dictionary/Wikimedia utilities (HtmlLib, AmiDictionary, WikipediaPage, etc.).
-
-**Primary outputs:**
-- Keyword CSVs; dictionary structures (HTML, text); browser UI (Streamlit).
-
-**Main file types for transfer:** `.csv`, `.html`, plain text; AMI-style dictionary data; corpus can be built using pygetpapers (see demo notebook).
-
-### Project Overview and Installation: 
-
-- #### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
-
-- #### [Installation Giude](https://github.com/semanticClimate/encyclopedia/blob/main/README.md)
+### Encyclopedia (Example)
 
 ##### [semantic Encyclopedia IPCC/AR6/WG1/Chapter03](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
 
