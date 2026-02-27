@@ -103,7 +103,7 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
 <div class="tools-grid">
 
   <a href="{{ '/en/posts/amilib_description/' | url }}" class="tool-item">
-    <img src="{{ '/static/img/events2026/amilib_pic.png' | url }}" alt="amilib">
+    <img src="{{ '/static/img/events2026/pic_ami.png' | url }}" alt="amilib">
     <h3>amilib</h3>
     <p>Python library designed for finding, cleaning, converting, searching, republishing legacy documents (PDF, PNG, etc.).</p>
   </a>
