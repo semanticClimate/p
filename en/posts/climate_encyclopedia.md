@@ -66,15 +66,31 @@ A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Pr
 
 ### Encyclopedia
 
-- A structured storage system for organizing extracted keywords, document content, and metadata.
+**Role:** Extract and analyse keywords from scientific documents (e.g. climate, IPCC); store in dictionaries; browse via web UI.
 
 - This is enriched with the information from wikipedia. 
 
 - It enables quick access to key concepts and terminology from scientific literatures, climate reports and any text documents.
 
-#### Tool: 
+**Primary functionality:**
+- **Keyword_extraction:** NLP-based keyword extraction from text (e.g. Hugging Face); batch; CSV output.
+- **Dictionary:** Structured storage of chapters, keywords, full text; HTML/text versions; CSV export.
+- **Encyclopedia browser:** Streamlit app to search/browse entries (Whoosh, NLTK); up to ~5k entries.
 
-- *amilib is used to create wikimedia enhanced encyclopedia.* [GitHub repository](https://github.com/petermr/amilib)
+**Primary inputs:**
+- Text/documents (e.g. IPCC chapters); word lists or existing dictionary content.
+- Depends on **amilib** for HTML/dictionary/Wikimedia utilities (HtmlLib, AmiDictionary, WikipediaPage, etc.).
+
+**Primary outputs:**
+- Keyword CSVs; dictionary structures (HTML, text); browser UI (Streamlit).
+
+**Main file types for transfer:** `.csv`, `.html`, plain text; AMI-style dictionary data; corpus can be built using pygetpapers (see demo notebook).
+
+### Project Overview and Installation: 
+
+- #### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
+
+- #### [Installation Giude](https://github.com/semanticClimate/encyclopedia/blob/main/README.md)
 
 ##### [semantic Encyclopedia IPCC/AR6/WG1/Chapter03](https://vivliostyle.org/viewer/#src=https://github.com/semanticClimate/demo_book/blob/main/manifest.jsonld)
 
@@ -85,8 +101,6 @@ A Python-based tool `txt2phrases` that uses state-of-the-art Natural Language Pr
     </td>
   </tr>
 </table>
-
-### [GitHub Repository for Encyclopedia](https://github.com/semanticClimate/encyclopedia)
 
 ### GitHub repository to publish encyclopedia in book format
 [CLICK HERE](https://github.com/semanticClimate/demo_book)

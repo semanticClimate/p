@@ -34,3 +34,6 @@ tags:
 
 - Use `pip` to install the tool/package. Use this code `pip install txt2phrases` to install latest `txt2phrases` version.
 
+- **GitHub Repository** - [txt2phrases](https://github.com/semanticClimate/txt2phrases)
+
+- #### [Installation Guide](https://github.com/semanticClimate/txt2phrases/blob/main/README.md)
