@@ -121,19 +121,19 @@ Tools developed by semanticClimate for literature mining, data extraction, and k
   </a>
 
   <a href="{{ '/en/posts/txt2phrases_T4/' | url }}" class="tool-item">
-    <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="txt2phrases">
+    <img src="{{ '/static/img/events2026/key_pic1.png' | url }}" alt="txt2phrases">
     <h3>txt2phrases</h3>
     <p>Python library for converting documents (HTML, PDF) into plain text, extracting keywords.</p>
   </a>
 
   <a href="{{ '/en/posts/climate_encyclopedia/' | url }}" class="tool-item">
-    <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="encyclopedia">
+    <img src="{{ '/static/img/events2026/enc_p4.png' | url }}" alt="encyclopedia">
     <h3>encyclopedia</h3>
     <p>toolset for extracting and analyzing keywords from scientific documents and enhancing knowledge with Wikimedia.</p>
   </a>
 
   <a href="{{ '/en/posts/sc_description/' | url }}" class="tool-item">
-    <img src="{{ '/static/img/events2026/keyph_p1.png' | url }}" alt="semantic_corpus">
+    <img src="{{ '/static/img/events2026/sc_p5.png' | url }}" alt="semantic_corpus">
     <h3>semantic_corpus</h3>
     <p>Python tool designed for researchers to create and manage personal scientific corpora.</p>
   </a>
