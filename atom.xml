@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-03-03T06:09:08Z</updated>
+	<updated>2026-03-03T06:28:31Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3208,7 +3208,7 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
   &lt;/div&gt;
   &lt;!-- OAW 2026 semantic toolkits --&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
-    &lt;a href=&quot;https://www.youtube.com/watch?v=BQPRahpptbM?start=30&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=BQPRahpptbM&amp;t=30s&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
       &lt;img src=&quot;/p/static/img/events2026/enc_p8.png&quot; alt=&quot;Introduction of semantic tools&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
       &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -3222,7 +3222,7 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
   &lt;/div&gt;
   &lt;!-- OAW 2026 semantic toolkits - demo --&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
-    &lt;a href=&quot;https://www.youtube.com/watch?v=BQPRahpptbM?start=1012&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=BQPRahpptbM&amp;t=1012s&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
       &lt;img src=&quot;/p/static/img/events2026/enc_p9.png&quot; alt=&quot;semantic tools&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
       &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
