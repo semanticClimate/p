@@ -264,7 +264,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=dvpdMqZjNxE" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/dvpdMqZjNxE/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p11.png' | url }}"
            alt="Introduction to the Indian Biological Data Center"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -274,13 +274,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>KEYNOTE TALK:</strong> Handling the Data Deluge: Introduction to the Indian Biological Data Center.
+      <strong>KEYNOTE TALK:</strong> Handling the Data Deluge: Introduction to the Indian Biological Data Center | Prof. Saurabh Raghuvanshi.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=KB7w_2xUelU" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/KB7w_2xUelU/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p12.png' | url }}"
            alt="Data Stewardship in India"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -290,13 +290,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>KEYNOTE TALK:</strong> Data Stewardship in India: Catalyzing Collaboration through CODATA.
+      <strong>KEYNOTE TALK:</strong> Data Stewardship in India: Catalyzing Collaboration through CODATA | Dr. Debasisa Mohanty.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=3wQMYdUmJ40" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/3wQMYdUmJ40/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p13.png' | url }}"
            alt="Genesis of an Indian Forum For Research Assessment"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -312,7 +312,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=MVt447_021I" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/MVt447_021I/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p14.png' | url }}"
            alt="Panel discussion"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -328,7 +328,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=mE-jurTWRpk" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/mE-jurTWRpk/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p15.png' | url }}"
            alt="Talk on Research Assessment"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -344,7 +344,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=wEIcRrAOya0" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/wEIcRrAOya0/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p17.png' | url }}"
            alt="Research Assessment"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -354,13 +354,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>TALK: </strong>RESEARCH ASSESSMENT IN THE AGE OF AI.
+      <strong>TALK: </strong>Research assessment in the age of AI | Francis P. Crawley.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=3qgWgYpOgGQ" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/3qgWgYpOgGQ/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p16.png' | url }}"
            alt="Wikipedia for Climate"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -370,13 +370,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>TALK: </strong>Visualising Wikipedia for Climate.
+      <strong>TALK: </strong>Visualising Wikipedia for Climate | Giovanni Profeta.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=Nsp486xGxro" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/Nsp486xGxro/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p18.png' | url }}"
            alt="India Research Assessments Forum"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -386,13 +386,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>TALK: </strong>Addressing the need for India Research Assessments Forum (IRAF).
+      <strong>TALK: </strong>Addressing the need for India Research Assessments Forum (IRAF) | Dr. Usha Munshi.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=GCauB-ke1T0" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/GCauB-ke1T0/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p19.png' | url }}"
            alt="Talk on research assessment"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -402,13 +402,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>TALK: </strong>Transforming Research Assessment Reforming Practices for Science and the University.
+      <strong>TALK: </strong>Transforming Research Assessment Reforming Practices for Science and the University | Mr. Mihalis Kritikos.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=tMDn-w32x-Y" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/tMDn-w32x-Y/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p20.png' | url }}"
            alt="Session 1 Panel Discussion"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -424,7 +424,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=6lQL6PQ9FP4" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/6lQL6PQ9FP4/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p21.png' | url }}"
            alt="Introduction to semantic tools"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -434,13 +434,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>TALK: </strong>Introduction of #semanticClimate Tools for Automated Literature Retrieval.
+      <strong>TALK: </strong>Introduction of #semanticClimate Tools for Automated Literature Retrieval | Dr. Renu Kumari.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=ICAKvmHYomM" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/ICAKvmHYomM/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p22.png' | url }}"
            alt="NER workflow"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -450,13 +450,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>Demonstration: </strong>Entity extraction framework from the scholarly literature.
+      <strong>Demonstration: </strong>Entity extraction framework from the scholarly literature | Ms. Moobashara Jawed.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=co8Zy0ZPgDE" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/co8Zy0ZPgDE/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p23.png' | url }}"
            alt="Summarization of PDF content"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -466,13 +466,13 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>Demonstration: </strong>Summarization of PDF content.
+      <strong>Demonstration: </strong>Summarization of PDF content | Ms. Shabnam Barbhuiya.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=qDUKlYduH_Q" target="_blank" style="position: relative; display: block;">
-      <img src="https://img.youtube.com/vi/qDUKlYduH_Q/hqdefault.jpg"
+      <img src="{{ '/static/img/events2026/enc_p24.png' | url }}"
            alt="Summarization of PDF content"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -482,7 +482,7 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>VALEDICTORY SESSION: </strong>Keynote talk.
+      <strong>VALEDICTORY SESSION: </strong>Keynote talk | Prof. Narinder K Mehra .
     </p>
   </div>
 
