@@ -178,9 +178,9 @@ These are the video presentations for software tutorial and the work presented i
 
   <!-- OAW 2026 semantic toolkits -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=BQPRahpptbM" target="_blank" style="position: relative; display: block;">
+    <a href="https://www.youtube.com/watch?v=BQPRahpptbM?start=30" target="_blank" style="position: relative; display: block;">
       <img src="{{ '/static/img/events2026/enc_p8.png' | url }}"
-           alt="Introduction of semantic encyclopedia"
+           alt="Introduction of semantic tools"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -197,7 +197,7 @@ These are the video presentations for software tutorial and the work presented i
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=BQPRahpptbM?start=1012" target="_blank" style="position: relative; display: block;">
       <img src="{{ '/static/img/events2026/enc_p9.png' | url }}"
-           alt="Introduction of semantic encyclopedia"
+           alt="semantic tools"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
                    background:rgba(0,0,0,0.6); border-radius:50%;
@@ -206,47 +206,28 @@ These are the video presentations for software tutorial and the work presented i
                    color:#fff; font-size:20px;">▶</span>
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
-      <strong>Demonstration:</strong> Corpus creation from open access repositories by Ms. Udita Agarwal.
+      <strong>Demonstration:</strong> Corpus creation from open access repositories by Udita Agarwal.
+    </p>
+  </div>
+
+  <!-- OAW 2026 semantic toolkits - demo -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=dXjoea_5mRQ" target="_blank" style="position: relative; display: block;">
+      <img src="{{ '/static/img/events2026/enc_p10.png' | url }}"
+           alt="Introduction of semanticClimate"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Open Access Week 2025 Session 2:</strong> Introduction to the #semanticClimate by Dr. Gitanjali Yadav.
     </p>
   </div>
   
 
-</div>
-
-
-
-<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
-  <iframe width="250" height="200" src="https://www.youtube.com/embed/WRIIYuiEfPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction to the Semantic Encyclopedia</h5>
-  </div>
-</div>
-
-- ### Open Access Week 2025 | Introduction to the corpus creation from open access repository 
-
-<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
-  <iframe width="250" height="200" src="https://www.youtube.com/embed/BQPRahpptbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction of the semantic tools | Dr. Renu Kumari</h5>
-  </div>
-</div>
-
-- ### Open Access Week 2025 | Demonstration of the tool to create corpus from open access repository and their analysis using semantic tools
-
-<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
-  <iframe width="250" height="200" src="https://www.youtube.com/embed/BQPRahpptbM?start=1012" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Demonstration of the semantic tools | Ms. Udita Agarwal</h5>
-  </div>
-</div>
-
-- ### Open Access Week 2025 Session 2 | Who Owns Our Knowledge? An Introduction to the #semanticClimate
-  
-<div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
-  <iframe width="250" height="200" src="https://www.youtube.com/embed/dXjoea_5mRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <div>
-    <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Introduction to the #semanticClimate | Dr. Gitanjali Yadav</h5>
-  </div>
 </div>
 
 - ### Introduction of IPCC AR6 Chapters by semanticClimate Interns for FSCI 2025 
