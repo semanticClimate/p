@@ -1082,17 +1082,17 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/oaweek/</loc>
-    <lastmod>2026-03-03</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/pdf/</loc>
     <lastmod>2026-03-03</lastmod>
   </url>
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/xml/</loc>
+    <lastmod>2026-03-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/oaweek/</loc>
     <lastmod>2026-03-03</lastmod>
   </url>
   
