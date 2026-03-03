@@ -178,7 +178,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <!-- OAW 2026 semantic toolkits -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=BQPRahpptbM?start=30" target="_blank" style="position: relative; display: block;">
+    <a href="https://www.youtube.com/watch?v=BQPRahpptbM&t=30s" target="_blank" style="position: relative; display: block;">
       <img src="{{ '/static/img/events2026/enc_p8.png' | url }}"
            alt="Introduction of semantic tools"
            style="width: 100%; height: auto; border-radius: 6px;">
@@ -195,7 +195,7 @@ These are the video presentations for software tutorial and the work presented i
 
   <!-- OAW 2026 semantic toolkits - demo -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=BQPRahpptbM?start=1012" target="_blank" style="position: relative; display: block;">
+    <a href="https://www.youtube.com/watch?v=BQPRahpptbM&t=1012s" target="_blank" style="position: relative; display: block;">
       <img src="{{ '/static/img/events2026/enc_p9.png' | url }}"
            alt="semantic tools"
            style="width: 100%; height: auto; border-radius: 6px;">
