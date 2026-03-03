@@ -155,8 +155,65 @@ These are the video presentations for software tutorial and the work presented i
 
 </div>
 
-- ### Open Access Week 2025 | Introduction to the Semantic Encyclopedia
-  - Peter Murray-Rust, Simon Worthington, Shaik Zainab
+- ### Open Access Week 2025 | Introduction to the semanticClimate tools and Semantic Encyclopedia
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+  <!-- OAW 2026 semantic encyclopedia -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=WRIIYuiEfPw" target="_blank" style="position: relative; display: block;">
+      <img src="{{ '/static/img/events2026/enc_p6.png' | url }}"
+           alt="Introduction of semantic encyclopedia"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Semantic Encyclopedia:</strong> Introduction by Peter Murray-Rust, Simon Worthington, Shaik Zainab.
+    </p>
+  </div>
+
+  <!-- OAW 2026 semantic toolkits -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=BQPRahpptbM" target="_blank" style="position: relative; display: block;">
+      <img src="{{ '/static/img/events2026/enc_p8.png' | url }}"
+           alt="Introduction of semantic encyclopedia"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Semantic toolkit:</strong> Introduction to the corpus creation from open access repository by Renu Kumari.
+    </p>
+  </div>
+
+  <!-- OAW 2026 semantic toolkits - demo -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=BQPRahpptbM?start=1012" target="_blank" style="position: relative; display: block;">
+      <img src="{{ '/static/img/events2026/enc_p9.png' | url }}"
+           alt="Introduction of semantic encyclopedia"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Demonstration:</strong> Corpus creation from open access repositories by Ms. Udita Agarwal.
+    </p>
+  </div>
+  
+
+</div>
+
+
 
 <div style="display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;">
   <iframe width="250" height="200" src="https://www.youtube.com/embed/WRIIYuiEfPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
