@@ -144,3 +144,9 @@ It consists of two main subprojects that work together to process scientific doc
     </td>
   </tr>
 </table>
+
+### Contact
+
+- #### Email id: semanticclimate@gmail.com
+- #### X : https://x.com/semanticClimate
+- #### LinkedIn: https://www.linkedin.com/company/semanticclimate/

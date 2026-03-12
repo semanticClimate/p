@@ -67,6 +67,10 @@ We transform and enrich climate-related documents to make them understandable, u
 
 ## Contact us!
 
+- #### Email id: semanticclimate@gmail.com
+- #### X : https://x.com/semanticClimate
+- #### LinkedIn: https://www.linkedin.com/company/semanticclimate/
+
 ### Join as Volunteer!
 
 <a href="mailto:semanticclimate+volunteer@gmail.com?subject=I want to be a #semanticClimate Volunteer!&body=I want to volunteer for the #semanticClimate task force!">Introduce yourself</a> to us, and we'll introduce you to the world of difference you can make — given the right opportunity!
