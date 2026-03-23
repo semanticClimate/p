@@ -98,7 +98,7 @@ This introduces participants to practical methods for extracting biodiversity da
 
 ### Program 
 
-- #### [CLICK HERE to read full program](https://drive.google.com/file/d/1gZ9xGszMBkZdIaR9RDw40vjczoigZRGa/view?usp=sharing)
+- #### [CLICK HERE to read full program](https://drive.google.com/file/d/1MnE29xQZsccMgyrUB0PvsCnj7LLdpqlF/view?usp=sharing)
 
 ### Day 1 (24 March, 2026) : INAUGURAL SESSION 
 <table>
