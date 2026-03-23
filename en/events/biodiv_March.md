@@ -1,5 +1,5 @@
 ---
-title: Liberating Biodiversity Data - Extraction & FAIR Reuse
+title: CODATA India Workshop on Liberation, Extraction & Reuse of Data
 date: 2026-03-24
 featured: true
 description: Hands-on Workshop on Biodiversity Informatics 
@@ -81,6 +81,70 @@ This introduces participants to practical methods for extracting biodiversity da
 - Dr. Narendra Kumar, BRIC-NII
 - Dr. Felipe Simões: Plazi, Brazil
 
+### Speakers 
+- Dr. Gitanjali Yadav, BRIC-NIPGR | CODATA India
+- Dr. D. Chattopadhyay, Director NIPGR
+- Dr. D. Mohanty, Director NII, CODATA India National Committee Chairperson
+- Dr. Shruti Rai Bhardwaj, Director, Ministry of Environment Forest & Climate Change, GoI
+- Prof. Manzoor Shah, University of Kashmir, Srinagar
+- Dr. Gautam Talukdar, Wildlife Institute of India (WII), Dehradun
+- Prof. Suresh Babu, Director CUES, AUD
+- Dr. Donat Agosti, Founder, PLAZI, Switzerland
+- Dr. Julia Giora, PLAZI
+- Dr. Felipe Simoes, PLAZI
+- Dr. Renu Kumari, semanticClimate
+- Mr. Karthikeyan, BRIC-NII, New Delhi
+- Ms. Priti, BRIC-NIPGR
+
 ### Program 
 
-- #### [CLICK HERE](https://drive.google.com/file/d/1gZ9xGszMBkZdIaR9RDw40vjczoigZRGa/view?usp=sharing)
+- #### [CLICK HERE to read full program](https://drive.google.com/file/d/1gZ9xGszMBkZdIaR9RDw40vjczoigZRGa/view?usp=sharing)
+
+### Day 1 (24 March, 2026) : INAUGURAL SESSION 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/program_day1.png.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### Day 1 (24 March, 2026) : CONTEXT AND VISION 
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/program_day1_2.png.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### Day 2 (25 March, 2026) : FROM LITERATURE TO DATA 
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/program_day2.png.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### Day 3 (26 March, 2026) : REPOSITORIES AND REUSE 
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/program_day3.png.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### Day 4 (27 March, 2026) : INTEGRATION AND OUTCOMES
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/program_day4.png.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
