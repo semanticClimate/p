@@ -104,7 +104,7 @@ This introduces participants to practical methods for extracting biodiversity da
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/program_day1.png.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events2026/program_day1.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ This introduces participants to practical methods for extracting biodiversity da
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/program_day1_2.png.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events2026/program_day1_2.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@ This introduces participants to practical methods for extracting biodiversity da
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/program_day2.png.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events2026/program_day2.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ This introduces participants to practical methods for extracting biodiversity da
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/program_day3.png.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events2026/program_day3.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -144,7 +144,7 @@ This introduces participants to practical methods for extracting biodiversity da
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/program_day4.png.png" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/events2026/program_day4.png" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
