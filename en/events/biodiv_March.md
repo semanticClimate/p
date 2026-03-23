@@ -64,8 +64,11 @@ This introduces participants to practical methods for extracting biodiversity da
 #### MARCH 24 - 27, 2026
 
 ### Venue
-- Inaugural session at Indian National Science Academy (INSA), Bahadur Shah Zafar Marg, New Delhi – 110002 
-- Hands-on session at National Institute of Immunology (BRIC-NII), New Delhi - 110067
+
+**BRIC-National Institute of Plant Genome Research (BRIC-NIPGR)**
+
+**Aruna Asaf Ali Marg, New Delhi, India**
+  
 
 ### Registration
 
@@ -77,3 +80,7 @@ This introduces participants to practical methods for extracting biodiversity da
 - Dr. Julia Giora : Plazi, Brazil
 - Dr. Narendra Kumar, BRIC-NII
 - Dr. Felipe Simões: Plazi, Brazil
+
+### Program 
+
+- #### [CLICK HERE](https://drive.google.com/file/d/1gZ9xGszMBkZdIaR9RDw40vjczoigZRGa/view?usp=sharing)
