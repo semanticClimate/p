@@ -148,3 +148,29 @@ This introduces participants to practical methods for extracting biodiversity da
     </td>
   </tr>
 </table>
+
+### Event Pictures | [See more]()
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug2.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug3.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>

@@ -12,6 +12,16 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### CODATA India Workshop on Liberation, Extraction & Reuse of Data | March 24-27, 2026 | [See more](../../posts/biodiv2026_pics/)
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ### FAIR and Reproducible Structural Biology | Jan 28, 2026 | [See more](../../posts/bioAIJan2026_pics/)
 
 <table>
