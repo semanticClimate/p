@@ -82,6 +82,15 @@ This introduces participants to practical methods for extracting biodiversity da
 - Dr. Felipe Simões: Plazi, Brazil
 
 ### Speakers 
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/speakers_pic.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 - Dr. Gitanjali Yadav, BRIC-NIPGR | CODATA India
 - Dr. D. Chattopadhyay, Director NIPGR
 - Dr. D. Mohanty, Director NII, CODATA India National Committee Chairperson
@@ -96,11 +105,22 @@ This introduces participants to practical methods for extracting biodiversity da
 - Mr. Karthikeyan, BRIC-NII, New Delhi
 - Ms. Priti, BRIC-NIPGR
 
+### Delegates
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/all_delegates.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ### Program 
 
 - #### [CLICK HERE to read full program](https://drive.google.com/file/d/1MnE29xQZsccMgyrUB0PvsCnj7LLdpqlF/view?usp=sharing)
 
 ### Day 1 (24 March, 2026) : INAUGURAL SESSION 
+
 <table>
   <tr>
     <td>
