@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-04-08T10:17:56Z</updated>
+	<updated>2026-04-13T09:50:01Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3232,6 +3232,69 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<id>/p/en/posts/demotutorial/</id>
 		<content type="html">&lt;p&gt;These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;CLICK HERE to see all #semanticclimate video playlist&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;CODATA India Hands-on Workshop on &lt;strong&gt;Liberation, Extraction &amp;amp; FAIR Reuse of Data&lt;/strong&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=2-ylszYZ5V4&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/2-ylszYZ5V4/hqdefault.jpg&quot; alt=&quot;Inaugural address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Inaugural Address by Dr. Gitanjali Yadav:&lt;/strong&gt; Introduction to the CODATA India Hands-on Workshop on “Liberation, Extraction &amp; FAIR Reuse of Data”.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=EyS7PyzMDS8&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/EyS7PyzMDS8/hqdefault.jpg&quot; alt=&quot;Welcome address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Welcome Address by Dr. D. Chattopadhyay, Director BRIC-NIPGR:&lt;/strong&gt; Highlighting the importance of transforming scientific publications and biodiversity data into structured, reusable knowledge.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=X7eCITXNaJM&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/X7eCITXNaJM/hqdefault.jpg&quot; alt=&quot;day 1 session 1&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;The Plazi workflow by Dr. Felipe Simoes, PLAZI:&lt;/strong&gt; Access and reuse of biodiversity data.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=LjPgTlplvJw&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/LjPgTlplvJw/hqdefault.jpg&quot; alt=&quot;day 2 session 2&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Prof. Manzoor Shah, Univ of Kashmir, Srinagar:&lt;/strong&gt; Long Term Bioidiversity Informatics Research.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;FAIR and Reproducible Structural Biology&lt;/h3&gt;
