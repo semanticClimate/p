@@ -169,7 +169,7 @@ This introduces participants to practical methods for extracting biodiversity da
   </tr>
 </table>
 
-## Session Recordings 
+### Session Recordings 
 - ### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/demotutorial/)
 
 ### Event Pictures | [See more](https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/)

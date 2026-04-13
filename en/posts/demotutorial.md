@@ -102,6 +102,23 @@ These are the video presentations for software tutorial and the work presented i
     </p>
   </div>
 
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=ky1Ow06_acM" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/ky1Ow06_acM/hqdefault.jpg"
+           alt="day 1 session 3"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Ms. Priti, BRIC-NIPGR:</strong> Hands-on demonstration of the semantic toolkit using a Colab notebook.
+    </p>
+  </div>
+
 </div>
 
 - ### FAIR and Reproducible Structural Biology 
