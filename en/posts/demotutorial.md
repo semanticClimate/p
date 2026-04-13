@@ -13,7 +13,7 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
-- ### CODATA India Hands-on Workshop on **Liberation, Extraction & FAIR Reuse of Data**
+- ### CODATA India Hands-on Workshop on **Liberation, Extraction & FAIR Reuse of Data** | 24-27 March, 2026
 
 <div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
 
