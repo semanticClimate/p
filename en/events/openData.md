@@ -23,7 +23,7 @@ The conference also explored the evolving role of open data and data infrastruct
   </tr>
 </table>
 
-The #semanticClimate team was represented by Dr. Renu Kumari, who delivered a lightning talk titled: **“Climate Open Data and #semanticClimate”**
+The #semanticClimate team was represented by **Dr. Renu Kumari**, who delivered a lightning talk titled: **“Climate Open Data and #semanticClimate”**
 
 This presentation highlighted how semantic technologies and open data frameworks can transform climate knowledge extraction, accessibility, and reuse.
 
@@ -65,4 +65,6 @@ The session emphasized the importance of combining AI, open data, and semantic t
     <h5 style="font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; color: #000000;>Climate Open Data and #semanticClimate | Dr. Renu Kumari</h5>
   </div>
 </div>
+
+#### [CLICK HERE to see recordings of other sessions](https://blog.okfn.org/2026/03/17/the-future-of-open-data-video-documentation/)
 
