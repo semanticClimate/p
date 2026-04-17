@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-04-16T06:10:12Z</updated>
+	<updated>2026-04-17T09:20:31Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3268,6 +3268,20 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
   &lt;/div&gt;
   &lt;!-- Session info --&gt;
   &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=fPkISz5SCOw&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/fPkISz5SCOw/hqdefault.jpg&quot; alt=&quot;Keynote address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Keynote Address by Dr. Shruti Rai Bhardwaj,&lt;/strong&gt; Director, Ministry of Environment Forest &amp; Climate Change, Govt. of India.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
     &lt;a href=&quot;https://www.youtube.com/watch?v=X7eCITXNaJM&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
       &lt;img src=&quot;https://img.youtube.com/vi/X7eCITXNaJM/hqdefault.jpg&quot; alt=&quot;day 1 session 1&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
       &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
@@ -3334,6 +3348,20 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
     &lt;/a&gt;
     &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
       &lt;strong&gt;Mr. Karthikeyan, BRIC-NII:&lt;/strong&gt; Interactive Taxon Visualisation: FlumenPlot.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=P7TgSI3H8wQ&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/P7TgSI3H8wQ/hqdefault.jpg&quot; alt=&quot;Day 2 Session 4&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Dr. Donat Agosti, Founder, PLAZI, Switzerland:&lt;/strong&gt; The Libroscope - Liberating Biodiversity Data.
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;!-- Session info --&gt;
@@ -3407,6 +3435,55 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;CODATA India Hands-on Workshop | Team Presentations, Feedback and Discussion | 24-27 March, 2026&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=3-z3mHPzWRI&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/3-z3mHPzWRI/hqdefault.jpg&quot; alt=&quot;Team 1 presentation&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Team name - Alien Species,&lt;/strong&gt; Title of the presentation: &quot;Demonstration of extraction &amp; reuse of data in invasion ecology using PLAZI and #semanticClimate toolkits&quot;.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=sbOYZRDAueA&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/sbOYZRDAueA/hqdefault.jpg&quot; alt=&quot;Team 2 presentation&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Team name - AR Group,&lt;/strong&gt; Title of the presentation: &quot;Contributions of Soylab&quot;.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=GS-eRllCDzg&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/GS-eRllCDzg/hqdefault.jpg&quot; alt=&quot;Team 3 presentation&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Team name - gene xplorers,&lt;/strong&gt; Title of the presentation: &quot;Identification of Stress Responsive Genes in Plants Using Literature Mining &amp; Semantic Tools&quot;.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;FAIR and Reproducible Structural Biology&lt;/h3&gt;
