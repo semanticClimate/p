@@ -53,6 +53,23 @@ These are the video presentations for software tutorial and the work presented i
 
   <!-- Session info -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=fPkISz5SCOw" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/fPkISz5SCOw/hqdefault.jpg"
+           alt="Keynote address"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Keynote Address by Dr. Shruti Rai Bhardwaj,</strong> Director, Ministry of Environment Forest & Climate Change, Govt. of India.
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
     <a href="https://www.youtube.com/watch?v=X7eCITXNaJM" target="_blank" style="position: relative; display: block;">
       <img src="https://img.youtube.com/vi/X7eCITXNaJM/hqdefault.jpg"
            alt="day 1 session 1"
@@ -133,6 +150,23 @@ These are the video presentations for software tutorial and the work presented i
     </a>
     <p style="margin-top:8px; font-size:0.95rem;">
       <strong>Mr. Karthikeyan, BRIC-NII:</strong> Interactive Taxon Visualisation: FlumenPlot.
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=P7TgSI3H8wQ" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/P7TgSI3H8wQ/hqdefault.jpg"
+           alt="Day 2 Session 4"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Dr. Donat Agosti, Founder, PLAZI, Switzerland:</strong> The Libroscope - Liberating Biodiversity Data.
     </p>
   </div>
 
@@ -220,8 +254,64 @@ These are the video presentations for software tutorial and the work presented i
       <strong>Ms. Priti, BRIC-NIPGR:</strong> Advanced query search using the OpenAlex interface.
     </p>
   </div>
-
 </div>
+
+- ### CODATA India Hands-on Workshop | Team Presentations, Feedback and Discussion | 24-27 March, 2026
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=3-z3mHPzWRI" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/3-z3mHPzWRI/hqdefault.jpg"
+           alt="Team 1 presentation"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Team name - Alien Species,</strong> Title of the presentation: "Demonstration of extraction & reuse of data in invasion ecology using PLAZI and #semanticClimate toolkits".
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=sbOYZRDAueA" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/sbOYZRDAueA/hqdefault.jpg"
+           alt="Team 2 presentation"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Team name - AR Group,</strong> Title of the presentation: "Contributions of Soylab".
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=GS-eRllCDzg" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/GS-eRllCDzg/hqdefault.jpg"
+           alt="Team 3 presentation"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Team name - gene xplorers,</strong> Title of the presentation: "Identification of Stress Responsive Genes in Plants Using Literature Mining & Semantic Tools".
+    </p>
+  </div>
+
+</div>  
 
 - ### FAIR and Reproducible Structural Biology 
 
