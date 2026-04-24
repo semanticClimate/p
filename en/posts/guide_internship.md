@@ -24,11 +24,13 @@ You will be required to install and alpha test the semanticClimate toolkits. The
 
 The tools are the following:
 
+- [txt2phrases](https://github.com/semanticClimate/txt2phrases)
+- [encyclopedia](https://github.com/semanticClimate/encyclopedia)
 - [amilib](https://github.com/petermr/amilib)
-- [amiclimate](https://github.com/petermr/amiclimate)
 - [pygetpapers](https://github.com/petermr/pygetpapers)
 - [docanalysis](https://github.com/petermr/docanalysis)
-  
+
+### [Read more about the tools](https://semanticclimate.github.io/p/en/tools/) 
 
 Here’s a list of general **joining tasks for interns**:
 
@@ -55,7 +57,7 @@ Here’s a list of general **joining tasks for interns**:
 - Step 9: Report the errors if any to the [amilib](https://github.com/petermr/amilib) repository in the [issue section](https://github.com/petermr/amilib/issues). 
 
 ### PHASE 2: PROGRESSING
-- Follow the similar steps mentioned for **amilib** for cloning and running `pytest` for **[amiclimate](https://github.com/petermr/amiclimate)** repository.
+- Follow the similar steps mentioned for **amilib** for cloning and running `pytest` for any software repository.
   
 ### PHASE 3: LEARNING `git` COMMANDS
 
