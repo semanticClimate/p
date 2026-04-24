@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-04-24T06:29:09Z</updated>
+	<updated>2026-04-24T06:53:39Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3523,6 +3523,20 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
     &lt;/a&gt;
     &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
       &lt;strong&gt;Team name - Night Shade,&lt;/strong&gt; Title of the presentation: &quot;An integrated approach to in-silico phylogenetic analysis of Solanaceae using modern data tools&quot;.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=B3ZlWVIuBXY&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/B3ZlWVIuBXY/hqdefault.jpg&quot; alt=&quot;Team presentation&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Team name - Phylomorph,&lt;/strong&gt; Title of the presentation: &quot;FAIR Reuse of Biodiversity Data using PLAZI platform&quot;.
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;  
