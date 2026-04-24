@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-04-24T06:53:39Z</updated>
+	<updated>2026-04-24T07:52:07Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -4612,11 +4612,13 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;p&gt;You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.&lt;/p&gt;
 &lt;p&gt;The tools are the following:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/txt2phrases&quot;&gt;txt2phrases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;encyclopedia&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amiclimate&quot;&gt;amiclimate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/tools/&quot;&gt;Read more about the tools&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Here’s a list of general &lt;strong&gt;joining tasks for interns&lt;/strong&gt;:&lt;/p&gt;
 &lt;h3&gt;PHASE 0: ONBOARDING&lt;/h3&gt;
 &lt;ul&gt;
@@ -4642,7 +4644,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 2: PROGRESSING&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Follow the similar steps mentioned for &lt;strong&gt;amilib&lt;/strong&gt; for cloning and running &lt;code&gt;pytest&lt;/code&gt; for &lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/amiclimate&quot;&gt;amiclimate&lt;/a&gt;&lt;/strong&gt; repository.&lt;/li&gt;
+&lt;li&gt;Follow the similar steps mentioned for &lt;strong&gt;amilib&lt;/strong&gt; for cloning and running &lt;code&gt;pytest&lt;/code&gt; for any software repository.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;PHASE 3: LEARNING &lt;code&gt;git&lt;/code&gt; COMMANDS&lt;/h3&gt;
 &lt;p&gt;Here are some essential &lt;code&gt;git&lt;/code&gt; commands along with descriptions of their functionalities:&lt;/p&gt;
