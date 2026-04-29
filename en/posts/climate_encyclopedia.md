@@ -62,7 +62,7 @@ This includes two main subprojects that work together to process climate reports
 
 - #### [GitHub Repository](https://github.com/semanticClimate/encyclopedia)
 
-- #### [Installation Giude](https://github.com/semanticClimate/encyclopedia/blob/main/README.md)
+- #### [Installation Guide](https://github.com/semanticClimate/encyclopedia/blob/main/README.md)
 
 ### Workflow
 
