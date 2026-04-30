@@ -9,32 +9,73 @@ tags:
   - hackathon
 ---
 
-## **A beginner's guide to #semanticClimate**
+## 🌍 A Beginner’s Guide to #semanticClimate
 
-Welcome to the beginner's guide to #semanticClimate.
+Welcome to the **#semanticClimate Internship Program** — a hands-on opportunity to contribute to climate knowledge while building valuable technical skills.
 
-Starting an internship with us is a great way to help fight climate change.
+This internship allows you to work at the intersection of **climate science, data analysis, and semantic technologies**, helping transform complex climate reports into structured, accessible knowledge.
 
-Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.
+---
 
-The internship duration varies from 12 weeks to 6 months. It can be online as well as offline.
+## 🚀 Why Join?
 
-## The Program 
-You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.
+Interns are at the core of our work. By contributing to real-world climate data projects, you will:
+
+- Support efforts to make climate knowledge more accessible  
+- Work with real scientific reports (e.g., IPCC)  
+- Gain practical experience in tools, data analysis, and research workflows  
+- Develop transferable skills in **NLP, data processing, and web-based systems**
+
+---
+
+## ⏳ Internship Duration
+
+- **Duration:** 12 weeks to 6 months  
+- **Mode:** Online or Offline (flexible)  
+
+---
+
+## 🛠️ The Program
+
+As an intern, you will install, test, and work with **semanticClimate toolkits** designed for analyzing and structuring climate reports.
+
+These tools help convert unstructured documents into meaningful, machine-readable knowledge.
 
 The tools are the following:
 
-- [txt2phrases](https://github.com/semanticClimate/txt2phrases)
-- [encyclopedia](https://github.com/semanticClimate/encyclopedia)
-- [amilib](https://github.com/petermr/amilib)
-- [pygetpapers](https://github.com/petermr/pygetpapers)
-- [docanalysis](https://github.com/petermr/docanalysis)
+- [txt2phrases](https://github.com/semanticClimate/txt2phrases) : Extract key terms and phrases
+- [encyclopedia](https://github.com/semanticClimate/encyclopedia) : Build structured knowledge resources  
+- [amilib](https://github.com/petermr/amilib) : Process and annotate scientific documents
+- [pygetpapers](https://github.com/petermr/pygetpapers) : Retrieve research papers
+- [docanalysis](https://github.com/petermr/docanalysis) : Analyze and explore document content 
 
-### [Read more about the tools](https://semanticclimate.github.io/p/en/tools/) 
+### [Explore more about these tools](https://semanticclimate.github.io/p/en/tools/) 
 
-Here’s a list of general **joining tasks for interns**:
+## 📋 Getting Started
 
-### PHASE 0: ONBOARDING
+Here’s a list of **general tasks to begin your internship**:
+
+- Set up the development environment  
+- Install required tools and dependencies  
+- Run initial tests on sample climate documents  
+- Explore tool functionalities and outputs  
+- Document your observations and progress  
+
+---
+
+## 🌱 What You’ll Gain
+
+- Experience working with **real climate data**  
+- Skills in **text mining, NLP, and knowledge extraction**  
+- Exposure to **semantic web and knowledge graph concepts**  
+- Hands-on experience with collaborative and research workflows  
+
+## 🧭 Internship Workflow
+
+## 🟢 PHASE 0: ONBOARDING
+
+Set up your basic development environment:
+
 * Install [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installation/)
 * Install [git](https://git-scm.com/downloads) and get an ID on [GitHub](https://github.com/)
 * install [pytest](https://docs.pytest.org/en/stable/getting-started.html)
@@ -42,72 +83,82 @@ Here’s a list of general **joining tasks for interns**:
 * have an IDE ([VSCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows#section=windows), etc.). Go for the freely accessible community editions.
 * learn the basics of [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### PHASE 1: UNIT TESTING
+## 🧪 PHASE 1: UNIT TESTING (amilib)
+
+Learn to run tests on a real project.
 
 #### Cloning **amilib** repository from `github` and running `pytest` from commandline/terminal
 
-- Step 1: open the terminal.
-- Step 2: Make directory where you want to save the repository. 
-- Step 3: Go to that directory with **cd**
-- Step 4: Clone the repository with this **git clone https://github.com/petermr/amilib.git**
-- Step 5: Go to the specific directory with **cd amilib**
-- Step 6: Check the branch for running the test and then checkout to that branch **git checkout [branch name]**
-- Step 7: Do **git pull** for fetching all the changes made remotely to the local repository.
-- Step 8: Run all the test with **pytest**
-- Step 9: Report the errors if any to the [amilib](https://github.com/petermr/amilib) repository in the [issue section](https://github.com/petermr/amilib/issues). 
+1. Open your terminal  
+2. Create a working directory:
+   ```bash
+   mkdir myproject
+   cd myproject
 
-### PHASE 2: PROGRESSING
-- Follow the similar steps mentioned for **amilib** for cloning and running `pytest` for any software repository.
-  
-### PHASE 3: LEARNING `git` COMMANDS
+3. Clone the repository 
+   ```bash
+   git clone https://github.com/petermr/amilib.git
 
-Here are some essential `git` commands along with descriptions of their functionalities:
+4. Navigate into the folder:
+   
+   ```bash
+   cd amilib
 
-- **git clone** `repository URL`
-  
-    - Copies an existing repository from a remote server to your local machine. The repository URL can be an HTTP(s) URL or an SSH URL.
-  
-- **git status**
-  
-    - Displays the state of the working directory and the staging area. It shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
-  
-- **git add** `file`
+5. Check available branches:
+   ```bash
+   git branch -a
 
-    - Adds the specified file to the staging area, making it ready to be committed. You can also use `git add .` to stage all changes in the current directory.
+6. Switch to the required branch:
+   ```bash
+   git checkout [branch-name]
 
-- **git commit -m "message"**
-  
-    - Records the changes in the staging area to the repository with a descriptive commit message.
+7. Pull latest updates:
+   ```bash
+   git pull
 
-- **git push** `remote` `branch`
+8. Run all the test:
+   ```bash
+   pytest
 
-    - Uploads local branch commits to the remote repository branch. For example, `git push origin main` pushes changes to the `main branch` of the remote repository named `origin`.
+9. Report any issues on the GitHub repository [issue section](https://github.com/petermr/amilib/issues).
 
-- **git pull** `remote` `branch`
+## 🔄 PHASE 2: PROGRESSING
 
-    - Fetches and integrates changes from the remote repository to your local working directory. This command is a combination of `git fetch` and `git merge`.
+- Apply the same workflow used in Phase 1 to other repositories  
+- Clone → Setup → Run tests → Analyze results  
+- Explore different tools and understand their functionalities  
+- Document errors, observations, and learning outcomes  
+- Gradually work independently with minimal guidance
 
-- **git branch**
-  
-    - Lists all the branches in your repository. Adding an argument like `git branch [branch-name]` creates a new branch.
+## 🔧 PHASE 3: LEARNING GIT COMMANDS
 
-- **git checkout** `branch name`
+### Essential Git Commands
 
-    - Switches to the specified branch. 
+| Command | Description |
+|--------|-------------|
+| `git clone <url>` | Copy a remote repository to your local machine. The repository URL can be an HTTP(s) URL or an SSH URL. |
+| `git status` | Check current changes and file states |
+| `git add <file>` | Adds the specified file to the staging area, making it ready to be committed. |
+| `git commit -m "message"` | Save changes with a message |
+| `git push origin <branch>` | Uploads local branch commits to the remote repository branch. |
+| `git pull origin <branch>` | Fetches and integrates changes from the remote repository to your local working directory. |
+| `git branch` | List or create branches |
+| `git checkout <branch>` | Switches to the specified branch.  |
+| `git stash` | Temporarily save changes |
 
-- **git stash**
-
-    - Temporarily shelves (or "stashes") changes in the working directory that are not ready to be committed. Use `git stash pop` to reapply the stashed changes later.
-
-### How to create new branch of a repository
+👉 Learn how to create a new branch
 
 - **[CLICK HERE](https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md) to Read the steps**
 
-### Learn to use Regular expression (regex)
+👉 Learn Regular Expressions (Regex):
 
 - **[CLICK HERE](https://semanticclimate.github.io/p/en/posts/tut_regex/)**
 
-### PHASE 4: Climate Report Selection [Click Here to read the structure of IPCC/AR6 reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
+---
+
+## 🌍 PHASE 4: CLIMATE REPORT SELECTION 
+- [Click Here to read the structure of IPCC/AR6 reports](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
+  
 * Go to either [IPCC](https://www.ipcc.ch/) official website or see the **structure of the IPCC Reports** from [HERE](https://semanticclimate.github.io/p/en/posts/ipcc_resources/)
 * Navigate through the different working groups.
 * Watch the presentation **[video](https://www.youtube.com/watch?v=3DDhtrAmzsc&list=PLtKHReMoCMwmmlDDTbDQx2A3oHgQXw4mT&index=1)** for the overview of IPCC/AR6 report.
