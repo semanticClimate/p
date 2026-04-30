@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-04-30T11:13:23Z</updated>
+	<updated>2026-04-30T11:46:02Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -4603,24 +4603,57 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 		<link href="/p/en/posts/guide_internship/"/>
 		<updated>2024-06-06T00:00:00Z</updated>
 		<id>/p/en/posts/guide_internship/</id>
-		<content type="html">&lt;h2&gt;&lt;strong&gt;A beginner&#39;s guide to #semanticClimate&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Welcome to the beginner&#39;s guide to #semanticClimate.&lt;/p&gt;
-&lt;p&gt;Starting an internship with us is a great way to help fight climate change.&lt;/p&gt;
-&lt;p&gt;Interns are at the core of our work. They commit to work in our program and in return create great value for the world and also learn a great set of transferable skills.&lt;/p&gt;
-&lt;p&gt;The internship duration varies from 12 weeks to 6 months. It can be online as well as offline.&lt;/p&gt;
-&lt;h2&gt;The Program&lt;/h2&gt;
-&lt;p&gt;You will be required to install and alpha test the semanticClimate toolkits. These tools will be used to do analysis of climate reports.&lt;/p&gt;
+		<content type="html">&lt;h2&gt;🌍 A Beginner’s Guide to #semanticClimate&lt;/h2&gt;
+&lt;p&gt;Welcome to the &lt;strong&gt;#semanticClimate Internship Program&lt;/strong&gt; — a hands-on opportunity to contribute to climate knowledge while building valuable technical skills.&lt;/p&gt;
+&lt;p&gt;This internship allows you to work at the intersection of &lt;strong&gt;climate science, data analysis, and semantic technologies&lt;/strong&gt;, helping transform complex climate reports into structured, accessible knowledge.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;🚀 Why Join?&lt;/h2&gt;
+&lt;p&gt;Interns are at the core of our work. By contributing to real-world climate data projects, you will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support efforts to make climate knowledge more accessible&lt;/li&gt;
+&lt;li&gt;Work with real scientific reports (e.g., IPCC)&lt;/li&gt;
+&lt;li&gt;Gain practical experience in tools, data analysis, and research workflows&lt;/li&gt;
+&lt;li&gt;Develop transferable skills in &lt;strong&gt;NLP, data processing, and web-based systems&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;⏳ Internship Duration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 12 weeks to 6 months&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mode:&lt;/strong&gt; Online or Offline (flexible)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;🛠️ The Program&lt;/h2&gt;
+&lt;p&gt;As an intern, you will install, test, and work with &lt;strong&gt;semanticClimate toolkits&lt;/strong&gt; designed for analyzing and structuring climate reports.&lt;/p&gt;
+&lt;p&gt;These tools help convert unstructured documents into meaningful, machine-readable knowledge.&lt;/p&gt;
 &lt;p&gt;The tools are the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/txt2phrases&quot;&gt;txt2phrases&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;encyclopedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/txt2phrases&quot;&gt;txt2phrases&lt;/a&gt; : Extract key terms and phrases&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;encyclopedia&lt;/a&gt; : Build structured knowledge resources&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; : Process and annotate scientific documents&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;pygetpapers&lt;/a&gt; : Retrieve research papers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/petermr/docanalysis&quot;&gt;docanalysis&lt;/a&gt; : Analyze and explore document content&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/tools/&quot;&gt;Read more about the tools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Here’s a list of general &lt;strong&gt;joining tasks for interns&lt;/strong&gt;:&lt;/p&gt;
-&lt;h3&gt;PHASE 0: ONBOARDING&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/tools/&quot;&gt;Explore more about these tools&lt;/a&gt;&lt;/h3&gt;
+&lt;h2&gt;📋 Getting Started&lt;/h2&gt;
+&lt;p&gt;Here’s a list of &lt;strong&gt;general tasks to begin your internship&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up the development environment&lt;/li&gt;
+&lt;li&gt;Install required tools and dependencies&lt;/li&gt;
+&lt;li&gt;Run initial tests on sample climate documents&lt;/li&gt;
+&lt;li&gt;Explore tool functionalities and outputs&lt;/li&gt;
+&lt;li&gt;Document your observations and progress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;🌱 What You’ll Gain&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working with &lt;strong&gt;real climate data&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Skills in &lt;strong&gt;text mining, NLP, and knowledge extraction&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Exposure to &lt;strong&gt;semantic web and knowledge graph concepts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Hands-on experience with collaborative and research workflows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🧭 Internship Workflow&lt;/h2&gt;
+&lt;h2&gt;🟢 PHASE 0: ONBOARDING&lt;/h2&gt;
+&lt;p&gt;Set up your basic development environment:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Install &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;python&lt;/a&gt; and &lt;a href=&quot;https://pip.pypa.io/en/stable/installation/&quot;&gt;pip&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Install &lt;a href=&quot;https://git-scm.com/downloads&quot;&gt;git&lt;/a&gt; and get an ID on &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
@@ -4629,90 +4662,129 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;li&gt;have an IDE (&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VSCode&lt;/a&gt;, &lt;a href=&quot;https://www.jetbrains.com/pycharm/download/?section=windows#section=windows&quot;&gt;PyCharm&lt;/a&gt;, etc.). Go for the freely accessible community editions.&lt;/li&gt;
 &lt;li&gt;learn the basics of &lt;a href=&quot;https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;PHASE 1: UNIT TESTING&lt;/h3&gt;
+&lt;h2&gt;🧪 PHASE 1: UNIT TESTING (amilib)&lt;/h2&gt;
+&lt;p&gt;Learn to run tests on a real project.&lt;/p&gt;
 &lt;h4&gt;Cloning &lt;strong&gt;amilib&lt;/strong&gt; repository from &lt;code&gt;github&lt;/code&gt; and running &lt;code&gt;pytest&lt;/code&gt; from commandline/terminal&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Step 1: open the terminal.&lt;/li&gt;
-&lt;li&gt;Step 2: Make directory where you want to save the repository.&lt;/li&gt;
-&lt;li&gt;Step 3: Go to that directory with &lt;strong&gt;cd&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Step 4: Clone the repository with this &lt;strong&gt;git clone https://github.com/petermr/amilib.git&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Step 5: Go to the specific directory with &lt;strong&gt;cd amilib&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Step 6: Check the branch for running the test and then checkout to that branch &lt;strong&gt;git checkout [branch name]&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Step 7: Do &lt;strong&gt;git pull&lt;/strong&gt; for fetching all the changes made remotely to the local repository.&lt;/li&gt;
-&lt;li&gt;Step 8: Run all the test with &lt;strong&gt;pytest&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Step 9: Report the errors if any to the &lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; repository in the &lt;a href=&quot;https://github.com/petermr/amilib/issues&quot;&gt;issue section&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;PHASE 2: PROGRESSING&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Follow the similar steps mentioned for &lt;strong&gt;amilib&lt;/strong&gt; for cloning and running &lt;code&gt;pytest&lt;/code&gt; for any software repository.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;PHASE 3: LEARNING &lt;code&gt;git&lt;/code&gt; COMMANDS&lt;/h3&gt;
-&lt;p&gt;Here are some essential &lt;code&gt;git&lt;/code&gt; commands along with descriptions of their functionalities:&lt;/p&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git clone&lt;/strong&gt; &lt;code&gt;repository URL&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Copies an existing repository from a remote server to your local machine. The repository URL can be an HTTP(s) URL or an SSH URL.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Open your terminal&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git status&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Displays the state of the working directory and the staging area. It shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Create a working directory:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;mkdir myproject
+cd myproject
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git add&lt;/strong&gt; &lt;code&gt;file&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Adds the specified file to the staging area, making it ready to be committed. You can also use &lt;code&gt;git add .&lt;/code&gt; to stage all changes in the current directory.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Clone the repository&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git clone https://github.com/petermr/amilib.git
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git commit -m &amp;quot;message&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Records the changes in the staging area to the repository with a descriptive commit message.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Navigate into the folder:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;cd amilib
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git push&lt;/strong&gt; &lt;code&gt;remote&lt;/code&gt; &lt;code&gt;branch&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Uploads local branch commits to the remote repository branch. For example, &lt;code&gt;git push origin main&lt;/code&gt; pushes changes to the &lt;code&gt;main branch&lt;/code&gt; of the remote repository named &lt;code&gt;origin&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Check available branches:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git branch -a
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git pull&lt;/strong&gt; &lt;code&gt;remote&lt;/code&gt; &lt;code&gt;branch&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fetches and integrates changes from the remote repository to your local working directory. This command is a combination of &lt;code&gt;git fetch&lt;/code&gt; and &lt;code&gt;git merge&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Switch to the required branch:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git checkout [branch-name]
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git branch&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lists all the branches in your repository. Adding an argument like &lt;code&gt;git branch [branch-name]&lt;/code&gt; creates a new branch.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Pull latest updates:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;git pull
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git checkout&lt;/strong&gt; &lt;code&gt;branch name&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Switches to the specified branch.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Run all the test:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;pytest
+
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;git stash&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Temporarily shelves (or &amp;quot;stashes&amp;quot;) changes in the working directory that are not ready to be committed. Use &lt;code&gt;git stash pop&lt;/code&gt; to reapply the stashed changes later.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Report any issues on the GitHub repository &lt;a href=&quot;https://github.com/petermr/amilib/issues&quot;&gt;issue section&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;🔄 PHASE 2: PROGRESSING&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply the same workflow used in Phase 1 to other repositories&lt;/li&gt;
+&lt;li&gt;Clone → Setup → Run tests → Analyze results&lt;/li&gt;
+&lt;li&gt;Explore different tools and understand their functionalities&lt;/li&gt;
+&lt;li&gt;Document errors, observations, and learning outcomes&lt;/li&gt;
+&lt;li&gt;Gradually work independently with minimal guidance&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;How to create new branch of a repository&lt;/h3&gt;
+&lt;h2&gt;🔧 PHASE 3: LEARNING GIT COMMANDS&lt;/h2&gt;
+&lt;h3&gt;Essential Git Commands&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git clone &amp;lt;url&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Copy a remote repository to your local machine. The repository URL can be an HTTP(s) URL or an SSH URL.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Check current changes and file states&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git add &amp;lt;file&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Adds the specified file to the staging area, making it ready to be committed.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git commit -m &amp;quot;message&amp;quot;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Save changes with a message&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git push origin &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Uploads local branch commits to the remote repository branch.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git pull origin &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Fetches and integrates changes from the remote repository to your local working directory.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git branch&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;List or create branches&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git checkout &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Switches to the specified branch.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;git stash&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Temporarily save changes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;👉 Learn how to create a new branch&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/petermr/amilib/blob/parijat_test/Creating_a_new_branch_on_github.md&quot;&gt;CLICK HERE&lt;/a&gt; to Read the steps&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Learn to use Regular expression (regex)&lt;/h3&gt;
+&lt;p&gt;👉 Learn Regular Expressions (Regex):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/tut_regex/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;PHASE 4: Climate Report Selection &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;Click Here to read the structure of IPCC/AR6 reports&lt;/a&gt;&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;h2&gt;🌍 PHASE 4: CLIMATE REPORT SELECTION&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;Click Here to read the structure of IPCC/AR6 reports&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;Go to either &lt;a href=&quot;https://www.ipcc.ch/&quot;&gt;IPCC&lt;/a&gt; official website or see the &lt;strong&gt;structure of the IPCC Reports&lt;/strong&gt; from &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/ipcc_resources/&quot;&gt;HERE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Navigate through the different working groups.&lt;/li&gt;
