@@ -18,10 +18,14 @@ This interactive session will bring together researchers, developers, educators,
 
 ### Event Details
 
-#### Event Title: AI Learning Labs – Responsible Climate Chatbots
+#### Event Title: 
+
+**AI Learning Labs – Responsible Climate Chatbots**
 
 🗓️ **Monday, 18 May 2026**
+
 🕒 12:00 – 14:00 UTC / **5:30 PM – 7:30 PM IST**
+
 📍 Online
 
 #### [Register here to receive meeting information](https://blog.okfn.org/ai-learning-labs-climate-registration-form/)
