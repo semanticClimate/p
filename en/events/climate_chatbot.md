@@ -18,9 +18,7 @@ This interactive session will bring together researchers, developers, educators,
 
 ### Event Details
 
-#### Event Title: 
-
-**AI Learning Labs – Responsible Climate Chatbots**
+Event Title: **AI Learning Labs – Responsible Climate Chatbots**
 
 🗓️ **Monday, 18 May 2026**
 
