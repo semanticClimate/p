@@ -1,5 +1,5 @@
 ---
-title: Responsible Climate Chatbot
+title: How to Create Responsible and Trustworthy Climate Chatbot
 date: 2026-05-18
 featured: true
 description: Discussion on building responsible and trustworthy climate chatbots  
@@ -23,9 +23,9 @@ This interactive session will bring together researchers, developers, educators,
   </tr>
 </table>
 
-### Event Details
+## Event Details
 
-Event Title: **AI Learning Labs – Responsible Climate Chatbots**
+Title: **AI Learning Labs – Responsible Climate Chatbots**
 
 🗓️ **Monday, 18 May 2026**
 
@@ -36,7 +36,7 @@ Event Title: **AI Learning Labs – Responsible Climate Chatbots**
 #### [Register here to receive meeting information](https://blog.okfn.org/ai-learning-labs-climate-registration-form/)
 
 
-### Who Should Attend?
+## Who Should Attend?
 
 This event is designed for:
 
@@ -46,7 +46,7 @@ This event is designed for:
 - Climate educators and communicators
 - Students and practitioners interested in responsible AI
 
-### Why Climate Chatbots?
+## Why Climate Chatbots?
 
 This event explores how responsible climate chatbot systems can be designed using:
 
