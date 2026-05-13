@@ -15,6 +15,13 @@ Welcome to the AI Learning Labs discussion on building responsible and trustwort
 
 This interactive session will bring together researchers, developers, educators, and practitioners working at the intersection of Artificial Intelligence and climate knowledge systems. The event focuses on how AI tools can support reliable climate communication while addressing challenges such as misinformation, bias, transparency, and trust.
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/Climate_Chatbots_flyer.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 
 ### Event Details
 
