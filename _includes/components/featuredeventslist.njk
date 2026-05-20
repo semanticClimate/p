@@ -1,18 +1,71 @@
-<div class="card-grid">
-  {% for post in eventslist %}
-    <div class="card">
-      <h3 class="card__title">
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h3>
-      <p class="card__date">{{ post.date | readableDate }}</p>
-      <p class="card__description">{{ post.data.description }}</p>
-      <div class="card__tags">
-        {% for tag in post.data.tags %}
-          {% if tag != 'post' %}
-            <a href="{{ '/en/tags/' | url }}{{ tag | slug }}"/>{{ tag }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  {% endfor %}
-</div>
+<section class="latest-events">
+
+    {% for post in eventslist | sort(true, true, "date") %}
+
+        {% if post.data.featured %}
+
+        <article class="event-card">
+
+            {% if post.data.image %}
+            <div class="event-image-wrapper">
+                <img
+                    src="{{ post.data.image | url }}"
+                    alt="{{ post.data.title }}"
+                    class="event-image"
+                    loading="lazy">
+            </div>
+            {% else %}
+            <div class="event-image-wrapper">
+                <img
+                    src="{{ '/static/img/events/default.jpg' | url }}"
+                    alt="Event Image"
+                    class="event-image"
+                    loading="lazy">
+            </div>
+            {% endif %}
+
+            <div class="event-content">
+
+                <h3>
+                    <a href="{{ post.url | url }}">
+                        {{ post.data.title or "Untitled" }}
+                    </a>
+                </h3>
+
+                <p class="event-date">
+                    <time datetime="{{ post.date }}">
+                        {{ post.date | readableDate }}
+                    </time>
+                </p>
+
+                {% if post.data.description %}
+                <p class="event-description">
+                    {{ post.data.description }}
+                </p>
+                {% endif %}
+
+                {% if post.data.tags %}
+                <div class="event-tags">
+
+                    {% for tag in post.data.tags %}
+                    <span class="event-tag">
+                        #{{ tag }}
+                    </span>
+                    {% endfor %}
+
+                </div>
+                {% endif %}
+
+                <a href="{{ post.url | url }}" class="read-more">
+                    Read More →
+                </a>
+
+            </div>
+
+        </article>
+
+        {% endif %}
+
+    {% endfor %}
+
+</section>

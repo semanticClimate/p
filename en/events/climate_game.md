@@ -2,7 +2,8 @@
 title: Biodiversity Run | An Awesome Biodiversity Adventure  
 date: 2025-08-28
 featured: true
-description: Board Game to Introduce the Concept of Biodiversity and Conservation 
+description: Board Game to Introduce the Concept of Biodiversity and Conservation
+image: /static/img/events_all/game_pic1.png
 tags:
   - semanticclimate
   - outreach
