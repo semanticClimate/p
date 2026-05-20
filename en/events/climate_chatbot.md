@@ -2,7 +2,8 @@
 title: How to Create Responsible and Trustworthy Climate Chatbot
 date: 2026-05-18
 featured: true
-description: Discussion on building responsible and trustworthy climate chatbots  
+description: Discussion on building responsible and trustworthy climate chatbots
+image: /static/img/events2026/Climate_Chatbots_flyer.png  
 tags:
   - semanticclimate
   - outreach

@@ -8,19 +8,23 @@
 
             {% if post.data.image %}
             <div class="event-image-wrapper">
-                <img
-                    src="{{ post.data.image | url }}"
-                    alt="{{ post.data.title }}"
-                    class="event-image"
-                    loading="lazy">
+                <a href="{{ post.url | url }}">
+                    <img
+                        src="{{ post.data.image | url }}"
+                        alt="{{ post.data.title }}"
+                        class="event-image"
+                        loading="lazy">
+                </a>                    
             </div>
             {% else %}
             <div class="event-image-wrapper">
-                <img
-                    src="{{ '/static/img/events/default.jpg' | url }}"
-                    alt="Event Image"
-                    class="event-image"
-                    loading="lazy">
+                <a href="{{ post.url | url }}">
+                    <img
+                        src="{{ '/static/img/events/default.jpg' | url }}"
+                        alt="Event Image"
+                        class="event-image"
+                        loading="lazy">
+                </a>        
             </div>
             {% endif %}
 
