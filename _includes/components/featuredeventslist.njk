@@ -48,14 +48,17 @@
                 <div class="event-tags">
 
                     {% for tag in post.data.tags %}
-                    <span class="event-tag">
+                    <a
+                        href="{{ '/en/tags/' | url }}{{ tag | slug }}/"
+                        class="event-tag">
                         #{{ tag }}
-                    </span>
+                    </a>    
                     {% endfor %}
 
                 </div>
                 {% endif %}
 
+            
                 <a href="{{ post.url | url }}" class="read-more">
                     Read More →
                 </a>
