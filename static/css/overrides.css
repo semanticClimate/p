@@ -375,12 +375,12 @@ pre {
 
 .event-content h3 a {
     text-decoration: none;
-    color: #111827;
+    color: #053d5b;
     transition: color 0.2s ease;
 }
 
 .event-content h3 a:hover {
-    color: #2563eb;
+    color: #44045d;
 }
 
 /* Date */
@@ -410,7 +410,7 @@ pre {
 
 .event-tag {
     background: #eef2ff;
-    color: #4338ca;
+    color: #7d0573;
     padding: 0.35rem 0.8rem;
     border-radius: 999px;
     font-size: 0.82rem;
@@ -423,7 +423,7 @@ pre {
     display: inline-block;
     text-decoration: none;
     font-weight: 600;
-    color: #2563eb;
+    color: #06225e;
     transition: 0.2s ease;
 }
 
