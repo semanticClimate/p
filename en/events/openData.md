@@ -2,7 +2,8 @@
 title: semanticClimate at The Future of Open Data | Climate Open Data & AI
 date: 2026-03-11
 featured: true
-description: Lightning Talks – Community Voices | Open Data & AI 
+description: Lightning Talks – Community Voices | Open Data & AI
+image: /static/img/events2026/OKFN_talk.jpg 
 tags:
   - semanticclimate
   - outreach

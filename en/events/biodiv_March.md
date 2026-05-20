@@ -2,7 +2,8 @@
 title: CODATA India Workshop on Liberation, Extraction & Reuse of Data
 date: 2026-03-24
 featured: true
-description: Hands-on Workshop on Biodiversity Informatics 
+description: Hands-on Workshop on Biodiversity Informatics
+image: /static/img/events2026/PLAZI_CODATA_March2026.png 
 tags:
   - semanticclimate
   - outreach

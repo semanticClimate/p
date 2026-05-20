@@ -2,7 +2,8 @@
 title: SciDataCon 2025 | International Data Week 2025
 date: 2025-10-13
 featured: true
-description: Exploring data-driven research, open science, and interdisciplinary collaboration  
+description: Exploring data-driven research, open science, and interdisciplinary collaboration
+image: /static/img/events_all/idw_p1.png  
 tags:
   - semanticclimate
   - outreach

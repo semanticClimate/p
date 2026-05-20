@@ -2,7 +2,8 @@
 title: BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design
 date: 2026-01-15
 featured: true
-description: Artificial Intelligence & Machine Learning-Based Methods  
+description: Artificial Intelligence & Machine Learning-Based Methods
+image: /static/img/events_all/BIFDD_info.png  
 tags:
   - semanticclimate
   - outreach

@@ -2,7 +2,8 @@
 title: FAIR and Reproducible Structural Biology
 date: 2026-01-28
 featured: true
-description: Methods, Workflows, and Assessment in Small Molecule Discovery  
+description: Methods, Workflows, and Assessment in Small Molecule Discovery
+image: /static/img/events_all/Flyer_Jan2026.jpg 
 tags:
   - semanticclimate
   - outreach
