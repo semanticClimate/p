@@ -411,8 +411,8 @@ pre {
 }
 
 .event-tag {
-    background: #eef2ff;
-    color: #7d0573;
+    background: #f3f4f6;
+    color: #6b7280;
     padding: 0.35rem 0.8rem;
     border-radius: 999px;
     font-size: 0.82rem;
@@ -422,8 +422,8 @@ pre {
 }
 
 .event-tag:hover {
-    background: #dbeafe;
-    color: #44045d;
+    background: #e5e7eb;
+    color: #374151;
 }
 
 /* Read More */
@@ -432,12 +432,20 @@ pre {
     display: inline-block;
     text-decoration: none;
     font-weight: 600;
-    color: #06225e;
+    color: #2563eb;
     transition: 0.2s ease;
 }
 
 .read-more:hover {
     color: #1d4ed8;
+}
+
+.event-image {
+    transition: transform 0.3s ease;
+}
+
+.event-image:hover {
+    transform: scale(1.02);
 }
 
 /* Mobile Responsive */
