@@ -170,31 +170,6 @@ This introduces participants to practical methods for extracting biodiversity da
   </tr>
 </table>
 
-### Session Recordings 
-- ### [CLICK HERE](https://semanticclimate.github.io/p/en/posts/demotutorial/)
+## Event Report  
 
-### Event Pictures | [See more](https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/)
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events2026/day1_inaug1.png" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events2026/day1_inaug2.png" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events2026/day1_inaug3.png" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
+### [Click Here to Read]()
