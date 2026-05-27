@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-05-27T04:39:27Z</updated>
+	<updated>2026-05-27T09:27:45Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -188,6 +188,13 @@
 &lt;p&gt;The workshop brought together researchers, students, and open science practitioners to explore modern approaches in biodiversity informatics, semantic technologies, and FAIR data practices.The workshop focused on transforming biodiversity literature and scientific information into reusable, machine-readable knowledge resources for research and policy applications.&lt;/p&gt;
 &lt;p&gt;Participants engaged in interactive sessions on literature-based data extraction, semantic annotation, biodiversity knowledge organization, and open science workflows. The workshop also emphasized collaborative and community-driven approaches for strengthening biodiversity and climate research infrastructures.&lt;/p&gt;
 &lt;p&gt;This CODATA India led Plazi workshop responds to a shared global and national priority: How do we systematically liberate biodiversity data from publications and enable its responsible reuse; combining human expertise, open science principles, and AI-driven tools?&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/PLAZI_CODATA_March2026.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 &lt;h3&gt;Objectives&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Data &amp;amp; FAIR Foundations&lt;/li&gt;
@@ -852,6 +859,94 @@ event, hosted under the aegis of the #semanticClimate community. The workshop co
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;The session concluded with consensus on the need to integrate scientific practice, policy, and governance to ensure that AI advances lead to equitable, transparent, and reproducible science.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Insights from the 13th Workshop on Bioinformatics and Drug Design 2026</title>
+		<link href="/p/en/posts/BIFDD_report/"/>
+		<updated>2026-01-20T00:00:00Z</updated>
+		<id>/p/en/posts/BIFDD_report/</id>
+		<content type="html">&lt;h3&gt;Date: January 15 - 17, 2026&lt;/h3&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The three-day workshop was organized by the Bioinformatics Infrastructure Facility (BIF) in collaboration with the &lt;a href=&quot;https://acbrdu.edu/&quot;&gt;Dr. B. R. Ambedkar Center for Biomedical Research&lt;/a&gt;, University of Delhi, with support from a project funded by the Department of Biotechnology.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events_all/BIFDD_info.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;The program featured expert lectures and hands-on training sessions designed for faculty members, researchers, and undergraduate as well as postgraduate students. The workshop focused on the application of artificial intelligence, machine learning, and core bioinformatics methodologies in the field of drug discovery and biomedical research.&lt;/p&gt;
+&lt;p&gt;The workshop was conducted in offline mode from &lt;strong&gt;15–17 January 2026&lt;/strong&gt; at the &lt;em&gt;Dr. B. R. Ambedkar Center for Biomedical Research, Delhi, India&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;As part of the workshop, the &lt;strong&gt;#semanticClimate&lt;/strong&gt; team actively contributed to the scientific program through expert talks and practical training sessions. These activities were conducted under the initiatives of the &lt;strong&gt;CODATA Task Group&lt;/strong&gt; to promote open knowledge systems, FAIR data practices, and AI-assisted research workflows in scientific discovery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Gitanjali Yadav&lt;/strong&gt;, Co-founder of #semanticClimate and Scientist at the BRIC-National Institute of Plant Genome Research, participated as an invited speaker on 16 January 2026. Her lecture, titled &lt;strong&gt;“Phytochemical Knowledge Extraction, FAIRification &amp;amp; Reuse of Scientific Literature,”&lt;/strong&gt; highlighted the role of bioinformatics, systems biology, and network-based approaches in extracting and reusing scientific knowledge for drug discovery research.&lt;/p&gt;
+&lt;p&gt;The session was followed by a one-hour hands-on training workshop conducted by &lt;strong&gt;Dr. Renu Kumari, Mandeep, and Priti&lt;/strong&gt; on &lt;em&gt;“AI for Literature Reviews: A Case Study in Drug Discovery.”&lt;/em&gt; The training introduced participants to AI-assisted methods for literature analysis, knowledge extraction, and scientific data organization, demonstrating how computational tools can support efficient evidence synthesis and research workflows.&lt;/p&gt;
+&lt;h3&gt;Venue&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Seminar Hall, ACBR, University of Delhi (North Campus), Delhi 110007, India&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Event Pictures&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-3.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-4.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-5.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-6.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-7.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-8.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-9.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-10.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-11.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-12.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-13.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-14.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-15.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-16.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-17.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&quot;/p/static/img/events_all/ACBR_ALR-18.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;/table&gt;
 </content>
 	</entry>
 	
