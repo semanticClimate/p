@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-05-20T11:42:34Z</updated>
+	<updated>2026-05-27T04:39:27Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -172,6 +172,174 @@
   &lt;tr&gt;
     &lt;td&gt;
       &lt;img src=&quot;/p/static/img/events2026/biodiv_p19.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Event Report | CODATA India Workshop on Liberation, Extraction &amp; Reuse of Data</title>
+		<link href="/p/en/posts/reportBiodiv/"/>
+		<updated>2026-04-05T00:00:00Z</updated>
+		<id>/p/en/posts/reportBiodiv/</id>
+		<content type="html">&lt;h3&gt;Date: March 24 - 27, 2026&lt;/h3&gt;
+&lt;h4&gt;Organized by BRIC-NIPGR, PLAZI, CODATA INDIA and #semanticClimate&lt;/h4&gt;
+&lt;h2&gt;Introduction and Context&lt;/h2&gt;
+&lt;p&gt;The workshop brought together researchers, students, and open science practitioners to explore modern approaches in biodiversity informatics, semantic technologies, and FAIR data practices.The workshop focused on transforming biodiversity literature and scientific information into reusable, machine-readable knowledge resources for research and policy applications.&lt;/p&gt;
+&lt;p&gt;Participants engaged in interactive sessions on literature-based data extraction, semantic annotation, biodiversity knowledge organization, and open science workflows. The workshop also emphasized collaborative and community-driven approaches for strengthening biodiversity and climate research infrastructures.&lt;/p&gt;
+&lt;p&gt;This CODATA India led Plazi workshop responds to a shared global and national priority: How do we systematically liberate biodiversity data from publications and enable its responsible reuse; combining human expertise, open science principles, and AI-driven tools?&lt;/p&gt;
+&lt;h3&gt;Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data &amp;amp; FAIR Foundations&lt;/li&gt;
+&lt;li&gt;Plazi &amp;amp; Literature-Based Data Liberation&lt;/li&gt;
+&lt;li&gt;CODATA India-Led AI &amp;amp; Knowledge Extraction&lt;/li&gt;
+&lt;li&gt;Data Reuse &amp;amp; Impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Overall Aim&lt;/h3&gt;
+&lt;p&gt;To build national capacity in India for the extraction, FAIRification, and reuse of biodiversity data from scientific literature by combining Plazi’s globally proven workflows with India-led expertise in AI-based knowledge extraction, data science, and biodiversity informatics, under the umbrella of CODATA’s data stewardship principles.&lt;/p&gt;
+&lt;h3&gt;Key Deliverables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical understanding of literature-based biodiversity data extraction workflows.&lt;/li&gt;
+&lt;li&gt;Exposure to tools and platforms supporting semantic biodiversity knowledge management.&lt;/li&gt;
+&lt;li&gt;Training materials and example datasets for continued learning and experimentation.&lt;/li&gt;
+&lt;li&gt;Strengthened collaboration network among researchers, students, and open science communities.&lt;/li&gt;
+&lt;li&gt;Increased awareness of open, FAIR, and interoperable biodiversity data practices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Venue&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;BRIC-National Institute of Plant Genome Research (BRIC-NIPGR)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aruna Asaf Ali Marg, New Delhi, India&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Course Coordinators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Gitanjali Yadav: NIPGR, CODATA India&lt;/li&gt;
+&lt;li&gt;Dr. Julia Giora : Plazi, Brazil&lt;/li&gt;
+&lt;li&gt;Dr. Narendra Kumar, BRIC-NII&lt;/li&gt;
+&lt;li&gt;Dr. Felipe Simões: Plazi, Brazil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Speakers&lt;/h2&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/speakers_pic.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Gitanjali Yadav, BRIC-NIPGR | CODATA India&lt;/li&gt;
+&lt;li&gt;Dr. D. Chattopadhyay, Director NIPGR&lt;/li&gt;
+&lt;li&gt;Dr. D. Mohanty, Director NII, CODATA India National Committee Chairperson&lt;/li&gt;
+&lt;li&gt;Dr. Shruti Rai Bhardwaj, Director, Ministry of Environment Forest &amp;amp; Climate Change, GoI&lt;/li&gt;
+&lt;li&gt;Prof. Manzoor Shah, University of Kashmir, Srinagar&lt;/li&gt;
+&lt;li&gt;Dr. Gautam Talukdar, Wildlife Institute of India (WII), Dehradun&lt;/li&gt;
+&lt;li&gt;Prof. Suresh Babu, Director CUES, AUD&lt;/li&gt;
+&lt;li&gt;Dr. Donat Agosti, Founder, PLAZI, Switzerland&lt;/li&gt;
+&lt;li&gt;Dr. Julia Giora, PLAZI&lt;/li&gt;
+&lt;li&gt;Dr. Felipe Simoes, PLAZI&lt;/li&gt;
+&lt;li&gt;Dr. Renu Kumari, semanticClimate&lt;/li&gt;
+&lt;li&gt;Mr. Karthikeyan, BRIC-NII, New Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Priti, BRIC-NIPGR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Organizing Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Gitanjali Yadav, BRIC-NIPGR | CODATA India&lt;/li&gt;
+&lt;li&gt;Dr. Debasisa Mohanty, Director NII, CODATA India National Committee Chairperson&lt;/li&gt;
+&lt;li&gt;Dr. Julia Giora, PLAZI&lt;/li&gt;
+&lt;li&gt;Dr. Felipe Simoes, PLAZI&lt;/li&gt;
+&lt;li&gt;Mr. Subhasish Mondal, Technical Officer, BRIC-NIPGR, India&lt;/li&gt;
+&lt;li&gt;Dr. Renu Kumari, semanticClimate&lt;/li&gt;
+&lt;li&gt;Mr. Karthikeyan, BRIC-NII, New Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Priti, BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Mr. Mandeep, BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Ms. Udita Agarwal, BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Mr. Arhaan Azmi, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Ms. Vaishnavi Sharma, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Ms. Sakshi Gupta, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Mr. Gulam Ajdhani, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Ms. Vipparla Pushpa valli, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Ms. Taiba Shamim, Intern at BRIC-NIPGR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Delegates&lt;/h2&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/all_delegates.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Mr. Parth Kadam, Bhaskaracharya College of applied sciences, University of Delhi&lt;/li&gt;
+&lt;li&gt;Mr. Deepanshu Vasuja, Sri Venkateswara College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Mr. Rahul Aryavarti, Ramjas College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Pranita Bhatele, Government College Kundam, Jabalpur&lt;/li&gt;
+&lt;li&gt;Ms. Khushi Sharma, IILM University, Greater Noida&lt;/li&gt;
+&lt;li&gt;Mr. Manan Verma, Gurukula Kangri (Deemed to be University), Haridwar&lt;/li&gt;
+&lt;li&gt;Mr. Aadarsh Kumar Mishra, IILM University, Greater Noida&lt;/li&gt;
+&lt;li&gt;Ms. Mitali Gupta,  Department of Botany, Vinoba Bhave University, Hazaribagh, Jharkhand&lt;/li&gt;
+&lt;li&gt;Ms. Harsimrat Kaur, CSIR-IGIB, New Delhi&lt;/li&gt;
+&lt;li&gt;Mr. Chitranshu, Max Healthcare&lt;/li&gt;
+&lt;li&gt;Kumari Kajal Soni, Department of Botany, Vinoba Bhave University, Hazaribagh&lt;/li&gt;
+&lt;li&gt;Ms. Rimi Roy, Indira Gandhi National Open University (IGNOU), New Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Ayyagari Ramlal, School of Biological Sciences, Universiti Sains Malaysia, Malaysia&lt;/li&gt;
+&lt;li&gt;Mr. Neel Kumar&lt;/li&gt;
+&lt;li&gt;Ms. Ridhima Garg&lt;/li&gt;
+&lt;li&gt;Ms. Khawaish, HMV College of Jalandhar, Punjab&lt;/li&gt;
+&lt;li&gt;Prof. Saloni Bahri, Miranda House, University of Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Somdutta Sinha Roy, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Evanjlin, Hans Raj Mahila Maha Vidyalaya Jalandhar&lt;/li&gt;
+&lt;li&gt;Ms. Astha Nirupam, Dept of Botany, Vinoba Bhave University, Hazaribag, Jharkhand&lt;/li&gt;
+&lt;li&gt;Dr. Aleena Xavier, Department of Plant Molecular Biology, University of Delhi South Campus&lt;/li&gt;
+&lt;li&gt;Mr. Vishal Mishra, IGNOU&lt;/li&gt;
+&lt;li&gt;Dr. Abhimanyu Jogawat, BRIC-NIPGR&lt;/li&gt;
+&lt;li&gt;Dr. Deepali, Miranda House, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Harshita, IGNOU&lt;/li&gt;
+&lt;li&gt;Prof. Rashmi Shakya, Miranda House, University of Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Atika Chandra, Department of Botany, Maitreyi College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Gurpreet Kaur, Plant Molecular Biologist and Assistant Professor&lt;/li&gt;
+&lt;li&gt;Ms. Devina Kanoujia, National Institute of Science Communication and Policy Research&lt;/li&gt;
+&lt;li&gt;Dr. Ruchi Vir, Department of Botany at Zakir Husain Delhi College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Jaspreet Kaur Sukheeja, IILM University&lt;/li&gt;
+&lt;li&gt;Dr. Yamal Gupta, Department of Botany at Kirori Mal College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Anshita Kaushal, HMV college (GNDU). Jalandhar, Punjab&lt;/li&gt;
+&lt;li&gt;Ms. Sheenu Yadav, Hans Raj Mahila Maha Vidyalaya, Jalandhar, Punjab&lt;/li&gt;
+&lt;li&gt;Ms. Pragyaa Bhardwaj, BTech Biotechnology (Artificial Intelligence and Machine Learning)&lt;/li&gt;
+&lt;li&gt;Ms. Amrutha K, CSIR–National Chemical Laboratory (NCL), Pune&lt;/li&gt;
+&lt;li&gt;Dr. Veena Beri, Miranda House, University of Delhi&lt;/li&gt;
+&lt;li&gt;Mr. Harsh Yadav, Hansraj college, University of Delhi&lt;/li&gt;
+&lt;li&gt;Dr. Tabassum Jehan, Zakir Husain Delhi College, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Kajal Patel, CSIR-National Chemical Laboratory, Pune&lt;/li&gt;
+&lt;li&gt;Ms. Sneha Ruhil, Miranda House, University of Delhi&lt;/li&gt;
+&lt;li&gt;Ms. Komal, Undergraduate Student of Medical and Bioinformatics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Program&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;&lt;a href=&quot;https://drive.google.com/file/d/1MnE29xQZsccMgyrUB0PvsCnj7LLdpqlF/view?usp=sharing&quot;&gt;CLICK HERE to read full program&lt;/a&gt;&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Session Recordings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/demotutorial/&quot;&gt;CLICK HERE&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Event Pictures | &lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/&quot;&gt;See more&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/day1_inaug1.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/day1_inaug2.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/day1_inaug3.png&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;</content>
