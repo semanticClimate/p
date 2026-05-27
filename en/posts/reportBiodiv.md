@@ -20,6 +20,14 @@ Participants engaged in interactive sessions on literature-based data extraction
 
 This CODATA India led Plazi workshop responds to a shared global and national priority: How do we systematically liberate biodiversity data from publications and enable its responsible reuse; combining human expertise, open science principles, and AI-driven tools?
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/PLAZI_CODATA_March2026.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ### Objectives
 - Data & FAIR Foundations
 - Plazi & Literature-Based Data Liberation
