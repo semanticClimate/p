@@ -1,12 +1,11 @@
 ---
 title: Event Report | CODATA India Workshop on Liberation, Extraction & Reuse of Data
-date: 2026-04-06
+date: 2026-04-05
 description: Highlights from the Three-Day Workshop
 author: RK
 tags:
   - semanticclimate
   - outreach
-  - notebook
 ---
 
 ### Date: March 24 - 27, 2026
