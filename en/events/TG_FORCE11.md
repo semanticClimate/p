@@ -13,7 +13,7 @@ tags:
 
 ## Open Tools for Knowledge Extraction from Scholarly Publications
 
-#### [FORCE11 WG 2026](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
+**[FORCE11 WG 2026](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)**
 
 FORCE11 Working Group (WG) or Task Group (TG) operating under the umbrella of [FORCE11](https://force11.org/), an international community focused on improving how research is created, shared, discovered, cited, and reused in the digital age. FORCE11 stands for Future of Research Communications and e-Scholarship.
 
@@ -29,7 +29,7 @@ FORCE11 brings together researchers, librarians, publishers, software developers
   </tr>
 </table>
 
-## What is a FORCE11 Working Group (WG/TG)?
+## What is a FORCE11 Working Group (WG)?
 
 A FORCE11 Working Group is a community-driven team that focuses on a specific challenge in scholarly communication and produces practical outputs such as:
 
@@ -39,7 +39,7 @@ A FORCE11 Working Group is a community-driven team that focuses on a specific ch
 - Training materials
 - White papers and reports
 
-The FORCE11 Semantic Climate Task Group is an international open-science initiative dedicated to transforming climate knowledge into structured, reusable, and machine-readable resources. By combining semantic technologies, artificial intelligence, open scholarship, and community participation, the project aims to make climate information more accessible for researchers, educators, policymakers, and citizens.
+The FORCE11 Semantic Climate Working Group is an international open-science initiative dedicated to transforming climate knowledge into structured, reusable, and machine-readable resources. By combining semantic technologies, artificial intelligence, open scholarship, and community participation, the project aims to make climate information more accessible for researchers, educators, policymakers, and citizens.
 
 The project is developed under the principles of Open Notebook Science, transparency, reproducibility, and knowledge equity. Our work focuses on converting climate-related documents, reports, and scholarly publications into semantic resources that can be searched, linked, analyzed, and reused.
 
