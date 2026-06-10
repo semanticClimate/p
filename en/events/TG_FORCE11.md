@@ -11,7 +11,7 @@ tags:
 ---
 
 
-## semanticClimate: Open Tools for Knowledge Extraction from Scholarly Publications
+## Open Tools for Knowledge Extraction from Scholarly Publications
 
 #### [FORCE11 WG 2026](https://force11.org/group/semanticclimate-open-tools-for-knowledge-extraction-from-scholarly-publications/)
 
@@ -29,7 +29,7 @@ FORCE11 brings together researchers, librarians, publishers, software developers
   </tr>
 </table>
 
-## What is a FORCE11 Working Group (TG/WG)?
+## What is a FORCE11 Working Group (WG/TG)?
 
 A FORCE11 Working Group is a community-driven team that focuses on a specific challenge in scholarly communication and produces practical outputs such as:
 
@@ -71,9 +71,6 @@ These tools support the automated retrieval, annotation, and analysis of climate
 
 - [GitHub Repository](https://github.com/semanticClimate/FORCE11TG-semanticClimate)
 
-[semanticClimate Website](https://semanticclimate.github.io/p/en/)
+- [semanticClimate Website](https://semanticclimate.github.io/p/en/)
 
-#### Contact
-
-- semanticclimate@gmail.com
 
