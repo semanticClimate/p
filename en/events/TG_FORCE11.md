@@ -55,6 +55,14 @@ The FORCE11 Semantic Climate Working Group addresses these challenges by:
 - Creating climate knowledge graphs
 - Promoting open science and knowledge equity
 
+## Deliverables of the project
+
+- Extraction of a structured climate ontology as a knowledge graph. 
+- Interrogation of 15,000 pages of the IPCC AR6 reports (and hopefully emerging releases of AR7) , the current Open scientific literature.
+- Enrichment with trusted knowledge (IPCC, publications, Wikipedia)
+- Development of scholarly tech – semanticCorpus (2026) holds a searchable collection of articles and links with metadata management. 
+- Development of encyclopedia/knowledge_graph -a generally accessible technology which can give non-experts answers within an hour
+
 ## Open Source Semantic Tools
 
 The project actively uses and contributes to:
