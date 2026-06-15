@@ -137,8 +137,8 @@ The discussions will examine how climate AI systems can better support education
 
   <!-- Session info -->
   <div style="flex: 1; min-width: 240px; max-width: 300px;">
-    <a href="https://www.youtube.com/watch?v=TZRhL-7QBE0?si=Cv8F4TM6flc-IIDh" target="_blank" style="position: relative; display: block;">
-      <img src='{{ "/static/img/events2026/climate_chatbot_p2.png" | url }}'
+    <a href="https://www.youtube.com/watch?v=TZRhL-7QBE0&si=Cv8F4TM6flc-IIDh" target="_blank" style="position: relative; display: block;">
+      <img src='{{ "/static/img/events2026/climate_bot1.png" | url }}'
            alt="discussion meeting"
            style="width: 100%; height: auto; border-radius: 6px;">
       <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
