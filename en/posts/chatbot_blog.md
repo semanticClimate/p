@@ -1,6 +1,6 @@
 ---
 title: A Climate Chatbot for Trusted and Transparent Climate Information
-date: 2026-06-01
+date: 2026-07-01
 description: Making Climate Knowledge Accessible with Open-Source AI
 author: Aleena Harold Peter and Renu Kumari
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 
 
-# Building a Responsible Climate Chatbot
+## Building a Responsible Climate Chatbot
 
 Chatbots serve as a useful tool for knowledge, answering questions within seconds. However, when the topic is about something as significant as climate change, accuracy and reliability matters as much as speed.
 
@@ -42,16 +42,16 @@ Motivated by this need of reliable information, we introduce the Climate Academy
 
 ## The Knowledge Behind the Chatbot
 
-The Climate Academy chatbot is based on Climate Academy: The Student Guide, written by Matthew Pye. Written for high school students, it introduces climate science in a way that is scientifically accurate and easy to understand.
+The Climate Academy chatbot is based on *Climate Academy: The Student Guide, written by Matthew Pye*. Written for high school students, it introduces climate science in a way that is scientifically accurate and easy to understand.
 
 ## How the Climate Academy Chatbot Works
 
-Climate knowledge is often difficult to navigate as it is scattered across a plethora of long reports. The Climate Academy chatbot makes learning easier by providing clear and reliable answers in simple  language.
+Climate knowledge is often difficult to navigate as it is scattered across a plethora of long reports. The Climate Academy chatbot makes learning easier by providing clear and reliable answers in simple language.
 
 <table>
   <tr>
     <td>
-      <img src='{{ "/static/img/events2026/CABot_workflow.jpg" | url }}' width="500" height="100">
+      <img src='{{ "/static/img/CABot_workflow.jpg" | url }}' width="500" height="100">
     </td>
   </tr>
 </table>
@@ -91,11 +91,11 @@ The Climate Academy Chatbot provides reliable information from Climate Academy: 
     <img src='{{ "/static/img/members/Aleena.jpeg" | url }}'
          alt="Ms. Aleena"
          style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
-    <p><strong>Ms. Aleena Harold Peter</strong><br>Gopalan College of Engineering and Management</p>
+    <p><strong>Ms. Aleena Harold Peter</strong><br>Intern at semanticClimate and affiliated with Gopalan College of Engineering and Management</p>
   </div>
 
   <div>
-    <img src='{{ "/static/img/events2026/Renu_pic_2.png" | url }}'
+    <img src='{{ "/static/img/events2026/renu_pic1.jpg" | url }}'
          alt="RK"
          style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
     <p><strong>Dr. Renu Kumari</strong><br>#semanticClimate; BRIC-National Institute of Plant Genome Research (BRIC-NIPGR), New Delhi, India</p>
