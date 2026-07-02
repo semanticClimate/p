@@ -152,3 +152,29 @@ The discussions will examine how climate AI systems can better support education
     </p>
   </div>
 </div>  
+
+## Launch of the Climate Academy Chatbot (CABot)
+
+### Date : July 7, 2026 Tuesday
+
+- 11:00–12:00 UTC  (4:30 PM–5:30 PM) IST
+
+### [Register here to join launch event](https://blog.okfn.org/climate-academy-chatbot-launch-registration-form/)  
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/launch_cabot.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+### semanticClimate Team worked on this project
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/CABot_team.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
