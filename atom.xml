@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-02T10:52:13Z</updated>
+	<updated>2026-07-02T11:38:55Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -15,9 +15,9 @@
 	<entry>
 		<title>A Climate Chatbot for Trusted and Transparent Climate Information</title>
 		<link href="/p/en/posts/chatbot_blog/"/>
-		<updated>2026-06-01T00:00:00Z</updated>
+		<updated>2026-07-01T00:00:00Z</updated>
 		<id>/p/en/posts/chatbot_blog/</id>
-		<content type="html">&lt;h1&gt;Building a Responsible Climate Chatbot&lt;/h1&gt;
+		<content type="html">&lt;h2&gt;Building a Responsible Climate Chatbot&lt;/h2&gt;
 &lt;p&gt;Chatbots serve as a useful tool for knowledge, answering questions within seconds. However, when the topic is about something as significant as climate change, accuracy and reliability matters as much as speed.&lt;/p&gt;
 &lt;p&gt;Motivated by this need of reliable information, we introduce the Climate Academy chatbot, which is a collaborative effort by Climate Academy, semanticClimate and Open Knowledge Foundation (OKFN), as a part of OKFN&#39;s AI Learning Labs initiative. The goal was to make climate knowledge more accessible to everyone, keeping information clear, factual, and credible.&lt;/p&gt;
 &lt;table&gt;
@@ -62,13 +62,13 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;The Knowledge Behind the Chatbot&lt;/h2&gt;
-&lt;p&gt;The Climate Academy chatbot is based on Climate Academy: The Student Guide, written by Matthew Pye. Written for high school students, it introduces climate science in a way that is scientifically accurate and easy to understand.&lt;/p&gt;
+&lt;p&gt;The Climate Academy chatbot is based on &lt;em&gt;Climate Academy: The Student Guide, written by Matthew Pye&lt;/em&gt;. Written for high school students, it introduces climate science in a way that is scientifically accurate and easy to understand.&lt;/p&gt;
 &lt;h2&gt;How the Climate Academy Chatbot Works&lt;/h2&gt;
-&lt;p&gt;Climate knowledge is often difficult to navigate as it is scattered across a plethora of long reports. The Climate Academy chatbot makes learning easier by providing clear and reliable answers in simple  language.&lt;/p&gt;
+&lt;p&gt;Climate knowledge is often difficult to navigate as it is scattered across a plethora of long reports. The Climate Academy chatbot makes learning easier by providing clear and reliable answers in simple language.&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;img src=&quot;/p/static/img/events2026/CABot_workflow.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/CABot_workflow.jpg&quot; width=&quot;500&quot; height=&quot;100&quot; /&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
@@ -105,10 +105,10 @@
 &lt;div style=&quot;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;&quot;&gt;
   &lt;div&gt;
     &lt;img src=&quot;/p/static/img/members/Aleena.jpeg&quot; alt=&quot;Ms. Aleena&quot; style=&quot;width:140px;height:140px;border-radius:50%;object-fit:cover;&quot; /&gt;
-    &lt;p&gt;&lt;strong&gt;Ms. Aleena Harold Peter&lt;/strong&gt;&lt;br /&gt;Gopalan College of Engineering and Management&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Ms. Aleena Harold Peter&lt;/strong&gt;&lt;br /&gt;Intern at semanticClimate and affiliated with Gopalan College of Engineering and Management&lt;/p&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img src=&quot;/p/static/img/events2026/Renu_pic_2.png&quot; alt=&quot;RK&quot; style=&quot;width:140px;height:140px;border-radius:50%;object-fit:cover;&quot; /&gt;
+    &lt;img src=&quot;/p/static/img/events2026/renu_pic1.jpg&quot; alt=&quot;RK&quot; style=&quot;width:140px;height:140px;border-radius:50%;object-fit:cover;&quot; /&gt;
     &lt;p&gt;&lt;strong&gt;Dr. Renu Kumari&lt;/strong&gt;&lt;br /&gt;#semanticClimate; BRIC-National Institute of Plant Genome Research (BRIC-NIPGR), New Delhi, India&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;  </content>
