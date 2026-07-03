@@ -1,8 +1,8 @@
 ---
-title: How to Create Responsible and Trustworthy Climate Chatbot
+title: Climate Academy Chatbot (CABot)
 date: 2026-05-18
 featured: true
-description: Discussion on building responsible and trustworthy climate chatbots
+description: How to Create Responsible and Trustworthy Climate Chatbot
 image: /static/img/events2026/Climate_Chatbots_flyer.png  
 tags:
   - semanticclimate
@@ -11,6 +11,25 @@ tags:
 ---
 
 Climate misinformation is becoming more common across digital platforms and AI systems. As AI chatbots are increasingly used for accessing information, it is important to build climate chatbots that are transparent, reliable, and based on trusted knowledge sources.
+
+## Launch of the Climate Academy Chatbot (CABot)
+
+### Date : July 7, 2026 Tuesday
+
+- **11:00–12:00 UTC  (4:30 PM–5:30 PM) IST**
+
+### [Register here to join launch event](https://blog.okfn.org/climate-academy-chatbot-launch-registration-form/)  
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/launch_cabot.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+
+## Discussion Meeting on building responsible and trustworthy climate chatbots
 
 Welcome to the AI Learning Labs discussion on building responsible and trustworthy climate chatbots, jointly organized by [Open Knowledge Foundation](https://okfn.org/en/), [#semanticClimate](https://semanticclimate.github.io/p/en/) and [The Climate Academy](https://theclimateacademy.org/).
 
@@ -153,22 +172,6 @@ The discussions will examine how climate AI systems can better support education
   </div>
 </div>  
 
-## Launch of the Climate Academy Chatbot (CABot)
-
-### Date : July 7, 2026 Tuesday
-
-- 11:00–12:00 UTC  (4:30 PM–5:30 PM) IST
-
-### [Register here to join launch event](https://blog.okfn.org/climate-academy-chatbot-launch-registration-form/)  
-
-<table>
-  <tr>
-    <td>
-      <img src='{{ "/static/img/events2026/launch_cabot.jpg" | url }}' width="500" height="100">
-    </td>
-  </tr>
-</table>
-
 ### semanticClimate Team worked on this project
 
 <table>
@@ -178,3 +181,5 @@ The discussions will examine how climate AI systems can better support education
     </td>
   </tr>
 </table>
+
+### [Code repository](https://github.com/semanticClimate/semantic_RAG) 

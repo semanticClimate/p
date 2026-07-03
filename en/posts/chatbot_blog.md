@@ -83,7 +83,7 @@ A chatbot is responsible when it is built on trusted sources, clear design choic
 
 The Climate Academy Chatbot provides reliable information from Climate Academy: The Student Guide in clear and accessible way for an interactive learning experience.
 
-#### Written by: 
+#### Blog written by: 
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
 
