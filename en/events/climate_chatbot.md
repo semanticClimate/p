@@ -29,7 +29,7 @@ Climate misinformation is becoming more common across digital platforms and AI s
 </table>
 
 
-## Discussion Meeting on building responsible and trustworthy climate chatbots
+## Discussion Meeting on building responsible and trustworthy climate chatbot
 
 Welcome to the AI Learning Labs discussion on building responsible and trustworthy climate chatbots, jointly organized by [Open Knowledge Foundation](https://okfn.org/en/), [#semanticClimate](https://semanticclimate.github.io/p/en/) and [The Climate Academy](https://theclimateacademy.org/).
 
@@ -183,3 +183,6 @@ The discussions will examine how climate AI systems can better support education
 </table>
 
 ### [Code repository](https://github.com/semanticClimate/semantic_RAG) 
+
+### Blog
+- [Click Here](https://semanticclimate.github.io/p/en/posts/chatbot_blog/)
