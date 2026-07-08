@@ -12,6 +12,19 @@ tags:
 
 Climate misinformation is becoming more common across digital platforms and AI systems. As AI chatbots are increasingly used for accessing information, it is important to build climate chatbots that are transparent, reliable, and based on trusted knowledge sources.
 
+## [Explore CABot](https://cabot-semanticclimate.org/)
+
+<table style="width:320px;">
+  <tr>
+    <td>
+      <a href="https://cabot-semanticclimate.org/" target="_blank">
+        <img src='{{ "/static/img/events2026/cabot_p3.jpg" | url }}'
+             style="width:300px; height:auto; border:2px solid black;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Launch of the Climate Academy Chatbot (CABot)
 
 ### Date : July 7, 2026 Tuesday
@@ -28,18 +41,6 @@ Climate misinformation is becoming more common across digital platforms and AI s
   </tr>
 </table>
 
-## [Explore CABot](https://cabot-semanticclimate.org/)
-
-<table style="width:320px;">
-  <tr>
-    <td>
-      <a href="https://cabot-semanticclimate.org/" target="_blank">
-        <img src='{{ "/static/img/events2026/cabot_p3.jpg" | url }}'
-             style="width:300px; height:auto;">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### Highlights from the launch event
 
