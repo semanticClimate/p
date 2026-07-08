@@ -28,6 +28,55 @@ Climate misinformation is becoming more common across digital platforms and AI s
   </tr>
 </table>
 
+## [Explore CABot](https://cabot-semanticclimate.org/)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://cabot-semanticclimate.org/" target="_blank">
+        <img src='{{ "/static/img/events2026/cabot_p3.jpg" | url }}'
+             width="100"
+             height="50"
+             alt="CABot Launch">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Highlights from the launch event
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/cabot_p1.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/cabot_p2.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+### Video
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=gEc02k7Qk1g" target="_blank" style="position: relative; display: block;">
+      <img src='{{ "/static/img/events2026/cabot_p3.jpg" | url }}'
+           alt="CABot website"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>CABot Introduction:</strong> Turning climate anxiety to climate action with #semanticClimate's Climate Academy chatbot.
+    </p>
+  </div>
+</div>  
 
 ## Discussion Meeting on building responsible and trustworthy climate chatbot
 
