@@ -30,14 +30,12 @@ Climate misinformation is becoming more common across digital platforms and AI s
 
 ## [Explore CABot](https://cabot-semanticclimate.org/)
 
-<table>
+<table style="width:320px;">
   <tr>
     <td>
       <a href="https://cabot-semanticclimate.org/" target="_blank">
         <img src='{{ "/static/img/events2026/cabot_p3.jpg" | url }}'
-             width="100"
-             height="50"
-             alt="CABot Launch">
+             style="width:300px; height:auto;">
       </a>
     </td>
   </tr>
