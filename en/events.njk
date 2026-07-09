@@ -2,28 +2,51 @@
 eleventyComputed:
   title: Events
 layout: layouts/base.njk
-pagination:
-  data: collections.post
-  size: 6
-  alias: events
-  reverse: true
 eleventyNavigation:
   key: Events
   order: 4
 ---
 
-  <div class="container">
-  <h1>
-     {{ site.homepage.sectionHeading2}}
-  </h1>
-  <p> {{site.homepage.description2 | safe }}</p>
-  <iframe src="https://calendar.google.com/calendar/embed?src=448c2f71f77376c603920920b44fb276941b9ca220bc06305063f8a9d1ad1d86%40group.calendar.google.com&ctz=Etc%2FGMT" style="border: 0" width=100% height="600" frameborder="0" scrolling="no">
-  </iframe>
-    {% set eventslist = collections.event | sort(true, true, 'date') %}
-    {% include "components/eventslist.njk" %}
-<h1>Past Events</h1>
-    {% set eventslist = collections.past %}
-    {% include "components/eventslist.njk" %}
+<div class="container">
+  <h1>{{ site.homepage.sectionHeading2 }}</h1>
+  <p>{{ site.homepage.description2 | safe }}</p>
 
+  {% set eventslist = collections.event | sort(true, true, "data.date") %}
+  {% include "components/eventslist.njk" %}
+
+  <details class="calendar-toggle">
+    <summary>View full calendar</summary>
+    <iframe
+      src="https://calendar.google.com/calendar/embed?src=448c2f71f77376c603920920b44fb276941b9ca220bc06305063f8a9d1ad1d86%40group.calendar.google.com&ctz=Etc%2FGMT"
+      style="border: 0"
+      width="100%"
+      height="600"
+      frameborder="0"
+      scrolling="no">
+    </iframe>
+  </details>
+
+  <details class="past-events-toggle">
+    <summary><h2 class="past-events-heading">Past Events</h2></summary>
+    {% set eventslist = collections.past | sort(true, true, "data.date") %}
+    {% include "components/eventslist.njk" %}
+  </details>
 </div>
 
+<style>
+.calendar-toggle,
+.past-events-toggle {
+  margin-top: 2rem;
+}
+
+.calendar-toggle summary,
+.past-events-toggle summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.5rem 0;
+}
+
+.past-events-heading {
+  display: inline;
+}
+</style>
