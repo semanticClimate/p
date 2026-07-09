@@ -892,6 +892,11 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.github.io/p/en/events/oaw2025/</loc>
+    <lastmod>2025-10-20</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.github.io/p/en/posts/blog4_OAW2025/</loc>
     <lastmod>2025-10-20</lastmod>
   </url>
@@ -909,11 +914,6 @@
   <url>
     <loc>https://semanticclimate.github.io/p/en/posts/photo_OAW2025/</loc>
     <lastmod>2025-10-21</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/past-events/oaw2025/</loc>
-    <lastmod>2025-10-24</lastmod>
   </url>
   
   <url>
@@ -1087,11 +1087,6 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
-    <lastmod>2026-07-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/event/</loc>
     <lastmod>2026-07-09</lastmod>
   </url>
@@ -1103,6 +1098,11 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/hackathon/</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/video/</loc>
     <lastmod>2026-07-09</lastmod>
   </url>
   
@@ -1127,17 +1127,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
-    <lastmod>2026-07-09</lastmod>
-  </url>
-  
-  <url>
     <loc>https://semanticclimate.github.io/p/en/tags/oaweek/</loc>
-    <lastmod>2026-07-09</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
     <lastmod>2026-07-09</lastmod>
   </url>
   
@@ -1158,6 +1148,16 @@
   
   <url>
     <loc>https://semanticclimate.github.io/p/en/tags/examples/</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/climate-knowledge/</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.github.io/p/en/tags/tools/</loc>
     <lastmod>2026-07-09</lastmod>
   </url>
   
