@@ -25,12 +25,12 @@ eleventyNavigation:
         {% else %}
           {{ site.meta.description }}
         {% endif %}
-      </p>
-      <p class="button-wrap" style="margin-top: 35px">
-        <a href="{{ '/en/posts/sc_worklayout' | url }}" class="action learn">Learn more →</a>
-      </p>
-    </div> <!-- end container -->
-  </div> <!-- end hero -->
+    </p>
+    <p class="button-wrap" style="margin-top: 35px">
+      <a href="{{ '/en/posts/sc_worklayout' | url }}" class="action learn">Learn more →</a>
+    </p>
+  </div> <!-- end container -->
+</div> <!-- end hero -->
 
 <!-- Volunteers -->
 <div class="fullwidth-first">
@@ -57,15 +57,16 @@ eleventyNavigation:
       {{site.homepage.description2 | safe }}</p> 
   {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
   {% include "components/featuredeventslist.njk" %}
-  <div class="pagination">
-    {% if pagination.previous %}
-      <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
-    {% endif %}
-    {% if pagination.next %}
-      <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
-    {% endif %}
-  </div> <!-- end pagination -->
+
   </div> <!-- end container -->
+  
+<!-- Projects & Publications -->
+<div class="fullwidth">
+  <div class="container">
+    <h2 class="section-title">Projects &amp; Publications</h2>
+    {% include "components/projectspublications.njk" %}
+  </div>
+</div>
 
 <div class="fullwidth">
   <div class="container">

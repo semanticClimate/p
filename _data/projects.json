@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Semantic Encyclopedia",
+    "image": "/static/img/events2026/enc_p4.png",
+    "description": "An open, annotated encyclopedia built from climate literature using semantic tools.",
+    "url": "/en/posts/climate_encyclopedia/",
+    "repo": "https://github.com/semanticClimate/encyclopedia",
+    "status": "active"
+  },
+  {
+    "title": "txt2phrases",
+    "image": "/static/img/events2026/key_pic1.png",
+    "description": "Automated Text Processing and Keyphrases Extraction.",
+    "url": "/en/posts/txt2phrases_T4/",
+    "repo": "https://github.com/semanticClimate/txt2phrases",
+    "status": "active"
+  },
+  {
+    "title": "pygetpapers",
+    "image": "/static/img/events2026/pyget_logo.png",
+    "description": "A semantic tool for building structured, machine-readable corpora from open access repositories.",
+    "url": "/en/posts/pygetpapers_T2/",
+    "repo": "https://github.com/petermr/pygetpapers",
+    "status": "active"
+  }
+]
