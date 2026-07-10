@@ -15,7 +15,6 @@ eleventyNavigation:
       {% else %}
         {{ site.meta.title | safe }}
       {% endif %}
-
     </h1>
     <p class="hero__description">
       {% if site.hero.reglink %}
@@ -55,10 +54,7 @@ eleventyNavigation:
       <a href="{{ '/en/events/' | url }}">See all</a>
     </h2>
     <p>
-      {{site.homepage.description2 | safe }}</p>
-    {%- if pagination.pageNumber != 0 %} - Page {{ pagination.pageNumber + 1 }}
-    {% endif %}
-  </h2>
+      {{site.homepage.description2 | safe }}</p> 
   {% set eventslist = (collections.event | sort(true, true, 'date') | featured) %}
   {% include "components/featuredeventslist.njk" %}
   <div class="pagination">
