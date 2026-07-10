@@ -12,7 +12,7 @@ module.exports = {
       "We are a team of scientists and enthusiasts who liberate knowledge from climate-related reports.",
     sectionHeading2: "Events",
     description2:
-      "#semanticClimate runs hackathons, workshops, and talks throughout the year, bringing together researchers, coders, and citizen scientists to make climate knowledge open and accessible. Browse upcoming events below, or scroll down for our full archive.",
+      "#semanticClimate runs hackathons, workshops, and talks throughout the year, bringing together researchers, coders, and citizen scientists to make climate knowledge open and accessible.",
     sectionHeading3: "Build a Climate Explorer!",
     description3: "Feel free to read our manuals and tutorials to get started.",
     sectionHeading4: "Blog",
