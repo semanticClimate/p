@@ -103,12 +103,12 @@
         
           Liberating knowledge from climate-related reports
         
-      </p>
-      <p class="button-wrap" style="margin-top: 35px">
-        <a href="/p/en/posts/sc_worklayout" class="action learn">Learn more →</a>
-      </p>
-    </div> <!-- end container -->
-  </div> <!-- end hero -->
+    </p>
+    <p class="button-wrap" style="margin-top: 35px">
+      <a href="/p/en/posts/sc_worklayout" class="action learn">Learn more →</a>
+    </p>
+  </div> <!-- end container -->
+</div> <!-- end hero -->
 
 <!-- Volunteers -->
 <div class="fullwidth-first">
@@ -625,11 +625,173 @@
     
 
 </section>
-  <div class="pagination">
-    
-    
-  </div> <!-- end pagination -->
+
   </div> <!-- end container -->
+  
+<!-- Projects & Publications -->
+<div class="fullwidth">
+  <div class="container">
+    <h2 class="section-title">Projects &amp; Publications</h2>
+    <div class="projects-publications">
+  <div class="projects-publications__col">
+    <h3>Projects</h3>
+    <ul class="pp-list">
+      
+        <li class="pp-item">
+          
+            <img src="/p/static/img/events2026/enc_p4.png" alt="Semantic Encyclopedia" class="pp-item__image">
+          
+          <a href="/p/en/posts/climate_encyclopedia/" class="pp-item__title">Semantic Encyclopedia</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">An open, annotated encyclopedia built from climate literature using semantic tools.</p>
+          
+            <a href="https://github.com/semanticClimate/encyclopedia" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
+      
+        <li class="pp-item">
+          
+            <img src="/p/static/img/events2026/key_pic1.png" alt="txt2phrases" class="pp-item__image">
+          
+          <a href="/p/en/posts/txt2phrases_T4/" class="pp-item__title">txt2phrases</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">Automated Text Processing and Keyphrases Extraction.</p>
+          
+            <a href="https://github.com/semanticClimate/txt2phrases" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
+      
+        <li class="pp-item">
+          
+            <img src="/p/static/img/events2026/pyget_logo.png" alt="pygetpapers" class="pp-item__image">
+          
+          <a href="/p/en/posts/pygetpapers_T2/" class="pp-item__title">pygetpapers</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">A semantic tool for building structured, machine-readable corpora from open access repositories.</p>
+          
+            <a href="https://github.com/petermr/pygetpapers" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
+      
+    </ul>
+  </div>
+
+  <div class="projects-publications__col">
+    <h3>Publications</h3>
+    <ul class="pp-list">
+      
+        <li class="pp-item">
+          
+          <a href="/p/en/posts/blog5_OAW2025/" class="pp-item__title">What Can We Do About Knowledge Ownership?</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-24</p>
+        </li>
+      
+        <li class="pp-item">
+          
+          <a href="/p/en/posts/blog6_OAW2025/" class="pp-item__title">Large Language Models and Who Owns Our Knowledge</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-23</p>
+        </li>
+      
+        <li class="pp-item">
+          
+          <a href="/p/en/posts/blog4_OAW2025/" class="pp-item__title">Who Owns Our Knowledge?</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-22</p>
+        </li>
+      
+        <li class="pp-item">
+          
+          <a href="/p/en/posts/blog3_OAW2025/" class="pp-item__title">What Semantic Climate Brings to Open Access in 2025</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-20</p>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+<style>
+.projects-publications {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+.projects-publications__col h3 {
+  margin-bottom: 0.75rem;
+}
+
+.pp-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pp-item {
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.pp-item__image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.pp-item__title {
+  font-weight: 600;
+  text-decoration: none;
+  color: inherit;
+}
+
+.pp-item__badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  background: #eaf3de;
+  color: #3b6d11;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-left: 8px;
+}
+
+.pp-item__desc {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0.4rem 0;
+}
+
+.pp-item__meta {
+  font-size: 0.8rem;
+  color: #777;
+  margin: 0.3rem 0 0;
+}
+
+.pp-item__repo {
+  font-size: 0.8rem;
+  color: #185fa5;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .projects-publications {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+  </div>
+</div>
 
 <div class="fullwidth">
   <div class="container">
