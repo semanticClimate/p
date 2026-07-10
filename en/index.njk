@@ -1,13 +1,7 @@
 ---
-eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber + 1 }}{% else %}Homepage{% endif %}"
+title: Homepage
 layout: layouts/base.njk
-permalink: /{{ lang }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}
-pagination:
-  data: collections.post
-  size: 6
-  alias: posts
-  reverse: true
+permalink: /{{ lang }}/
 eleventyNavigation:
   key: Home
   order: 0
@@ -17,7 +11,6 @@ eleventyNavigation:
   <div class="container">
     <h1>
       {% if site.hero.title %}
-        {% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber + 1 }} | {% endif %}
         {{ site.hero.title | safe }}
       {% else %}
         {{ site.meta.title | safe }}
