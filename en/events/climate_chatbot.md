@@ -3,7 +3,7 @@ title: Climate Academy Chatbot (CABot)
 date: 2026-05-18
 featured: true
 description: How to Create Responsible and Trustworthy Climate Chatbot
-image: /static/img/events2026/Climate_Chatbots_flyer.png  
+image: /static/img/events2026/cabot_p3.jpg  
 tags:
   - semanticclimate
   - outreach

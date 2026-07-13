@@ -1,11 +1,10 @@
 ---
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Blog – Page {{ pagination.pageNumber + 1 }}{% else %}Blog{% endif %}"
+  title: Blog
 layout: layouts/base.njk
-permalink: "/{{ lang }}/posts/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}"
 pagination:
   data: collections.post
-  size: 7
+  size: 6
   alias: posts
   reverse: true
 eleventyNavigation:
@@ -13,110 +12,13 @@ eleventyNavigation:
   order: 4
 ---
 
-<div class="container">
+  <div class="container">
   <h1>
-    {{ site.homepage.sectionHeading4 }}
+     {{ site.homepage.sectionHeading4}}
   </h1>
-  <p>{{ site.homepage.description4 }}</p>
+  <p> {{site.homepage.description4}}</p>
+    {% set postslist = collections.post | sort(true, true, 'date') %}
+    {% include "components/postslist.njk" %}
 
-  {% if pagination.pageNumber == 0 %}
-    {% for post in posts %}
-      {% if loop.first %}
-        <a href="{{ post.url | url }}" class="post-featured">
-          {% if post.data.image %}
-            <div class="post-featured__media">
-              <img src="{{ post.data.image | url }}" alt="{{ post.data.title }}">
-              <span class="post-featured__badge">Latest</span>
-            </div>
-          {% endif %}
-          <div class="post-featured__body">
-            <time class="post-featured__date">{{ post.data.date | readableDate }}</time>
-            <span class="post-featured__author">by {{ post.data.author }}</span>
-            <h2 class="post-featured__title">{{ post.data.title }}</h2>
-            {% if post.data.summary %}
-              <p class="post-featured__summary">{{ post.data.summary }}</p>
-            {% endif %}
-          </div>
-        </a>
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-
-  {% set postslist = posts %}
-  {% set skipFirst = (pagination.pageNumber == 0) %}
-  {% include "components/postslist.njk" %}
-
-  <div class="pagination">
-    {% if pagination.href.previous %}
-      <a href="{{ pagination.href.previous | url }}" class="pagination__prev">&larr; Prev Page</a>
-    {% endif %}
-    {% if pagination.href.next %}
-      <a href="{{ pagination.href.next | url }}" class="pagination__next">Next Page &rarr;</a>
-    {% endif %}
-  </div>
 </div>
 
-<style>
-.post-featured {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  border: 1px solid #e2e2e2;
-  border-radius: 10px;
-  overflow: hidden;
-  margin: 1.5rem 0 2rem;
-  transition: box-shadow 0.15s ease;
-}
-
-.post-featured:hover {
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-}
-
-.post-featured__media {
-  position: relative;
-  aspect-ratio: 21 / 8;
-  background: #f3f3f3;
-}
-
-.post-featured__media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.post-featured__badge {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  background: #1a7f37;
-  color: #fff;
-  font-size: 0.75rem;
-  padding: 3px 10px;
-  border-radius: 4px;
-}
-
-.post-featured__body {
-  padding: 1.25rem 1.5rem;
-}
-
-.post-featured__date,
-.post-featured__author {
-  font-size: 0.8rem;
-  color: #777;
-}
-
-.post-featured__title {
-  margin: 0.4rem 0;
-}
-
-.post-featured__summary {
-  font-size: 0.95rem;
-  color: #555;
-}
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 2rem;
-}
-</style>
