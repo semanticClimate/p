@@ -633,183 +633,138 @@
   <div class="container">
     <h2 class="section-title">Projects &amp; Publications</h2>
     <div class="projects-publications">
-
-  <div class="pp-section">
-    <h3 class="pp-section__title">Projects</h3>
-    <div class="pp-scroll">
+  <div class="projects-publications__col">
+    <h3>Projects</h3>
+    <ul class="pp-list">
       
-        <a href="/p/en/posts/climate_encyclopedia/" class="pp-card">
-          <div class="pp-card__media">
-            
-              <img src="/p/static/img/events2026/enc_p4.png" alt="Semantic Encyclopedia" loading="lazy">
-            
-          </div>
-          <p class="pp-card__title">Semantic Encyclopedia</p>
-          <p class="pp-card__desc">An open, annotated encyclopedia built from climate literature using semantic tools.</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/climate_encyclopedia/" class="pp-item__title">Semantic Encyclopedia</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">An open, annotated encyclopedia built from climate literature using semantic tools.</p>
+          
+            <a href="https://github.com/semanticClimate/encyclopedia" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
       
-        <a href="/p/en/posts/txt2phrases_T4/" class="pp-card">
-          <div class="pp-card__media">
-            
-              <img src="/p/static/img/events2026/key_pic1.png" alt="txt2phrases" loading="lazy">
-            
-          </div>
-          <p class="pp-card__title">txt2phrases</p>
-          <p class="pp-card__desc">Automated Text Processing and Keyphrases Extraction.</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/txt2phrases_T4/" class="pp-item__title">txt2phrases</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">Automated Text Processing and Keyphrases Extraction.</p>
+          
+            <a href="https://github.com/semanticClimate/txt2phrases" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
       
-        <a href="/p/en/posts/pygetpapers_T2/" class="pp-card">
-          <div class="pp-card__media">
-            
-              <img src="/p/static/img/events2026/pyget_logo.png" alt="pygetpapers" loading="lazy">
-            
-          </div>
-          <p class="pp-card__title">pygetpapers</p>
-          <p class="pp-card__desc">A semantic tool for building structured, machine-readable corpora from open access repositories.</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/pygetpapers_T2/" class="pp-item__title">pygetpapers</a>
+          
+            <span class="pp-item__badge">active</span>
+          
+          <p class="pp-item__desc">A semantic tool for building structured, machine-readable corpora from open access repositories.</p>
+          
+            <a href="https://github.com/petermr/pygetpapers" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+          
+        </li>
       
-    </div>
+    </ul>
   </div>
 
-  <div class="pp-section">
-    <h3 class="pp-section__title">Publications</h3>
-    <div class="pp-scroll">
+  <div class="projects-publications__col">
+    <h3>Publications</h3>
+    <ul class="pp-list">
       
-        <a href="/p/en/posts/blog5_OAW2025/" class="pp-card">
-          <div class="pp-card__media">
-            
-          </div>
-          <p class="pp-card__title">What Can We Do About Knowledge Ownership?</p>
-          <p class="pp-card__meta">Peter Murray-Rust &middot; 2025-10-24</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/blog5_OAW2025/" class="pp-item__title">What Can We Do About Knowledge Ownership?</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-24</p>
+        </li>
       
-        <a href="/p/en/posts/blog6_OAW2025/" class="pp-card">
-          <div class="pp-card__media">
-            
-          </div>
-          <p class="pp-card__title">Large Language Models and Who Owns Our Knowledge</p>
-          <p class="pp-card__meta">Peter Murray-Rust &middot; 2025-10-23</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/blog6_OAW2025/" class="pp-item__title">Large Language Models and Who Owns Our Knowledge</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-23</p>
+        </li>
       
-        <a href="/p/en/posts/blog4_OAW2025/" class="pp-card">
-          <div class="pp-card__media">
-            
-          </div>
-          <p class="pp-card__title">Who Owns Our Knowledge?</p>
-          <p class="pp-card__meta">Peter Murray-Rust &middot; 2025-10-22</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/blog4_OAW2025/" class="pp-item__title">Who Owns Our Knowledge?</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-22</p>
+        </li>
       
-        <a href="/p/en/posts/blog3_OAW2025/" class="pp-card">
-          <div class="pp-card__media">
-            
-          </div>
-          <p class="pp-card__title">What Semantic Climate Brings to Open Access in 2025</p>
-          <p class="pp-card__meta">Peter Murray-Rust &middot; 2025-10-20</p>
-        </a>
+        <li class="pp-item">
+          <a href="/p/en/posts/blog3_OAW2025/" class="pp-item__title">What Semantic Climate Brings to Open Access in 2025</a>
+          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-20</p>
+        </li>
       
-    </div>
+    </ul>
   </div>
-
 </div>
 
 <style>
 .projects-publications {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 2rem;
   margin: 1.5rem 0;
-  background: #f6f7f5;
-  padding: 1.5rem;
-  border-radius: 12px;
 }
 
-.pp-section__title {
-  font-size: 1.1rem;
-  font-weight: 600;
+.projects-publications__col h3 {
   margin-bottom: 0.75rem;
 }
 
-.pp-scroll {
-  display: flex;
-  gap: 1rem;
-  overflow-x: auto;
-  padding-bottom: 0.5rem;
-  scroll-snap-type: x mandatory;
+.pp-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-.pp-card {
-  flex: 0 0 220px;
-  scroll-snap-align: start;
+.pp-item {
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.pp-item__title {
+  font-weight: 600;
   text-decoration: none;
   color: inherit;
-  border-radius: 10px;
-  overflow: hidden;
-  background: #ffffff;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
-.pp-card:hover {
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12), 0 2px 6px rgba(0, 0, 0, 0.08);
-  transform: translateY(-3px);
-}
-
-.pp-card__media {
-  position: relative;
-  aspect-ratio: 16 / 9;
-  background: #f3f3f3;
-}
-
-.pp-card__media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.pp-card__badge {
-  position: absolute;
-  top: 8px;
-  left: 8px;
-  background: rgba(0, 0, 0, 0.65);
-  color: #fff;
-  font-size: 0.65rem;
+.pp-item__badge {
+  display: inline-block;
+  font-size: 0.7rem;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  background: #eaf3de;
+  color: #3b6d11;
   padding: 2px 8px;
-  border-radius: 4px;
+  border-radius: 12px;
+  margin-left: 8px;
 }
 
-.pp-card__title {
-  font-size: 0.88rem;
-  font-weight: 600;
-  padding: 0.6rem 0.7rem 0.2rem;
-  margin: 0;
-  line-height: 1.3;
+.pp-item__desc {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0.4rem 0;
 }
 
-.pp-card__desc {
-  font-size: 0.78rem;
-  color: #666;
-  padding: 0 0.7rem 0.7rem;
-  margin: 0;
-  line-height: 1.35;
+.pp-item__meta {
+  font-size: 0.8rem;
+  color: #777;
+  margin: 0.3rem 0 0;
 }
 
-.pp-card__meta {
-  font-size: 0.75rem;
-  color: #888;
-  padding: 0 0.7rem 0.7rem;
-  margin: 0;
+.pp-item__repo {
+  font-size: 0.8rem;
+  color: #185fa5;
+  text-decoration: none;
 }
 
-/* thin scrollbar, webkit browsers */
-.pp-scroll::-webkit-scrollbar {
-  height: 6px;
-}
-.pp-scroll::-webkit-scrollbar-thumb {
-  background: #ccc;
-  border-radius: 3px;
+@media (max-width: 700px) {
+  .projects-publications {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 
