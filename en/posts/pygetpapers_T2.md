@@ -1,5 +1,5 @@
 ---
-title: pygetpapers | Automated Retrieval of Open Access Scientific Literature
+title: pygetpapers (Automated Retrieval of Open Access Scientific Literature)
 date: 2026-02-25
 description: Introduction and User Guide
 author: RK
