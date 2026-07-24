@@ -638,36 +638,51 @@
     <ul class="pp-list">
       
         <li class="pp-item">
-          <a href="/p/en/posts/climate_encyclopedia/" class="pp-item__title">Semantic Encyclopedia</a>
           
-            <span class="pp-item__badge">active</span>
+            <div class="pp-item__media">
+              <img src="/p/static/img/events2026/enc_p4.png" alt="Semantic Encyclopedia" loading="lazy">
+            </div>
           
-          <p class="pp-item__desc">An open, annotated encyclopedia built from climate literature using semantic tools.</p>
-          
-            <a href="https://github.com/semanticClimate/encyclopedia" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
-          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/climate_encyclopedia/" class="pp-item__title">Semantic Encyclopedia</a>
+            
+            <p class="pp-item__desc">An open, annotated encyclopedia built from climate literature using semantic tools.</p>
+            
+              <a href="https://github.com/semanticClimate/encyclopedia" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+            
+          </div>
         </li>
       
         <li class="pp-item">
-          <a href="/p/en/posts/txt2phrases_T4/" class="pp-item__title">txt2phrases</a>
           
-            <span class="pp-item__badge">active</span>
+            <div class="pp-item__media">
+              <img src="/p/static/img/events2026/key_pic1.png" alt="txt2phrases" loading="lazy">
+            </div>
           
-          <p class="pp-item__desc">Automated Text Processing and Keyphrases Extraction.</p>
-          
-            <a href="https://github.com/semanticClimate/txt2phrases" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
-          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/txt2phrases_T4/" class="pp-item__title">txt2phrases</a>
+            
+            <p class="pp-item__desc">Automated Text Processing and Keyphrases Extraction.</p>
+            
+              <a href="https://github.com/semanticClimate/txt2phrases" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+            
+          </div>
         </li>
       
         <li class="pp-item">
-          <a href="/p/en/posts/pygetpapers_T2/" class="pp-item__title">pygetpapers</a>
           
-            <span class="pp-item__badge">active</span>
+            <div class="pp-item__media">
+              <img src="/p/static/img/events2026/pyget_logo.png" alt="pygetpapers" loading="lazy">
+            </div>
           
-          <p class="pp-item__desc">A semantic tool for building structured, machine-readable corpora from open access repositories.</p>
-          
-            <a href="https://github.com/petermr/pygetpapers" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
-          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/pygetpapers_T2/" class="pp-item__title">pygetpapers</a>
+            
+            <p class="pp-item__desc">A semantic tool for building structured, machine-readable corpora from open access repositories.</p>
+            
+              <a href="https://github.com/petermr/pygetpapers" class="pp-item__repo" target="_blank" rel="noopener">View on GitHub →</a>
+            
+          </div>
         </li>
       
     </ul>
@@ -678,23 +693,35 @@
     <ul class="pp-list">
       
         <li class="pp-item">
-          <a href="/p/en/posts/blog5_OAW2025/" class="pp-item__title">What Can We Do About Knowledge Ownership?</a>
-          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-24</p>
+          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/blog5_OAW2025/" class="pp-item__title">What Can We Do About Knowledge Ownership?</a>
+            <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-24</p>
+          </div>
         </li>
       
         <li class="pp-item">
-          <a href="/p/en/posts/blog6_OAW2025/" class="pp-item__title">Large Language Models and Who Owns Our Knowledge</a>
-          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-23</p>
+          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/blog6_OAW2025/" class="pp-item__title">Large Language Models and Who Owns Our Knowledge</a>
+            <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-23</p>
+          </div>
         </li>
       
         <li class="pp-item">
-          <a href="/p/en/posts/blog4_OAW2025/" class="pp-item__title">Who Owns Our Knowledge?</a>
-          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-22</p>
+          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/blog4_OAW2025/" class="pp-item__title">Who Owns Our Knowledge?</a>
+            <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-22</p>
+          </div>
         </li>
       
         <li class="pp-item">
-          <a href="/p/en/posts/blog3_OAW2025/" class="pp-item__title">What Semantic Climate Brings to Open Access in 2025</a>
-          <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-20</p>
+          
+          <div class="pp-item__body">
+            <a href="/p/en/posts/blog3_OAW2025/" class="pp-item__title">What Semantic Climate Brings to Open Access in 2025</a>
+            <p class="pp-item__meta">Peter Murray-Rust &middot; 2025-10-20</p>
+          </div>
         </li>
       
     </ul>
@@ -720,10 +747,34 @@
 }
 
 .pp-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
   border: 1px solid #e2e2e2;
   border-radius: 8px;
   padding: 0.75rem 1rem;
   margin-bottom: 0.75rem;
+}
+
+.pp-item__media {
+  flex: 0 0 120px;
+  width: 120px;
+  aspect-ratio: 1 / 1;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #f3f3f3;
+}
+
+.pp-item__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.pp-item__body {
+  flex: 1;
+  min-width: 0;
 }
 
 .pp-item__title {
@@ -764,6 +815,15 @@
 @media (max-width: 700px) {
   .projects-publications {
     grid-template-columns: 1fr;
+  }
+
+  .pp-item {
+    flex-direction: column;
+  }
+
+  .pp-item__media {
+    width: 100%;
+    flex: none;
   }
 }
 </style>
