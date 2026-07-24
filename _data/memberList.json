@@ -78,6 +78,58 @@
         "link": ""
     },
     {
+        "name": "Vrinda Sharma",
+        "status": "intern",
+        "twitter": "@vrinda62628069",
+        "github": "Vrinda-S",
+        "affiliation": "Lancaster University, London, UK",
+        "interests": "Biomedicine",
+        "start": 1783330200000.0,
+        "end": 1788672600000.0,
+        "image": "vrinda.jpg",
+        "email": "s-vrinda@hotmail.com",
+        "link": ""
+    },
+    {
+        "name": "Ilakkya S",
+        "status": "intern",
+        "twitter": "@Ikakkya",
+        "github": "ILAKKYA-S",
+        "affiliation": "B.Tech Biotechnology, Bannari Amman Institute of Technology, India",
+        "interests": "bioprocess engineering, microbiology, computational and AI-assisted approaches in biotechnology and climate-related research",
+        "start": 1781515800000.0,
+        "end": 1786815000000.0,
+        "image": "Ilakkya.png",
+        "email": "ilakkya.bt23@bitsathy.ac.in",
+        "link": ""
+    },
+    {
+        "name": "Mahi Bhardwaj",
+        "status": "intern",
+        "twitter": "@MahiBha78297534",
+        "github": "mahi-1-bhardwaj",
+        "affiliation": "Bachelor's degree with major in Botany, Gurugram University, Haryana",
+        "interests": "Plant research, biodiversity, sustainable agriculture and lifestyle practices",
+        "start": 1776936600000.0,
+        "end": 1785519000000.0,
+        "image": "Mahi.jpg",
+        "email": "bhardwaj1117mahi@gmail.com",
+        "link": ""
+    },
+    {
+        "name": "Drishti Sharma",
+        "status": "intern",
+        "twitter": "@drishtii_15",
+        "github": "Drishti-debug",
+        "affiliation": "Goswami Ganesh Dutta Sanatan Dharma College, Panjab University, Chandigarh, India",
+        "interests": "NGS data analysis, particularly transcriptomics and multi-omics integration",
+        "start": 1782120600000.0,
+        "end": 1790098200000.0,
+        "image": "Drishti-Sharma.jpeg",
+        "email": "sdrishti568@gmail.com",
+        "link": ""
+    },
+    {
         "name": "Harshdeep Singh",
         "status": "intern",
         "twitter": "Itsharshsi",
@@ -1222,17 +1274,17 @@
         "link": "https://www.deepc.org.in/"
     },
     {
-        "name": "Wikimedia",
+        "name": "Open Knowledge Foundation (OKFN)",
         "status": "partner",
         "twitter": "",
         "github": "",
         "affiliation": "",
-        "interests": "Wikimedia is a global movement whose mission is to bring free educational content to the world. Through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation, Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge.",
+        "interests": "Open Knowledge Foundation (OKF) is a global, non-profit network that promotes and shares information at no charge, including both content and data.",
         "start": "",
         "end": "",
-        "image": "wikimedia_logo.svg",
+        "image": "lg-okfn.svg",
         "email": "",
-        "link": "https://www.wikimedia.org/"
+        "link": "https://okfn.org/en/"
     },
     {
         "name": "Transforming India's Green Revolution by Research and Empowerment for Sustainable food Supplies (TIGR2ESS)",
