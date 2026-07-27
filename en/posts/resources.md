@@ -271,6 +271,144 @@ Start with these popular resources and explore the complete collection below.
 
 # 🎥 Video Tutorials and Presentations
 
+#### [Click here to view the entire video playlist]({{ '/en/posts/demotutorial/' | url }})
+
+<div class="video-gallery">
+
+  <a href="https://www.youtube.com/watch?v=ljyyc8xzIak&t=97s" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/ljyyc8xzIak/hqdefault.jpg" alt="Introduction of #semanticClimate">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Introduction of #semanticClimate | Dr. Gitanjali Yadav — Indo-Dutch Gender Championship Event, NIPGR</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=o50Jd1w6xKw&t=16843s" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/o50Jd1w6xKw/hqdefault.jpg" alt="Panel Discussion, Tech We Want Summit 2024">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Panel Discussion | An overview of semanticClimate by Shweata N Hegde — The Tech We Want Summit 2024</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=V7Sxo0IXe8g&t=7604s" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/V7Sxo0IXe8g/hqdefault.jpg" alt="semanticClimate Tools Demo Session">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Tools Demo Session | pygetpapers, docanalysis &amp; amilib by Parijat Bhadra — The Tech We Want Summit 2024</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=zKs-qEggg7Y" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/zKs-qEggg7Y/hqdefault.jpg" alt="Can New York Carbon Capture Apply to Mumbai?">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Can New York Carbon Capture Apply to Mumbai? ft. Mahvish — ISOSC CODATA China 2023, IPCC WG3 Chapter 08</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=Pz3ne1JnOt8&list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&t=1s" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/Pz3ne1JnOt8/hqdefault.jpg" alt="IPCC AR6 Synthesis Report Structure Explained">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">IPCC AR6 Synthesis Report Structure Explained, ft. Waheb Mehdi — ISOSC CODATA China 2023</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=xuzRHDPZKjs&list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/xuzRHDPZKjs/hqdefault.jpg" alt="MRIIRS Hackathon 2024 Winning Team Presentations">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">MRIIRS Hackathon 2024 — Winning Team Presentations Playlist</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=7ok7hx40Bes" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/7ok7hx40Bes/hqdefault.jpg" alt="IPCC Knowledge Graph">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Unlocking Climate Insights: Accessing the IPCC Knowledge Graph, ft. Daniel Spiller &amp; Marcel</p>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=krbeWMTz5CY" target="_blank" rel="noopener" class="video-card">
+    <div class="video-card__thumb">
+      <img src="https://img.youtube.com/vi/krbeWMTz5CY/hqdefault.jpg" alt="Building a semantic knowledge base for synthetic phytochemistry">
+      <span class="video-card__play">▶</span>
+    </div>
+    <p class="video-card__title">Building a Semantic Knowledge (Wiki)base for Synthetic Phytochemistry, feat. Dr. Gitanjali Yadav</p>
+  </a>
+
+</div>
+
+<style>
+.video-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.video-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e2e2e2;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.video-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.video-card__thumb {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.video-card__thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.video-card__play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 3px;
+}
+
+.video-card__title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.6rem 0.75rem;
+  margin: 0;
+  line-height: 1.35;
+}
+</style>
+---------------------
+
+
+
+
+# 🎥 Video Tutorials and Presentations
+
 #### [Click here to view the entire video playlist](https://semanticclimate.github.io/p/en/posts/demotutorial/)
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://www.youtube.com/watch?v=ljyyc8xzIak&t=97s)
