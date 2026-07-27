@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-27T11:38:27Z</updated>
+	<updated>2026-07-27T11:49:53Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -6428,67 +6428,6 @@ cd myproject
   line-height: 1.35;
 }
 &lt;/style&gt;
-&lt;hr /&gt;
-&lt;h1&gt;🎥 Video Tutorials and Presentations&lt;/h1&gt;
-&lt;h4&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/demotutorial/&quot;&gt;Click here to view the entire video playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ljyyc8xzIak&amp;amp;t=97s&quot;&gt;Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/ljyyc8xzIak?start=93&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Introduction of #semantic Climate&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=o50Jd1w6xKw&amp;amp;t=16843s&quot;&gt;The Tech We Want Summit 2024 | Panel Discussion&lt;/a&gt;&lt;/h4&gt;
-&lt;h5&gt;An Overview of semanticClimate by &lt;strong&gt;Shweata N Hegde&lt;/strong&gt; in TTWW 2024&lt;/h5&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/o50Jd1w6xKw?start=16842&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Panel Discussion&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=V7Sxo0IXe8g&amp;amp;t=7604s&quot;&gt;The Tech We Want Summit 2024 | semanticClimate Tools Demo session!&lt;/a&gt;&lt;/h4&gt;
-&lt;h5&gt;The demonstration of semanticClimate tools &lt;code&gt;pygetpapers&lt;/code&gt;, &lt;code&gt;docanalysis&lt;/code&gt; and &lt;code&gt;amilib&lt;/code&gt; by &lt;strong&gt;Parijat Bhadra&lt;/strong&gt; in TTWW 2024&lt;/h5&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/V7Sxo0IXe8g?start=7602&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Tech Demo Session&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zKs-qEggg7Y&quot;&gt;ISOSC CODATA China 2023 | IPCC WG3 Chapter 08&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/zKs-qEggg7Y&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Can New York Carbon Capture Apply to Mumbai? | ft. Mahvish&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Pz3ne1JnOt8&amp;amp;list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&amp;amp;t=1s&quot;&gt;ISOSC CODATA China 2023 | IPCC AR6 Overview&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/Pz3ne1JnOt8?list=PLtKHReMoCMwl3taR18VfvuUHJTO0Cs92y&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;IPCC AR6 Synthesis Report Structure Explained | ft. Waheb Mehdi&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xuzRHDPZKjs&amp;amp;list=PLtKHReMoCMwk3f1RCB830TxROukOHN0ev&quot;&gt;MRIIRS Hackathon 2024 Winning Team Presentations Playlist&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/xuzRHDPZKjs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Winning Team Presentations Playlist&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7ok7hx40Bes&quot;&gt;Unlocking Climate Insights: Accessing the IPCC Knowledge Graph | ft. Daniel Spiller &amp;amp; Marcel&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/7ok7hx40Bes&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;IPCC Knowledge Graph&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;&lt;a href=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot;&gt;Building a semantic knowledge (wiki)base for synthetic phytochemistry | Feat. Dr Gitanjali Yadav&lt;/a&gt;&lt;/h4&gt;
-&lt;div style=&quot;display: flex; align-items: center; gap: 20 px; margin-bottom: 20 px;&quot;&gt;
-  &lt;iframe width=&quot;250&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/krbeWMTz5CY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;div&gt;
-    &lt;h5 style=&quot;font-size: 1.2 rem; font-family: -apple-system,BlinkMacSystemFont,&quot; Segoe=&quot;&quot; UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple=&quot;&quot; Color=&quot;&quot; Emoji&quot;,&quot;Segoe=&quot;&quot; UI=&quot;&quot; Symbol&quot;;=&quot;&quot; color:=&quot;&quot; #000000;=&quot;&quot;&gt;Building a semantic knowledge (wiki)base&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 &lt;hr /&gt;
 &lt;h1&gt;Connect with semanticClimate&lt;/h1&gt;
 &lt;ul&gt;
