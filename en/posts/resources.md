@@ -154,11 +154,11 @@ Start with these popular resources and explore the complete collection below.
 
 - #### [MRIIRS Feb hack resources](../../posts/for_MRIIRS_hack/)
 
-#### [Click here to view the entire video playlist](https://semanticclimate.github.io/p/en/posts/demotutorial/)
-
 ---
 
 # 🎥 Video Tutorials and Presentations
+
+#### [Click here to view the entire video playlist](https://semanticclimate.github.io/p/en/posts/demotutorial/)
 
 #### [Introduction of #semantic Climate by Dr. Gitanjali Yadav | Indo-Dutch Gender Championship Event NIPGR](https://www.youtube.com/watch?v=ljyyc8xzIak&t=97s)
 
