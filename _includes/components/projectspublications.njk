@@ -22,6 +22,9 @@
         </li>
       {% endfor %}
     </ul>
+    <p class="pp-readmore">
+      <a href="https://github.com/semanticClimate" target="_blank" rel="noopener">Read more →</a>
+    </p>
   </div>
 
   <div class="projects-publications__col">
@@ -41,6 +44,9 @@
         </li>
       {% endfor %}
     </ul>
+    <p class="pp-readmore">
+      <a href="{{ '/en/posts/' | url }}">Read more →</a>
+    </p>
   </div>
 </div>
 
@@ -68,7 +74,7 @@
   flex-wrap: nowrap;
   gap: 1rem;
   align-items: flex-start;
-  border: 1px solid #c9c9c9;
+  border: 2px solid #105e7c;
   border-radius: 8px;
   padding: 0.75rem 1rem;
   margin-bottom: 0.75rem;
@@ -137,6 +143,21 @@
   font-size: 0.8rem;
   color: #185fa5;
   text-decoration: none;
+}
+
+.pp-readmore {
+  margin-top: 0.75rem;
+}
+
+.pp-readmore a {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #00adef;
+  text-decoration: none;
+}
+
+.pp-readmore a:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 700px) {
