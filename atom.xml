@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-27T10:42:07Z</updated>
+	<updated>2026-07-27T10:55:24Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -6087,6 +6087,215 @@ cd myproject
 &lt;li&gt;🤝 Community &amp;amp; Outreach&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
+&lt;h2&gt;⭐ Featured Resources&lt;/h2&gt;
+&lt;p&gt;Start with these popular resources and explore the complete collection below.&lt;/p&gt;
+&lt;div class=&quot;resource-grid&quot;&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/guide_internship/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource1.jpg&quot; alt=&quot;Internship Guide&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Internship Guide&lt;/h4&gt;
+      &lt;p&gt;Everything you need to know before joining as a #semanticClimate intern, from onboarding to expectations.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/guide_internship/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/Interns_project/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource2.jpg&quot; alt=&quot;Intern Projects&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Intern Projects&lt;/h4&gt;
+      &lt;p&gt;A showcase of projects built by past and current interns across the #semanticClimate program.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/Interns_project/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/climate_project/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource13.jpg&quot; alt=&quot;Climate Data Analysis&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Climate Data Analysis&lt;/h4&gt;
+      &lt;p&gt;Methods and examples for analysing climate datasets using semantic and open-source tools.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/climate_project/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/IPCC_Glossary/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource9.jpg&quot; alt=&quot;IPCC Glossary&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;IPCC Glossary&lt;/h4&gt;
+      &lt;p&gt;A searchable, interactive glossary of key terms used across IPCC climate reports.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/IPCC_Glossary/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/semantic_chapters/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource4.jpg&quot; alt=&quot;Semantic Reports&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Semantic Reports&lt;/h4&gt;
+      &lt;p&gt;Climate reports converted into machine-readable, semantically tagged formats for easier analysis.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/semantic_chapters/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/kgraph/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource6.jpg&quot; alt=&quot;Climate Knowledge Graph&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Climate Knowledge Graph&lt;/h4&gt;
+      &lt;p&gt;An interactive graph linking climate concepts, terms, and their relationships.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/kgraph/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/syr_wikibase/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource8.jpg&quot; alt=&quot;SYR Wikibase&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;SYR Wikibase&lt;/h4&gt;
+      &lt;p&gt;A structured, linked-data repository built from the IPCC Synthesis Report.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/syr_wikibase/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/notebook/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource7.jpg&quot; alt=&quot;Colab Notebook&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Colab Notebook&lt;/h4&gt;
+      &lt;p&gt;A ready-to-run Google Colab notebook demonstrating our semantic analysis tools.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/notebook/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/demotutorial/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource5.jpg&quot; alt=&quot;Demo Tutorial&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Demo Tutorial&lt;/h4&gt;
+      &lt;p&gt;A step-by-step walkthrough of our core tools, ideal for first-time users.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/demotutorial/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/ami_tutorial/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource11.jpg&quot; alt=&quot;amilib Tutorial&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;amilib Tutorial&lt;/h4&gt;
+      &lt;p&gt;Learn to use amilib for document processing, cleaning, and dictionary creation.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/ami_tutorial/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/doc_tutorial/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource12.jpg&quot; alt=&quot;Document Tutorial&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Document Tutorial&lt;/h4&gt;
+      &lt;p&gt;A guide to converting and structuring legacy documents for semantic use.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/doc_tutorial/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/lit_search/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource3.jpg&quot; alt=&quot;pygetpapers Literature Search&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;pygetpapers Literature Search&lt;/h4&gt;
+      &lt;p&gt;Use pygetpapers to search and download open access literature at scale.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/lit_search/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/outreach/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource10.jpg&quot; alt=&quot;Presentations&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Presentations&lt;/h4&gt;
+      &lt;p&gt;Slides and talks from #semanticClimate outreach events and conferences.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/outreach/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/dict_climate/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource14.jpg&quot; alt=&quot;Climate Dictionary&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Climate Dictionary&lt;/h4&gt;
+      &lt;p&gt;A curated dictionary of climate terminology built for machine readability.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/dict_climate/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;resource-card&quot;&gt;
+    &lt;a href=&quot;/p/en/posts/sc_publ/&quot;&gt;
+      &lt;img src=&quot;/p/static/img/resource15.jpg&quot; alt=&quot;Publications&quot; /&gt;
+    &lt;/a&gt;
+    &lt;div class=&quot;resource-card__body&quot;&gt;
+      &lt;h4&gt;Publications&lt;/h4&gt;
+      &lt;p&gt;Papers, blog posts, and reports published by the #semanticClimate team.&lt;/p&gt;
+      &lt;a href=&quot;/p/en/posts/sc_publ/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.resource-card {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e2e2e2;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+  background: #fff;
+}
+
+.resource-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.resource-card img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+.resource-card__body {
+  padding: 0.75rem 0.9rem 1rem;
+}
+
+.resource-card__body h4 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.resource-card__body p {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0 0 0.6rem;
+  line-height: 1.4;
+}
+
+.resource-card__link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #00adef;
+  text-decoration: none;
+}
+
+.resource-card__link:hover {
+  text-decoration: underline;
+}
+&lt;/style&gt;
 &lt;h2&gt;⭐ Featured Resources&lt;/h2&gt;
 &lt;p&gt;Start with these popular resources and explore the complete collection below.&lt;/p&gt;
 &lt;table style=&quot;border-spacing: 25px; margin-bottom: 20px;&quot;&gt;
