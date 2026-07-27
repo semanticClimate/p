@@ -34,6 +34,239 @@ Welcome to the **semanticClimate Resources**, a curated collection of tutorials,
 
 Start with these popular resources and explore the complete collection below.
 
+<div class="resource-grid">
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/guide_internship/' | url }}">
+      <img src="{{ '/static/img/resource1.jpg' | url }}" alt="Internship Guide">
+    </a>
+    <div class="resource-card__body">
+      <h4>Internship Guide</h4>
+      <p>Everything you need to know before joining as a #semanticClimate intern, from onboarding to expectations.</p>
+      <a href="{{ '/en/posts/guide_internship/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/Interns_project/' | url }}">
+      <img src="{{ '/static/img/resource2.jpg' | url }}" alt="Intern Projects">
+    </a>
+    <div class="resource-card__body">
+      <h4>Intern Projects</h4>
+      <p>A showcase of projects built by past and current interns across the #semanticClimate program.</p>
+      <a href="{{ '/en/posts/Interns_project/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/climate_project/' | url }}">
+      <img src="{{ '/static/img/resource13.jpg' | url }}" alt="Climate Data Analysis">
+    </a>
+    <div class="resource-card__body">
+      <h4>Climate Data Analysis</h4>
+      <p>Methods and examples for analysing climate datasets using semantic and open-source tools.</p>
+      <a href="{{ '/en/posts/climate_project/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/IPCC_Glossary/' | url }}">
+      <img src="{{ '/static/img/resource9.jpg' | url }}" alt="IPCC Glossary">
+    </a>
+    <div class="resource-card__body">
+      <h4>IPCC Glossary</h4>
+      <p>A searchable, interactive glossary of key terms used across IPCC climate reports.</p>
+      <a href="{{ '/en/posts/IPCC_Glossary/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/semantic_chapters/' | url }}">
+      <img src="{{ '/static/img/resource4.jpg' | url }}" alt="Semantic Reports">
+    </a>
+    <div class="resource-card__body">
+      <h4>Semantic Reports</h4>
+      <p>Climate reports converted into machine-readable, semantically tagged formats for easier analysis.</p>
+      <a href="{{ '/en/posts/semantic_chapters/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/kgraph/' | url }}">
+      <img src="{{ '/static/img/resource6.jpg' | url }}" alt="Climate Knowledge Graph">
+    </a>
+    <div class="resource-card__body">
+      <h4>Climate Knowledge Graph</h4>
+      <p>An interactive graph linking climate concepts, terms, and their relationships.</p>
+      <a href="{{ '/en/posts/kgraph/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/syr_wikibase/' | url }}">
+      <img src="{{ '/static/img/resource8.jpg' | url }}" alt="SYR Wikibase">
+    </a>
+    <div class="resource-card__body">
+      <h4>SYR Wikibase</h4>
+      <p>A structured, linked-data repository built from the IPCC Synthesis Report.</p>
+      <a href="{{ '/en/posts/syr_wikibase/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/notebook/' | url }}">
+      <img src="{{ '/static/img/resource7.jpg' | url }}" alt="Colab Notebook">
+    </a>
+    <div class="resource-card__body">
+      <h4>Colab Notebook</h4>
+      <p>A ready-to-run Google Colab notebook demonstrating our semantic analysis tools.</p>
+      <a href="{{ '/en/posts/notebook/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/demotutorial/' | url }}">
+      <img src="{{ '/static/img/resource5.jpg' | url }}" alt="Demo Tutorial">
+    </a>
+    <div class="resource-card__body">
+      <h4>Demo Tutorial</h4>
+      <p>A step-by-step walkthrough of our core tools, ideal for first-time users.</p>
+      <a href="{{ '/en/posts/demotutorial/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/ami_tutorial/' | url }}">
+      <img src="{{ '/static/img/resource11.jpg' | url }}" alt="amilib Tutorial">
+    </a>
+    <div class="resource-card__body">
+      <h4>amilib Tutorial</h4>
+      <p>Learn to use amilib for document processing, cleaning, and dictionary creation.</p>
+      <a href="{{ '/en/posts/ami_tutorial/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/doc_tutorial/' | url }}">
+      <img src="{{ '/static/img/resource12.jpg' | url }}" alt="Document Tutorial">
+    </a>
+    <div class="resource-card__body">
+      <h4>Document Tutorial</h4>
+      <p>A guide to converting and structuring legacy documents for semantic use.</p>
+      <a href="{{ '/en/posts/doc_tutorial/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/lit_search/' | url }}">
+      <img src="{{ '/static/img/resource3.jpg' | url }}" alt="pygetpapers Literature Search">
+    </a>
+    <div class="resource-card__body">
+      <h4>pygetpapers Literature Search</h4>
+      <p>Use pygetpapers to search and download open access literature at scale.</p>
+      <a href="{{ '/en/posts/lit_search/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/outreach/' | url }}">
+      <img src="{{ '/static/img/resource10.jpg' | url }}" alt="Presentations">
+    </a>
+    <div class="resource-card__body">
+      <h4>Presentations</h4>
+      <p>Slides and talks from #semanticClimate outreach events and conferences.</p>
+      <a href="{{ '/en/posts/outreach/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/dict_climate/' | url }}">
+      <img src="{{ '/static/img/resource14.jpg' | url }}" alt="Climate Dictionary">
+    </a>
+    <div class="resource-card__body">
+      <h4>Climate Dictionary</h4>
+      <p>A curated dictionary of climate terminology built for machine readability.</p>
+      <a href="{{ '/en/posts/dict_climate/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+  <div class="resource-card">
+    <a href="{{ '/en/posts/sc_publ/' | url }}">
+      <img src="{{ '/static/img/resource15.jpg' | url }}" alt="Publications">
+    </a>
+    <div class="resource-card__body">
+      <h4>Publications</h4>
+      <p>Papers, blog posts, and reports published by the #semanticClimate team.</p>
+      <a href="{{ '/en/posts/sc_publ/' | url }}" class="resource-card__link">Know more →</a>
+    </div>
+  </div>
+
+</div>
+
+<style>
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.resource-card {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e2e2e2;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+  background: #fff;
+}
+
+.resource-card:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.resource-card img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+.resource-card__body {
+  padding: 0.75rem 0.9rem 1rem;
+}
+
+.resource-card__body h4 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.resource-card__body p {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0 0 0.6rem;
+  line-height: 1.4;
+}
+
+.resource-card__link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #00adef;
+  text-decoration: none;
+}
+
+.resource-card__link:hover {
+  text-decoration: underline;
+}
+</style>
+
+
+
+
+
+## ⭐ Featured Resources
+
+Start with these popular resources and explore the complete collection below.
+
 <table style="border-spacing: 25px; margin-bottom: 20px;">
   <tr>
     <!-- First clickable image linked to pos/test.md -->
