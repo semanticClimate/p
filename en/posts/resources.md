@@ -42,7 +42,7 @@ Start with these popular resources and explore the complete collection below.
     </a>
     <div class="resource-card__body">
       <h4>Internship Guide</h4>
-      <p>Everything you need to know before joining as a #semanticClimate intern, from onboarding to expectations.</p>
+      <p>A Beginner’s Guide to #semanticClimate internship.</p>
       <a href="{{ '/en/posts/guide_internship/' | url }}" class="resource-card__link">Know more →</a>
     </div>
   </div>
@@ -130,7 +130,7 @@ Start with these popular resources and explore the complete collection below.
     </a>
     <div class="resource-card__body">
       <h4>Demo Tutorial</h4>
-      <p>A step-by-step walkthrough of our core tools, ideal for first-time users.</p>
+      <p>Video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.</p>
       <a href="{{ '/en/posts/demotutorial/' | url }}" class="resource-card__link">Know more →</a>
     </div>
   </div>
@@ -151,8 +151,8 @@ Start with these popular resources and explore the complete collection below.
       <img src="{{ '/static/img/resource12.jpg' | url }}" alt="Document Tutorial">
     </a>
     <div class="resource-card__body">
-      <h4>Document Tutorial</h4>
-      <p>A guide to converting and structuring legacy documents for semantic use.</p>
+      <h4>docanalysis Tutorial</h4>
+      <p>A guide to processes document collections (CProjects) and performs text analysis.</p>
       <a href="{{ '/en/posts/doc_tutorial/' | url }}" class="resource-card__link">Know more →</a>
     </div>
   </div>
@@ -258,126 +258,6 @@ Start with these popular resources and explore the complete collection below.
   text-decoration: underline;
 }
 </style>
-
-
-
-
-
-## ⭐ Featured Resources
-
-Start with these popular resources and explore the complete collection below.
-
-<table style="border-spacing: 25px; margin-bottom: 20px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/guide_internship/">
-        <img src='{{ "/static/img/resource1.jpg" | url }}' width="300" height="200" alt="guide" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Second clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/Interns_project/">
-        <img src='{{ "/static/img/resource2.jpg" | url }}' width="300" height="200" alt="project" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Third clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/climate_project/">
-        <img src='{{ "/static/img/resource13.jpg" | url }}' width="300" height="200" alt="analysis" style="border-radius: 15px;">
-      </a>
-    </td>
-  </tr>
-</table>
-<table style="border-spacing: 25px; margin-bottom: 20px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/IPCC_Glossary/">
-        <img src='{{ "/static/img/resource9.jpg" | url }}' width="300" height="200" alt="glossary" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Second clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/semantic_chapters/">
-        <img src='{{ "/static/img/resource4.jpg" | url }}' width="300" height="200" alt="reports" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Third clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/kgraph/">
-        <img src='{{ "/static/img/resource6.jpg" | url }}' width="300" height="200" alt="ipccglossary" style="border-radius: 15px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table style="border-spacing: 25px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/syr_wikibase/">
-        <img src='{{ "/static/img/resource8.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Second clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/notebook/">
-        <img src='{{ "/static/img/resource7.jpg" | url }}' width="300" height="200" alt="colab" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Third clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/demotutorial/">
-        <img src='{{ "/static/img/resource5.jpg" | url }}' width="300" height="200" alt="tutorial" style="border-radius: 15px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table style="border-spacing: 25px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/ami_tutorial/">
-        <img src='{{ "/static/img/resource11.jpg" | url }}' width="300" height="200" alt="syr" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Second clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/doc_tutorial/">
-        <img src='{{ "/static/img/resource12.jpg" | url }}' width="300" height="200" alt="colab" style="border-radius: 15px;">
-      </a>
-    </td>
-    <!-- Third clickable image linked to another page (optional) -->
-    <td>
-      <a href="../../posts/lit_search/">
-        <img src='{{ "/static/img/resource3.jpg" | url }}' width="300" height="200" alt="pygetpapers" style="border-radius: 15px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table style="border-spacing: 25px;">
-  <tr>
-    <!-- First clickable image linked to pos/test.md -->
-    <td>
-      <a href="../../posts/outreach/">
-      <img src='{{ "/static/img/resource10.jpg" | url }}' width="300" height="200" alt="presentations" style="border-radius: 15px;">
-      </a>
-    </td>
-    <td>
-      <a href="../../posts/dict_climate/">
-      <img src='{{ "/static/img/resource14.jpg" | url }}' width="300" height="200" alt="dictionary" style="border-radius: 15px;">
-      </a>
-    </td>
-    <td>
-      <a href="../../posts/sc_publ/">
-      <img src='{{ "/static/img/resource15.jpg" | url }}' width="300" height="200" alt="publications" style="border-radius: 15px;">
-      </a>
-    </td>
-  </tr> 
-</table>
 
 ---
 
