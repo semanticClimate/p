@@ -60,7 +60,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/climate_project/' | url }}">
-      <img src="{{ '/static/img/resource13.jpg' | url }}" alt="Climate Data Analysis">
+      <img src="{{ '/static/img/climateReport_analysis.png' | url }}" alt="Climate Data Analysis">
     </a>
     <div class="resource-card__body">
       <h4>Climate Data Analysis</h4>
@@ -71,7 +71,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/IPCC_Glossary/' | url }}">
-      <img src="{{ '/static/img/resource9.jpg' | url }}" alt="IPCC Glossary">
+      <img src="{{ '/static/img/ClimateGlossary.png' | url }}" alt="IPCC Glossary">
     </a>
     <div class="resource-card__body">
       <h4>IPCC Glossary</h4>
@@ -82,7 +82,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/semantic_chapters/' | url }}">
-      <img src="{{ '/static/img/resource4.jpg' | url }}" alt="Semantic Reports">
+      <img src="{{ '/static/img/semantic_report.jpg' | url }}" alt="Semantic Reports">
     </a>
     <div class="resource-card__body">
       <h4>Semantic Reports</h4>
@@ -93,7 +93,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/kgraph/' | url }}">
-      <img src="{{ '/static/img/resource6.jpg' | url }}" alt="Climate Knowledge Graph">
+      <img src="{{ '/static/img/glossary_KG.jpg' | url }}" alt="Climate Knowledge Graph">
     </a>
     <div class="resource-card__body">
       <h4>Climate Knowledge Graph</h4>
@@ -104,7 +104,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/syr_wikibase/' | url }}">
-      <img src="{{ '/static/img/resource8.jpg' | url }}" alt="SYR Wikibase">
+      <img src="{{ '/static/img/syr_kg.jpg' | url }}" alt="SYR Wikibase">
     </a>
     <div class="resource-card__body">
       <h4>SYR Wikibase</h4>
@@ -126,7 +126,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/demotutorial/' | url }}">
-      <img src="{{ '/static/img/resource5.jpg' | url }}" alt="Demo Tutorial">
+      <img src="{{ '/static/img/video-tutorials_p.png' | url }}" alt="Demo Tutorial">
     </a>
     <div class="resource-card__body">
       <h4>Demo Tutorial</h4>
@@ -159,11 +159,11 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/lit_search/' | url }}">
-      <img src="{{ '/static/img/resource3.jpg' | url }}" alt="pygetpapers Literature Search">
+      <img src="{{ '/static/img/pygetpapers_logo.png' | url }}" alt="pygetpapers Literature Search">
     </a>
     <div class="resource-card__body">
       <h4>pygetpapers Literature Search</h4>
-      <p>Use pygetpapers to search and download open access literature at scale.</p>
+      <p>Use pygetpapers to search and download open access literature. It is a tool to assist text miners.</p>
       <a href="{{ '/en/posts/lit_search/' | url }}" class="resource-card__link">Know more →</a>
     </div>
   </div>
