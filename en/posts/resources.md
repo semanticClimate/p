@@ -129,8 +129,8 @@ Start with these popular resources and explore the complete collection below.
       <img src="{{ '/static/img/video-tutorials_p.png' | url }}" alt="Demo Tutorial">
     </a>
     <div class="resource-card__body">
-      <h4>Demo Tutorial</h4>
-      <p>Video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.</p>
+      <h4>Video Presentations</h4>
+      <p>Recordings for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.</p>
       <a href="{{ '/en/posts/demotutorial/' | url }}" class="resource-card__link">Know more →</a>
     </div>
   </div>
@@ -243,8 +243,8 @@ Start with these popular resources and explore the complete collection below.
 }
 
 .resource-card__body p {
-  font-size: 0.85rem;
-  color: #555;
+  font-size: 0.90rem;
+  color: #141313;
   margin: 0 0 0.6rem;
   line-height: 1.4;
 }
