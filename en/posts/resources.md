@@ -60,7 +60,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/climate_project/' | url }}">
-      <img src="{{ '/static/img/climateReport_analysis.png' | url }}" alt="Climate Data Analysis">
+      <img src="{{ '/static/img/climate-data.png' | url }}" alt="Climate Data Analysis">
     </a>
     <div class="resource-card__body">
       <h4>Climate Data Analysis</h4>
@@ -237,7 +237,9 @@ Start with these popular resources and explore the complete collection below.
 
 .resource-card__body h4 {
   margin: 0 0 0.4rem;
-  font-size: 1rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #b03382;
 }
 
 .resource-card__body p {
