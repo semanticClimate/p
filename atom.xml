@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-28T09:13:03Z</updated>
+	<updated>2026-07-28T09:22:54Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -6175,8 +6175,8 @@ cd myproject
       &lt;img src=&quot;/p/static/img/video-tutorials_p.png&quot; alt=&quot;Demo Tutorial&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
-      &lt;h4&gt;Demo Tutorial&lt;/h4&gt;
-      &lt;p&gt;Video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
+      &lt;h4&gt;Video Presentations&lt;/h4&gt;
+      &lt;p&gt;Recordings for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
       &lt;a href=&quot;/p/en/posts/demotutorial/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -6281,8 +6281,8 @@ cd myproject
 }
 
 .resource-card__body p {
-  font-size: 0.85rem;
-  color: #555;
+  font-size: 0.90rem;
+  color: #141313;
   margin: 0 0 0.6rem;
   line-height: 1.4;
 }
