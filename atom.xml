@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-27T11:49:53Z</updated>
+	<updated>2026-07-28T08:49:35Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -6112,7 +6112,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/climate_project/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource13.jpg&quot; alt=&quot;Climate Data Analysis&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/climateReport_analysis.png&quot; alt=&quot;Climate Data Analysis&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Climate Data Analysis&lt;/h4&gt;
@@ -6122,7 +6122,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/IPCC_Glossary/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource9.jpg&quot; alt=&quot;IPCC Glossary&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/ClimateGlossary.png&quot; alt=&quot;IPCC Glossary&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;IPCC Glossary&lt;/h4&gt;
@@ -6132,7 +6132,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/semantic_chapters/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource4.jpg&quot; alt=&quot;Semantic Reports&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/semantic_report.jpg&quot; alt=&quot;Semantic Reports&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Semantic Reports&lt;/h4&gt;
@@ -6142,7 +6142,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/kgraph/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource6.jpg&quot; alt=&quot;Climate Knowledge Graph&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/glossary_KG.jpg&quot; alt=&quot;Climate Knowledge Graph&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Climate Knowledge Graph&lt;/h4&gt;
@@ -6152,7 +6152,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/syr_wikibase/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource8.jpg&quot; alt=&quot;SYR Wikibase&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/syr_kg.jpg&quot; alt=&quot;SYR Wikibase&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;SYR Wikibase&lt;/h4&gt;
@@ -6172,7 +6172,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/demotutorial/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource5.jpg&quot; alt=&quot;Demo Tutorial&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/video-tutorials_p.png&quot; alt=&quot;Demo Tutorial&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Demo Tutorial&lt;/h4&gt;
@@ -6202,11 +6202,11 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/lit_search/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource3.jpg&quot; alt=&quot;pygetpapers Literature Search&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/pygetpapers_logo.png&quot; alt=&quot;pygetpapers Literature Search&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;pygetpapers Literature Search&lt;/h4&gt;
-      &lt;p&gt;Use pygetpapers to search and download open access literature at scale.&lt;/p&gt;
+      &lt;p&gt;Use pygetpapers to search and download open access literature. It is a tool to assist text miners.&lt;/p&gt;
       &lt;a href=&quot;/p/en/posts/lit_search/&quot; class=&quot;resource-card__link&quot;&gt;Know more →&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
