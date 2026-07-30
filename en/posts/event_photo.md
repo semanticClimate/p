@@ -12,6 +12,16 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### FSCI 2026 | E01_AI-Assisted Literature Review | July 27-31, 2026 | [See more](https://semanticclimate.github.io/p/en/events/FSCI2026/)
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/plenary_session4.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ### CODATA India Workshop on Liberation, Extraction & Reuse of Data | March 24-27, 2026 | [See more](../../posts/biodiv2026_pics/)
 
 <table>
