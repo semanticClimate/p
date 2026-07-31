@@ -38,7 +38,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/guide_internship/' | url }}">
-      <img src="{{ '/static/img/resource1.jpg' | url }}" alt="Internship Guide">
+      <img src="{{ '/static/img/getting-started_pic.png' | url }}" alt="Internship Guide">
     </a>
     <div class="resource-card__body">
       <h4>Internship Guide</h4>
@@ -115,7 +115,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/notebook/' | url }}">
-      <img src="{{ '/static/img/resource7.jpg' | url }}" alt="Colab Notebook">
+      <img src="{{ '/static/img/colab_pic.png' | url }}" alt="Colab Notebook">
     </a>
     <div class="resource-card__body">
       <h4>Colab Notebook</h4>
@@ -170,7 +170,7 @@ Start with these popular resources and explore the complete collection below.
 
   <div class="resource-card">
     <a href="{{ '/en/posts/outreach/' | url }}">
-      <img src="{{ '/static/img/resource10.jpg' | url }}" alt="Presentations">
+      <img src="{{ '/static/img/presentation-event.png' | url }}" alt="Presentations">
     </a>
     <div class="resource-card__body">
       <h4>Presentations</h4>
