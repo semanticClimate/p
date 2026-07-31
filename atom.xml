@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-31T07:17:31Z</updated>
+	<updated>2026-07-31T08:50:12Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -6092,7 +6092,7 @@ cd myproject
 &lt;div class=&quot;resource-grid&quot;&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/guide_internship/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource1.jpg&quot; alt=&quot;Internship Guide&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/getting-started_pic.png&quot; alt=&quot;Internship Guide&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Internship Guide&lt;/h4&gt;
@@ -6162,7 +6162,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/notebook/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource7.jpg&quot; alt=&quot;Colab Notebook&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/colab_pic.png&quot; alt=&quot;Colab Notebook&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Colab Notebook&lt;/h4&gt;
@@ -6212,7 +6212,7 @@ cd myproject
   &lt;/div&gt;
   &lt;div class=&quot;resource-card&quot;&gt;
     &lt;a href=&quot;/p/en/posts/outreach/&quot;&gt;
-      &lt;img src=&quot;/p/static/img/resource10.jpg&quot; alt=&quot;Presentations&quot; /&gt;
+      &lt;img src=&quot;/p/static/img/presentation-event.png&quot; alt=&quot;Presentations&quot; /&gt;
     &lt;/a&gt;
     &lt;div class=&quot;resource-card__body&quot;&gt;
       &lt;h4&gt;Presentations&lt;/h4&gt;
