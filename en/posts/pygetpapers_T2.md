@@ -13,13 +13,13 @@ tags:
 
 **Developed By:** Ayush Garg
 
-```pygetpapers``` is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
+*pygetpapers* is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction. 
 
 It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.
 
 It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.
 
-We use ```pygetpapers``` for querying current and past scholarly literature in bulk.
+We use *pygetpapers* for querying current and past scholarly literature in bulk.
 
 **Primary functionality:**
 - Query and download from Europe PMC, bioRxiv, medRxiv, Crossref, OpenAlex, Redalyc, SciELO, Upspace.
@@ -43,7 +43,7 @@ Check the successful installation with command : `pygetpapers --help`. You shoul
 
 - **Code Repository** - [github](https://github.com/petermr/pygetpapers)
 
-- **README file of ```pygetpapers```** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
+- **README file of *pygetpapers*** : [pygetpapers/README.md](https://github.com/petermr/pygetpapers/blob/main/README.md)
 
 ### Tutorials (Jupyter Notebook/ Colab Notebook and video demo)
 
