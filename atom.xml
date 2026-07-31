@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-07-31T09:13:47Z</updated>
+	<updated>2026-07-31T09:28:28Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -529,10 +529,10 @@
 		<id>/p/en/posts/pygetpapers_T2/</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;Release Category&lt;/strong&gt;: &lt;code&gt;Production&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Developed By:&lt;/strong&gt; Ayush Garg&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;pygetpapers&lt;/code&gt; is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;pygetpapers&lt;/em&gt; is a tool to download papers and metadata from open-access repositories. It makes requests to open access scientific text repositories, analyses the hits, and systematically downloads the articles without further interaction.&lt;/p&gt;
 &lt;p&gt;It has been developed by  Ayush Garg under the guidance of the OpenVirus community and Peter Murray Rust and Rik Smith-Unna funded by ContentMine.&lt;/p&gt;
 &lt;p&gt;It comes with the packages pygetpapers and download tools which provide various functions to download, process and save research papers and their metadata.&lt;/p&gt;
-&lt;p&gt;We use &lt;code&gt;pygetpapers&lt;/code&gt; for querying current and past scholarly literature in bulk.&lt;/p&gt;
+&lt;p&gt;We use &lt;em&gt;pygetpapers&lt;/em&gt; for querying current and past scholarly literature in bulk.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Primary functionality:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Query and download from Europe PMC, bioRxiv, medRxiv, Crossref, OpenAlex, Redalyc, SciELO, Upspace.&lt;/li&gt;
@@ -559,7 +559,7 @@
 &lt;p&gt;&lt;strong&gt;Code Repository&lt;/strong&gt; - &lt;a href=&quot;https://github.com/petermr/pygetpapers&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;README file of &lt;code&gt;pygetpapers&lt;/code&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/pygetpapers/blob/main/README.md&quot;&gt;pygetpapers/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;README file of &lt;em&gt;pygetpapers&lt;/em&gt;&lt;/strong&gt; : &lt;a href=&quot;https://github.com/petermr/pygetpapers/blob/main/README.md&quot;&gt;pygetpapers/README.md&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Tutorials (Jupyter Notebook/ Colab Notebook and video demo)&lt;/h3&gt;
