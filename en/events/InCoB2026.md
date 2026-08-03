@@ -26,19 +26,19 @@ The program includes keynote talks, research presentations, workshops, poster se
 
 ## Event Details
 
-- ### Date : 14–17 September 2026 
-- ### Location: Penang, Malaysia
-- ### Theme: *Where Bioinformatics Meets AI - Unlocking the Next Era of Discovery*
+- #### Date : 14–17 September 2026 
+- #### Location: Penang, Malaysia
+- #### Theme: *Where Bioinformatics Meets AI - Unlocking the Next Era of Discovery*
 
-## semanticClimate Team participation
+### semanticClimate Team participation
 
 The semanticClimate team is participating in InCOB 2026, contributing through a hands-on workshop and oral presentations showcasing open-source tools and workflows for semantic knowledge extraction from scientific literature.
 
 Our participation highlights ongoing work on semantic technologies, knowledge graphs, literature mining, and AI-assisted scientific knowledge discovery. 
 
-### WORKSHOP
+## WORKSHOP
 
-#### Title: **“Text to knowledge graph: unlocking science with semantic toolkits”**
+### Title: “Text to knowledge graph: unlocking science with semantic toolkits”
 
 - #### Date: September 14, 2026
 
@@ -65,9 +65,9 @@ This tutorial is intended for researchers, bioinformaticians, data scientists, l
 
 The tutorial is designed for beginners and interdisciplinary researchers with limited computational experience. No prior coding expertise is required. However, familiarity with basic concepts such as structured data formats (CSV, JSON, XML) and web-based notebook environments (e.g., Jupyter or Google Colab) will be helpful. Intermediate users interested in natural language processing (NLP), named entity recognition (NER), semantic annotation, FAIR data practices, and ontology-based knowledge integration will also benefit from the session.
 
-### Oral Presentations
+## Oral Presentations
 
-### Title: **Habitat Invasibility Associated with *Lantana camara* Reveals Change in Bacterial and Fungal Community Structure and Function**
+### Title: Habitat Invasibility Associated with *Lantana camara* Reveals Change in Bacterial and Fungal Community Structure and Function
 
 - #### Speaker: Mr. Mandeep Umra, BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India
 
@@ -75,7 +75,7 @@ The tutorial is designed for beginners and interdisciplinary researchers with li
 
 Soil microorganisms are integral to plant invasion processes, functioning both as agents that facilitate invasion and as communities that respond to vegetation change. Despite growing evidence of microbial involvement, the effects of habitat invasibility on soil microbial communities remain poorly understood. In this study, we examined the effects of Lantana camara invasion on the diversity, composition, and functional potential of soil bacterial and fungal communities in the Corbett Tiger Reserve, India, using the Non-invaded habitat as a reference. Compared with Non-invaded habitat, Lantana camara invasion had no significant difference on bacterial alpha-diversity and fungal alpha-diversity. In contrast, the beta-diversity of both bacterial and fungal communities differed markedly between Invaded, Partially-invaded and Non-invaded habitats. Proteobacteria and Ascomycota are the most prevalent phyla in each of the three habitats in bacterial and fungal datasets respectively. Functional prediction analyses further indicated that Lantana camara invasion enhanced the representation of bacterial functions related to carbon and nitrogen cycling, including aerobic chemoheterotrophy, chitinolysis and nitrate reduction. Litter saprotrophs and ectomycorrhizal fungal guilds are significantly high in Invaded Habitat. Collectively, these findings demonstrate that Lantana invasion profoundly reshapes soil microbial communities and their functional potential.
 
-### Title: **The Florilegium Phytochemistry: A Data-Driven Approach to Open Access and Knowledge Management for phytochemicals**
+### Title: The Florilegium Phytochemistry: A Data-Driven Approach to Open Access and Knowledge Management for phytochemicals
 
 - #### Speaker: Ms. Priti Chahal, BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India
 
@@ -119,7 +119,7 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            alt="BRIC-NIPGR"
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
-    <p><strong>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</strong></p>
+    <p>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</p>
   </div>
 
   <div>
@@ -128,7 +128,7 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            alt="CODATA"
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
-    <p><strong>CODATA (Committee on Data of the International Science Council)</strong></p>
+    <p>CODATA (Committee on Data of the International Science Council)</p>
   </div>
 
   <div>
@@ -137,7 +137,7 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            alt="InCoB-ISCB-APAC 2026"
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
-    <p><strong>InCoB-ISCB-APAC 2026</strong></p>
+    <p>InCoB-ISCB-APAC 2026</p>
   </div>
 
   <div>
@@ -146,7 +146,7 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            alt="semanticClimate"
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
-    <p><strong>semanticClimate</strong></p>
+    <p>semanticClimate</p>
   </div>
 
 </div>
