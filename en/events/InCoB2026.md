@@ -30,13 +30,39 @@ The program includes keynote talks, research presentations, workshops, poster se
 - #### Location: Penang, Malaysia
 - #### Theme: *Where Bioinformatics Meets AI - Unlocking the Next Era of Discovery*
 
+### Speakers
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
+
+  <div>
+    <img src='{{ "/static/img/events2026/renu_pic1.jpg" | url }}'
+         alt="Dr. Renu Kumari"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong>Dr. Renu Kumari</strong><br>BRIC-NIPGR, India; #semanticClimate</p>
+  </div>
+
+  <div>
+    <img src='{{ "/static/img/events2026/mandeep.jpg" | url }}'
+         alt="Mr. Mandeep Umra"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong>Mr. Mandeep Umra</strong><br>BRIC-NIPGR, India</p>
+  </div>
+
+  <div>
+    <img src='{{ "/static/img/events2026/priti.jpg" | url }}'
+         alt="Ms. Priti"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong>Ms. Priti Chahal</strong><br>BRIC-NIPGR, India</p>
+  </div>
+</div>
+
 ### semanticClimate Team participation
 
 The semanticClimate team is participating in InCOB 2026, contributing through a hands-on workshop and oral presentations showcasing open-source tools and workflows for semantic knowledge extraction from scientific literature.
 
 Our participation highlights ongoing work on semantic technologies, knowledge graphs, literature mining, and AI-assisted scientific knowledge discovery. 
 
-## WORKSHOP
+## Workshop
 
 ### Title: “Text to knowledge graph: unlocking science with semantic toolkits”
 
@@ -83,33 +109,7 @@ Soil microorganisms are integral to plant invasion processes, functioning both a
 
 Plants constantly synthesize diverse metabolites, each with a distinct role in defense and communication, collectively considered unique “chemical spectra specific fingerprints”. Bioprospecting for Plant secondary metabolites has multifaceted applications beyond helping to unravel the functions and significance of such metabolites. However, a significant wealth of information towards natural products research remains locked in the vast repository of published data spanning centuries, due to copyrighted scholarly records, hindering accessibility. We are addressing this challenge by means of a citizen science management to establish a comprehensive and collaborative platform. That is being used to curate and normalize data from 107 million research articles, this data is available as n-grams of plants and chemistry and we have ingested into a searchable database. In all we have identified 4208946 chemical-plant pairs, sourced from 370777 unique DOI numbers, featuring 6633 Plants and 1750 Chemicals. Plant names are standardized using accepted scientific names, while phytochemicals are mapped to canonical chemical identifiers (PubChem CID). Additionally, incorporated available data on physicochemical properties of chemical compounds and Plant taxonomy, enhancing data accuracy. Plant and Chemical entities are mapped to Wikidata QIDs, providing semantic interoperability and enabling navigation across the “global knowledge graph”. Thus, Wikidata serves as an external reference layer that enriches entity connectivity. Our aim is to seamlessly integrate biology and chemistry, Profiling the metabolic content of all currently known Plants on our planet and openly sharing this wealth of information on a unified platform the Florilegium Phytochemistry, enabling chemotaxonomic classification of plant families and molecular similarity analyses.
 
-### Speakers
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
-
-  <div>
-    <img src='{{ "/static/img/events2026/renu_pic1.jpg" | url }}'
-         alt="Dr. Renu Kumari"
-         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
-    <p><strong>Dr. Renu Kumari</strong><br>BRIC-NIPGR, India; #semanticClimate</p>
-  </div>
-
-  <div>
-    <img src='{{ "/static/img/events2026/mandeep.jpg" | url }}'
-         alt="Mr. Mandeep Umra"
-         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
-    <p><strong>Mr. Mandeep Umra</strong><br>BRIC-NIPGR, India</p>
-  </div>
-
-  <div>
-    <img src='{{ "/static/img/events2026/priti.jpg" | url }}'
-         alt="Ms. Priti"
-         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
-    <p><strong>Ms. Priti Chahal</strong><br>BRIC-NIPGR, India</p>
-  </div>
-</div>
-
-#### Supporting Organizations
+### Supporting Organizations
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">
 
