@@ -38,7 +38,7 @@ Our participation highlights ongoing work on semantic technologies, knowledge gr
 
 ### WORKSHOP
 
-#### Title: “Text to knowledge graph: unlocking science with semantic toolkits”
+#### Title: **“Text to knowledge graph: unlocking science with semantic toolkits”**
 
 - #### Date: September 14, 2026
 
@@ -67,15 +67,19 @@ The tutorial is designed for beginners and interdisciplinary researchers with li
 
 ### Oral Presentations
 
-#### Title: Habitat Invasibility Associated with Lantana camara Reveals Change in Bacterial and Fungal Community Structure and Function
+### Title: **Habitat Invasibility Associated with *Lantana camara* Reveals Change in Bacterial and Fungal Community Structure and Function**
 
 - #### Speaker: Mr. Mandeep Umra, BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India
 
-#### Title: The Florilegium Phytochemistry: A Data-Driven Approach to Open Access and Knowledge Management for phytochemicals
+- #### Abstract 
+
+Soil microorganisms are integral to plant invasion processes, functioning both as agents that facilitate invasion and as communities that respond to vegetation change. Despite growing evidence of microbial involvement, the effects of habitat invasibility on soil microbial communities remain poorly understood. In this study, we examined the effects of Lantana camara invasion on the diversity, composition, and functional potential of soil bacterial and fungal communities in the Corbett Tiger Reserve, India, using the Non-invaded habitat as a reference. Compared with Non-invaded habitat, Lantana camara invasion had no significant difference on bacterial alpha-diversity and fungal alpha-diversity. In contrast, the beta-diversity of both bacterial and fungal communities differed markedly between Invaded, Partially-invaded and Non-invaded habitats. Proteobacteria and Ascomycota are the most prevalent phyla in each of the three habitats in bacterial and fungal datasets respectively. Functional prediction analyses further indicated that Lantana camara invasion enhanced the representation of bacterial functions related to carbon and nitrogen cycling, including aerobic chemoheterotrophy, chitinolysis and nitrate reduction. Litter saprotrophs and ectomycorrhizal fungal guilds are significantly high in Invaded Habitat. Collectively, these findings demonstrate that Lantana invasion profoundly reshapes soil microbial communities and their functional potential.
+
+### Title: **The Florilegium Phytochemistry: A Data-Driven Approach to Open Access and Knowledge Management for phytochemicals**
 
 - #### Speaker: Ms. Priti Chahal, BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India
 
-#### Abstract 
+- #### Abstract 
 
 Plants constantly synthesize diverse metabolites, each with a distinct role in defense and communication, collectively considered unique “chemical spectra specific fingerprints”. Bioprospecting for Plant secondary metabolites has multifaceted applications beyond helping to unravel the functions and significance of such metabolites. However, a significant wealth of information towards natural products research remains locked in the vast repository of published data spanning centuries, due to copyrighted scholarly records, hindering accessibility. We are addressing this challenge by means of a citizen science management to establish a comprehensive and collaborative platform. That is being used to curate and normalize data from 107 million research articles, this data is available as n-grams of plants and chemistry and we have ingested into a searchable database. In all we have identified 4208946 chemical-plant pairs, sourced from 370777 unique DOI numbers, featuring 6633 Plants and 1750 Chemicals. Plant names are standardized using accepted scientific names, while phytochemicals are mapped to canonical chemical identifiers (PubChem CID). Additionally, incorporated available data on physicochemical properties of chemical compounds and Plant taxonomy, enhancing data accuracy. Plant and Chemical entities are mapped to Wikidata QIDs, providing semantic interoperability and enabling navigation across the “global knowledge graph”. Thus, Wikidata serves as an external reference layer that enriches entity connectivity. Our aim is to seamlessly integrate biology and chemistry, Profiling the metabolic content of all currently known Plants on our planet and openly sharing this wealth of information on a unified platform the Florilegium Phytochemistry, enabling chemotaxonomic classification of plant families and molecular similarity analyses.
 
@@ -104,6 +108,52 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
     <p><strong>Ms. Priti Chahal</strong><br>BRIC-NIPGR, India</p>
   </div>
 </div>
+
+#### Supporting Organizations
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/NIPGR-logo.png" | url }}'
+           alt="BRIC-NIPGR"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p><strong>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</strong></p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/codata_logo.png" | url }}'
+           alt="CODATA"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p><strong>CODATA (Committee on Data of the International Science Council)</strong></p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/INCOB2026.jpeg" | url }}'
+           alt="InCoB-ISCB-APAC 2026"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p><strong>InCoB-ISCB-APAC 2026</strong></p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/semantic_logo.png" | url }}'
+           alt="semanticClimate"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p><strong>semanticClimate</strong></p>
+  </div>
+
+</div>
+
+
+
+
 
 
 
