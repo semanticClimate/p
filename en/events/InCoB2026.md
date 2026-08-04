@@ -133,7 +133,7 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
 
   <div>
     <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
-      <img src='{{ "/static/img/events2026/logo-ISCB.png" | url }}'
+      <img src='{{ "/static/img/events2026/logo-ISCB.jpg" | url }}'
            alt="ISCB"
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
