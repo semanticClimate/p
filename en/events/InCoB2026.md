@@ -109,18 +109,9 @@ Soil microorganisms are integral to plant invasion processes, functioning both a
 
 Plants constantly synthesize diverse metabolites, each with a distinct role in defense and communication, collectively considered unique “chemical spectra specific fingerprints”. Bioprospecting for Plant secondary metabolites has multifaceted applications beyond helping to unravel the functions and significance of such metabolites. However, a significant wealth of information towards natural products research remains locked in the vast repository of published data spanning centuries, due to copyrighted scholarly records, hindering accessibility. We are addressing this challenge by means of a citizen science management to establish a comprehensive and collaborative platform. That is being used to curate and normalize data from 107 million research articles, this data is available as n-grams of plants and chemistry and we have ingested into a searchable database. In all we have identified 4208946 chemical-plant pairs, sourced from 370777 unique DOI numbers, featuring 6633 Plants and 1750 Chemicals. Plant names are standardized using accepted scientific names, while phytochemicals are mapped to canonical chemical identifiers (PubChem CID). Additionally, incorporated available data on physicochemical properties of chemical compounds and Plant taxonomy, enhancing data accuracy. Plant and Chemical entities are mapped to Wikidata QIDs, providing semantic interoperability and enabling navigation across the “global knowledge graph”. Thus, Wikidata serves as an external reference layer that enriches entity connectivity. Our aim is to seamlessly integrate biology and chemistry, Profiling the metabolic content of all currently known Plants on our planet and openly sharing this wealth of information on a unified platform the Florilegium Phytochemistry, enabling chemotaxonomic classification of plant families and molecular similarity analyses.
 
-### Supporting Organizations
+### Organizations Providing Travel Support
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">
-
-  <div>
-    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
-      <img src='{{ "/static/img/events2026/NIPGR-logo.png" | url }}'
-           alt="BRIC-NIPGR"
-           style="max-width:100%;max-height:100%;object-fit:contain;">
-    </div>
-    <p>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</p>
-  </div>
 
   <div>
     <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
@@ -138,6 +129,15 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
     <p>InCoB-ISCB-APAC 2026</p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/logo-ISCB.png" | url }}'
+           alt="ISCB"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>ISCB (International Society for Computational Biology)</p>
   </div>
 
   <div>
