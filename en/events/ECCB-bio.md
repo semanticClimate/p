@@ -3,7 +3,7 @@ title:  European Conference on Computational Biology | ECCB 2026
 date: 2026-08-31
 featured: true
 description: Conference on computational biology, bioinformatics, and data-driven life sciences.
-image: /static/img/events2026/INCOB2026.jpeg  
+image: /static/img/events2026/eccb_p2.jpg  
 tags:
   - semanticclimate
   - outreach
@@ -25,7 +25,7 @@ European Conference on Computational Biology (ECCB) 2026 is Europe's premier bie
 
 ## Event Details
 
-- #### Date : 31 August to 4 September 20266 
+- #### Date : 31 August to 4 September 2026 
 - #### Location: Geneva, Switzerland
 
 ### Speakers
@@ -47,15 +47,15 @@ European Conference on Computational Biology (ECCB) 2026 is Europe's premier bie
   </div>
 </div>
 
-### Abstract (Poster Presentation)
+## Abstract (Poster Presentation)
 
-#### Title: Habitat Invasibility Associated with *Lantana camara* Reveals Change in Bacterial and Fungal Community Structure and Function
+### Title: Habitat Invasibility Associated with *Lantana camara* Reveals Change in Bacterial and Fungal Community Structure and Function
 
 #### Presented by: Mr. Mandeep, BRIC-NIPGR, New Delhi, India
 
 Soil microorganisms are integral to plant invasion processes, functioning both as agents that facilitate invasion and as communities that respond to vegetation change. Despite growing evidence of microbial involvement, the effects of habitat invasibility on soil microbial communities remain poorly understood. In this study, we examined the effects of *Lantana camara* invasion on the diversity, composition, and functional potential of soil bacterial and fungal communities in the Corbett Tiger Reserve, India, using the Non-invaded habitat as a reference. Compared with Non-invaded habitat, *Lantana camara* invasion had no significant difference on bacterial alpha-diversity and fungal alpha-diversity. In contrast, the beta-diversity of both bacterial and fungal communities differed markedly between Invaded, Partially-invaded and Non-invaded habitats. Proteobacteria and Ascomycota are the most prevalent phyla in each of the three habitats in bacterial and fungal datasets respectively. Functional prediction analyses further indicated that *Lantana camara* invasion enhanced the representation of bacterial functions related to carbon and nitrogen cycling, including aerobic chemoheterotrophy, chitinolysis and nitrate reduction. Litter saprotrophs and ectomycorrhizal fungal guilds are significantly high in Invaded Habitat. Collectively, these findings demonstrate that Lantana invasion profoundly reshapes soil microbial communities and their functional potential.
 
-#### Title: Volatile organic compound dynamics of *Lantana camara* across an urban disturbance gradient in forest fragments of Delhi, India
+### Title: Volatile organic compound dynamics of *Lantana camara* across an urban disturbance gradient in forest fragments of Delhi, India
 
 #### Presented by: Ms. Priti, BRIC-NIPGR, New Delhi, India
 
