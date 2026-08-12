@@ -1,5 +1,12 @@
 [
   {
+    "title": "Climate Academy Chatbot (CABot)",
+    "image": "/static/img/events2026/cabot_p3.jpg",
+    "description": "Climate chatbot based on trusted knowledge sources.",
+    "url": "https://cabot-semanticclimate.org/",
+    "repo": "https://github.com/semanticClimate/semantic_RAG"
+  },
+  {
     "title": "Semantic Encyclopedia",
     "image": "/static/img/events2026/enc_p4.png",
     "description": "An open, annotated encyclopedia built from climate literature using semantic tools.",
@@ -7,17 +14,10 @@
     "repo": "https://github.com/semanticClimate/encyclopedia"
   },
   {
-    "title": "txt2phrases",
-    "image": "/static/img/events2026/key_pic1.png",
-    "description": "Automated Text Processing and Keyphrases Extraction.",
-    "url": "/en/posts/txt2phrases_T4/",
-    "repo": "https://github.com/semanticClimate/txt2phrases"
-  },
-  {
-    "title": "pygetpapers",
-    "image": "/static/img/events2026/pyget_logo.png",
-    "description": "A semantic tool for building structured, machine-readable corpora from open access repositories.",
-    "url": "/en/posts/pygetpapers_T2/",
-    "repo": "https://github.com/petermr/pygetpapers"
+    "title": "semantic corpus",
+    "image": "/static/img/events2026/sc_p5.png",
+    "description": "Python tool designed for researchers to create and manage personal scientific corpora.",
+    "url": "https://github.com/semanticClimate/semantic_corpus/blob/main/README.md",
+    "repo": "https://github.com/semanticClimate/semantic_corpus"
   }
 ]

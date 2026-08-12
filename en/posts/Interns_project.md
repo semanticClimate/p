@@ -15,29 +15,55 @@ This contains the highlights of the work completed by the interns during their 2
 
 ### Active Interns (2026)
 
-- **Udita Agarwal** (August 2025 - March 2026)
-- **Vipparla Pushpa valli** (05 January - 31 May 2026)
-- **Arhaan Azmi** (08 January - 30 June 2026)
-- **Gulam Ajdhani** (08 January - 03 July 2026)
-- **Sakshi Gupta** (01 January - 30 June 2026)
-- **Vaishnavi Sharma** (15 January - 15 June 2026)
-- **Saniya** (12 January - 06 April 2026)
+- **Vrinda Sharma** (July - September 2026)
+
+### Interns (2026)
+
+- Ali Mehdi Naqvi (April - June 2026)
+- Aleena Harold Peter (April - July 2026)
+- Bui Doan Khanh Linh (June 2026)
+- Samyukta Nair (June 2026)
+- Saarthak Patwal (May - July 2026)
+- Shreya S. Bhat, IASc-INSA-NASI-SRFP (June - July 2026)
+- Akalya S, IASc-INSA-NASI-SRFP (June - August 2026)
+- Misha Ali (May - July 2026)
+- Uddhav Mishra (June - July 2026)
+- Parth Kadam (June - July 2026)
+- Ilakkya S, IASc-INSA-NASI-SRFP (June - August 2026)
+- Subhangi Panigrahi, IASc-INSA-NASI-SRFP (June - August 2026)
+- Udita Agarwal (August 2025 - March 2026)
+- Vipparla Pushpa valli (05 January - 31 May 2026)
+- Arhaan Azmi (08 January - 30 June 2026)
+- Gulam Ajdhani (08 January - 03 July 2026)
+- Sakshi Gupta (01 January - 30 June 2026)
+- Vaishnavi Sharma (15 January - 15 June 2026)
+- Saniya (12 January - 06 April 2026)
 
 ### Interns (2025)
 
-- **Shaik Zainab** (01 July - 01 September 2025)
-- **Sarth Santosh Shah** SRF (09 May 2025 - 05 July 2025)
-- **Mandakala Sai Deepika** SRF (01 June - 31 July 2025)
-- **Vallabhaneni Haarthi** SRF (19 May -14 July 2025)
-- **Malavika Balachandran** (26 May - 21 July 2025)
-- **Anushka Kushwaha** (26 May - 30 July 2025)
-- **Harshita Mahawar** (27 June - 30 July 2025)
-- **Avika Joshi** (20 May - 31 July 2025)
+- Shaik Zainab (01 July - 01 September 2025)
+- Sarth Santosh Shah, IASc-INSA-NASI-SRFP (09 May 2025 - 05 July 2025)
+- Mandakala Sai Deepika, IASc-INSA-NASI-SRFP (01 June - 31 July 2025)
+- Vallabhaneni Haarthi, IASc-INSA-NASI-SRFP (19 May -14 July 2025)
+- Malavika Balachandran (26 May - 21 July 2025)
+- Anushka Kushwaha (26 May - 30 July 2025)
+- Harshita Mahawar (27 June - 30 July 2025)
+- Avika Joshi (20 May - 31 July 2025)
 
+### Internship Project Report | 2026
 
-### IPCC reports selected by the interns for their work
+| Name  | Project Report  |
+|-----------|-----------|
+| Aleena Harold Peter     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Aleena_Internship_Report.pdf)    |
+| Saarthak Patwal     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Internship_report_saarthak.pdf)    |
+| Parth Kadam     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Internship_Report_Parth.pdf)    |
+| Shreya S. Bhat     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Shreya-final-report.pdf)    |
+| Akalya S     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Akalya_final-report.pdf)    |
+| Ali Mehdi Naqvi     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Internship_Report_Ali.pdf)    |
 
-| Intern  | IPCC Report  |
+### Internship Project Report | 2025
+
+| Name  | Project Report  |
 |-----------|-----------|
 | Saniya  | WG2/Chapter 10: Asia, [wordlist](), [Encyclopedia](), [Read more](), [Daily Report]()    |
 | Gulam Ajdhani   | WG3, Chapter 6 : Energy Systems, [wordlist](), [Encyclopedia](), [Read more](), [Daily Report](https://github.com/semanticClimate/internship_sC/blob/gulamajdhani/daily_progress.md)    |
