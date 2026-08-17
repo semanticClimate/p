@@ -41,11 +41,6 @@ Climate misinformation is becoming more common across digital platforms and AI s
   </tr>
 </table>
 
-### Related Cotent published on OKFN page
-
-- #### [CABot Landing page](https://okfn.org/en/projects/ai-learning-labs/cabot/)
-- #### []
-
 ### Highlights from the launch event
 
 <table>
@@ -236,5 +231,169 @@ The discussions will examine how climate AI systems can better support education
 
 ### [Code repository](https://github.com/semanticClimate/semantic_RAG) 
 
-### Blog
-- [Click Here](https://semanticclimate.github.io/p/en/posts/chatbot_blog/)
+## Related Content
+
+<div class="related-content">
+
+  <a href="https://semanticclimate.github.io/p/en/posts/chatbot_blog/" class="content-card">
+    <img src='{{ "/static/img/events2026/cabot_p4.png" | url }}'
+         alt="CABot">
+    <div class="content-card-body">
+      <h3>Climate Chatbot Blog</h3>
+      <p>Read about the development of CABot and trusted climate information.</p>
+      <span>Read the blog →</span>
+    </div>
+  </a>
+
+  <a href="https://okfn.org/en/projects/ai-learning-labs/cabot/" class="content-card">
+    <img src='{{ "/static/img/events2026/CA-page.jpg" | url }}'
+         alt="CABot">
+    <div class="content-card-body">
+      <h3>Climate Academy Chatbot</h3>
+      <p>Read about the Climate Academy Chatbot on the OKFN website.</p>
+      <span>Read →</span>
+    </div>
+  </a>
+
+  <a href="https://www.linkedin.com/pulse/fixing-blind-spot-ai-matthew-pye-rmihe/" class="content-card">
+    <img src='{{ "/static/img/events2026/book-CA.jpg" | url }}'
+         alt="CABot article">
+    <div class="content-card-body">
+      <h3>Fixing a Blind Spot with AI</h3>
+      <p>An article by Matthew Pye exploring how AI can help address blind spots in climate knowledge and education.</p>
+      <span>Read the article →</span>
+    </div>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=hpWuPjwypko" class="content-card">
+    <img src='{{ "/static/img/events2026/climate_chatbot_p1.png" | url }}'
+         alt="CABot Climate Chatbot">
+    <div class="content-card-body">
+      <h3>Launch of CABot: Climate Chatbot</h3>
+      <p>Watch the launch event of CABot, the semanticClimate climate chatbot.</p>
+      <span>Explore CABot →</span>
+    </div>
+  </a>
+
+  <a href="https://blog.okfn.org/2026/06/30/design-choices-for-a-responsible-ai-chatbot-a-conversation-with-semanticclimate/" class="content-card">
+    <img src='{{ "/static/img/events2026/cabot_p5.jpg" | url }}'
+         alt="CABot Climate Chatbot">
+    <div class="content-card-body">
+      <h3>Designing CABot: A Conversation with the semanticClimate Team</h3>
+      <p>Hear from the semanticClimate team about the ideas, design, and development behind CABot</p>
+      <span>Read the blog →</span>
+    </div>
+  </a>
+
+</div>
+
+<style>
+.related-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.content-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.content-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.content-card img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  display: block;
+}
+
+.content-card-body {
+  padding: 18px;
+}
+
+.content-card-body h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.content-card-body p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.content-card-body span {
+  font-weight: 600;
+  color: #004c6d;
+}
+
+@media (max-width: 768px) {
+  .related-content {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+
+### Organizations We Thank
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">
+
+   <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/logo_OKFN.jpg" | url }}'
+           alt="OKFN"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>Open Konwledge Foundation (OKFN)</p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/logo-CA.jpg" | url }}'
+           alt="CA"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>Climate Academy</p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/PMJF_Logo.png" | url }}'
+           alt="PMJF"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>Patrick J. McGovern Foundation (PJMF)</p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/semantic_logo.png" | url }}'
+           alt="semanticClimate"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>semanticClimate</p>
+  </div>
+
+   <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/NIPGR-logo.png" | url }}'
+           alt="BRIC-NIPGR"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</p>
+  </div>
+
+</div>
