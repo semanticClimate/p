@@ -71,6 +71,59 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 - Final report and open repositories of tools, schemas, demonstrators, training materials
 - Presentation of outputs to the CODATA Community 
 
+### Co-chairs: 
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
+
+  <div>
+    <img src='{{ "/static/img/events2026/DM_pic.jpg" | url }}'
+         alt="DM"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong><a href="https://en.wikipedia.org/wiki/Debasisa_Mohanty" target="_blank" rel="noopener noreferrer">Dr. Debasisa Mohanty</a></strong><br>Dean (Research & Innovation), Regional Centre for Biotechnology (RCB), Faridabad, Haryana, India.</p>
+  </div>
+
+  <div>
+    <img src='{{ "/static/img/members/PMR_photo.png" | url }}'
+         alt="PMR"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong><a href="https://en.wikipedia.org/wiki/Peter_Murray-Rust" target="_blank" rel="noopener noreferrer">Dr. Peter Murray-Rust</a></strong><br>Reader Emeritus in Molecular Informatics, Dept. Of Chemistry, University of Cambridge, UK and founder of #semanticClimate.</p>
+  </div>
+
+  <div>
+    <img src='{{ "/static/img/events2026/Adrianna_pic.png" | url }}'
+         alt="Adrianna Baravalle"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong><a href="https://scholar.google.com/citations?user=o4anHMYAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Dr. Adrianna Baravalle</a></strong><br>Director of the Exponential Technologies Laboratory at the University of Austral in Argentina.</p>
+  </div>
+
+</div>
+
+### TG Secretary: 
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
+
+  <div>
+    <img src='{{ "/static/img/events2026/GY_pic2.jpg" | url }}'
+         alt="GY"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong><a href="https://nipgr.ac.in/nipgrv4/dr-gitanjali-yadav/" target="_blank" rel="noopener noreferrer">Dr. Gitanjali Yadav</a></strong><br>Senior scientist at NIPGR and the founder of #semanticClimate. She is an advocate of youth empowerment, FAIR practices and positive action for global data policy.</p>
+  </div>
+
+</div>
+
+### TG ECR Lead: 
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;text-align:center;">
+
+  <div>
+    <img src='{{ "/static/img/events2026/renu_pic1.jpg" | url }}'
+         alt="RK"
+         style="width:140px;height:140px;border-radius:50%;object-fit:cover;">
+    <p><strong><a href="https://semanticclimate.github.io/p/en/team/" target="_blank" rel="noopener noreferrer">Dr. Renu Kumari</a></strong><br>Research Associate at BRIC-NIPGR, New Delhi, India and program manager of #semanticClimate.</p>
+  </div>
+
+</div>
+
 #### [GitHub repository](https://github.com/semanticClimate/ORAT)
 
 ### List of workshops
