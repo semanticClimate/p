@@ -75,23 +75,84 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 ### List of workshops
 
-#### January 16, 2026
+## January 16, 2026
 
-- Title : **BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design** | [Read about event](https://semanticclimate.github.io/p/en/events/BIF_DD2026/)
+- Title : **BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design** | [Read about event](https://semanticclimate.github.io/p/en/past-events/BIF_DD2026/)
    
     - organizes hands-on session on AI for Literature Reviews (Case Study: Drug Discovery)
   
 - [Blog](https://semanticclimate.github.io/p/en/posts/BIFDD_report/)
 
-#### January 28, 2026
+## Event Pictures
 
-- Title : **BRIC-NIPGR & CODATA INDIA Hands-on Workshop FAIR and Reproducible Structural Biology** | [Read about event](https://semanticclimate.github.io/p/en/events/JAN2026_workshop/)
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/ACBR_ALR-1.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events_all/ACBR_ALR-2.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events_all/ACBR_ALR-6.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events_all/ACBR_ALR-5.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+
+## January 28, 2026
+
+- Title : **BRIC-NIPGR & CODATA INDIA Hands-on Workshop FAIR and Reproducible Structural Biology** | [Read about event](https://semanticclimate.github.io/p/en/past-events/JAN2026_workshop/)
 
 - [Blog](https://semanticclimate.github.io/p/en/posts/structuralBio_AI)
 
-#### March 24-27, 2026
+### Event Pictures
 
-- Title : **CODATA India Workshop on Liberation, Extraction & Reuse of Data** | [Read about event](https://semanticclimate.github.io/p/en/events/biodiv_March/)
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/Jan28_w3.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/Jan28_w4.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+## March 24-27, 2026
+
+- Title : **CODATA India Workshop on Liberation, Extraction & Reuse of Data** | [Read about event](https://semanticclimate.github.io/p/en/past-events/biodiv_March/)
 
 - [Blog](https://semanticclimate.github.io/p/en/posts/reportBiodiv/)
+
+### Event Pictures | [See more](https://semanticclimate.github.io/p/en/posts/biodiv2026_pics/)
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/day1_inaug3.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
 

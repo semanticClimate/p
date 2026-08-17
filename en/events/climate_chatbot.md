@@ -41,6 +41,10 @@ Climate misinformation is becoming more common across digital platforms and AI s
   </tr>
 </table>
 
+### Related Cotent published on OKFN page
+
+- #### [CABot Landing page](https://okfn.org/en/projects/ai-learning-labs/cabot/)
+- #### []
 
 ### Highlights from the launch event
 
