@@ -17,7 +17,7 @@ tags:
 
 ### List of Events
 
-#### June 24, 2026
+### June 24, 2026
 
 She served as an expert at the side event "Strengthening the voices of civil society and academia in LAC regarding AI governance," co-organized by Globethics and UNESCO in Santo Domingo during the Third Ministerial Summit on the Ethics of AI. There, she took part in a panel discussion and the endorsement of the regional position paper **"Fair, Sovereign, and Inclusive AI Governance,"** in preparation for the UN Global Dialogue in Geneva this July.
 
@@ -29,7 +29,7 @@ She served as an expert at the side event "Strengthening the voices of civil soc
   </tr>
 </table>
 
-#### June 25-26, 2026
+### June 25-26, 2026
 
 She participated in the Third Ministerial and High-Level Authorities Summit on the Ethics of AI in LAC, co-organized by UNESCO, CAF, and OGTIC. This agenda is framed by UNESCO’s Recommendation on the Ethics of AI (2021) and its Readiness Assessment Methodology (RAM), which has been implemented in over 75 countries.
 
@@ -43,7 +43,9 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
 6. Anchor governance in international human rights law
 7. Prioritize environmental sustainability
 
-#### Third Ministerial Summit on the Ethics of Artificial Intelligence in Latin America and the Caribbean, co-organized by Globethics and UNESCO, with the support of OGTIC.
+### Third Ministerial Summit 
+
+"On the Ethics of Artificial Intelligence in Latin America and the Caribbean, co-organized by Globethics and UNESCO, with the support of OGTIC."
 
 <table>
   <tr>
@@ -53,14 +55,16 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
   </tr>
 </table>
 
-**key messages:**
+**Key messages:**
 
 - The urgent need for strong and binding regulatory frameworks
 - The importance of technological and data sovereignty
 - The protection of cultural and linguistic diversity
 - The central role of civil society and academia in decision-making
 
-#### AILearningLabs session: Prof. Adriana Baravalle (Universidad Austral, Buenos Aires) presented a framework for assessing how ‘responsible’ the design of an AI application is, with a view to building a climate chatbot.
+### AILearningLabs session: 
+
+*Prof. Adriana Baravalle (Universidad Austral, Buenos Aires) presented a framework for assessing how ‘responsible’ the design of an AI application is, with a view to building a climate chatbot*.
 
 <table>
   <tr>
@@ -71,7 +75,7 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
 </table>
 
 
-#### First face-to-face meeting of the Artificial Intelligence in Health Think Tank
+### First face-to-face meeting of the Artificial Intelligence in Health Think Tank
 
 On Monday, April 20, the first face-to-face meeting of the **Artificial Intelligence in Health Think Tank** took place at the headquarters of the **Asociación Médica Argentina (AMA)**. The meeting brought together representatives from academia, clinical practice, technology, and regulatory institutions with a shared goal: **to build an ethical and technical architecture for the implementation of AI in the Argentine health system.**
 
@@ -100,7 +104,7 @@ Among the central topics of the debate:
 *"AI is not coming to replace but to increase our capabilities. Soon, another challenge will come, which is quantum computing. If this goes quickly, get ready because what is coming is overwhelming,*" said **Adriana Baravalle**, Director of the Exponential Technologies Laboratory of the Austral University.
 
 
-#### AI in health: the challenge of building consensus with an ethical approach
+### AI in health: the challenge of building consensus with an ethical approach
 
 As part of a meeting organized by the Asociación Médica Argentina (AMA) and SAIA (Sociedad Argentina de Inteligencia Artificial), leaders from the healthcare, academic, and technology sectors came together to discuss *how to advance artificial intelligence in health focused on human dignity*.
 
@@ -118,7 +122,7 @@ They emphasized the need to establish ethical and technical frameworks that ensu
 
 The discussion also highlighted the importance of generating agreements and guidelines that allow AI to be integrated into the health system without deepening inequalities from the technological and institutional levels.
 
-#### The Industrial Cyber Summit Argentina 2026
+### The Industrial Cyber Summit Argentina 2026
 
 *The benchmark conference on industrial cybersecurity in the region*.
 
@@ -132,7 +136,7 @@ Adriana Baravalle (Universidad Austral/UNDEF): The quantum threat is getting sho
   </tr>
 </table>
 
-#### SAIA (Sociedad Argentina de Inteligencia Artificial)
+### SAIA (Sociedad Argentina de Inteligencia Artificial)
 
 *Can technology democratize access to health?*
 
