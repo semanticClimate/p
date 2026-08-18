@@ -159,6 +159,8 @@ Adriana Baravalle (Universidad Austral/UNDEF): The quantum threat is getting sho
 
 In the conference, Judit Marisa Díaz Bazán (AMA), Hernan Seoane and Adriana Baravalle (SynapsIA) got into one of the most urgent conversations in healthcare today: *what happens when artificial intelligence and digital data start to redefine how we take care of ourselves*.
 
+#### The full talk is available [here](https://youtu.be/82Ym5QBVQ9A)
+
 <table>
   <tr>
     <td>
@@ -167,4 +169,3 @@ In the conference, Judit Marisa Díaz Bazán (AMA), Hernan Seoane and Adriana Ba
   </tr>
 </table>
 
-#### The full talk is available [here](https://youtu.be/82Ym5QBVQ9A)

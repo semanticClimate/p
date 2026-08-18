@@ -134,7 +134,7 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 ---
 
-#### **Event Participation: Dr. Adrianna Baravalle** | [CLICK HERE](../../posts/orat_event/)
+#### Event Participation: Dr. Adrianna Baravalle | [CLICK HERE](../../posts/orat_event/)
 
 ### List of workshops/ conferences organized by semanticClimate and BRIC-NIPGR
 
