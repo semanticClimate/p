@@ -49,6 +49,8 @@ This initiative builds upon experiences gained through the #semanticClimate proj
 
 To build a global ecosystem of open, interoperable, and trustworthy tools that enable responsible research assessment while respecting data sovereignty, privacy, and local contexts.
 
+---
+
 #### Planned Activities and Outputs (2025–2027)
 
 #### 2025 
@@ -70,6 +72,8 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 - Joint symposium with CODATA, RDA, GOSC, DSJ and national committees on integrating visitation into RRA
 - Final report and open repositories of tools, schemas, demonstrators, training materials
 - Presentation of outputs to the CODATA Community 
+
+---
 
 ### Co-chairs: 
 
@@ -124,11 +128,15 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 </div>
 
+---
+
 #### [GitHub repository](https://github.com/semanticClimate/ORAT)
 
-#### Event Participation: Dr. Adrianna Baravalle | [CLICK HERE](../../posts/orat_event/)
+---
 
-#### List of workshops/ conferences organized by semanticClimate and BRIC-NIPGR
+#### **Event Participation: Dr. Adrianna Baravalle** | [CLICK HERE](../../posts/orat_event/)
+
+### List of workshops/ conferences organized by semanticClimate and BRIC-NIPGR
 
 ## January 16, 2026
 
@@ -162,6 +170,7 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
   </tr>   
 </table>
 
+---
 
 ## January 28, 2026
 
@@ -187,6 +196,8 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
   </tr>
 </table>
 
+---
+
 ## March 24-27, 2026
 
 - Title : **CODATA India Workshop on Liberation, Extraction & Reuse of Data** | [Read about event](https://semanticclimate.github.io/p/en/past-events/biodiv_March/)
@@ -211,7 +222,7 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
   </tr>
 </table>
 
-## Event Participation
+
 
 
 

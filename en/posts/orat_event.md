@@ -29,6 +29,8 @@ She served as an expert at the side event "Strengthening the voices of civil soc
   </tr>
 </table>
 
+---
+
 ### June 25-26, 2026
 
 She participated in the Third Ministerial and High-Level Authorities Summit on the Ethics of AI in LAC, co-organized by UNESCO, CAF, and OGTIC. This agenda is framed by UNESCO’s Recommendation on the Ethics of AI (2021) and its Readiness Assessment Methodology (RAM), which has been implemented in over 75 countries.
@@ -42,6 +44,8 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
 5. Protecting the most vulnerable populations (children, women, Indigenous peoples, and Afro-descendant communities) through stronger standards and redress mechanisms. 
 6. Anchor governance in international human rights law
 7. Prioritize environmental sustainability
+
+---
 
 ### Third Ministerial Summit 
 
@@ -62,6 +66,8 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
 - The protection of cultural and linguistic diversity
 - The central role of civil society and academia in decision-making
 
+---
+
 ### AILearningLabs session: 
 
 *Prof. Adriana Baravalle (Universidad Austral, Buenos Aires) presented a framework for assessing how ‘responsible’ the design of an AI application is, with a view to building a climate chatbot*.
@@ -74,6 +80,7 @@ She participated in the Third Ministerial and High-Level Authorities Summit on t
   </tr>
 </table>
 
+---
 
 ### First face-to-face meeting of the Artificial Intelligence in Health Think Tank
 
@@ -95,13 +102,19 @@ The event was opened by **Dr. Miguel Galmés**, President of WADA, and Alexander
 Among the central topics of the debate:
 
 ✅ Legal certainty for the medical act 
+
 ✅ Health Data Governance and Sovereignty 
+
 ✅ Own interoperability standards for the Latin American context 
+
 ✅ Reducing bias in models trained in contexts other than our own 
+
 ✅ FAIR principles as a State policy
 
 
 *"AI is not coming to replace but to increase our capabilities. Soon, another challenge will come, which is quantum computing. If this goes quickly, get ready because what is coming is overwhelming,*" said **Adriana Baravalle**, Director of the Exponential Technologies Laboratory of the Austral University.
+
+---
 
 
 ### AI in health: the challenge of building consensus with an ethical approach
@@ -122,6 +135,8 @@ They emphasized the need to establish ethical and technical frameworks that ensu
 
 The discussion also highlighted the importance of generating agreements and guidelines that allow AI to be integrated into the health system without deepening inequalities from the technological and institutional levels.
 
+---
+
 ### The Industrial Cyber Summit Argentina 2026
 
 *The benchmark conference on industrial cybersecurity in the region*.
@@ -135,6 +150,8 @@ Adriana Baravalle (Universidad Austral/UNDEF): The quantum threat is getting sho
     </td>
   </tr>
 </table>
+
+---
 
 ### SAIA (Sociedad Argentina de Inteligencia Artificial)
 
