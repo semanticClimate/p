@@ -64,6 +64,14 @@ Our participation highlights ongoing work on semantic technologies, knowledge gr
 
 ## Workshop
 
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/incob_workshop.jpg" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
 ### Title: “Text to knowledge graph: unlocking science with semantic toolkits”
 
 - #### Date: September 14, 2026

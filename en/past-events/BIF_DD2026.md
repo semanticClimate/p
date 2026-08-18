@@ -73,3 +73,5 @@ The workshop will be conducted in offline mode from 15–17 January 2026 at ACBR
 </tr>   
 </table>
 
+### [Read Event Report](https://semanticclimate.github.io/p/en/posts/BIFDD_report/) 
+

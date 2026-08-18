@@ -126,7 +126,9 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 #### [GitHub repository](https://github.com/semanticClimate/ORAT)
 
-### List of workshops
+## List of workshops/ conferences
+
+### Event Participation: Dr. Adrianna Baravalle | [CLICK HERE](../../posts/orat_event/)
 
 ## January 16, 2026
 
@@ -208,4 +210,8 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
     </td>
   </tr>
 </table>
+
+## Event Participation
+
+
 
