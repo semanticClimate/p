@@ -1,5 +1,5 @@
 ---
-title: ORAT Project Event Participation   
+title: Event Participation   
 date: 2026-08-17
 description: Highlights of team participation in events, conferences, workshops, and related activities 
 author: RK 

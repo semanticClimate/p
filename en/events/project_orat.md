@@ -126,9 +126,9 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 #### [GitHub repository](https://github.com/semanticClimate/ORAT)
 
-## List of workshops/ conferences
+#### Event Participation: Dr. Adrianna Baravalle | [CLICK HERE](../../posts/orat_event/)
 
-### Event Participation: Dr. Adrianna Baravalle | [CLICK HERE](../../posts/orat_event/)
+#### List of workshops/ conferences organized by semanticClimate and BRIC-NIPGR
 
 ## January 16, 2026
 
