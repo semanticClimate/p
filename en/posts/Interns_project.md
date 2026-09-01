@@ -16,6 +16,8 @@ This contains the highlights of the work completed by the interns during their 2
 ### Active Interns (2026)
 
 - **Vrinda Sharma** (July - September 2026)
+- **Neel Kumar** (August, 2026)
+- **Anusha Garg** (September, 2026)
 
 ### Interns (2026)
 
@@ -60,6 +62,9 @@ This contains the highlights of the work completed by the interns during their 2
 | Shreya S. Bhat     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Shreya-final-report.pdf)    |
 | Akalya S     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Akalya_final-report.pdf)    |
 | Ali Mehdi Naqvi     | [Project Report](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Internship_Report_Ali.pdf)    |
+| Shaik Zainab     | [Creating an encyclopedia for IPCC AR6 WG2 Chapter 07](https://github.com/semanticClimate/internship_sC/blob/Shaik-Zainab/4%20WEEK%20REPORT%20(IASc-INSA-NASI%20SRFP-2025)/4%20weeks%20report%20(IASc-INSA-NASI%20SRFP-2025).pdf)    |
+| Ilakkya S     | [Building a Semantic Corpus of Air Quality Index Literature](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Ilakkya-report.pdf)    |
+| Subhangi Panigrahi     | [Building Semantic Corpus of Air Quality Research Literature in India](https://github.com/semanticClimate/internship_sC/blob/main/project_report/Subhangi-project-report.pdf)    |
 
 ### Internship Project Report | 2025
 

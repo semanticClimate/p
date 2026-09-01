@@ -43,6 +43,7 @@ These tools help convert unstructured documents into meaningful, machine-readabl
 
 The tools are the following:
 
+- [semantic_corpus](https://github.com/semanticClimate/semantic_corpus) : create and manage personal scientific corpora
 - [txt2phrases](https://github.com/semanticClimate/txt2phrases) : Extract key terms and phrases
 - [encyclopedia](https://github.com/semanticClimate/encyclopedia) : Build structured knowledge resources  
 - [amilib](https://github.com/petermr/amilib) : Process and annotate scientific documents
