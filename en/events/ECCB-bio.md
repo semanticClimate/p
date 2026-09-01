@@ -86,6 +86,30 @@ These findings demonstrate that *L. camara* maintains a conserved defensive chem
 
 #### [Parallel sessions schedule](https://eccb2026.org/storage/app/media/SCIENTIFIC-PROGRAMME/ECCB2026_Parallel%20sessions_Booklet_v7.pdf)
 
+### Event Highlights
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/eccb2026_p1.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/eccb2026_p2.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/eccb2026_p3.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/eccb2026_p5.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
 ### Organizations Providing Travel Support
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">

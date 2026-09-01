@@ -138,6 +138,21 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 
 ### List of workshops/ conferences organized by semanticClimate and BRIC-NIPGR
 
+- #### June 9-10, 2025 | [The Research AI Summit | Bridging Innovation & Open Science](https://semanticclimate.github.io/p/en/past-events/ALR_June25/)
+- #### July 22-24, 2025 | [FSCI 2025 | E01_AI-Assisted Literature Review on Open Access Repositories](https://semanticclimate.github.io/p/en/past-events/FSCI2025/)
+- #### August 22, 2025 | [Climate in Crisis | What Students Need to Know?](https://semanticclimate.github.io/p/en/past-events/climate_DU/)
+- #### August 25-26, 2025 | [A Fun Science Demonstration for School Students](https://semanticclimate.github.io/p/en/past-events/school_edu/)
+- #### August 27, 2025 | [Climate Quest | Building Balance Together](https://semanticclimate.github.io/p/en/past-events/climate_school/)
+- #### August 29, 2025 | [National Conclave on Climate Education and Data Custodianship](https://semanticclimate.github.io/p/en/past-events/climateEducation_conclave/)
+- #### January 16, 2026 | [BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design](https://semanticclimate.github.io/p/en/posts/BIFDD_report/)
+- #### January 28 and FEB 4-5, 2026 | [BRIC-NIPGR & CODATA INDIA Hands-on Workshop FAIR and Reproducible Structural Biology](https://semanticclimate.github.io/p/en/posts/structuralBio_AI/)
+- #### March 24-27, 2026 | [CODATA India Workshop on Liberation, Extraction & Reuse of Data](https://semanticclimate.github.io/p/en/posts/reportBiodiv/)
+- #### April 17, 2026 | Learning Climate Knowledge Through a Biodiversity Game at Kendriya Vidyalaya INA Colony Opposite Vikas Sadan, New Delhi, India
+- #### May 18, 2026 | [Building Responsible and Trustworthy Climate Chatbot](https://semanticclimate.github.io/p/en/events/climate_chatbot/)
+- #### July 27-31, 2026 | [FSCI 2026 | E01_AI-Assisted Literature Review](https://semanticclimate.github.io/p/en/events/FSCI2026/)
+- #### August 31-September 04, 2026 | [European Conference on Computational Biology, ECCB 2026](https://semanticclimate.github.io/p/en/events/ECCB-bio/)
+
+
 ## January 16, 2026
 
 - Title : **BIF-DD-2026 | 13th Workshop on Bioinformatics and Drug Design** | [Read about event](https://semanticclimate.github.io/p/en/past-events/BIF_DD2026/)
