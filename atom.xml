@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-09-01T07:26:56Z</updated>
+	<updated>2026-09-01T09:57:29Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -4892,6 +4892,8 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;h3&gt;Active Interns (2026)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Vrinda Sharma&lt;/strong&gt; (July - September 2026)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neel Kumar&lt;/strong&gt; (August, 2026)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anusha Garg&lt;/strong&gt; (September, 2026)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Interns (2026)&lt;/h3&gt;
 &lt;ul&gt;
@@ -4958,6 +4960,18 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;tr&gt;
 &lt;td&gt;Ali Mehdi Naqvi&lt;/td&gt;
 &lt;td&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Internship_Report_Ali.pdf&quot;&gt;Project Report&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shaik Zainab&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/Shaik-Zainab/4%20WEEK%20REPORT%20(IASc-INSA-NASI%20SRFP-2025)/4%20weeks%20report%20(IASc-INSA-NASI%20SRFP-2025).pdf&quot;&gt;Creating an encyclopedia for IPCC AR6 WG2 Chapter 07&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ilakkya S&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Ilakkya-report.pdf&quot;&gt;Building a Semantic Corpus of Air Quality Index Literature&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Subhangi Panigrahi&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://github.com/semanticClimate/internship_sC/blob/main/project_report/Subhangi-project-report.pdf&quot;&gt;Building Semantic Corpus of Air Quality Research Literature in India&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5169,6 +5183,7 @@ For example: &lt;strong&gt;AMOC - Atlantic Meridional Overturning Circulation&lt
 &lt;p&gt;These tools help convert unstructured documents into meaningful, machine-readable knowledge.&lt;/p&gt;
 &lt;p&gt;The tools are the following:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/semantic_corpus&quot;&gt;semantic_corpus&lt;/a&gt; : create and manage personal scientific corpora&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/txt2phrases&quot;&gt;txt2phrases&lt;/a&gt; : Extract key terms and phrases&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/semanticClimate/encyclopedia&quot;&gt;encyclopedia&lt;/a&gt; : Build structured knowledge resources&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/petermr/amilib&quot;&gt;amilib&lt;/a&gt; : Process and annotate scientific documents&lt;/li&gt;
@@ -6489,6 +6504,48 @@ cd myproject
 &lt;h1&gt;🎥 Video Tutorials and Presentations&lt;/h1&gt;
 &lt;h4&gt;&lt;a href=&quot;/p/en/posts/demotutorial/&quot;&gt;Click here to view the entire video playlist&lt;/a&gt;&lt;/h4&gt;
 &lt;div class=&quot;video-gallery&quot;&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=gEc02k7Qk1g&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/gEc02k7Qk1g/hqdefault.jpg&quot; alt=&quot;CABot website&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Climate Chatbot (CABot) Introduction: Turning climate anxiety to climate action with #semanticClimate&#39;s Climate Academy chatbot.&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=6Jt8_fTCnEA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/6Jt8_fTCnEA/hqdefault.jpg&quot; alt=&quot;Hands-on session3&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Dr. Felipe Simoes, PLAZI: Manual vs automated workflows for conversion, annotation, and retrieval.&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=ky1Ow06_acM&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/ky1Ow06_acM/hqdefault.jpg&quot; alt=&quot;Hands-on session2&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Ms. Priti, BRIC-NIPGR: Hands-on demonstration of the semantic toolkit using a Colab notebook.&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=2zr_5iJzG7Y&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/2zr_5iJzG7Y/hqdefault.jpg&quot; alt=&quot;Hands-on session2&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Dr. Renu Kumari, Semantic Climate: The #semanticCimate Toolkit for Knowledge Extraction from Literature.&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=LjPgTlplvJw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/LjPgTlplvJw/hqdefault.jpg&quot; alt=&quot;Hands-on session&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Prof. Manzoor Shah, University of Kashmir, Srinagar : Long Term Bioidiversity Informatics Research&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;a href=&quot;https://www.youtube.com/watch?v=fPkISz5SCOw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
+    &lt;div class=&quot;video-card__thumb&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/fPkISz5SCOw/hqdefault.jpg&quot; alt=&quot;Keynote address&quot; /&gt;
+      &lt;span class=&quot;video-card__play&quot;&gt;▶&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;p class=&quot;video-card__title&quot;&gt;Keynote Address by Dr. Shruti Rai Bhardwaj, Director, Ministry of Environment Forest &amp; Climate Change, Govt. of India.&lt;/p&gt;
+  &lt;/a&gt;
   &lt;a href=&quot;https://www.youtube.com/watch?v=ljyyc8xzIak&amp;t=97s&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; class=&quot;video-card&quot;&gt;
     &lt;div class=&quot;video-card__thumb&quot;&gt;
       &lt;img src=&quot;https://img.youtube.com/vi/ljyyc8xzIak/hqdefault.jpg&quot; alt=&quot;Introduction of #semanticClimate&quot; /&gt;
