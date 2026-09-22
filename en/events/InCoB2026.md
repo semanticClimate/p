@@ -137,6 +137,52 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
   </tr>
 </table>
 
+### Event Pictures
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic1.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic2.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic3.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic4.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic5.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic7.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic8.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic9.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
 ### Organizations Providing Travel Support
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:24px;text-align:center;align-items:start;">
@@ -175,6 +221,15 @@ Plants constantly synthesize diverse metabolites, each with a distinct role in d
            style="max-width:100%;max-height:100%;object-fit:contain;">
     </div>
     <p>semanticClimate</p>
+  </div>
+
+  <div>
+    <div style="height:120px;display:flex;align-items:center;justify-content:center;padding:12px;border:1px solid #e5e5e5;border-radius:10px;background:#fff;">
+      <img src='{{ "/static/img/events2026/NIPGR-logo.png" | url }}'
+           alt="BRIC-NIPGR"
+           style="max-width:100%;max-height:100%;object-fit:contain;">
+    </div>
+    <p>BRIC- National Institute of Plant Genome Research (BRIC-NIPGR), India</p>
   </div>
 
 </div>
