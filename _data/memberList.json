@@ -78,6 +78,32 @@
         "link": ""
     },
     {
+        "name": "Neel Kumar",
+        "status": "intern",
+        "twitter": "@neelKr_",
+        "github": "neelkumar01",
+        "affiliation": "Delhi Technological University",
+        "interests": "Multimodal LLMs, deep learning, AI safety, modern AI systems and loves reading research papers while contributing to open source",
+        "start": 1785749417000.0,
+        "end": 1788456617000.0,
+        "image": "Neel-Kumar.jpeg",
+        "email": "neelkumar15nk@gmail.com",
+        "link": ""
+    },
+    {
+        "name": "Anusha",
+        "status": "intern",
+        "twitter": "@anushagarg_6",
+        "github": "pxrple6",
+        "affiliation": "Delhi Public School RK Puram",
+        "interests": "Human Computer Interaction, Machine Learning and Artificial Intelligence",
+        "start": 1787823017000.0,
+        "end": 1798623017000.0,
+        "image": "Anusha.png",
+        "email": "anushagarg2010@gmail.com",
+        "link": ""
+    },
+    {
         "name": "Vrinda Sharma",
         "status": "intern",
         "twitter": "@vrinda62628069",
