@@ -151,6 +151,7 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
 - May 18, 2026 | [Building Responsible and Trustworthy Climate Chatbot](https://semanticclimate.github.io/p/en/events/climate_chatbot/)
 - July 27-31, 2026 | [FSCI 2026 | E01_AI-Assisted Literature Review](https://semanticclimate.github.io/p/en/events/FSCI2026/)
 - August 31-September 04, 2026 | [European Conference on Computational Biology, ECCB 2026](https://semanticclimate.github.io/p/en/events/ECCB-bio/)
+- September 14-17, 2026 | [International Conference on Bioinformatics 2026](https://semanticclimate.github.io/p/en/events/InCoB2026/)
 
 
 ## January 16, 2026
