@@ -1,5 +1,12 @@
 [
   {
+    "title": "Climate Academy Chatbot Multilingual Course",
+    "image": "/static/img/events2026/cabot1.jpg",
+    "description": "How to build a climate chatbot based on trusted knowledge sources.",
+    "url": "https://semanticclimate.github.io/p/en/posts/cabot-course/",
+    "repo": "https://github.com/semanticClimate/semantic_RAG"
+  },
+  {
     "title": "Climate Academy Chatbot (CABot)",
     "image": "/static/img/events2026/cabot_p3.jpg",
     "description": "Climate chatbot based on trusted knowledge sources.",

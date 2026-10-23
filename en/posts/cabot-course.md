@@ -23,7 +23,7 @@ The course aims to help researchers, educators, students, developers and open kn
       <img src='{{ "/static/img/events2026/cabot1.jpg" | url }}' width="500" height="300">
     </td>
     <td>
-      <img src='{{ "/static/img/events2026/cabot2.jpg" | url }}' width="500" height="300">
+      <img src='{{ "/static/img/events2026/cabot2.png" | url }}' width="500" height="300">
     </td>
   </tr>   
 </table>
