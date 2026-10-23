@@ -68,7 +68,7 @@ The course is suitable for:
 
 ## Access the Course and Resources
 
-- **[Course](https://schoolofdata.org/courses/how-to-build-a-responsible-ai-chatbot-using-open-technologies/)**
+- **[link to the Course](https://schoolofdata.org/courses/how-to-build-a-responsible-ai-chatbot-using-open-technologies/)**
 
 - [Read the announcement](https://blog.okfn.org/2026/10/21/new-course-how-to-build-a-responsible-ai-chatbot-using-open-technologies/)
 

@@ -231,10 +231,22 @@ The discussions will examine how climate AI systems can better support education
 
 ### [Code repository](https://github.com/semanticClimate/semantic_RAG) 
 
+### [Read more about Climate Academy Chatbot Course](../../posts/cabot-course/)
+
 ## Related Content
 
 <div class="related-content">
 
+  <a href="https://semanticclimate.github.io/p/en/posts/cabot-course/" class="content-card">
+    <img src='{{ "/static/img/events2026/cabot1.jpg" | url }}'
+         alt="CABot">
+    <div class="content-card-body">
+      <h3>Climate Academy Chatbot Course</h3>
+      <p>Read course material to learn the development of responsible Climate Chatbot based on trusted climate source.</p>
+      <span>Read the blog →</span>
+    </div>
+  </a>
+  
   <a href="https://semanticclimate.github.io/p/en/posts/chatbot_blog/" class="content-card">
     <img src='{{ "/static/img/events2026/cabot_p4.png" | url }}'
          alt="CABot">
