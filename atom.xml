@@ -5,12 +5,96 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-09-22T08:53:35Z</updated>
+	<updated>2026-10-23T04:58:55Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Climate Academy Chatbot Course Material</title>
+		<link href="/p/en/posts/cabot-course/"/>
+		<updated>2026-10-22T00:00:00Z</updated>
+		<id>/p/en/posts/cabot-course/</id>
+		<content type="html">&lt;h2&gt;About the Course&lt;/h2&gt;
+&lt;p&gt;#semanticClimate has developed a practical, open educational course titled &lt;em&gt;How to Build a Responsible AI Chatbot Using Open Technologies&lt;/em&gt;, based on our experience developing CABot, the Climate Academy Chatbot. CABot uses The Climate Academy as its knowledge base to make climate knowledge more accessible through AI-powered, source-grounded responses.&lt;/p&gt;
+&lt;p&gt;Developed by semanticClimate team, the course was created as part of the Open Knowledge Foundation’s &lt;a href=&quot;https://okfn.org/en/projects/ai-learning-labs/&quot;&gt;AI Learning Labs&lt;/a&gt; initiative. It is available free of charge through the &lt;a href=&quot;https://schoolofdata.org/&quot;&gt;School of Data&lt;/a&gt; learning platform.&lt;/p&gt;
+&lt;p&gt;The course aims to help researchers, educators, students, developers and open knowledge practitioners understand how responsible AI chatbots work and learn to build similar systems for their own areas of interest.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/cabot1.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;img src=&quot;/p/static/img/events2026/cabot2.jpg&quot; width=&quot;500&quot; height=&quot;300&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;   
+&lt;/table&gt;
+&lt;h2&gt;What Will You Learn?&lt;/h2&gt;
+&lt;p&gt;The course comprises &lt;strong&gt;five learning modules and 35 lessons&lt;/strong&gt;, combining conceptual explanations with practical guidance.&lt;/p&gt;
+&lt;p&gt;Participants will learn to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Understand Large Language Models (LLMs), their limitations and why AI systems can generate inaccurate information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explore Retrieval-Augmented Generation (RAG), embeddings, semantic search and vector databases.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understand the architecture and components required to build a functional AI chatbot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use open and lightweight technologies to develop chatbot workflows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design chatbots that prioritise trusted sources, transparency, privacy and responsible AI practices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explore multilingual chatbot development, accessibility and environmental sustainability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Expanding Access Through Indian Languages&lt;/h2&gt;
+&lt;p&gt;At #semanticClimate, we believe that open knowledge and AI literacy should be accessible to diverse communities, regardless of their preferred language.&lt;/p&gt;
+&lt;p&gt;To extend the reach of this learning resource in India, we are translating the tutorial into &lt;strong&gt;Hindi, Bengali, Tamil and Telugu&lt;/strong&gt;. These translations aim to help more students, educators, researchers and community practitioners engage with the concepts and practical approaches involved in building responsible AI chatbots.&lt;/p&gt;
+&lt;p&gt;This initiative is part of our broader commitment to open-source technologies, multilingual knowledge sharing and inclusive access to AI education.&lt;/p&gt;
+&lt;h2&gt;Who Should Take This Course?&lt;/h2&gt;
+&lt;p&gt;The course is suitable for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Researchers, educators and students interested in AI applications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Climate, environmental and sustainability practitioners.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developers and civic-tech practitioners exploring responsible AI.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Open knowledge communities, NGOs, libraries and capacity-building organisations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Access the Course and Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://schoolofdata.org/courses/how-to-build-a-responsible-ai-chatbot-using-open-technologies/&quot;&gt;Course&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.okfn.org/2026/10/21/new-course-how-to-build-a-responsible-ai-chatbot-using-open-technologies/&quot;&gt;Read the announcement&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/semanticClimate/semantic_RAG&quot;&gt;Explore the CABot source code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://cabot-semanticclimate.org/&quot;&gt;Explore Climate Academy Chatbot -CABot&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/events/climate_chatbot/&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The course is freely accessible, allowing learners to study the material at their own pace.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Event Participation</title>
