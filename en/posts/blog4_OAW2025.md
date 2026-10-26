@@ -2,6 +2,7 @@
 title:  Who Owns Our Knowledge?
 date: 2025-10-20
 description: Personal blogpost from Peter Murray-Rust
+image: /static/img/events_all/oaw25_p1.png
 author: Peter Murray-Rust 
 tags:
   - semanticclimate

@@ -2,6 +2,7 @@
 title:  What Semantic Climate Brings to Open Access in 2025
 date: 2025-10-18
 description: Personal blogpost from Peter Murray-Rust
+image: /static/img/events_all/pic9_OAW2025.png
 author: Peter Murray-Rust 
 tags:
   - semanticclimate

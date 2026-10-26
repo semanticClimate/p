@@ -2,6 +2,7 @@
 title:  Large Language Models and Who Owns Our Knowledge
 date: 2025-10-21
 description: blogpost from Peter Murray-Rust
+image: /static/img/events2026/oaw_p6.png
 author: Peter Murray-Rust 
 tags:
   - semanticclimate

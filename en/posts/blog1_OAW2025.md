@@ -2,6 +2,7 @@
 title: Open Access Week 2025 and semanticClimate
 date: 2025-10-16
 description: Thoughts introducing our approach to the Invitation from NYIT to partner with them
+image: /static/img/events_all/semantic_graph1.png
 author: Peter Murray-Rust 
 tags:
   - semanticclimate
