@@ -1601,6 +1601,8 @@
   
 </section>
 
+<nav class="post-pager" id="post-pager" aria-label="Blog pages"></nav>
+
 <style>
 .post-grid {
   display: grid;
@@ -1695,7 +1697,96 @@
 @media (max-width: 560px) {
   .post-grid { grid-template-columns: 1fr; }
 }
+
+.post-pager {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0 0 2rem;
+}
+
+.post-pager button {
+  min-width: 2.25rem;
+  padding: 0.4rem 0.7rem;
+  font: inherit;
+  font-size: 0.9rem;
+  color: #00adef;
+  background: #fff;
+  border: 1px solid #b3e6fa;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.post-pager button:hover:not(:disabled) {
+  border-color: #00adef;
+  background: #e8f6fd;
+}
+
+.post-pager button[aria-current="page"] {
+  background: #00adef;
+  border-color: #00adef;
+  color: #fff;
+  font-weight: 700;
+}
+
+.post-pager button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
 </style>
+
+<script>
+(function () {
+  var PER_PAGE = 12;
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.post-grid .post-card'));
+  var pager = document.getElementById('post-pager');
+  var grid = document.querySelector('.post-grid');
+  if (!pager || !grid || cards.length <= PER_PAGE) return;
+
+  var totalPages = Math.ceil(cards.length / PER_PAGE);
+  var current = 1;
+
+  function getStartPage() {
+    var n = parseInt(new URLSearchParams(location.search).get('page'), 10);
+    return n >= 1 && n <= totalPages ? n : 1;
+  }
+
+  function btn(label, page, opts) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = label;
+    opts = opts || {};
+    if (opts.disabled) b.disabled = true;
+    if (opts.current) b.setAttribute('aria-current', 'page');
+    b.addEventListener('click', function () { show(page, true); });
+    return b;
+  }
+
+  function show(page, scroll) {
+    current = page;
+    cards.forEach(function (card, i) {
+      card.hidden = Math.floor(i / PER_PAGE) + 1 !== page;
+    });
+
+    pager.innerHTML = '';
+    pager.appendChild(btn('Previous', page - 1, { disabled: page === 1 }));
+    for (var p = 1; p <= totalPages; p++) {
+      pager.appendChild(btn(String(p), p, { current: p === page }));
+    }
+    pager.appendChild(btn('Next', page + 1, { disabled: page === totalPages }));
+
+    var url = new URL(location.href);
+    if (page === 1) url.searchParams.delete('page');
+    else url.searchParams.set('page', page);
+    history.replaceState(null, '', url);
+
+    if (scroll) grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  show(getStartPage(), false);
+})();
+</script>
 
 
 
