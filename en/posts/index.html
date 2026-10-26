@@ -1666,6 +1666,27 @@
 .post-card {
   display: flex;
   flex-direction: column;
+  background: #fff;
+  border: 1px solid #b3e6fa;
+  border-radius: 8px;
+  overflow: hidden;                 /* keeps the image inside the rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 173, 239, 0.16);
+  transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
+}
+
+.post-card:hover {
+  border-color: #00adef;
+  box-shadow: 0 8px 20px rgba(0, 173, 239, 0.24);
+  transform: translateY(-3px);
+}
+
+/* text sits inside the card with padding, image stays full width */
+.post-card__title,
+.post-card__summary,
+.post-card__meta,
+.post-card__tags {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .post-card[hidden] {
@@ -1693,7 +1714,7 @@
 }
 
 .post-card__title {
-  margin: 0.75rem 0 0.4rem;
+  margin: 0.85rem 0 0.4rem;
   font-size: 1.15rem;
   line-height: 1.3;
   font-weight: 700;
@@ -1732,6 +1753,7 @@
   flex-wrap: wrap;
   gap: 0.4rem;
   margin-top: auto;
+  padding: 0 1rem 1rem;
 }
 
 .post-card__tag {
