@@ -1616,6 +1616,10 @@
   flex-direction: column;
 }
 
+.post-card[hidden] {
+  display: none;
+}
+
 .post-card__media {
   display: block;
   aspect-ratio: 3 / 2;
@@ -1738,7 +1742,7 @@
 
 <script>
 (function () {
-  var PER_PAGE = 12;
+  var PER_PAGE = 15;
   var cards = Array.prototype.slice.call(document.querySelectorAll('.post-grid .post-card'));
   var pager = document.getElementById('post-pager');
   var grid = document.querySelector('.post-grid');
