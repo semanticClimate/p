@@ -2,6 +2,7 @@
 title: Event Report | FAIR and Reproducible Structural Biology
 date: 2026-02-05
 description: Overview of the day 1 of the workshop
+image: /static/img/events2026/Jan28_w1.png
 author: RK
 tags:
   - semanticclimate

@@ -2,6 +2,7 @@
 title: Insights from the 13th Workshop on Bioinformatics and Drug Design 2026
 date: 2026-01-20
 description: Workshop Overview | BIF-DD-2026
+image: /static/img/events_all/BIFDD_info.png
 author: RK
 tags:
   - semanticclimate

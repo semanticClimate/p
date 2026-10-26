@@ -2,6 +2,7 @@
 title: When CARE Meets Reality
 date: 2025-10-30
 description: Reflections on Indigenous Data Governance at IDW 2025
+image: /static/img/events_all/codata_p1.png
 author: Gitanjali Yadav 
 tags:
   - semanticclimate

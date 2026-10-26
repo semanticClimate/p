@@ -2,6 +2,7 @@
 title: A Climate Chatbot for Trusted and Transparent Climate Information
 date: 2026-07-01
 description: Making Climate Knowledge Accessible with Open-Source AI
+image: /static/img/events2026/interface_p1.png
 author: Aleena Harold Peter and Renu Kumari
 tags:
   - semanticclimate
