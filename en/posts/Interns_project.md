@@ -13,14 +13,15 @@ tags:
 
 This contains the highlights of the work completed by the interns during their 2-6 months internship with #semanticClimate. All their work have been available on the github. They have worked on different IPCC ar6 chapters.
 
-### Active Interns (2026)
+### Active Interns/Volunteers (2026)
 
-- **Vrinda Sharma** (July - September 2026)
+- **Larisa Beni** (September, 2026)
 - **Neel Kumar** (August, 2026)
-- **Anusha Garg** (September, 2026)
+- **Anusha** (September, 2026)
 
 ### Interns (2026)
 
+- Vrinda Sharma (July - September 2026)
 - Ali Mehdi Naqvi (April - June 2026)
 - Aleena Harold Peter (April - July 2026)
 - Bui Doan Khanh Linh (June 2026)
