@@ -2,6 +2,7 @@
 title:  Budapest 24 years on
 date: 2025-10-17
 description: Personal blogpost from Peter Murray-Rust
+image: /static/img/events2026/boai-logo.png
 author: Peter Murray-Rust 
 tags:
   - semanticclimate
