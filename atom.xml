@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-10-27T10:54:35Z</updated>
+	<updated>2026-10-27T11:33:09Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -8272,49 +8272,6 @@ And that&#39;s where &lt;strong&gt;YOU&lt;/strong&gt; come into the picture!
 &lt;h4&gt;&lt;strong&gt;The internship requires a minimum duration of 12 weeks, with daily sessions lasting 1-2 hours on weekdays.&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&amp;body=I want to do internship and contribute to the climate knowledge!&quot;&gt;Introduce yourself&lt;/a&gt; to us, and we&#39;ll introduce you to the world of difference you can make — given the right opportunity!&lt;/p&gt;
 &lt;h2&gt;&lt;a href=&quot;mailto:semanticclimate+intern@gmail.com?subject=I want to be a #semanticClimate Intern!&amp;body=I want to do internship and contribute to the climate knowledge!&quot;&gt;&lt;strong&gt;Just click here to begin as an Intern.&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Getting started with semanticClimate</title>
-		<link href="/p/en/posts/oaweek_getting_started/"/>
-		<updated>2022-10-24T00:00:00Z</updated>
-		<id>/p/en/posts/oaweek_getting_started/</id>
-		<content type="html">&lt;h1&gt;Getting started&lt;/h1&gt;
-&lt;p&gt;If you&#39;ve just landed on #semanticClimate and are keen to get started here are
-some approaches&lt;/p&gt;
-&lt;h2&gt;semanticClimate resources&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;Click Here&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Asynchronous&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/past-events/formats-for-future-oa-week-2022/&quot;&gt;entry link&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&quot;&gt;link to Notebooks&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Workflow for semanticClimate</title>
-		<link href="/p/en/posts/oaweek_workflow/"/>
-		<updated>2022-10-23T00:00:00Z</updated>
-		<id>/p/en/posts/oaweek_workflow/</id>
-		<content type="html">&lt;h2&gt;Steps in processing a Chapter&lt;/h2&gt;
-&lt;p&gt;We assume&lt;/p&gt;
-&lt;h3&gt;PDF2HTML&lt;/h3&gt;
-&lt;p&gt;The raw chapter is in PDF which requires messy heuristic processing into HTML. We have done this for a small
-number of chapters and will be automating it as soon as we can. Here&#39;s a typical chunk.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/p/static/img/chap02.png&quot; /&gt; &lt;!-- check this --&gt;&lt;/p&gt;
-&lt;p&gt;There are no words, lines, paragraphs in PDF. The tools usually guess right but here there&#39;s a problem of the
-top and left margins. We have to set clipping boxes. Sometimes these haven&#39;t worked. But generally we can get HTML
-(although things like font styles, subscripts, etc. are often trashed.&lt;/p&gt;
 </content>
 	</entry>
 	
