@@ -1,7 +1,8 @@
 ---
 title: Event Report | Open Science and SDGs (ISOSC 2023), Beijing, China
 date: 2023-09-04
-description: All about our training session on September 1, 2023 
+description: All about our training session on September 1, 2023
+image: /static/img/events2026/isosc2023_pic.jpg 
 author: The team
 tags:
   - semanticclimate

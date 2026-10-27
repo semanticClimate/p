@@ -1,7 +1,8 @@
 ---
 title: Wikidata:Events / Data Modelling Days 2023
 date: 2023-12-07
-description: Work presented by Dr. Gitanjali Yadav  
+description: Work presented by Dr. Gitanjali Yadav
+image: /static/img/wikidata_DMD23.png  
 author: the team
 tags:
   - semanticclimate

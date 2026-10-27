@@ -2,6 +2,7 @@
 title: OPEN DAY 2023 at NIPGR, India 
 date: 2023-12-26
 description: One day event for students to catch a glimpse of innovation and discovery at research institute.   
+image: /static/img/openday23_4.jpg
 author: Renu Kumari
 tags:
   - semanticclimate

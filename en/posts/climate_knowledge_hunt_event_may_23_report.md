@@ -2,6 +2,7 @@
 title: Event Report | Climate Knowledge Hunt Hackathon May 2023
 date: 2023-05-27
 description: All About Our Hack Day in May 2023!
+image: /static/img/climate_knowledge_hunt_may_23_v2.png
 author: the team
 summary: Summary of Our Hack Day in May 2023!
 tags:

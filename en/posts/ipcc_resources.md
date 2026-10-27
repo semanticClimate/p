@@ -1,7 +1,8 @@
 ---
 title: Navigation to IPCC reports
 date: 2023-10-19
-description: Overview of the resources_IPCC reports and glossary 
+description: Overview of the resources_IPCC reports and glossary
+image: /static/img/events2026/ar6-report_P1.png 
 author: Renu Kumari
 tags:
   - semanticclimate

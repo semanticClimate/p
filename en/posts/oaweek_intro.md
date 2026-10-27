@@ -59,7 +59,7 @@ Typical journeys might be:
 
 # Suggested reading of blog posts
 
-## [Communication](oaweek_communication.md)
+## [Communication](https://semanticclimate.github.io/p/en/posts/oaweek_communication/)
 
 This outines how we work during OAWeek
 
@@ -67,11 +67,11 @@ This outines how we work during OAWeek
 
 This file
 
-## [Semantic](./oaweek_semantic.md)
+## [Semantic](https://semanticclimate.github.io/p/en/posts/oaweek_semantic/)
 
 Explains "semantic" and why we are doing this. Read early.
 
-## [Search](./oaweek_search.md)
+## [Search](https://semanticclimate.github.io/p/en/posts/oaweek_search/)
 
 Explains what the most important tools do. Also watch the videos
 

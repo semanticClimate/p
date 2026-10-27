@@ -2,6 +2,7 @@
 title: FORCE11 Hackathon Kickoff -- Climate Knowledge Hunt Hackathon FSCI Edition 2023
 date: 2023-07-30
 description: Enhancing the Global Impact of Open Scholarship!
+image: /static/img/fsci.jpeg
 author: Simon Worthington
 summary: What to expect and how to be a part of it
 tags:

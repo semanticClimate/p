@@ -1,7 +1,8 @@
 ---
 title: Introduction to SemanticClimate tools in Berlin Barcamp
 date: 2023-09-20
-description: Colab Notebook for pygetpapers and docanalysis on Climate Justice 
+description: Colab Notebook for pygetpapers and docanalysis on Climate Justice
+image: /static/img/events2026/barcamp_pic.jpg
 author: The team
 tags:
   - semanticclimate
