@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-10-27T07:20:06Z</updated>
+	<updated>2026-10-27T09:46:26Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -8283,21 +8283,21 @@ And that&#39;s where &lt;strong&gt;YOU&lt;/strong&gt; come into the picture!
 		<content type="html">&lt;h1&gt;Getting started&lt;/h1&gt;
 &lt;p&gt;If you&#39;ve just landed on #semanticClimate and are keen to get started here are
 some approaches&lt;/p&gt;
+&lt;h2&gt;semanticClimate resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/resources/&quot;&gt;Click Here&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Asynchronous&lt;/h2&gt;
-&lt;h3&gt;entry link&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/events/formats-for-future-oa-week-2022/&quot;&gt;https://semanticclimate.github.io/p/en/events/formats-for-future-oa-week-2022/&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;link to Notebooks&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&quot;&gt;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;list of URLs coming soon&lt;/p&gt;
-&lt;h3&gt;link to videos&lt;/h3&gt;
-&lt;p&gt;coming soon.&lt;/p&gt;
-&lt;h3&gt;Etherpad&lt;/h3&gt;
-&lt;p&gt;We have created an Etherpad and if you have registered you will have received its URL. You can leave
-questions or suggestions and people will answer as soon as they visit the pad.&lt;/p&gt;
-&lt;h2&gt;Synchronous meetings&lt;/h2&gt;
-&lt;p&gt;If you&#39;ve registered: Every day 2022-10-24:28 meet 1230 UTC at
-&lt;a href=&quot;https://zoom.us/j/96741193544?pwd=T1Ivb1Y5YmdvM3cwc2x1VjVUQ2ZVdz09&quot;&gt;https://zoom.us/j/96741193544?pwd=T1Ivb1Y5YmdvM3cwc2x1VjVUQ2ZVdz09&lt;/a&gt;
-wait to be let in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/past-events/formats-for-future-oa-week-2022/&quot;&gt;entry link&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/climate-knowledge-hunt/&quot;&gt;link to Notebooks&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 	</entry>
 	
@@ -8505,13 +8505,13 @@ To answer this we rely heavily on Wikimedia: Wikipedia and Wikidata. You can thi
 &lt;li&gt;analyse results with &lt;code&gt;docanalysis&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;Suggested reading of blog posts&lt;/h1&gt;
-&lt;h2&gt;&lt;a href=&quot;oaweek_communication.md&quot;&gt;Communication&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/oaweek_communication/&quot;&gt;Communication&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;This outines how we work during OAWeek&lt;/p&gt;
 &lt;h2&gt;oaweek_intro.md&lt;/h2&gt;
 &lt;p&gt;This file&lt;/p&gt;
-&lt;h2&gt;&lt;a href=&quot;./oaweek_semantic.md&quot;&gt;Semantic&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/oaweek_semantic/&quot;&gt;Semantic&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Explains &amp;quot;semantic&amp;quot; and why we are doing this. Read early.&lt;/p&gt;
-&lt;h2&gt;&lt;a href=&quot;./oaweek_search.md&quot;&gt;Search&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&quot;https://semanticclimate.github.io/p/en/posts/oaweek_search/&quot;&gt;Search&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Explains what the most important tools do. Also watch the videos&lt;/p&gt;
 </content>
 	</entry>
