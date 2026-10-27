@@ -1,7 +1,8 @@
 ---
 title: Introduction to SemanticClimate in Berlin Barcamp
 date: 2023-09-15
-description: Berlin Barcamp on September 21, 2023 
+description: Berlin Barcamp on September 21, 2023
+image: /static/img/events2026/barcamp_pic2.png 
 author: Peter Murray-Rust
 tags:
   - semanticclimate

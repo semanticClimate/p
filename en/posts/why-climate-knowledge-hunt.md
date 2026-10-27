@@ -2,6 +2,7 @@
 title: Why are we running this hackathon?
 date: 2023-04-18
 summary: Steps in processing a climate chapter
+image: /static/img/events2026/climate-pic2.jpg
 author: Peter Murray-Rust
 tags:
   - climate-knowledge-hunt
