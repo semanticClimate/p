@@ -2,6 +2,7 @@
 title: Event Report | Climate Knowledge Hunt Hackathon 2024, MRIIRS
 date: 2024-03-11
 description: Overview of the two-days hackathon
+image: /static/img/events2026/climate-hunt.png
 author: Team
 tags:
   - semanticclimate

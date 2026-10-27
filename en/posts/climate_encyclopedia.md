@@ -1,7 +1,8 @@
 ---
 title: semantic Encyclopedia
 date: 2025-09-25
-description: Structured Collection of informations 
+description: Structured Collection of informations
+image: /static/img/events_all/words_p1.png 
 author: Team
 tags:
   - semanticclimate

@@ -2,6 +2,7 @@
 title: Responsible Use of Artificial Intelligence to Maintain Research Integrity
 date: 2025-10-15
 description: Keypoints from the Indo-Swiss Workshop on Research Integrity in the Age of AI
+image: /static/img/events2026/Indo-Swiss_Workshop.png
 author: Renu Kumari 
 tags:
   - semanticclimate

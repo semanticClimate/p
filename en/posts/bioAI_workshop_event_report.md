@@ -2,6 +2,7 @@
 title: Event Report | Hands-on workshop on BioAI for Research, NIPGR
 date: 2025-02-04
 description: Overview of the three-days workshop
+image: /static/img/workshop_NIPGR2.jpeg
 author: Team
 tags:
   - semanticclimate

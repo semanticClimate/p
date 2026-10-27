@@ -2,6 +2,7 @@
 title: semanticClimate | Making knowledge open, machine-readable and actionable
 date: 2025-09-24
 description: Describing the process and workflow layout at semanticClimate
+image: /static/img/events_all/semantic_graph.png
 author: RK and Team
 tags:
   - semanticclimate

@@ -1,7 +1,8 @@
 ---
 title: Regular Expressions (Regex)
 date: 2024-12-17
-description: Tutorial for using Regular Expressions (Regex) in Notepad++ 
+description: Tutorial for using Regular Expressions (Regex) in Notepad++
+image: /static/img/events2026/regex_p1.png 
 author: RK
 tags:
   - semanticclimate

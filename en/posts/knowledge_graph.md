@@ -2,6 +2,7 @@
 title: What is Knowledge Graph?
 date: 2024-12-13
 description: Building Knowledge Through Graph Connections
+image: /static/img/kgraph_1.png
 author: Taken from meeting transcript (PMR, SW, RK, PB)
 tags:
   - semanticclimate
