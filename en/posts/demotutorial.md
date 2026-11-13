@@ -13,6 +13,63 @@ These are the video presentations for software tutorial and the work presented i
 
 ### [CLICK HERE to see all #semanticclimate video playlist](https://www.youtube.com/@semanticclimate/videos)
 
+- ### 5th Symposium of the UK Interest Group on Knowledge Graphs | 13 November, 2026
+
+<div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=KUl6HYNrsaM" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/KUl6HYNrsaM/hqdefault.jpg"
+           alt="Inaugural address"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Bipartite ClimateKG by Larisa Beni:</strong> El Nino, Floods in Argentina.
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=pqHSHfx15uQ" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/pqHSHfx15uQ/hqdefault.jpg"
+           alt="Inaugural address"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>ClimateInsight by Aleena Harold Peter and Anusha:</strong> Chatbot interacting with Knowledge Graphs.
+    </p>
+  </div>
+
+  <!-- Session info -->
+  <div style="flex: 1; min-width: 240px; max-width: 300px;">
+    <a href="https://www.youtube.com/watch?v=bcFoXR42QkY" target="_blank" style="position: relative; display: block;">
+      <img src="https://img.youtube.com/vi/bcFoXR42QkY/hqdefault.jpg"
+           alt="Inaugural address"
+           style="width: 100%; height: auto; border-radius: 6px;">
+      <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;">▶</span>
+    </a>
+    <p style="margin-top:8px; font-size:0.95rem;">
+      <strong>Neel Kumar:</strong> Bipartite KG of terms+figures in IPCC reports.
+    </p>
+  </div>
+
+</div>
+
 - ### CODATA India Hands-on Workshop on **Liberation, Extraction & FAIR Reuse of Data** | 24-27 March, 2026
 
 <div style="display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;">
