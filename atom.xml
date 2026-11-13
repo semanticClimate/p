@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-11-13T06:33:51Z</updated>
+	<updated>2026-11-13T11:36:08Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3807,6 +3807,55 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 		<id>/p/en/posts/demotutorial/</id>
 		<content type="html">&lt;p&gt;These are the video presentations for software tutorial and the work presented in many climate datathons /hackathons by #semanticClimate team.&lt;/p&gt;
 &lt;h3&gt;&lt;a href=&quot;https://www.youtube.com/@semanticclimate/videos&quot;&gt;CLICK HERE to see all #semanticclimate video playlist&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;5th Symposium of the UK Interest Group on Knowledge Graphs | 13 November, 2026&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&quot;display: flex; gap: 24px; margin-bottom: 24px; flex-wrap: wrap;&quot;&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=KUl6HYNrsaM&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/KUl6HYNrsaM/hqdefault.jpg&quot; alt=&quot;Inaugural address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Bipartite ClimateKG by Larisa Beni:&lt;/strong&gt; El Nino, Floods in Argentina.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=pqHSHfx15uQ&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/pqHSHfx15uQ/hqdefault.jpg&quot; alt=&quot;Inaugural address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;ClimateInsight by Aleena Harold Peter and Anusha:&lt;/strong&gt; Chatbot interacting with Knowledge Graphs.
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;!-- Session info --&gt;
+  &lt;div style=&quot;flex: 1; min-width: 240px; max-width: 300px;&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=bcFoXR42QkY&quot; target=&quot;_blank&quot; style=&quot;position: relative; display: block;&quot;&gt;
+      &lt;img src=&quot;https://img.youtube.com/vi/bcFoXR42QkY/hqdefault.jpg&quot; alt=&quot;Inaugural address&quot; style=&quot;width: 100%; height: auto; border-radius: 6px;&quot; /&gt;
+      &lt;span style=&quot;position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+                   background:rgba(0,0,0,0.6); border-radius:50%;
+                   width:48px; height:48px; display:flex;
+                   align-items:center; justify-content:center;
+                   color:#fff; font-size:20px;&quot;&gt;▶&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;p style=&quot;margin-top:8px; font-size:0.95rem;&quot;&gt;
+      &lt;strong&gt;Neel Kumar:&lt;/strong&gt; Bipartite KG of terms+figures in IPCC reports.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;CODATA India Hands-on Workshop on &lt;strong&gt;Liberation, Extraction &amp;amp; FAIR Reuse of Data&lt;/strong&gt; | 24-27 March, 2026&lt;/h3&gt;
