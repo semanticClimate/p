@@ -12,6 +12,52 @@ tags:
 
 **This page showcases images from various events in which Semantic Climate has either participated or organized.**
 
+### InCoB-ISCB-APAC 2026 | 14–17 September 2026 | Penang, Malaysia | [Read about event](https://semanticclimate.github.io/p/en/events/InCoB2026/)
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic1.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic8.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic3.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic4.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic5.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic7.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic2.jpg" | url }}' width="500" height="300">
+    </td>
+    <td>
+      <img src='{{ "/static/img/events2026/InCoB2026_pic9.jpg" | url }}' width="500" height="300">
+    </td>
+  </tr>   
+</table>
+
 ### FSCI 2026 | E01_AI-Assisted Literature Review | July 27-31, 2026 | [See more](https://semanticclimate.github.io/p/en/events/FSCI2026/)
 
 <table>
