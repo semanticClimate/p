@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-11-16T11:17:33Z</updated>
+	<updated>2026-11-17T05:15:00Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3432,6 +3432,9 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Zenodo Publications&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hegde, S. N., Kumari, R., Beni, L., Kumar, N., Peter, A. H., Anusha, Murray-Rust, P., Worthington, S., &amp;amp; Yadav, G. (2026). Rapid Scoping Review of Climate Literature using Encyclopedia and KGs (Version v1) [Graphic]. Zenodo. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George&#39;s, University of London. &lt;a href=&quot;https://doi.org/10.5281/zenodo.24184481&quot;&gt;https://doi.org/10.5281/zenodo.24184481&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Chahal, P., Agarwal, U., Umra, M., Kumari, R., Barbhuiya, S., Naqvi, A. M., Simon, W., Yadav, G.&amp;amp; Murray-Rust, P. (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. &lt;a href=&quot;https://doi.org/10.5281/zenodo.21803196&quot;&gt;https://doi.org/10.5281/zenodo.21803196&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
