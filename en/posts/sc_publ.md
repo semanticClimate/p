@@ -26,6 +26,8 @@ This includes:
 
 ### Zenodo Publications
 
+- Hegde, S. N., Kumari, R., Beni, L., Kumar, N., Peter, A. H., Anusha, Murray-Rust, P., Worthington, S., & Yadav, G. (2026). Rapid Scoping Review of Climate Literature using Encyclopedia and KGs (Version v1) [Graphic]. Zenodo. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George's, University of London. [https://doi.org/10.5281/zenodo.24184481](https://doi.org/10.5281/zenodo.24184481)
+
 - Chahal, P., Agarwal, U., Umra, M., Kumari, R., Barbhuiya, S., Naqvi, A. M., Simon, W., Yadav, G.& Murray-Rust, P. (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21803196](https://doi.org/10.5281/zenodo.21803196)
 
 - Worthington, S., Kumari, R., Murray-Rust, P., Yadav, G., Barbhuiya, S., Hamadani, A., Jawed, M., Rahr, A. S. K. C., Avika, J., Mandakala, D., Suresh, A., Vallabhaneni, H., Mishra, S., Kushwaha, A., Balachandran, M., Mahawar, H., & Zainab, S. (2025, July 22). AI Assisted Literature Reviews Course. semanticClimate. [https://doi.org/10.5281/zenodo.16754743](https://doi.org/10.5281/zenodo.16754743)
