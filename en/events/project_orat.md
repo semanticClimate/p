@@ -238,6 +238,43 @@ To build a global ecosystem of open, interoperable, and trustworthy tools that e
   </tr>
 </table>
 
+### Pictures from more events
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/CODATAevent-p1.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/CODATAevent-p2.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/CODATAevent-p3.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src='{{ "/static/img/events2026/CODATAevent-p4.png" | url }}' width="500" height="100">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 

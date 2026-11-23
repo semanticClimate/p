@@ -19,14 +19,15 @@ This includes:
 - Presentations and Workshops
 - work on climate reports etc......
 
-### Journal Publications
-
-- [The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation](https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641)
-- [Climate Justice in Electronic Publishing: A New Approach Supporting Global South Participation](https://journals.publishing.umich.edu/jep/article/id/7206/)
-
-### Zenodo Publications
+### Publications
 
 - Hegde, S. N., Kumari, R., Beni, L., Kumar, N., Peter, A. H., Anusha, Murray-Rust, P., Worthington, S., & Yadav, G. (2026). Rapid Scoping Review of Climate Literature using Encyclopedia and KGs (Version v1) [Graphic]. Zenodo. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George's, University of London. [https://doi.org/10.5281/zenodo.24184481](https://doi.org/10.5281/zenodo.24184481)
+
+- Worthington, S., Oldenbourg, L., & Murray-Rust, P. (2026). Climate Knowledge Graph — A Knowledge Graph for the Intergovernmental Panel on Climate Change's (IPCC) Sixth Assessment Report (AR6) [Graphic]. ClimateKG. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George's, University of London. [https://doi.org/10.5281/zenodo.24146044](https://doi.org/10.5281/zenodo.24146044)
+
+- [The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation](https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641)
+
+- [Climate Justice in Electronic Publishing: A New Approach Supporting Global South Participation](https://journals.publishing.umich.edu/jep/article/id/7206/)
 
 - Chahal, P., Agarwal, U., Umra, M., Kumari, R., Barbhuiya, S., Naqvi, A. M., Simon, W., Yadav, G.& Murray-Rust, P. (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21803196](https://doi.org/10.5281/zenodo.21803196)
 
