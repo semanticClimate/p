@@ -5,7 +5,7 @@
 	
 	<link href="/p/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2026-11-18T06:59:23Z</updated>
+	<updated>2026-11-23T09:58:05Z</updated>
 	<id>https://semanticclimate.github.io/</id>
 	<author>
 		<name>#semanticClimate</name>
@@ -3425,15 +3425,19 @@ which are labeled. So the nodes are labeled and the edge is labled.&lt;/p&gt;
 &lt;li&gt;Presentations and Workshops&lt;/li&gt;
 &lt;li&gt;work on climate reports etc......&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Journal Publications&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641&quot;&gt;The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://journals.publishing.umich.edu/jep/article/id/7206/&quot;&gt;Climate Justice in Electronic Publishing: A New Approach Supporting Global South Participation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Zenodo Publications&lt;/h3&gt;
+&lt;h3&gt;Publications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Hegde, S. N., Kumari, R., Beni, L., Kumar, N., Peter, A. H., Anusha, Murray-Rust, P., Worthington, S., &amp;amp; Yadav, G. (2026). Rapid Scoping Review of Climate Literature using Encyclopedia and KGs (Version v1) [Graphic]. Zenodo. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George&#39;s, University of London. &lt;a href=&quot;https://doi.org/10.5281/zenodo.24184481&quot;&gt;https://doi.org/10.5281/zenodo.24184481&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Worthington, S., Oldenbourg, L., &amp;amp; Murray-Rust, P. (2026). Climate Knowledge Graph — A Knowledge Graph for the Intergovernmental Panel on Climate Change&#39;s (IPCC) Sixth Assessment Report (AR6) [Graphic]. ClimateKG. 5th Symposium of the UK Interest Group on Knowledge Graphs, City St George&#39;s, University of London. &lt;a href=&quot;https://doi.org/10.5281/zenodo.24146044&quot;&gt;https://doi.org/10.5281/zenodo.24146044&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://or.niscpr.res.in/index.php/ALIS/article/view/14285/3641&quot;&gt;The #Semantic Climate Community: Making Open-Source Software for Knowledge Liberation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://journals.publishing.umich.edu/jep/article/id/7206/&quot;&gt;Climate Justice in Electronic Publishing: A New Approach Supporting Global South Participation&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Chahal, P., Agarwal, U., Umra, M., Kumari, R., Barbhuiya, S., Naqvi, A. M., Simon, W., Yadav, G.&amp;amp; Murray-Rust, P. (2026). A Scientific-Literature Question-Answering Pipeline Using Retrieval-Augmented Generation (RAG) (Version 0.1) [Computer software]. Zenodo. &lt;a href=&quot;https://doi.org/10.5281/zenodo.21803196&quot;&gt;https://doi.org/10.5281/zenodo.21803196&lt;/a&gt;&lt;/p&gt;
